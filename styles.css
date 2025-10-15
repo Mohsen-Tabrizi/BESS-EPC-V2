@@ -44,6 +44,13 @@ h1{font-size:44px;line-height:1.1;margin:12px 0 6px}
 .grid-4.badges{grid-template-columns:repeat(4,1fr)}
 .badge{display:flex;align-items:center;justify-content:center;height:46px;border-radius:12px;background:#0c1626;border:1px solid rgba(255,255,255,.06)}
 
+/* Video containers */
+.video-frame{position:relative;border-radius:16px;overflow:hidden;border:1px solid rgba(255,255,255,.06);background:#0f172a}
+.video-frame video{width:100%;height:auto;display:block}
+
+/* Pills */
+.pill{display:inline-block;padding:4px 10px;border-radius:999px;background:#0c1626;border:1px solid rgba(255,255,255,.08);font-size:11px;color:#93c5fd;margin-right:8px;white-space:nowrap}
+
 /* Form */
 .form{background:var(--card);border:1px solid rgba(255,255,255,.06);border-radius:16px;padding:18px}
 label{display:block;font-size:12px;color:#cbd5e1;margin-bottom:6px}
@@ -58,4 +65,9 @@ footer{background:#0b1220;border-top:1px solid rgba(255,255,255,.06);padding:40p
 .footer-row .brand img{height:32px}
 
 /* Responsive */
-@media(max-width:1024px){.grid-4{grid-template-columns:repeat(2,1fr)}.grid-3{grid-template-columns:1fr}.cards{grid-template-columns:1fr}.grid-2{grid-template-columns:1fr}}
+@media(max-width:1024px){
+  .grid-4{grid-template-columns:repeat(2,1fr)}
+  .grid-3{grid-template-columns:1fr}
+  .cards{grid-template-columns:1fr}
+  .grid-2{grid-template-columns:1fr}
+}
