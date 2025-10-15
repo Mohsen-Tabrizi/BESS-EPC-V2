@@ -1,1 +1,14 @@
-(function(){const t=document.getElementById('lang-toggle');const n=document.querySelectorAll('[data-de],[data-en]');let l='de';function r(){n.forEach(e=>{e.innerHTML=e.getAttribute('data-'+l)})}if(t){t.addEventListener('click',function(){l=l==='de'?'en':'de';t.innerText=l==='de'?'EN':'DE';r()})}r()})();
+(function(){
+  const toggle = document.getElementById('lang-toggle');
+  const nodes = document.querySelectorAll('[data-de],[data-en]');
+  let lang = 'en'; // default EN
+  function render(){ nodes.forEach(n => n.innerHTML = n.getAttribute('data-'+lang)); }
+  if (toggle){
+    toggle.addEventListener('click', () => {
+      lang = (lang==='de' ? 'en' : 'de');
+      toggle.innerText = (lang==='de' ? 'EN' : 'DE');
+      render();
+    });
+  }
+  render();
+})();
