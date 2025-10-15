@@ -1,0 +1,1 @@
+(function(){const t=document.getElementById('lang-toggle');const n=document.querySelectorAll('[data-de],[data-en]');let l='de';function r(){n.forEach(e=>{e.innerHTML=e.getAttribute('data-'+l)})}if(t){t.addEventListener('click',function(){l=l==='de'?'en':'de';t.innerText=l==='de'?'EN':'DE';r()})}r()})();
