@@ -28,7 +28,17 @@
     <p class="lead" data-en="We plan, procure, build and integrate high-performance battery storage with verified interface and grid compliance across Germany and Europe."
                   data-de="Wir planen, beschaffen, bauen und integrieren leistungsfähige Batteriespeicher mit verifizierter Schnittstellen- und Netzkodex-Konformität in Deutschland und Europa."></p>
 
-    <div class="grid-4 stats">
+    <!-- HERO VIDEO SLOT -->
+    <div class="video-frame" style="margin-top:18px">
+      <video autoplay muted loop playsinline preload="metadata" poster="assets/video/hero-poster.jpg">
+        <source src="assets/video/hero-loop.mp4" type="video/mp4"/>
+      </video>
+    </div>
+    <div class="muted" style="margin-top:6px">
+      Expected files: <code>/assets/video/hero-loop.mp4</code> (poster optional: <code>/assets/video/hero-poster.jpg</code>)
+    </div>
+
+    <div class="grid-4 stats" style="margin-top:18px">
       <div class="card"><div class="stat">2.16 <small data-en="GW" data-de="GW"></small></div><div class="muted" data-en="Realised projects" data-de="Realisierte Projekte"></div></div>
       <div class="card"><div class="stat">680 <small data-en="MW" data-de="MW"></small></div><div class="muted" data-en="Under construction" data-de="Aktuell im Bau"></div></div>
       <div class="card"><div class="stat">+2.3 <small data-en="GW" data-de="GW"></small></div><div class="muted" data-en="Ready-to-build" data-de="Projekte in Baureife"></div></div>
@@ -67,11 +77,15 @@
   <div class="container">
     <h2 data-en="References &amp; Pipeline" data-de="Referenzen &amp; Pipeline"></h2>
 
-    <div class="grid-3">
+    <div class="grid-3" style="margin-top:12px">
+      <!-- Metelen (Utility-scale) -->
       <div class="card">
         <div class="row">
           <div class="title" data-en="Metelen, Germany" data-de="Metelen, Deutschland"></div>
-          <div class="small">91 MW / 231 MWh</div>
+          <div>
+            <span class="pill" data-en="Utility-scale" data-de="Utility-Scale"></span>
+            <span class="small">91 MW / 231 MWh</span>
+          </div>
         </div>
         <ul class="muted">
           <li data-en="62 BYD containers, 4.2 MWh each" data-de="62 BYD-Container à 4,2 MWh"></li>
@@ -89,10 +103,14 @@
         </div>
       </div>
 
+      <!-- Bielefeld (Utility-scale) -->
       <div class="card">
         <div class="row">
           <div class="title" data-en="Greater Bielefeld Area, Germany" data-de="Raum Bielefeld, Deutschland"></div>
-          <div class="small">250 MW / 680 MWh</div>
+          <div>
+            <span class="pill" data-en="Utility-scale" data-de="Utility-Scale"></span>
+            <span class="small">250 MW / 680 MWh</span>
+          </div>
         </div>
         <ul class="muted">
           <li data-en="Utility-scale storage project with grid &amp; market access (RTB/Build)"
@@ -106,10 +124,14 @@
         </div>
       </div>
 
+      <!-- Veľká Bytča (C&I) -->
       <div class="card">
         <div class="row">
           <div class="title" data-en="Veľká Bytča, Slovakia" data-de="Veľká Bytča, Slowakei"></div>
-          <div class="small">2.6 MW / 5 MWh</div>
+          <div>
+            <span class="pill" data-en="C&amp;I" data-de="C&amp;I"></span>
+            <span class="small">2.6 MW / 5 MWh</span>
+          </div>
         </div>
         <ul class="muted">
           <li data-en="2× 40-ft Tecloman; 4× 650 kW PCS; C-rate 0.5"
@@ -133,9 +155,7 @@
 <section class="section" id="partners">
   <div class="container">
     <h2 data-en="Partners &amp; Technology" data-de="Partner &amp; Technologie"></h2>
-
-    <!-- Text badges now; you can swap to logos later without breaking layout -->
-    <div class="grid-4 badges">
+    <div class="grid-4 badges" style="margin-top:12px">
       <div class="badge">Tecloman</div>
       <div class="badge">BYD</div>
       <div class="badge">HyperStrong</div>
@@ -145,10 +165,14 @@
       <div class="badge">Siemens (5&nbsp;MW PCS)</div>
     </div>
 
-    <div class="video-note card" style="margin-top:16px">
-      <div class="muted">Case-study video slot — expected path:
-        <code>/assets/video/case-study.mp4</code>
-      </div>
+    <!-- CASE STUDY VIDEO SLOT -->
+    <div class="video-frame" style="margin-top:16px">
+      <video controls preload="metadata" poster="assets/video/case-study-poster.jpg">
+        <source src="assets/video/case-study.mp4" type="video/mp4"/>
+      </video>
+    </div>
+    <div class="muted" style="margin-top:6px">
+      Expected files: <code>/assets/video/case-study.mp4</code> (poster optional: <code>/assets/video/case-study-poster.jpg</code>)
     </div>
   </div>
 </section>
@@ -156,18 +180,28 @@
 <section class="section" id="team">
   <div class="container">
     <h2 data-en="Team" data-de="Team"></h2>
-    <div class="grid-2">
+    <div class="grid-2" style="margin-top:12px">
       <div class="card">
-        <h3>Bahman Hamedebarghi</h3>
-        <div class="muted" data-en="Managing Director &amp; Shareholder" data-de="Geschäftsführer &amp; Gesellschafter"></div>
-        <p class="muted" data-en="Physics (Karlsruhe). Leadership roles at Dresdner Bank, Credit Suisse, Siemens, T-Systems China, Swisscom; founder across PH/IR/DE; MD of NE3T GmbH; Board member of the European Chamber of Technology; Head of Engineering at GFGBA."
-                        data-de="Physik (Karlsruhe). Leitungsfunktionen bei Dresdner Bank, Credit Suisse, Siemens, T-Systems China, Swisscom; Gründer in PH/IR/DE; GF NE3T GmbH; Vorstandsmitglied European Chamber of Technology; Head of Engineering bei GFGBA."></p>
+        <div style="display:flex;gap:14px;align-items:flex-start">
+          <img src="assets/team/bahman.png" alt="Bahman Hamedebarghi" style="width:88px;height:88px;object-fit:cover;border-radius:12px;border:1px solid rgba(255,255,255,.08)"/>
+          <div>
+            <h3>Bahman Hamedebarghi</h3>
+            <div class="muted" data-en="Managing Director &amp; Shareholder" data-de="Geschäftsführer &amp; Gesellschafter"></div>
+            <p class="muted" data-en="Physics (Karlsruhe). Leadership roles at Dresdner Bank, Credit Suisse, Siemens, T-Systems China, Swisscom; founder across PH/IR/DE; MD of NE3T GmbH; Board member of the European Chamber of Technology; Head of Engineering at GFGBA."
+                            data-de="Physik (Karlsruhe). Leitungsfunktionen bei Dresdner Bank, Credit Suisse, Siemens, T-Systems China, Swisscom; Gründer in PH/IR/DE; GF NE3T GmbH; Vorstandsmitglied European Chamber of Technology; Head of Engineering bei GFGBA."></p>
+          </div>
+        </div>
       </div>
       <div class="card">
-        <h3>Mohsen Tabrizi</h3>
-        <div class="muted">Chief Technical Consultant</div>
-        <p class="muted" data-en="MBA; B.Eng. Industrial Electronics; 20+ years in electrical engineering, 10+ in clean energy; TÜV-certified PV/ESS consultant; ex-CTO at GWD Energy managing large-scale PV under German standards."
-                        data-de="MBA; Dipl.-Ing. Industrieelektronik; 20+ Jahre Elektrotechnik, 10+ Jahre Clean Energy; TÜV-zertifizierter PV/ESS-Berater; ehem. CTO GWD Energy (Groß-PV nach deutschen Standards)."></p>
+        <div style="display:flex;gap:14px;align-items:flex-start">
+          <img src="assets/team/mohsen.png" alt="Mohsen Tabrizi" style="width:88px;height:88px;object-fit:cover;border-radius:12px;border:1px solid rgba(255,255,255,.08)"/>
+          <div>
+            <h3>Mohsen Tabrizi</h3>
+            <div class="muted">Chief Technical Consultant</div>
+            <p class="muted" data-en="MBA; B.Eng. Industrial Electronics; 20+ years in electrical engineering, 10+ in clean energy; TÜV-certified PV/ESS consultant; ex-CTO at GWD Energy managing large-scale PV under German standards."
+                            data-de="MBA; Dipl.-Ing. Industrieelektronik; 20+ Jahre Elektrotechnik, 10+ Jahre Clean Energy; TÜV-zertifizierter PV/ESS-Berater; ehem. CTO GWD Energy (Groß-PV nach deutschen Standards)."></p>
+          </div>
+        </div>
       </div>
     </div>
   </div>
@@ -176,7 +210,7 @@
 <section class="section" id="contact">
   <div class="container">
     <h2 data-en="Contact" data-de="Kontakt"></h2>
-    <div class="grid-2">
+    <div class="grid-2" style="margin-top:12px">
       <div>
         <p class="muted">📍 Fasanenstraße 23, DE-71638 Ludwigsburg</p>
         <p class="muted">✉️ <a href="mailto:anfrage@bess-epc.de">anfrage@bess-epc.de</a></p>
@@ -184,32 +218,16 @@
         <p class="muted" data-en="Managing Director &amp; Shareholder: Mr. Bahman Hamedebarghi"
                         data-de="Geschäftsführer &amp; Gesellschafter: Herr Bahman Hamedebarghi"></p>
       </div>
-
-      <!-- Clean, required fields + 2-column layout -->
       <form class="form" method="POST" action="https://formspree.io/f/yourFormId">
         <div class="grid-2">
-          <div>
-            <label data-en="Name" data-de="Name"></label>
-            <input name="name" required placeholder="Jane Doe"/>
-          </div>
-          <div>
-            <label data-en="Email" data-de="E-Mail"></label>
-            <input type="email" name="email" required placeholder="jane@example.com"/>
-          </div>
-          <div>
-            <label data-en="Phone (optional)" data-de="Telefon (optional)"></label>
-            <input name="phone" placeholder="+49 ..."/>
-          </div>
-          <div style="grid-column:1/-1">
-            <label data-en="Short description" data-de="Kurzbeschreibung"></label>
-            <textarea name="message" rows="6" required
-              placeholder="Location, MW/MWh, timeline ..."></textarea>
-          </div>
+          <div><label data-en="Name" data-de="Name"></label><input name="name" required placeholder="Jane Doe"/></div>
+          <div><label data-en="Email" data-de="E-Mail"></label><input type="email" name="email" required placeholder="jane@example.com"/></div>
+          <div><label data-en="Phone (optional)" data-de="Telefon (optional)"></label><input name="phone" placeholder="+49 ..."/></div>
+          <div style="grid-column:1/-1"><label data-en="Short description" data-de="Kurzbeschreibung"></label><textarea name="message" rows="6" required placeholder="Location, MW/MWh, timeline ..."></textarea></div>
         </div>
         <div class="form-actions">
           <button class="btn" type="submit" data-en="Send" data-de="Absenden"></button>
-          <span class="muted" data-en="Replace the action URL with your Formspree endpoint to receive emails."
-                             data-de="Ersetzen Sie die action-URL durch Ihren Formspree-Endpunkt."></span>
+          <span class="muted" data-en="Replace the action URL with your Formspree endpoint to receive emails." data-de="Ersetzen Sie die action-URL durch Ihren Formspree-Endpunkt."></span>
         </div>
       </form>
     </div>
