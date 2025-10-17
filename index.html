@@ -15,12 +15,11 @@
       <a href="index.html"           data-en="Home"               data-de="Home"              class="active"></a>
       <a href="services.html"        data-en="Services"           data-de="Leistungen"></a>
       <a href="business-models.html" data-en="Business Models"    data-de="Geschäftsmodelle"></a>
-      <a href="references.html"      data-en="References"         data-de="Referenzen"></a>
+      <a href="index.html#projects"  data-en="References &amp; Pipeline" data-de="Referenzen &amp; Pipeline"></a>
       <a href="municipalities.html"  data-en="For Municipalities" data-de="Für Gemeinden"></a>
       <a href="investors.html"       data-en="For Investors"      data-de="Für Investoren"></a>
       <a href="company.html"         data-en="Company"            data-de="Unternehmen"></a>
       <a href="blog.html"            data-en="Blog &amp; News"     data-de="Blog &amp; News"></a>
-      <a href="career.html"          data-en="Career"             data-de="Karriere"></a>
       <button id="lang-toggle" class="lang">DE</button>
     </nav>
   </div>
@@ -43,11 +42,11 @@
       Expected files: <code>/assets/video/hero-loop.mp4</code> (poster optional: <code>/assets/video/hero-poster.jpg</code>)
     </div>
 
-    <div class="grid-4 stats" style="margin-top:18px">
-      <div class="card"><div class="stat">2.16 <small data-en="GW" data-de="GW"></small></div><div class="muted" data-en="Realised projects" data-de="Realisierte Projekte"></div></div>
-      <div class="card"><div class="stat">680 <small data-en="MW" data-de="MW"></small></div><div class="muted" data-en="Under construction" data-de="Aktuell im Bau"></div></div>
-      <div class="card"><div class="stat">+2.3 <small data-en="GW" data-de="GW"></small></div><div class="muted" data-en="Ready-to-build" data-de="Projekte in Baureife"></div></div>
-      <div class="card"><div class="stat">+3 <small data-en="GW" data-de="GW"></small></div><div class="muted" data-en="Pipeline" data-de="Projektpipeline"></div></div>
+    <!-- Stats (3 cards; 2.16 GW removed) -->
+    <div class="grid-3 stats" style="margin-top:18px">
+      <div class="card"><div class="stat">680 <small data-en="MWh" data-de="MWh"></small></div><div class="muted" data-en="Under construction" data-de="Aktuell im Bau"></div></div>
+      <div class="card"><div class="stat">+2.3 <small data-en="GWh" data-de="GWh"></small></div><div class="muted" data-en="Ready-to-build" data-de="Projekte in Baureife"></div></div>
+      <div class="card"><div class="stat">+3 <small data-en="GWh" data-de="GWh"></small></div><div class="muted" data-en="Pipeline" data-de="Projektpipeline"></div></div>
     </div>
   </div>
 </section>
@@ -74,6 +73,23 @@
         <p class="muted" data-en="PV+storage, backup power, load management, self-consumption and network charge optimization."
                         data-de="PV+Speicher, Notstrom, Lastmanagement, Eigenverbrauch und Netzentgeltoptimierung."></p>
       </div>
+    </div>
+  </div>
+</section>
+
+<!-- Optional Services section also on Home -->
+<section class="section" id="services">
+  <div class="container">
+    <h2 data-en="Services" data-de="Leistungen"></h2>
+    <div class="cards" style="margin-top:12px">
+      <div class="card"><h3 data-en="Complete EPC(F)" data-de="Komplettes EPC(F)"></h3><p class="muted" data-en="Planning, procurement, construction & verified system integration" data-de="Planung, Beschaffung, Bau & verifizierte Systemintegration"></p></div>
+      <div class="card"><h3 data-en="Technical management" data-de="Technisches Management"></h3><p class="muted" data-en="Batteries, PCS, transformers, EMS, SCADA; tenders & interface management" data-de="Batterien, PCS, Trafos, EMS, SCADA; Ausschreibungen & Schnittstellenmanagement"></p></div>
+      <div class="card"><h3 data-en="Grid & Certification" data-de="Netz & Zertifizierung"></h3><p class="muted" data-en="VDE-AR-N 4110/4120, EN 50549; documentation; FAT/SAT" data-de="VDE-AR-N 4110/4120, EN 50549; Dokumentation; FAT/SAT"></p></div>
+      <div class="card"><h3 data-en="Market access" data-de="Marktzugang"></h3><p class="muted" data-en="EU certifications for CN products; partnerships with Siemens, SMA, utilities" data-de="EU-Zertifizierungen für CN-Produkte; Partnerschaften mit Siemens, SMA, Versorgern"></p></div>
+      <div class="card"><h3 data-en="Project development" data-de="Projektentwicklung"></h3><p class="muted" data-en="Site & grid studies, permitting, land, stakeholders" data-de="Standort- & Netzstudien, Genehmigungen, Flächen, Stakeholder"></p></div>
+      <div class="card"><h3 data-en="Revenue optimization" data-de="Erlösoptimierung"></h3><p class="muted" data-en="Grid services, trading, storage-as-a-service; aggregator floor/CPA" data-de="Netzdienste, Handel, Storage-as-a-Service; Aggregator-Floor/CPA"></p></div>
+      <div class="card"><h3 data-en="O&amp;M" data-de="Betrieb & Wartung"></h3><p class="muted" data-en="Long-term O&M, monitoring, predictive maintenance, availability guarantees" data-de="Langfristiges O&M, Monitoring, Predictive Maintenance, Verfügbarkeitsgarantien"></p></div>
+      <div class="card"><h3 data-en="Long-term value" data-de="Langfristiger Wert"></h3><p class="muted" data-en="Portfolio scale-up and asset sales support" data-de="Portfolio-Skalierung und Asset-Verkaufssupport"></p></div>
     </div>
   </div>
 </section>
@@ -111,7 +127,7 @@
       <!-- Bielefeld (Utility-scale) -->
       <div class="card">
         <div class="row">
-          <div class="title" data-en="Bielefeld Area, Germany" data-de="Raum Bielefeld, Deutschland"></div>
+          <div class="title" data-en="Greater Bielefeld Area, Germany" data-de="Raum Bielefeld, Deutschland"></div>
           <div>
             <span class="pill" data-en="Utility-scale" data-de="Utility-Scale"></span>
             <span class="small">250 MW / 680 MWh</span>
@@ -140,7 +156,7 @@
         </div>
         <ul class="muted">
           <li data-en="2× 40-ft Tecloman; 4× 650 kW PCS; C-rate 0.5"
-              data-de="2× 40-ft Tecloman; 4× PCS à 650 kW; C-Rate 0,5"></li>
+              data-de="2× 40-Fuß Tecloman; 4× PCS à 650 kW; C-Rate 0,5"></li>
         </ul>
         <div class="gallery">
           <img class="thumb" src="assets/projects/velka-bytca/IMG_1390.jpeg"    alt="SK 1"/>
@@ -160,16 +176,18 @@
 <section class="section" id="partners">
   <div class="container">
     <h2 data-en="Partners &amp; Technology" data-de="Partner &amp; Technologie"></h2>
-<div class="grid-4 badges" style="margin-top:12px">
-  <a class="badge" href="https://www.tecloman.com/" target="_blank" rel="noopener">Tecloman</a>
-  <a class="badge" href="https://www.bydenergy.com/" target="_blank" rel="noopener">BYD</a>
-  <a class="badge" href="https://www.hyperstrong.com/en/" target="_blank" rel="noopener">HyperStrong</a>
-  <a class="badge" href="https://en.sungrowpower.com/" target="_blank" rel="noopener">SUNGROW</a>
-  <a class="badge" href="https://www.solaxpower.com/" target="_blank" rel="noopener">SOLAX</a>
-  <a class="badge" href="https://www.sma.de/en/products" target="_blank" rel="noopener">SMA (5&nbsp;MW PCS)</a>
-  <a class="badge" href="https://www.siemens-energy.com/us/en/home/products-services/product/battery-energy-storage.html" target="_blank" rel="noopener">Siemens (5&nbsp;MW PCS)</a>
-  <a class="badge" href="https://www.nhet.energy/" target="_blank" rel="noopener">Nenghui Energy</a>
-</div>
+
+    <!-- Clickable partner badges -->
+    <div class="grid-4 badges" style="margin-top:12px">
+      <a class="badge" href="https://www.tecloman.com/" target="_blank" rel="noopener">Tecloman</a>
+      <a class="badge" href="https://www.bydenergy.com/" target="_blank" rel="noopener">BYD</a>
+      <a class="badge" href="https://www.hyperstrong.com/en/" target="_blank" rel="noopener">HyperStrong</a>
+      <a class="badge" href="https://en.sungrowpower.com/" target="_blank" rel="noopener">SUNGROW</a>
+      <a class="badge" href="https://www.solaxpower.com/" target="_blank" rel="noopener">SOLAX</a>
+      <a class="badge" href="https://www.sma.de/en/products" target="_blank" rel="noopener">SMA</a>
+      <a class="badge" href="https://www.siemens-energy.com/us/en/home/products-services/product/battery-energy-storage.html" target="_blank" rel="noopener">Siemens</a>
+      <a class="badge" href="https://www.nhet.energy/" target="_blank" rel="noopener">Nenghui Energy</a>
+    </div>
 
     <!-- CASE STUDY VIDEO SLOT -->
     <div class="video-frame" style="margin-top:16px">
@@ -203,9 +221,9 @@
           <img src="assets/team/mohsen.png" alt="Mohsen Tabrizi" style="width:88px;height:88px;object-fit:cover;border-radius:12px;border:1px solid rgba(255,255,255,.08)"/>
           <div>
             <h3>Mohsen Tabrizi</h3>
-            <div class="muted">Technical Lead</div>
-            <p class="muted" data-en="MBA; B.Eng. Industrial Electronics; 20+ years in electrical engineering, 10+ in clean energy; TÜV-certified PV/ESS consultant; ex-CTO at GWD Energy managing large-scale PV/BESS under German standards."
-                            data-de="MBA; Dipl.-Ing. Industrieelektronik; 20+ Jahre Elektrotechnik, 10+ Jahre Clean Energy; TÜV-zertifizierter PV/ESS-Berater; ehem. CTO GWD Energy (Groß-PV/Großbatteriespeicher nach deutschen Standards)."></p>
+            <div class="muted">Chief Technical Consultant</div>
+            <p class="muted" data-en="MBA; B.Eng. Industrial Electronics; 20+ years in electrical engineering, 10+ in clean energy; TÜV-certified PV/ESS consultant; ex-Technical Lead GWD Energy managing large-scale PV under German standards."
+                            data-de="MBA; Dipl.-Ing. Industrieelektronik; 20+ Jahre Elektrotechnik, 10+ Jahre Clean Energy; TÜV-zertifizierter PV/ESS-Berater; ehem. Technical Lead GWD Energy (Groß-PV nach deutschen Standards)."></p>
           </div>
         </div>
       </div>
@@ -218,22 +236,23 @@
     <h2 data-en="Contact" data-de="Kontakt"></h2>
     <div class="grid-2" style="margin-top:12px">
       <div>
-        <p class="muted">📍 Fasanenstraße 23, DE-71638 Ludwigsburg</p>
-        <p class="muted">✉️ <a href="mailto:anfrage@bess-epc.de">anfrage@bess-epc.de</a></p>
+        <p class="muted" data-en="📍 Industriestraße 4, D-70565 Stuttgart, Germany"
+                        data-de="📍 Industriestraße 4, D-70565 Stuttgart"></p>
+        <p class="muted">✉️ <a href="mailto:info@bess-epc.de">info@bess-epc.de</a></p>
         <p class="muted">📞 <a href="tel:+491751055104">+49 175 1055104</a></p>
         <p class="muted" data-en="Managing Director &amp; Shareholder: Mr. Bahman Hamedebarghi"
                         data-de="Geschäftsführer &amp; Gesellschafter: Herr Bahman Hamedebarghi"></p>
       </div>
       <form class="form" method="POST" action="https://formspree.io/f/yourFormId">
         <div class="grid-2">
-          <div><label data-en="Name" data-de="Name"></label><input name="name" required placeholder="Jane Doe"/></div>
-          <div><label data-en="Email" data-de="E-Mail"></label><input type="email" name="email" required placeholder="jane@example.com"/></div>
-          <div><label data-en="Phone (optional)" data-de="Telefon (optional)"></label><input name="phone" placeholder="+49 ..."/></div>
-          <div style="grid-column:1/-1"><label data-en="Short description" data-de="Kurzbeschreibung"></label><textarea name="message" rows="6" required placeholder="Location, MW/MWh, timeline ..."></textarea></div>
+          <div><label data-en="Name" data-de="Name"></label><input name="name" required/></div>
+          <div><label data-en="Email" data-de="E-Mail"></label><input type="email" name="email" required/></div>
+          <div><label data-en="Phone (optional)" data-de="Telefon (optional)"></label><input name="phone"/></div>
+          <div style="grid-column:1/-1"><label data-en="Short description" data-de="Kurzbeschreibung"></label><textarea name="message" rows="6" required></textarea></div>
         </div>
         <div class="form-actions">
           <button class="btn" type="submit" data-en="Send" data-de="Absenden"></button>
-          <span class="muted" data-en="Replace the action URL with your Formspree endpoint to receive emails." data-de="Ersetzen Sie die action-URL durch Ihren Formspree-Endpunkt."></span>
+          <!-- helper text removed per request -->
         </div>
       </form>
     </div>
