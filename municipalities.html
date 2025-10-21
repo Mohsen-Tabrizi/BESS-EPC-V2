@@ -1,63 +1,217 @@
-<!doctype html><html lang="en">
+<!doctype html>
+<html lang="de">
 <head>
-  <meta charset="utf-8"/><meta name="viewport" content="width=device-width,initial-scale=1"/>
-  <title>For Municipalities — BESS EPC</title>
-  <link rel="icon" type="image/png" href="assets/logo/favicon.png"/>
-  <link rel="stylesheet" href="styles.css"/>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Für Gemeinden — BESS EPC</title>
+  <meta name="description" content="Batteriespeicher für Gemeinden: Netzdienste, Eigenverbrauch, Kostenreduktion, Förderung & Finanzierung – schlüsselfertig von BESS EPC.">
+  <link rel="icon" type="image/png" href="assets/logo/favicon.png?v=2">
+  <link rel="preload" as="video" href="assets/video/municipalities-hero.mp4" type="video/mp4">
+  <link rel="preload" as="image" href="assets/video/municipalities-hero.jpg">
+  <link rel="stylesheet" href="styles.css?v=3">
+
+  <style>
+    :root{ --brand:#3B70B8; --card:#0f1623; --muted:#a6b0bf; }
+    .header-inner{ display:flex; align-items:center; gap:14px; padding:14px 20px; }
+    .nav a.active{ color:#cfe4ff; }
+    .btn{ display:inline-flex; align-items:center; gap:.6rem; padding:.65rem 1rem; border-radius:12px;
+          border:1px solid rgba(255,255,255,.16); color:#cfe4ff; text-decoration:none; font-weight:600;
+          background: rgba(59,112,184,.16); backdrop-filter: blur(6px); transition:.2s ease; }
+    .btn:hover{ background: rgba(59,112,184,.24); transform: translateY(-1px); }
+    .section{ padding: clamp(22px,6vw,64px) 0; }
+    .container{ max-width:1200px; margin:0 auto; padding:0 20px; }
+    .muted{ color:var(--muted); }
+    .accent{ color:#cfe4ff; background:linear-gradient(90deg,var(--brand),#93b7eb); -webkit-background-clip:text; -webkit-text-fill-color:transparent; }
+
+    /* Hero */
+    .hero-wrap{ position:relative; overflow:hidden; border-radius:16px; }
+    .hero-wrap video{ width:100%; height: clamp(260px, 48vw, 560px); object-fit:cover; display:block; }
+    .hero-title{ display:flex; align-items:flex-start; gap:18px; justify-content:space-between; }
+    .page-tag{ font-size:12px; letter-spacing:.12em; text-transform:uppercase; color:#90b7ff; margin-bottom:12px; }
+    h1.hero{ margin:0; font-size: clamp(28px,4.5vw,48px); line-height:1.08; letter-spacing:-.02em; }
+
+    .overlay-note{ position:relative; margin-top:-80px; max-width:520px; background:var(--brand);
+      color:#eaf3ff; border-radius:14px; padding:18px; border:1px solid rgba(255,255,255,.15); }
+    @media (max-width:900px){ .overlay-note{ margin-top:16px; } }
+
+    /* Cards */
+    .cards{ display:grid; grid-template-columns: repeat(3, minmax(0,1fr)); gap:18px; }
+    @media (max-width:980px){ .cards{ grid-template-columns: repeat(2, minmax(0,1fr)); } }
+    @media (max-width:640px){ .cards{ grid-template-columns: 1fr; } }
+    .card{ background:var(--card); border:1px solid rgba(255,255,255,.06); border-radius:16px; padding:18px; }
+    .card h3{ margin:0 0 6px; }
+    .checklist{ background:var(--card); border:1px solid rgba(255,255,255,.06); border-radius:16px; padding:24px; }
+
+    /* Split block */
+    .split{ display:grid; grid-template-columns: 1.1fr .9fr; gap:22px; align-items:center; }
+    .split img{ width:100%; border-radius:14px; display:block; }
+    @media (max-width:980px){ .split{ grid-template-columns:1fr; } }
+
+    /* FAQ */
+    .faq-item{ border-bottom:1px solid rgba(255,255,255,.08); }
+    .faq-q{ cursor:pointer; padding:16px 0; display:flex; justify-content:space-between; align-items:center; }
+    .faq-a{ display:none; padding:0 0 16px; color:var(--muted); }
+
+    /* Article cards */
+    .articles{ display:grid; grid-template-columns: repeat(3, minmax(0,1fr)); gap:18px; }
+    @media (max-width:980px){ .articles{ grid-template-columns: repeat(2, minmax(0,1fr)); } }
+    @media (max-width:640px){ .articles{ grid-template-columns: 1fr; } }
+    .article{ background:var(--card); border:1px solid rgba(255,255,255,.06); border-radius:16px; overflow:hidden; }
+    .article img{ width:100%; height:200px; object-fit:cover; display:block; }
+    .meta{ display:flex; justify-content:space-between; align-items:center; padding:10px 14px; font-size:13px; }
+    .badge{ background: rgba(59,112,184,.25); color:#dceaff; padding:4px 8px; border-radius:8px; border:1px solid rgba(255,255,255,.12); font-weight:600; }
+
+    .header-cta{ margin-left:auto; }
+  </style>
 </head>
 <body>
-<header class="header">
-  <div class="container header-inner">
-    <a class="brand" href="index.html"><img src="assets/logo/BESS-EPC LogoHorizontal_No background_White_text.png" alt="BESS EPC"/></a>
-    <nav class="nav">
-      <a href="index.html"           data-en="Home"               data-de="Home"></a>
-      <a href="services.html"        data-en="Services"           data-de="Leistungen"></a>
-      <a href="business-models.html" data-en="Business Models"    data-de="Geschäftsmodelle"></a>
-<a href="index.html#projects" data-en="References &amp; Pipeline" data-de="Referenzen &amp; Pipeline"></a>
-      <a href="municipalities.html"  class="active" data-en="For Municipalities" data-de="Für Gemeinden"></a>
-      <a href="investors.html"       data-en="For Investors"      data-de="Für Investoren"></a>
-      <a href="company.html"         data-en="Company"            data-de="Unternehmen"></a>
-      <a href="blog.html"            data-en="Blog &amp; News"     data-de="Blog &amp; News"></a>
-      <a href="career.html"          data-en="Career"             data-de="Karriere"></a>
-      <button id="lang-toggle" class="lang">DE</button>
-    </nav>
-  </div>
-</header>
-
-<section class="hero">
-  <div class="container">
-    <h1 data-en="For Municipalities" data-de="Für Gemeinden"></h1>
-    <p class="lead" data-en="Grid-supportive storage to stabilize local networks and integrate renewables."
-                  data-de="Netzdienliche Speicher zur Stabilisierung lokaler Netze und Integration erneuerbarer Energien."></p>
-  </div>
-</section>
-
-<section class="section">
-  <div class="container cards">
-    <!-- PASTE YOUR EXACT CONTENT BELOW -->
-    <div class="card">
-      <h3>DSO/TSO & Permitting</h3>
-      <p class="muted">PASTE HERE — permit flow, protection settings, compliance steps.</p>
+  <!-- Header -->
+  <header class="header">
+    <div class="container header-inner">
+      <a class="brand" href="index.html" style="display:flex; align-items:center; gap:10px;">
+        <img src="assets/logo/BESS-EPC LogoHorizontal_No background_White_text.png" alt="BESS EPC" style="height:28px;">
+      </a>
+      <nav class="nav" style="display:flex; gap:14px; margin-left:24px; flex-wrap:wrap;">
+        <a href="index.html">Home</a>
+        <a href="services.html">Leistungen</a>
+        <a href="business-models.html">Geschäftsmodelle</a>
+        <a href="index.html#projects">Referenzen &amp; Pipeline</a>
+        <a class="active" href="municipalities.html">Für Gemeinden</a>
+        <a href="investors.html">Für Investoren</a>
+        <a href="company.html">Unternehmen</a>
+        <a href="blog.html">Blog &amp; News</a>
+      </nav>
+      <div class="header-cta">
+        <a class="btn" href="assets/docs/Infobroschuere-Gemeinden.pdf" download>Download Infobroschüre</a>
+      </div>
     </div>
-    <div class="card">
-      <h3>Site & Grid Studies</h3>
-      <p class="muted">PASTE HERE — land, acoustics, visual, grid impact, curtailment relief.</p>
-    </div>
-    <div class="card">
-      <h3>Community Benefits</h3>
-      <p class="muted">PASTE HERE — revenue share, resilience, emergency power, education.</p>
-    </div>
-    <!-- /PASTE -->
-  </div>
-</section>
+  </header>
 
-<footer>
-  <div class="container footer-row">
-    <a class="brand" href="index.html"><img src="assets/logo/BESS-EPC LogoHorizontal_No background_White_text.png" alt="BESS EPC"/></a>
-    <div class="muted"><a href="impressum.html">Impressum</a> · <a href="datenschutz.html">Datenschutz</a></div>
-    <div class="muted">© <span id="year"></span> BESS EPC</div>
-  </div>
-</footer>
-<script>document.getElementById('year').innerText=(new Date()).getFullYear()</script>
-<script src="app.js"></script>
-</body></html>
+  <main>
+    <!-- Title + top CTA -->
+    <section class="section" style="padding-bottom:12px;">
+      <div class="container">
+        <div class="page-tag">/ FÜR GEMEINDEN</div>
+        <div class="hero-title">
+          <h1 class="hero">
+            Gemeinsam für eine unabhängige, <span class="accent">nachhaltige Energieversorgung</span>
+          </h1>
+          <a class="btn" href="assets/docs/Infobroschüre-Gemeinden.pdf" download>Download Infobroschüre</a>
+        </div>
+      </div>
+    </section>
+
+    <!-- Hero video -->
+    <section class="section" style="padding-top:0;">
+      <div class="container">
+        <div class="hero-wrap">
+          <video autoplay muted loop playsinline poster="assets/video/municipalities-hero.jpg">
+            <source src="assets/video/municipalities-hero.mp4" type="video/mp4">
+          </video>
+        </div>
+
+        <!-- Overlay note (the green box in your screenshot; now brand-blue) -->
+        <div class="overlay-note">
+          Deutschland will die Energiewende meistern und in der Energieversorgung unabhängiger
+          werden. Dies stellt die Strominfrastruktur vor komplexe Herausforderungen: Instabilität
+          im Stromnetz, hohe Volatilität und hohe Preise. Die Stabilisierung des Netzes ist daher
+          essenziell. Hierfür werden flexible Energiespeicher gebraucht. Laut Fraunhofer Institut
+          wird der Bedarf an Speichern bis zum Jahr 2030 um mehr als das 200-fache zunehmen.
+        </div>
+      </div>
+    </section>
+
+    <!-- Anwendungen -->
+    <section class="section">
+      <div class="container">
+        <div class="page-tag">/ ANWENDUNGEN</div>
+        <h2>Batteriespeicher als <span class="accent">zentraler Bestandteil</span> der Energiewende</h2>
+        <p class="muted" style="max-width:900px">
+          Batteriespeicher bieten eine bedeutende Chance für eine unabhängige und nachhaltige
+          Energieversorgung. Die Anbindung im Stromnetz mit eigenem Netzanschluss ermöglicht
+          vielfältige Betriebsstrategien.
+        </p>
+
+        <div class="cards" style="margin-top:14px">
+          <div class="card">
+            <img src="assets/images/municipalities/icon-regelleistung.svg" alt="" style="height:64px; width:auto; margin-bottom:8px;">
+            <h3>Regelleistung</h3>
+            <p class="muted">
+              Batteriespeicher sind technisch sehr gut geeignet, um nicht vorhergesehene Netzschwankungen
+              auszugleichen. Innerhalb weniger Millisekunden kann der Speicher auf Befehl das Netz stabilisieren
+              und so Stromausfälle verhindern.
+            </p>
+          </div>
+          <div class="card">
+            <img src="assets/images/municipalities/icon-flex.svg" alt="" style="height:64px; width:auto; margin-bottom:8px;">
+            <h3>Erzeugungsflexibilität</h3>
+            <p class="muted">
+              Der Speicher kann Strom zu Zeitpunkten speichern, an denen die Energie nicht benötigt
+              wird und bei hoher Nachfrage wieder ins Netz speisen. Er reduziert so Engpässe im Netz
+              und starke Schwankungen im Strompreis.
+            </p>
+          </div>
+          <div class="card">
+            <img src="assets/images/municipalities/icon-preis.svg" alt="" style="height:64px; width:auto; margin-bottom:8px;">
+            <h3>Pufferung von Preisspitzen</h3>
+            <p class="muted">
+              Durch den Zubau von erneuerbaren Energien steigt die Volatilität am Strommarkt.
+              Batteriespeichersysteme nutzen den Handel, um Fehlmengen oder Überschüsse so gering wie möglich
+              zu halten und so extremen Preisschwankungen entgegenzuwirken.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Vorteile block -->
+    <section class="section">
+      <div class="container">
+        <div class="page-tag">/ VORTEILE</div>
+        <div class="checklist">
+          <h2 style="margin-top:0">So profitiert Ihre Region von den Speicherprojekten</h2>
+          <ul style="list-style:none; padding:0; margin:12px 0 22px;">
+            <li style="margin:10px 0;">✅ Vorreiterrolle in der Energiewende</li>
+            <li style="margin:10px 0;">✅ Beitrag zur Energieunabhängigkeit</li>
+            <li style="margin:10px 0;">✅ Stärkung und Sicherung der lokalen Strominfrastruktur</li>
+            <li style="margin:10px 0;">✅ Planbare Gewerbesteuereinnahmen</li>
+          </ul>
+          <div>
+            <h3 style="margin:0 0 8px;">Download Infobroschüre Gemeinde</h3>
+            <a class="btn" href="assets/docs/Infobroschuere-Gemeinden.pdf" download>Download Infobroschüre</a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Weg zum Projekt -->
+    <section class="section">
+      <div class="container">
+        <div class="page-tag">/ DER WEG ZUM BATTERIESPEICHERPROJEKT</div>
+        <h2>Der Weg zum Batteriespeicherprojekt</h2>
+        <div class="split" style="margin-top:14px;">
+          <img src="assets/images/municipalities/process.jpg" alt="BESS Projekt – Prozess">
+          <div class="card">
+            <p class="muted" style="margin:0">
+              Der umfangreiche Ausbau erneuerbarer Energien erhöht den Bedarf an Infrastruktur und
+              Dienstleistungen, um die Stabilität des Stromnetzes und die Versorgungssicherheit zu gewährleisten.
+              Denn ein größerer Anteil erneuerbarer Energien im Strommix führt zu erhöhten Volatilitäten und
+              Unvorhersehbarkeiten in der Energieerzeugung. Schwankungen der Strompreise nehmen zu und es entsteht
+              ein hoher Gleichzeitigkeitsfaktor, der vermehrt zu Überlastungen im Netz führt. Für die Stabilisierung
+              des Netzes und die sinnvolle Integration Erneuerbarer sind flexible Energiespeicher essenziell.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- FAQ -->
+    <section class="section">
+      <div class="container">
+        <div class="page-tag">/ FAQ</div>
+        <h2>Fragen & Antworten</h2>
+
+        <div class="faq">
+          <div class="faq-item">
+            <div class="faq-q"><strong>Wodurch entsteht der hohe Ausbaubedarf der Stromnetze?</strong><span>▾</span></div>
+            <div class="faq-a">Kurz
