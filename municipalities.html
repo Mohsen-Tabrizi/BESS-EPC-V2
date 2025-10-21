@@ -214,4 +214,95 @@
         <div class="faq">
           <div class="faq-item">
             <div class="faq-q"><strong>Wodurch entsteht der hohe Ausbaubedarf der Stromnetze?</strong><span>▾</span></div>
-            <div class="faq-a">Kurz
+            <div class="faq-a">Kurzantwort zur Einordnung (Sie können hier Ihren eigenen Text ergänzen).</div>
+          </div>
+          <div class="faq-item">
+            <div class="faq-q"><strong>Warum helfen Batteriegroßspeicher den Ausbaubedarf der Energienetze zu senken?</strong><span>▾</span></div>
+            <div class="faq-a">Antwort-Placeholder.</div>
+          </div>
+          <div class="faq-item">
+            <div class="faq-q"><strong>Warum setzt BESS EPC auf Lithium-Ionen Batteriegroßspeicher?</strong><span>▾</span></div>
+            <div class="faq-a">Antwort-Placeholder.</div>
+          </div>
+          <div class="faq-item">
+            <div class="faq-q"><strong>Welche Kapazitäten/Leistung besitzen die Batteriespeicher?</strong><span>▾</span></div>
+            <div class="faq-a">Antwort-Placeholder.</div>
+          </div>
+          <div class="faq-item">
+            <div class="faq-q"><strong>Kann die Gemeinde Strom direkt vom Batteriespeicher kaufen bzw. diesen autark nutzen?</strong><span>▾</span></div>
+            <div class="faq-a">Antwort-Placeholder.</div>
+          </div>
+          <div class="faq-item">
+            <div class="faq-q"><strong>Können die Batteriespeicher bei Stromausfällen einen Schwarzstart gewährleisten?</strong><span>▾</span></div>
+            <div class="faq-a">Antwort-Placeholder.</div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Artikel -->
+    <section class="section">
+      <div class="container">
+        <div class="page-tag">/ ARTIKEL & NEWS</div>
+        <h2>Artikel die Sie interessieren könnten</h2>
+
+        <div class="articles" style="margin-top:14px;">
+          <article class="article">
+            <img src="assets/images/articles/energie-speicher-2025.jpg" alt="">
+            <div class="meta">
+              <span class="badge">ALLGEMEIN</span><span>15.10.2025</span>
+            </div>
+            <div style="padding:0 14px 14px;">
+              <h3 style="margin:4px 0 8px;">Video-Update: Benedikt Deuchert im Interview über Netzdienlichkeit</h3>
+              <div class="muted">Lesedauer: 10 min</div>
+            </div>
+          </article>
+
+          <article class="article">
+            <img src="assets/images/articles/baustelle-dahlem.jpg" alt="">
+            <div class="meta">
+              <span class="badge">ALLGEMEIN</span><span>8.8.2025</span>
+            </div>
+            <div style="padding:0 14px 14px;">
+              <h3 style="margin:4px 0 8px;">Video-Update: Baustelle beim Batteriespeicherprojekt in Dahlem</h3>
+              <div class="muted">Lesedauer: 4 min</div>
+            </div>
+          </article>
+
+          <article class="article">
+            <img src="assets/images/articles/markt-trends-2025.jpg" alt="">
+            <div class="meta">
+              <span class="badge">ALLGEMEIN</span><span>17.12.2024</span>
+            </div>
+            <div style="padding:0 14px 14px;">
+              <h3 style="margin:4px 0 8px;">Batteriespeichermarkt im Wandel: Rückblick auf 2024 und die Trends für 2025</h3>
+              <div class="muted">Lesedauer: 6 min</div>
+            </div>
+          </article>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="section" style="padding-top:24px;">
+    <div class="container muted" style="display:flex; gap:12px; flex-wrap:wrap; align-items:center; justify-content:space-between;">
+      <div>© BESS EPC</div>
+      <nav style="display:flex; gap:12px;">
+        <a href="impressum.html">Impressum</a>
+        <a href="datenschutz.html">Datenschutz</a>
+        <a href="index.html#contact">Kontakt</a>
+      </nav>
+    </div>
+  </footer>
+
+  <script>
+    // Tiny FAQ toggler
+    document.querySelectorAll('.faq-q').forEach(q=>{
+      q.addEventListener('click', ()=>{
+        const a = q.parentElement.querySelector('.faq-a');
+        a.style.display = a.style.display==='block' ? 'none':'block';
+      });
+    });
+  </script>
+</body>
+</html>
