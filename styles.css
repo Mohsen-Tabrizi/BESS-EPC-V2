@@ -18,51 +18,45 @@ img{max-width:100%;display:block}
   justify-content: flex-start; /* logo left, nav follows */
 }
 
-.brand {
-  flex: 0 0 auto;
-}
-
-.brand img {
-  height: 36px;
-}
+.brand { flex: 0 0 auto; }
+.brand img { height: 36px; }
 
 /* Navigation styling */
-.nav {
-  display: flex;
-  align-items: center;
-  gap: 18px;               /* spacing between nav links */
-  flex: 1;                 /* take remaining width */
-  margin-left: 28px;       /* space between logo and first link */
-  min-width: 0;
+.nav{
+  display:flex;
+  align-items:center;
+  gap:18px;              /* spacing between nav links */
+  flex:1;                /* take remaining width */
+  margin-left:28px;      /* space between logo and first link */
+  min-width:0;
 }
-
-.nav a {
-  color: #cbd5e1;
-  text-decoration: none;
-}
-
-.nav a:hover {
-  color: #fff;
-}
-
-.nav a.active {
-  border-bottom: 2px solid #fff;
-  padding-bottom: 2px;
-}
+.nav a{ color:#cbd5e1; text-decoration:none; }
+.nav a:hover{ color:#fff; }
+.nav a.active{ border-bottom:2px solid #fff; padding-bottom:2px; }
 
 /* Language button pinned right */
-.lang {
-  margin-left: auto;
-  border: 1px solid rgba(255, 255, 255, .2);
-  background: transparent;
-  color: #cbd5e1;
-  padding: 8px 12px;
-  border-radius: 10px;
-  cursor: pointer;
+.lang{
+  margin-left:auto;
+  border:1px solid rgba(255,255,255,.2);
+  background:transparent;
+  color:#cbd5e1;
+  padding:8px 12px;
+  border-radius:10px;
+  cursor:pointer;
 }
+
 /* Hero + stats */
-.hero{padding:120px 0 40px;background:linear-gradient(180deg,rgba(59,112,184,.12),transparent)}
-.kicker{display:inline-block;border:1px solid rgba(59,112,184,.6);color:#a5b4fc;padding:6px 10px;border-radius:999px;font-size:12px}
+/* NOTE: do NOT re-declare .hero here; that created the big top gap */
+.kicker{
+  display:inline-block;
+  border:1px solid rgba(59,112,184,.6);
+  color:#a5b4fc;
+  padding:8px 14px;           /* bigger pill */
+  border-radius:999px;
+  font-size:14px;             /* larger text (was 12px) */
+  line-height:1;              /* keeps the pill compact */
+}
+
 h1{font-size:44px;line-height:1.1;margin:12px 0 6px}
 .lead{max-width:720px;color:#cbd5e1}
 .grid-4{display:grid;grid-template-columns:repeat(4,1fr);gap:16px}
@@ -95,17 +89,18 @@ h1{font-size:44px;line-height:1.1;margin:12px 0 6px}
 .video-frame{position:relative;border-radius:16px;overflow:hidden;border:1px solid rgba(255,255,255,.06);background:#0f172a}
 .video-frame video{width:100%;height:auto;display:block}
 
-/* Pills */
+/* Optional generic pill (not used for breadcrumb) */
 .pill{
   display:inline-block;
   background: rgba(255,255,255,.10);
   color:#89b4ff;
-  font-size:1rem;                     /* bigger text */
+  font-size:1rem;
   font-weight:600;
-  padding:8px 14px;                   /* roomier */
+  padding:8px 14px;
   border-radius:999px;
   margin-bottom:12px;
 }
+
 /* Form */
 .form{background:var(--card);border:1px solid rgba(255,255,255,.06);border-radius:16px;padding:18px}
 label{display:block;font-size:12px;color:#cbd5e1;margin-bottom:6px}
