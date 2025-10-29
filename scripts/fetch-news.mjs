@@ -47,21 +47,36 @@ function normalize(raw, src) {
 
 async function main() {
   const all = [];
+  const PER_FEED_LIMIT = 6;       // max per feed
+  const TOTAL_LIMIT = 40;         // total max
+  const MAX_AGE_DAYS = 180;       // ignore older than 6 months
+
+  const now = Date.now();
+  const maxAgeMs = MAX_AGE_DAYS * 24 * 60 * 60 * 1000;
+
   for (const { src, url } of FEEDS) {
     try {
       const xml = await fetchXML(url);
       const json = parser.parse(xml);
-      const items = normalize(json, src).slice(0, 6);
+      const items = normalize(json, src)
+        .filter(i => {
+          const t = Date.parse(i.date || "");
+          return !Number.isNaN(t) && (now - t) <= maxAgeMs; // only recent
+        })
+        .slice(0, PER_FEED_LIMIT);
+
       all.push(...items);
     } catch (e) {
-      console.error("Feed error:", src, e.message);
+      console.error("❌ Feed error:", src, e.message);
     }
   }
 
-  // remove duplicates + sort
+  // Deduplicate, sort, and trim
   const dedup = new Map();
   for (const i of all) if (i.link) dedup.set(i.link, i);
-  const out = [...dedup.values()].sort((a, b) => new Date(b.date) - new Date(a.date)).slice(0, 40);
+  const out = [...dedup.values()]
+    .sort((a, b) => new Date(b.date) - new Date(a.date))
+    .slice(0, TOTAL_LIMIT);
 
   await fs.mkdir(path.dirname(OUT), { recursive: true });
   await fs.writeFile(OUT, JSON.stringify(out, null, 2), "utf8");
