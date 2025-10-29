@@ -121,3 +121,10 @@ footer{background:#0b1220;border-top:1px solid rgba(255,255,255,.06);padding:40p
   .cards{grid-template-columns:1fr}
   .grid-2{grid-template-columns:1fr}
 }
+/* --- hard overrides to kill the big gap + tiny label --- */
+.hero{padding-top:70px !important; padding-bottom:40px !important;}
+.kicker{
+  font-size:14px !important;
+  padding:8px 14px !important;
+  border-radius:999px !important;
+}
