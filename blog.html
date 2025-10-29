@@ -29,9 +29,35 @@
   <p class="lead" data-en="Updates on projects, technology and regulation." data-de="Updates zu Projekten, Technologie und Regulierung."></p>
 </div></section>
 
-<section class="section"><div class="container">
-  <div class="card"><p class="muted" data-en="No posts yet." data-de="Noch keine Beiträge."></p></div>
-</div></section>
+<section class="section">
+  <div class="container">
+    <h2>Industry News</h2>
+    <div id="news-list" class="cards" style="margin-top:12px"></div>
+  </div>
+</section>
+
+<script>
+(async () => {
+  try {
+    const res = await fetch('assets/news/news.json', { cache: 'no-store' });
+    const items = await res.json();
+
+    const wrap = document.getElementById('news-list');
+    wrap.innerHTML = items.slice(0, 12).map(i => `
+      <a class="card" href="${i.link}" target="_blank" rel="noopener nofollow">
+        <h3>${i.title}</h3>
+        <p class="muted">${new Date(i.date).toLocaleDateString('de-DE', {
+          year:'numeric', month:'short', day:'2-digit'
+        })} · ${i.source}</p>
+      </a>
+    `).join('');
+  } catch (e) {
+    console.error(e);
+    document.getElementById('news-list').innerHTML =
+      '<p class="muted">Sorry, News konnte nicht geladen werden.</p>';
+  }
+})();
+</script>
 
 <footer>
   <div class="container footer-row">
