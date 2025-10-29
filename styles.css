@@ -6,8 +6,9 @@ img{max-width:100%;display:block}
 .container{max-width:1200px;margin:0 auto;padding:0 24px}
 
 /* Header */
-.header{position:sticky;top:0;z-index:50;background:rgba(11,18,32,.85);backdrop-filter:blur(8px);border-bottom:1px solid rgba(255,255,255,.06)}
-.header-inner{height:72px;display:flex;align-items:center;justify-content:space-between}
+.hero {
+  padding: 70px 0 50px;
+}.header-inner{height:72px;display:flex;align-items:center;justify-content:space-between}
 .brand img{height:36px}
 .nav a{margin-left:18px;color:#cbd5e1}
 .nav a:hover{color:#fff}
@@ -51,8 +52,16 @@ h1{font-size:44px;line-height:1.1;margin:12px 0 6px}
 .video-frame video{width:100%;height:auto;display:block}
 
 /* Pills */
-.pill{display:inline-block;padding:4px 10px;border-radius:999px;background:#0c1626;border:1px solid rgba(255,255,255,.08);font-size:11px;color:#93c5fd;margin-right:8px;white-space:nowrap}
-
+.pill {
+  display: inline-block;
+  background: rgba(255, 255, 255, 0.1);
+  color: #89b4ff;
+  font-size: 0.9rem;       /* previously around 0.75rem */
+  font-weight: 500;
+  padding: 6px 12px;       /* more vertical padding */
+  border-radius: 20px;
+  margin-bottom: 12px;     /* space below the pill */
+}
 /* Form */
 .form{background:var(--card);border:1px solid rgba(255,255,255,.06);border-radius:16px;padding:18px}
 label{display:block;font-size:12px;color:#cbd5e1;margin-bottom:6px}
