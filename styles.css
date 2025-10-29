@@ -6,9 +6,12 @@ img{max-width:100%;display:block}
 .container{max-width:1200px;margin:0 auto;padding:0 24px}
 
 /* Header */
-.hero {
-  padding: 70px 0 50px;
-}.header-inner{height:72px;display:flex;align-items:center;justify-content:space-between}
+/* keep only this .hero */
+.hero{
+  padding: 70px 0 40px;               /* tighter top space */
+  background: linear-gradient(180deg, rgba(59,112,184,.12), transparent);
+}
+.header-inner{height:72px;display:flex;align-items:center;justify-content:space-between}
 .brand img{height:36px}
 .nav a{margin-left:18px;color:#cbd5e1}
 .nav a:hover{color:#fff}
@@ -52,15 +55,15 @@ h1{font-size:44px;line-height:1.1;margin:12px 0 6px}
 .video-frame video{width:100%;height:auto;display:block}
 
 /* Pills */
-.pill {
-  display: inline-block;
-  background: rgba(255, 255, 255, 0.1);
-  color: #89b4ff;
-  font-size: 0.9rem;       /* previously around 0.75rem */
-  font-weight: 500;
-  padding: 6px 12px;       /* more vertical padding */
-  border-radius: 20px;
-  margin-bottom: 12px;     /* space below the pill */
+.pill{
+  display:inline-block;
+  background: rgba(255,255,255,.10);
+  color:#89b4ff;
+  font-size:1rem;                     /* bigger text */
+  font-weight:600;
+  padding:8px 14px;                   /* roomier */
+  border-radius:999px;
+  margin-bottom:12px;
 }
 /* Form */
 .form{background:var(--card);border:1px solid rgba(255,255,255,.06);border-radius:16px;padding:18px}
