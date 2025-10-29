@@ -1,86 +1,128 @@
-// scripts/fetch-news.mjs
-import fs from "node:fs/promises";
-import path from "node:path";
-import { fileURLToPath } from "node:url";
-import { XMLParser } from "fast-xml-parser";
+:root{--primary:#3B70B8;--bg:#0b1220;--card:#0f172a;--muted:#9aa6b2}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:#e2e8f0;font-family:Inter,system-ui,Segoe UI,Roboto,Helvetica,Arial}
+a{color:inherit;text-decoration:none}
+img{max-width:100%;display:block}
+.container{max-width:1200px;margin:0 auto;padding:0 24px}
 
-const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const OUT = path.resolve(__dirname, "../assets/news/news.json");
-
-// List of RSS feeds to pull
-const FEEDS = [
-  { src: "PV Magazine", url: "https://www.pv-magazine.com/feed/" },
-  { src: "Energy Storage News", url: "https://www.energy-storage.news/feed/" },
-  { src: "Clean Energy Wire", url: "https://cleanenergywire.org/rss.xml" },
-  { src: "Fraunhofer ISE", url: "https://www.ise.fraunhofer.de/en.rss" },
-  { src: "Battery-News.de", url: "https://battery-news.de/feed/" },
-  { src: "SMA Newsroom", url: "https://www.sma.de/en/newsroom/rss" }
-];
-
-const parser = new XMLParser({ ignoreAttributes: false, attributeNamePrefix: "" });
-
-async function fetchXML(url) {
-  const res = await fetch(url, { headers: { "user-agent": "github-actions-bot" } });
-  if (!res.ok) throw new Error(`Fetch failed ${res.status} for ${url}`);
-  return await res.text();
+/* Header */
+/* keep only this .hero */
+.hero{
+  padding: 70px 0 40px;               /* tighter top space */
+  background: linear-gradient(180deg, rgba(59,112,184,.12), transparent);
+}
+.header-inner {
+  height: 72px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start; /* logo left, nav follows */
 }
 
-function normalize(raw, src) {
-  if (raw.rss?.channel?.item) {
-    return raw.rss.channel.item.map(i => ({
-      title: i.title?.trim(),
-      link: i.link?.trim(),
-      date: new Date(i.pubDate || i["dc:date"] || i.date || Date.now()).toISOString(),
-      source: src
-    }));
-  }
-  if (raw.feed?.entry) {
-    return raw.feed.entry.map(i => ({
-      title: (i.title?.["#text"] || i.title || "").toString().trim(),
-      link: Array.isArray(i.link) ? (i.link.find(l => l.rel === "alternate")?.href || i.link[0]?.href) : i.link?.href,
-      date: new Date(i.updated || i.published || Date.now()).toISOString(),
-      source: src
-    }));
-  }
-  return [];
+.brand {
+  flex: 0 0 auto;
 }
 
-async function main() {
-  const all = [];
-  const PER_FEED_LIMIT = 6;       // max per feed
-  const TOTAL_LIMIT = 40;         // total max
-  const MAX_AGE_DAYS = 180;       // ignore older than 6 months
-
-  const now = Date.now();
-  const maxAgeMs = MAX_AGE_DAYS * 24 * 60 * 60 * 1000;
-
-  for (const { src, url } of FEEDS) {
-    try {
-      const xml = await fetchXML(url);
-      const json = parser.parse(xml);
-      const items = normalize(json, src)
-        .filter(i => {
-          const t = Date.parse(i.date || "");
-          return !Number.isNaN(t) && (now - t) <= maxAgeMs; // only recent
-        })
-        .slice(0, PER_FEED_LIMIT);
-
-      all.push(...items);
-    } catch (e) {
-      console.error("❌ Feed error:", src, e.message);
-    }
-  }
-
-  // Deduplicate, sort, and trim
-  const dedup = new Map();
-  for (const i of all) if (i.link) dedup.set(i.link, i);
-  const out = [...dedup.values()]
-    .sort((a, b) => new Date(b.date) - new Date(a.date))
-    .slice(0, TOTAL_LIMIT);
-
-  await fs.mkdir(path.dirname(OUT), { recursive: true });
-  await fs.writeFile(OUT, JSON.stringify(out, null, 2), "utf8");
-  console.log(`✅ Wrote ${out.length} items to ${OUT}`);
+.brand img {
+  height: 36px;
 }
 
-await main();
+/* Navigation styling */
+.nav {
+  display: flex;
+  align-items: center;
+  gap: 18px;               /* spacing between nav links */
+  flex: 1;                 /* take remaining width */
+  margin-left: 28px;       /* space between logo and first link */
+  min-width: 0;
+}
+
+.nav a {
+  color: #cbd5e1;
+  text-decoration: none;
+}
+
+.nav a:hover {
+  color: #fff;
+}
+
+.nav a.active {
+  border-bottom: 2px solid #fff;
+  padding-bottom: 2px;
+}
+
+/* Language button pinned right */
+.lang {
+  margin-left: auto;
+  border: 1px solid rgba(255, 255, 255, .2);
+  background: transparent;
+  color: #cbd5e1;
+  padding: 8px 12px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+/* Hero + stats */
+.hero{padding:120px 0 40px;background:linear-gradient(180deg,rgba(59,112,184,.12),transparent)}
+.kicker{display:inline-block;border:1px solid rgba(59,112,184,.6);color:#a5b4fc;padding:6px 10px;border-radius:999px;font-size:12px}
+h1{font-size:44px;line-height:1.1;margin:12px 0 6px}
+.lead{max-width:720px;color:#cbd5e1}
+.grid-4{display:grid;grid-template-columns:repeat(4,1fr);gap:16px}
+.stats .card{background:var(--card);border:1px solid rgba(255,255,255,.06);border-radius:16px;padding:18px}
+.stat{font-size:34px;font-weight:800}
+.stat small{font-size:16px;color:#93c5fd}
+
+/* Sections & cards */
+.section{padding:80px 0}
+.cards,.grid-3,.grid-2{display:grid;gap:18px}
+.cards{grid-template-columns:repeat(3,1fr)}
+.grid-3{grid-template-columns:repeat(3,1fr)}
+.grid-2{grid-template-columns:repeat(2,1fr)}
+.card{background:var(--card);border:1px solid rgba(255,255,255,.06);border-radius:16px;padding:18px}
+.card h3{margin:0 0 6px;color:var(--primary)}
+.row{display:flex;justify-content:space-between;align-items:center;margin-bottom:6px}
+.title{color:var(--primary);font-weight:700}
+.small{font-size:12px}
+.muted{color:var(--muted)}
+
+/* Gallery */
+.gallery{display:grid;grid-template-columns:repeat(4,1fr);gap:8px;margin-top:10px}
+.thumb{width:100%;height:92px;object-fit:cover;border-radius:10px;border:1px solid rgba(255,255,255,.06)}
+
+/* Partner badges */
+.grid-4.badges{grid-template-columns:repeat(4,1fr)}
+.badge{display:flex;align-items:center;justify-content:center;height:46px;border-radius:12px;background:#0c1626;border:1px solid rgba(255,255,255,.06)}
+
+/* Video containers */
+.video-frame{position:relative;border-radius:16px;overflow:hidden;border:1px solid rgba(255,255,255,.06);background:#0f172a}
+.video-frame video{width:100%;height:auto;display:block}
+
+/* Pills */
+.pill{
+  display:inline-block;
+  background: rgba(255,255,255,.10);
+  color:#89b4ff;
+  font-size:1rem;                     /* bigger text */
+  font-weight:600;
+  padding:8px 14px;                   /* roomier */
+  border-radius:999px;
+  margin-bottom:12px;
+}
+/* Form */
+.form{background:var(--card);border:1px solid rgba(255,255,255,.06);border-radius:16px;padding:18px}
+label{display:block;font-size:12px;color:#cbd5e1;margin-bottom:6px}
+input,textarea{width:100%;background:#0b1220;border:1px solid rgba(255,255,255,.12);color:#e2e8f0;border-radius:10px;padding:12px}
+input:focus,textarea:focus{outline:none;border-color:#60a5fa;box-shadow:0 0 0 3px rgba(96,165,250,.25)}
+.form-actions{display:flex;align-items:center;gap:12px;margin-top:12px}
+.btn{background:var(--primary);color:#fff;border:none;padding:12px 16px;border-radius:12px;cursor:pointer}
+
+/* Footer */
+footer{background:#0b1220;border-top:1px solid rgba(255,255,255,.06);padding:40px 0;margin-top:60px}
+.footer-row{display:flex;align-items:center;justify-content:space-between}
+.footer-row .brand img{height:32px}
+
+/* Responsive */
+@media(max-width:1024px){
+  .grid-4{grid-template-columns:repeat(2,1fr)}
+  .grid-3{grid-template-columns:1fr}
+  .cards{grid-template-columns:1fr}
+  .grid-2{grid-template-columns:1fr}
+}
