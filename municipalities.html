@@ -284,16 +284,19 @@
     </section>
   </main>
 
-  <footer class="section" style="padding-top:24px;">
-    <div class="container muted" style="display:flex; gap:12px; flex-wrap:wrap; align-items:center; justify-content:space-between;">
-      <div>© BESS EPC</div>
-      <nav style="display:flex; gap:12px;">
-        <a href="impressum.html">Impressum</a>
-        <a href="datenschutz.html">Datenschutz</a>
-        <a href="index.html#contact">Kontakt</a>
-      </nav>
+<footer>
+  <div class="container footer-row">
+    <a class="brand" href="index.html">
+      <img src="assets/logo/BESS-EPC LogoHorizontal_No background_White_text.png" alt="BESS EPC"/>
+    </a>
+    <div class="muted">
+      <a href="impressum.html">Impressum</a> · <a href="datenschutz.html">Datenschutz</a>
     </div>
-  </footer>
+    <div class="muted">© <span id="year"></span> BESS EPC</div>
+  </div>
+</footer>
+<script>document.getElementById('year').innerText=(new Date()).getFullYear()</script>
+<script src="app.js"></script>
 
   <script>
     // Tiny FAQ toggler
