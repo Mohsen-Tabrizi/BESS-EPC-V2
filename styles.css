@@ -11,14 +11,55 @@ img{max-width:100%;display:block}
   padding: 70px 0 40px;               /* tighter top space */
   background: linear-gradient(180deg, rgba(59,112,184,.12), transparent);
 }
-.header-inner{height:72px;display:flex;align-items:center;justify-content:space-between}
-.brand img{height:36px}
-.nav a{margin-left:18px;color:#cbd5e1}
-.nav a:hover{color:#fff}
-.nav a.active{border-bottom:2px solid #fff;padding-bottom:2px}
-.nav a{margin-left:16px} /* keep spacing tidy on extra items */
-.lang{margin-left:16px;border:1px solid rgba(255,255,255,.2);background:transparent;color:#cbd5e1;padding:8px 12px;border-radius:10px;cursor:pointer}
+.header-inner {
+  height: 72px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start; /* logo left, nav follows */
+}
 
+.brand {
+  flex: 0 0 auto;
+}
+
+.brand img {
+  height: 36px;
+}
+
+/* Navigation styling */
+.nav {
+  display: flex;
+  align-items: center;
+  gap: 18px;               /* spacing between nav links */
+  flex: 1;                 /* take remaining width */
+  margin-left: 28px;       /* space between logo and first link */
+  min-width: 0;
+}
+
+.nav a {
+  color: #cbd5e1;
+  text-decoration: none;
+}
+
+.nav a:hover {
+  color: #fff;
+}
+
+.nav a.active {
+  border-bottom: 2px solid #fff;
+  padding-bottom: 2px;
+}
+
+/* Language button pinned right */
+.lang {
+  margin-left: auto;
+  border: 1px solid rgba(255, 255, 255, .2);
+  background: transparent;
+  color: #cbd5e1;
+  padding: 8px 12px;
+  border-radius: 10px;
+  cursor: pointer;
+}
 /* Hero + stats */
 .hero{padding:120px 0 40px;background:linear-gradient(180deg,rgba(59,112,184,.12),transparent)}
 .kicker{display:inline-block;border:1px solid rgba(59,112,184,.6);color:#a5b4fc;padding:6px 10px;border-radius:999px;font-size:12px}
