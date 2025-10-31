@@ -4,6 +4,24 @@
   <title>For Investors — BESS EPC</title>
   <link rel="icon" type="image/png" href="assets/logo/favicon.png"/>
   <link rel="stylesheet" href="styles.css"/>
+
+  <!-- Force 2×2 grid for the investor cards -->
+  <style>
+    .investors-grid{
+      display:grid;
+      grid-template-columns:repeat(2,minmax(0,1fr));
+      gap:28px;
+    }
+    @media (max-width:960px){
+      .investors-grid{ grid-template-columns:1fr; }
+    }
+    /* Make all card images consistent and full-width */
+    .card img.investor-figure{
+      width:100%;height:auto;
+      margin-top:10px;border-radius:12px;border:1px solid rgba(255,255,255,.06);
+      display:block;
+    }
+  </style>
 </head>
 <body>
 <header class="header">
@@ -33,14 +51,12 @@
       We deliver EU-compliant, <b>bankable Battery Energy Storage Systems</b> combining European project leadership with reliable Asian technology partners.
     </p>
 
-    <!-- Hero infographic -->
     <div class="video-frame" style="margin-top:16px">
       <img src="assets/images/investors/pv-capacity-growth.jpg" alt="PV capacity growth" style="width:100%;height:auto;display:block;">
     </div>
   </div>
 </section>
 
-<!-- Key figures -->
 <section class="section" style="padding-top:36px">
   <div class="container grid-3 stats">
     <div class="card">
@@ -63,9 +79,9 @@
   </div>
 </section>
 
-<!-- 2×2 layout -->
+<!-- STRICT 2×2 GRID -->
 <section class="section">
-  <div class="container cards" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(340px,1fr));gap:28px;">
+  <div class="container investors-grid">
 
     <div class="card">
       <h3>Track Record & Partners</h3>
@@ -78,8 +94,7 @@
         – EPC / Grid works: <b>Eiffage</b>, <b>Leonhard Weiss</b><br><br>
         These ties de-risk execution and scale.
       </p>
-      <img src="assets/images/investors/global-energy-targets.jpg" alt="Targets & build-out"
-           style="margin-top:10px;border-radius:12px;border:1px solid rgba(255,255,255,.06);width:100%;height:auto;">
+      <img class="investor-figure" src="assets/images/investors/global-energy-targets.jpg" alt="Targets & build-out">
     </div>
 
     <div class="card">
@@ -92,8 +107,7 @@
         <b>Market:</b> Stacked revenues (FCR/aFRR, arbitrage, redispatch) with <b>floor/CPA</b> options.<br>
         <b>Financial:</b> Fixed-price EPC, OPEX 2–3 % of CAPEX, comprehensive insurance.
       </p>
-      <img src="assets/images/investors/storage-effects.jpg" alt="Effects of integrated storage"
-           style="margin-top:10px;border-radius:12px;border:1px solid rgba(255,255,255,.06);width:100%;height:auto;">
+      <img class="investor-figure" src="assets/images/investors/storage-effects.jpg" alt="Effects of integrated storage">
     </div>
 
     <div class="card">
@@ -105,8 +119,7 @@
         <b>Returns:</b> Payback &lt; 8 yrs (conservative), IRR &gt; 10 % with hedging.<br>
         <b>Exits:</b> BOT at COD, BOO for yield, or secondary sale (Yr 5–7).
       </p>
-      <img src="assets/images/investors/investment-structure.jpg" alt="Investment structure visual"
-           style="margin-top:10px;border-radius:12px;border:1px solid rgba(255,255,255,.06);width:100%;height:auto;">
+      <img class="investor-figure" src="assets/images/investors/investment-structure.jpg" alt="Investment structure visual">
     </div>
 
     <div class="card">
@@ -114,8 +127,7 @@
       <p class="muted">
         We provide the technical &amp; organizational backbone from development to O&amp;M — bankable engineering, utility-side credibility, and a growing EU pipeline.
       </p>
-      <img src="assets/images/investors/ems-software.jpg" alt="EMS / Software"
-           style="margin-top:10px;border-radius:12px;border:1px solid rgba(255,255,255,.06);width:100%;height:auto;">
+      <img class="investor-figure" src="assets/images/investors/ems-software.jpg" alt="EMS / Software">
     </div>
 
   </div>
