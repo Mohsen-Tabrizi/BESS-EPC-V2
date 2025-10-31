@@ -1,4 +1,3 @@
-
 <!doctype html><html lang="en">
 <head>
   <meta charset="utf-8"/><meta name="viewport" content="width=device-width,initial-scale=1"/>
@@ -14,7 +13,8 @@
       <a href="index.html"           data-en="Home"               data-de="Home"></a>
       <a href="services.html"        data-en="Services"           data-de="Leistungen"></a>
       <a href="business-models.html" class="active" data-en="Business Models" data-de="Geschäftsmodelle"></a>
-<a href="index.html#projects" data-en="References &amp; Pipeline" data-de="Referenzen &amp; Pipeline"></a>      <a href="municipalities.html"  data-en="For Municipalities" data-de="Für Gemeinden"></a>
+      <a href="index.html#projects"  data-en="References &amp; Pipeline" data-de="Referenzen &amp; Pipeline"></a>
+      <a href="municipalities.html"  data-en="For Municipalities" data-de="Für Gemeinden"></a>
       <a href="investors.html"       data-en="For Investors"      data-de="Für Investoren"></a>
       <a href="company.html"         data-en="Company"            data-de="Unternehmen"></a>
       <a href="blog.html"            data-en="Blog &amp; News"     data-de="Blog &amp; News"></a>
@@ -32,42 +32,78 @@
 </section>
 
 <section class="section">
-  <div class="container cards">
-    <!-- PASTE YOUR EXACT CONTENT BELOW (keeps BESS EPC styling) -->
+  <div class="container cards" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(320px,1fr));gap:18px">
+    <!-- 1) Floor / CPA with Aggregators -->
     <div class="card">
+      <img src="assets/images/business-models/bm-floor-cpa.jpg" alt="Floor/CPA" style="width:100%;height:auto;border-radius:12px;margin-bottom:10px;border:1px solid rgba(255,255,255,.06)">
       <h3>Floor / CPA with Aggregators</h3>
-      <p class="muted">PASTE HERE — bullet points, terms, contract structure, responsibilities.</p>
+      <ul class="muted" style="margin:8px 0 0 18px">
+        <li>Minimum revenue (floor) + upside participation</li>
+        <li>Aggregator-backed contracts (FCR/aFRR, redispatch, intraday)</li>
+        <li>Risk sharing via fixed fee + performance bonus</li>
+        <li>Bankable settlement, monthly transparency</li>
+      </ul>
     </div>
-    <div class="card">
-      <h3>Merchant & Energy Trading</h3>
-      <p class="muted">PASTE HERE — arbitrage, intraday, FCR/aFRR/mFRR, risk allocation.</p>
-    </div>
-    <div class="card">
-      <h3>Hybrid PV+BESS</h3>
-      <p class="muted">PASTE HERE — BtM/FtM, PPA coupling, curtailment relief, revenue stacking.</p>
-    </div>
-    <div class="card">
-      <h3>Storage-as-a-Service</h3>
-      <p class="muted">PASTE HERE — service model, SLAs, uptime, penalties, revenue share.</p>
-    </div>
-<!-- New Business Model Card 5 -->
-<div class="card">
-  <h3 class="accent">EPC+F / BOT Models</h3>
-  <p class="muted">
-    Turnkey delivery with financing; Build-Operate-Transfer or leasing structures
-    for investors and utilities.
-  </p>
-</div>
 
-<!-- New Business Model Card 6 -->
-<div class="card">
-  <h3 class="accent">PPA-Linked Storage</h3>
-  <p class="muted">
-    Storage integrated into Power Purchase Agreements; enhances revenue stacking
-    and flexibility under long-term contracts.
-  </p>
-</div>
-    <!-- /PASTE -->
+    <!-- 2) Merchant & Energy Trading -->
+    <div class="card">
+      <img src="assets/images/business-models/bm-merchant-trading.jpg" alt="Merchant & Trading" style="width:100%;height:auto;border-radius:12px;margin-bottom:10px;border:1px solid rgba(255,255,255,.06)">
+      <h3>Merchant & Energy Trading</h3>
+      <ul class="muted" style="margin:8px 0 0 18px">
+        <li>Day-ahead / intraday arbitrage with EMS dispatch</li>
+        <li>Balancing markets: FCR, aFRR, mFRR</li>
+        <li>Dynamic SoC / degradation controls to protect assets</li>
+        <li>Hedging with seasonal strategies</li>
+      </ul>
+    </div>
+
+    <!-- 3) Hybrid PV+BESS -->
+    <div class="card">
+      <img src="assets/images/business-models/bm-hybrid-pv-bess.jpg" alt="Hybrid PV+BESS" style="width:100%;height:auto;border-radius:12px;margin-bottom:10px;border:1px solid rgba(255,255,255,.06)">
+      <h3>Hybrid PV + BESS</h3>
+      <ul class="muted" style="margin:8px 0 0 18px">
+        <li>Curtailment relief &amp; self-consumption optimization</li>
+        <li>BtM or FtM with PPA coupling and grid-code compliance</li>
+        <li>Revenue stacking: arbitrage + balancing + peak shaving</li>
+        <li>Improved CAPEX utilization and grid stability</li>
+      </ul>
+    </div>
+
+    <!-- 4) Storage-as-a-Service -->
+    <div class="card">
+      <img src="assets/images/business-models/bm-saas.jpg" alt="Storage-as-a-Service" style="width:100%;height:auto;border-radius:12px;margin-bottom:10px;border:1px solid rgba(255,255,255,.06)">
+      <h3>Storage-as-a-Service</h3>
+      <ul class="muted" style="margin:8px 0 0 18px">
+        <li>No CAPEX — pay per performance</li>
+        <li>SLAs &ge; 98% availability, penalties for shortfall</li>
+        <li>Full O&amp;M, monitoring, warranty management</li>
+        <li>Option to convert into ownership later</li>
+      </ul>
+    </div>
+
+    <!-- 5) EPC+F / BOT Models -->
+    <div class="card">
+      <img src="assets/images/business-models/bm-epcf-bot.jpg" alt="EPC+F / BOT" style="width:100%;height:auto;border-radius:12px;margin-bottom:10px;border:1px solid rgba(255,255,255,.06)">
+      <h3>EPC+F / BOT Models</h3>
+      <ul class="muted" style="margin:8px 0 0 18px">
+        <li>Turnkey delivery with financing options</li>
+        <li>Fixed-price EPC; OPEX 2–3% of CAPEX</li>
+        <li>Build-Operate-Transfer / BOO / leasing structures</li>
+        <li>Exits at COD or years 5–7 (secondary)</li>
+      </ul>
+    </div>
+
+    <!-- 6) PPA-Linked Storage -->
+    <div class="card">
+      <img src="assets/images/business-models/bm-ppa-linked.jpg" alt="PPA-Linked Storage" style="width:100%;height:auto;border-radius:12px;margin-bottom:10px;border:1px solid rgba(255,255,255,.06)">
+      <h3>PPA-Linked Storage</h3>
+      <ul class="muted" style="margin:8px 0 0 18px">
+        <li>Storage integrated into long-term PPAs</li>
+        <li>Hedging + flexibility; higher capture price</li>
+        <li>Revenue stacking inside PPA framework</li>
+        <li>EU Taxonomy / ESG-aligned structures</li>
+      </ul>
+    </div>
   </div>
 </section>
 
