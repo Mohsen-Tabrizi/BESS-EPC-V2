@@ -1,5 +1,65 @@
 [
   {
+    "title": "Researchers develop antimony-doped n-type silicon ingots to enhance solar module mechanical strength",
+    "link": "https://www.pv-magazine.com/2025/11/05/researchers-develop-antimony-doped-n-type-silicon-ingots-to-enhance-the-mechanical-strength-of-solar-modules/",
+    "date": "2025-11-05T12:32:15.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Xcel Energy plans 600MW &#8216;US Midwest&#8217;s largest BESS project&#8217; in Minnesota",
+    "link": "https://www.energy-storage.news/xcel-energy-plans-600mw-us-midwests-largest-bess-project-in-minnesota/",
+    "date": "2025-11-05T12:23:51.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Canadian LG Energy Solution and Stellantis joint venture to produce LFP cells for BESS",
+    "link": "https://www.energy-storage.news/canadian-lg-energy-solution-and-stellantis-joint-venture-to-produce-lfp-cells-for-bess/",
+    "date": "2025-11-05T12:19:30.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "New simulation tool to measure angular losses in PV systems",
+    "link": "https://www.pv-magazine.com/2025/11/05/new-simulation-tool-to-measure-angular-losses-in-pv-systems/",
+    "date": "2025-11-05T12:12:02.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Dubai expands storage in seventh phase of world’s largest solar park",
+    "link": "https://www.pv-magazine.com/2025/11/05/dubai-expands-storage-in-seventh-phase-of-worlds-largest-solar-park/",
+    "date": "2025-11-05T12:00:00.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Argentina’s EPSE to begin module output at 400 MW solar factory",
+    "link": "https://www.pv-magazine.com/2025/11/05/argentinas-epse-to-begin-module-output-at-400-mw-solar-factory/",
+    "date": "2025-11-05T10:00:42.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Solar cell inspection tool evolution set to slash manufacturing costs by billions",
+    "link": "https://www.pv-magazine.com/2025/11/05/solar-cell-inspection-tool-evolution-set-to-slash-manufacturing-costs-by-billions/",
+    "date": "2025-11-05T09:15:24.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "India’s Avaada unveils hybrid solar battery inverter",
+    "link": "https://www.pv-magazine.com/2025/11/05/indias-avaada-unveils-hybrid-solar-battery-inverter-at-rei-2025/",
+    "date": "2025-11-05T08:35:06.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "WACKER entwickelt Gap-Filler für Leistungselektronik im E-Auto",
+    "link": "https://battery-news.de/2025/11/05/wacker-entwickelt-gap-filler-fuer-leistungselektronik-im-e-auto/",
+    "date": "2025-11-05T07:15:00.000Z",
+    "source": "Battery-News.de"
+  },
+  {
+    "title": "Osaka Gas and Sonnedix prepare Japan’s ‘largest renewable battery storage facility’",
+    "link": "https://www.energy-storage.news/osaka-gas-and-sonnedix-prepare-japans-largest-renewable-battery-storage-facility/",
+    "date": "2025-11-05T06:56:40.000Z",
+    "source": "Energy Storage News"
+  },
+  {
     "title": "AGL seeks federal approval for 2,000MWh battery storage system in Queensland, Australia",
     "link": "https://www.energy-storage.news/agl-seeks-federal-approval-for-2000mwh-battery-storage-system-in-queensland-australia/",
     "date": "2025-11-05T05:18:50.000Z",
@@ -15,60 +75,6 @@
     "title": "Australia’s home battery rebate processes ‘8,000 applications weekly’ as storage capacity surges",
     "link": "https://www.energy-storage.news/australias-home-battery-rebate-processes-8000-applications-weekly-as-storage-capacity-surges/",
     "date": "2025-11-05T05:06:20.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "Musk proposes PV-powered AI satellite network to fight global warming",
-    "link": "https://www.pv-magazine.com/2025/11/04/musk-proposes-solar-powered-ai-satellite-network-to-fight-global-warming/",
-    "date": "2025-11-04T16:30:01.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Belgian grid operator reports sharp decline in solar inverter failures",
-    "link": "https://www.pv-magazine.com/2025/11/04/belgian-grid-operator-reports-sharp-decline-in-solar-inverter-failures/",
-    "date": "2025-11-04T16:00:52.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Portugal’s EDP, Rondo sign PPA for solar-powered industrial heat project",
-    "link": "https://www.pv-magazine.com/2025/11/04/portugals-edp-rondo-sign-ppa-for-solar-powered-industrial-heat-project/",
-    "date": "2025-11-04T15:30:22.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "AlphaESS launches all-in-one storage systems for C&#038;I applications",
-    "link": "https://www.pv-magazine.com/2025/11/04/alphaess-unveils-integrated-storage-for-ci-applications-in-china/",
-    "date": "2025-11-04T14:50:08.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Drax buys 260MW of in-development UK BESS projects",
-    "link": "https://www.energy-storage.news/drax-buys-260mw-of-in-development-uk-bess-projects/",
-    "date": "2025-11-04T14:37:07.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "ZincFive unveils BC 2 AI battery system for both AI and traditional IT loads",
-    "link": "https://www.pv-magazine.com/2025/11/04/zincfive-unveils-bc-2-ai-battery-system-for-both-ai-and-traditional-it-loads/",
-    "date": "2025-11-04T14:33:03.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "GSE Intégration debuts reversible, concrete-free solar mounting in France",
-    "link": "https://www.pv-magazine.com/2025/11/04/frances-gse-integration-unveils-reversible-concrete-free-pv-mounting-system/",
-    "date": "2025-11-04T12:00:42.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Baltic Storage Platform secures finance for Estonia BESS, Lithuanian scheme oversubscribed",
-    "link": "https://www.energy-storage.news/baltic-storage-platform-secures-finance-for-estonia-bess-lithuanian-scheme-oversubscribed/",
-    "date": "2025-11-04T11:59:46.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "Cold beer, hot bricks: Heineken signs deals for 100MWh thermal energy storage system",
-    "link": "https://www.energy-storage.news/cold-beer-hot-bricks-heineken-signs-deals-for-100mwh-thermal-energy-storage-system/",
-    "date": "2025-11-04T11:50:30.000Z",
     "source": "Energy Storage News"
   },
   {
@@ -99,12 +105,6 @@
     "title": "Bau der PowerCo-Gigafactory in Kanada beginnt",
     "link": "https://battery-news.de/2025/10/30/bau-der-powerco-gigafactory-in-kanada-beginnt/",
     "date": "2025-10-30T08:00:58.000Z",
-    "source": "Battery-News.de"
-  },
-  {
-    "title": "Sunwoda präsentiert neue Festkörperbatterie",
-    "link": "https://battery-news.de/2025/10/29/sunwoda-praesentiert-neue-festkoerperbatterie/",
-    "date": "2025-10-29T07:24:15.000Z",
     "source": "Battery-News.de"
   }
 ]
