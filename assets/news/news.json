@@ -1,15 +1,75 @@
 [
   {
+    "title": "Italy awards 2 GW in first agrivoltaic tender backed by EU funds",
+    "link": "https://www.pv-magazine.com/2025/11/12/italy-awards-2-5-gw-in-first-agrivoltaic-tender-backed-by-eu-funds/",
+    "date": "2025-11-12T12:45:23.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "German network operators approve grid connection of 46 GWh of storage at medium voltage level",
+    "link": "https://www.pv-magazine.com/2025/11/12/german-network-operators-approve-grid-connection-of-46-gwh-of-storage-at-medium-voltage-level/",
+    "date": "2025-11-12T12:36:04.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Finland: IPPs order BESS from Merus and Sungrow as market shifts to 2-hour systems",
+    "link": "https://www.energy-storage.news/finland-ipps-order-bess-from-merus-and-sungrow-as-market-shifts-to-2-hour-systems/",
+    "date": "2025-11-12T12:32:49.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "US-based mPower Technology opens automated solar module line for space",
+    "link": "https://www.pv-magazine.com/2025/11/12/automated-solar-module-production-line-for-space-applications-begins-operating/",
+    "date": "2025-11-12T12:05:06.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Optimizing PV system tilt angle, MPPT using fuzzy logic controller",
+    "link": "https://www.pv-magazine.com/2025/11/12/optimizing-pv-system-tilt-angle-mppt-using-fuzzy-logic-controller/",
+    "date": "2025-11-12T11:54:07.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "U.S. scientists build graphene-based solar cells than can charge supercapacitors",
+    "link": "https://www.pv-magazine.com/2025/11/12/us-scientists-build-graphene-based-solar-cells-than-can-charge-supercapacitors/",
+    "date": "2025-11-12T11:39:56.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "How important is cell-to-ESS vertical integration?",
+    "link": "https://www.energy-storage.news/how-important-is-cell-to-ess-vertical-integration/",
+    "date": "2025-11-12T10:06:24.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "California legislation sets new safety standards for battery storage",
+    "link": "https://www.pv-magazine.com/2025/11/12/california-legislation-sets-new-safety-standards-for-battery-storage/",
+    "date": "2025-11-12T09:15:51.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Three battery projects totalling 720MW enter Australia’s federal environmental assessment",
+    "link": "https://www.energy-storage.news/three-battery-projects-totalling-720mw-enter-australias-federal-environmental-assessment/",
+    "date": "2025-11-12T09:09:22.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "QIC, EDP partner for 1,600MWh solar-plus-storage project in Queensland, Australia",
+    "link": "https://www.energy-storage.news/qic-edp-partner-for-1600mwh-solar-plus-storage-project-in-queensland-australia/",
+    "date": "2025-11-12T09:04:34.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Fraunhofer IWS startet „DRYplatform“ für industrielle Batteriezellen-Forschung",
+    "link": "https://battery-news.de/2025/11/12/fraunhofer-iws-startet-dryplatform-fuer-industrielle-batteriezellen-forschung/",
+    "date": "2025-11-12T06:59:57.000Z",
+    "source": "Battery-News.de"
+  },
+  {
     "title": "Egypt&#8217;s government, TSO sign agreements for Hassan Allam, Infinity Power&#8217;s solar-plus-storage",
     "link": "https://www.energy-storage.news/egypts-government-tso-sign-agreements-for-hassan-allam-infinity-powers-solar-plus-storage/",
     "date": "2025-11-11T16:18:54.000Z",
     "source": "Energy Storage News"
-  },
-  {
-    "title": "Aira unveils battery storage system and inverter range",
-    "link": "https://www.pv-magazine.com/2025/11/11/aira-unveils-battery-storage-system-and-inverter-range/",
-    "date": "2025-11-11T15:09:25.000Z",
-    "source": "PV Magazine"
   },
   {
     "title": "Enlight secures US$1.44 billion for Arizona hybrid PV plant with 1,900MWh BESS",
@@ -18,64 +78,10 @@
     "source": "Energy Storage News"
   },
   {
-    "title": "NGK pulls plug on world’s second-most-deployed grid storage battery technology after BASF exit",
-    "link": "https://www.energy-storage.news/ngk-basf-exit-second-most-deployed-grid-storage-battery-technology/",
-    "date": "2025-11-11T13:25:14.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "Brazil opens consultation for 2026 battery storage capacity auction",
-    "link": "https://www.pv-magazine.com/2025/11/11/brazil-opens-consultation-for-2026-battery-storage-capacity-auction/",
-    "date": "2025-11-11T13:15:55.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Waaree unveils 645 W back contact solar module with 23.88% efficiency",
-    "link": "https://www.pv-magazine.com/2025/11/11/waaree-unveils-645-w-back-contact-solar-module-with-23-88-efficiency/",
-    "date": "2025-11-11T12:21:55.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Ghana starts working on nation’s largest solar project",
-    "link": "https://www.pv-magazine.com/2025/11/11/ghana-starts-working-on-nations-largest-solar-project/",
-    "date": "2025-11-11T12:05:22.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Solinteg unveils hybrid inverter series for C&#038;I applications",
-    "link": "https://www.pv-magazine.com/2025/11/11/solinteg-unveils-hybrid-inverter-series-for-ci-applications/",
-    "date": "2025-11-11T11:48:55.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "The future arrived early: Why our energy cost forecasts need to catch up",
-    "link": "https://www.pv-magazine.com/2025/11/11/the-future-arrived-early-why-our-energy-cost-forecasts-need-to-catch-up/",
-    "date": "2025-11-11T11:41:49.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "VIDEO: The relevance of project customisation for Latin America&#8217;s successful adoption of BESS technologies",
-    "link": "https://www.energy-storage.news/video-the-relevance-of-project-customisation-for-latin-americas-successful-adoption-of-bess-technologies/",
-    "date": "2025-11-11T09:40:43.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "‘Catastrophic failure&#8217; of transformer at Waratah Super Battery, Australia&#8217;s &#8216;giant shock-absorber&#8217; for the grid",
-    "link": "https://www.energy-storage.news/catastrophic-failure-of-transformer-at-waratah-super-battery-australias-giant-shock-absorber-for-the-grid/",
-    "date": "2025-11-11T08:48:17.000Z",
-    "source": "Energy Storage News"
-  },
-  {
     "title": "Redwood startet Rückgewinnung kritischer Rohstoffe in South Carolina",
     "link": "https://battery-news.de/2025/11/11/redwood-startet-rueckgewinnung-kritischer-rohstoffe-in-south-carolina/",
     "date": "2025-11-11T08:00:00.000Z",
     "source": "Battery-News.de"
-  },
-  {
-    "title": "US ROUNDUP: Fullmark California portfolio, Habitat-Ørsted Texas optimisation, flow battery player Quino secures funding",
-    "link": "https://www.energy-storage.news/us-roundup-fullmark-california-portfolio-habitat-orsted-texas-optimisation-flow-battery-player-quino-secures-funding/",
-    "date": "2025-11-10T11:51:33.000Z",
-    "source": "Energy Storage News"
   },
   {
     "title": "Toyota verschiebt Bau des Batteriewerks in Fukuoka erneut",
@@ -99,12 +105,6 @@
     "title": "Natrium-Ionen-Batterien: Sinopec und LG Chem entwickeln Materialien",
     "link": "https://battery-news.de/2025/11/06/sinopec-und-lg-chem-entwickeln-materialien-fuer-natrium-ionen-batterien/",
     "date": "2025-11-06T06:55:57.000Z",
-    "source": "Battery-News.de"
-  },
-  {
-    "title": "WACKER entwickelt Gap-Filler für Leistungselektronik im E-Auto",
-    "link": "https://battery-news.de/2025/11/05/wacker-entwickelt-gap-filler-fuer-leistungselektronik-im-e-auto/",
-    "date": "2025-11-05T07:15:00.000Z",
     "source": "Battery-News.de"
   }
 ]
