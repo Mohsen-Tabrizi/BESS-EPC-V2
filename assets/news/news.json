@@ -1,21 +1,57 @@
 [
   {
+    "title": "IRENA seeks consultant for solar feasibility study in Ukraine",
+    "link": "https://www.pv-magazine.com/2025/11/27/irena-seeks-consultant-for-solar-feasibility-study-in-ukraine/",
+    "date": "2025-11-27T12:00:38.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Italian battery storage market pipeline soars, developers flock from around Europe",
+    "link": "https://www.energy-storage.news/italian-battery-storage-market-pipeline-soars-developers-flock-from-around-europe/",
+    "date": "2025-11-27T11:51:01.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "China advances 4.2 GWh compressed air storage project",
+    "link": "https://www.pv-magazine.com/2025/11/27/china-advances-4-2-gwh-compressed-air-storage-project/",
+    "date": "2025-11-27T10:00:07.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Philippines commissions 6.5 MW solar project for social housing",
+    "link": "https://www.pv-magazine.com/2025/11/27/philippines-commissions-6-5-mw-solar-project-for-social-housing/",
+    "date": "2025-11-27T09:24:10.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "First Graphene, Halocell sign deal on graphene-based carbon paste",
+    "link": "https://www.pv-magazine.com/2025/11/27/first-graphene-halocell-sign-deal-on-graphene-based-carbon-paste/",
+    "date": "2025-11-27T09:15:49.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "JinkoSolar achieves world record efficiency of 27.79% for TOPCon solar cell",
+    "link": "https://www.pv-magazine.com/2025/11/27/jinkosolar-achieves-world-record-efficiency-of-27-79-for-topcon-solar-cell/",
+    "date": "2025-11-27T09:11:10.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "New research sheds light on passivation-related defects in heterojunction solar cells",
+    "link": "https://www.pv-magazine.com/2025/11/27/korean-scientists-shed-light-on-passivation-related-defects-in-heterojunction-solar-cells/",
+    "date": "2025-11-27T08:49:51.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "CATL startet Bau von Batteriefabrik in Spanien",
+    "link": "https://battery-news.de/2025/11/27/catl-startet-bau-von-batteriefabrik-in-spanien/",
+    "date": "2025-11-27T08:12:39.000Z",
+    "source": "Battery-News.de"
+  },
+  {
     "title": "Western Australia seeks local vanadium for 500MWh Kalgoorlie battery storage project",
     "link": "https://www.energy-storage.news/western-australia-seeks-local-vanadium-for-500mwh-kalgoorlie-battery-storage-project/",
     "date": "2025-11-27T00:00:00.000Z",
     "source": "Energy Storage News"
-  },
-  {
-    "title": "Mexico advances new wave of large-scale solar and storage projects",
-    "link": "https://www.pv-magazine.com/2025/11/26/new-large-scale-pv-projects-proliferate-in-mexico/",
-    "date": "2025-11-26T16:52:58.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "German developer commissions nation&#8217;s largest solar carport",
-    "link": "https://www.pv-magazine.com/2025/11/26/germanys-largest-pv-carport-comes-online/",
-    "date": "2025-11-26T16:45:36.000Z",
-    "source": "PV Magazine"
   },
   {
     "title": "‘It&#8217;s effectively a full reset of the system’: Habitat Energy on ERCOT’s RTC+B market changes",
@@ -24,34 +60,10 @@
     "source": "Energy Storage News"
   },
   {
-    "title": "European solar manufacturing ‘considerably behind’ NZIA targets, says EU observatory",
-    "link": "https://www.pv-magazine.com/2025/11/26/european-solar-manufacturing-considerably-behind-nzia-targets-says-eu-observatory/",
-    "date": "2025-11-26T14:25:08.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Plenitude tests perovskite-silicon tandem solar modules in utility-scale installation pilot",
-    "link": "https://www.pv-magazine.com/2025/11/26/plenitude-tests-perovskite-silicon-tandem-solar-modules-in-utility-scale-installation-pilot/",
-    "date": "2025-11-26T13:20:32.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Nexwafe secures cash injection from EU scale up funding",
-    "link": "https://www.pv-magazine.com/2025/11/26/nexwafe-secures-cash-injection-from-eu-scale-up-funding/",
-    "date": "2025-11-26T13:20:09.000Z",
-    "source": "PV Magazine"
-  },
-  {
     "title": "Liquid air energy storage startup Highview breaks ground at 300MWh UK project",
     "link": "https://www.energy-storage.news/liquid-air-energy-storage-startup-highview-breaks-ground-at-300mwh-uk-project/",
     "date": "2025-11-26T12:34:01.000Z",
     "source": "Energy Storage News"
-  },
-  {
-    "title": "Longi achieves 33.35% efficiency for flexible perovskite-silicon tandem solar cell",
-    "link": "https://www.pv-magazine.com/2025/11/26/longi-achieves-33-35-efficiency-for-flexible-perovskite-silicon-tandem-solar-cell/",
-    "date": "2025-11-26T12:09:24.000Z",
-    "source": "PV Magazine"
   },
   {
     "title": "Fluence &#8216;expects to meet FEOC compliance by regulatory deadlines,&#8217; offers 2026 guidance",
@@ -63,12 +75,6 @@
     "title": "250MWh &#8216;Sand Battery&#8217; to start construction in Finland, for both heating and ancillary services",
     "link": "https://www.energy-storage.news/250mwh-sand-battery-to-start-construction-in-finland-for-both-heating-and-ancillary-services/",
     "date": "2025-11-26T11:55:30.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "&#8216;Rapid growth but disorderly competiton&#8217;: Longi enters energy storage industry with PotisEdge deal",
-    "link": "https://www.energy-storage.news/rapid-growth-but-disorderly-competiton-longi-enters-energy-storage-industry-with-potisedge-deal/",
-    "date": "2025-11-26T10:58:52.000Z",
     "source": "Energy Storage News"
   },
   {
@@ -99,12 +105,6 @@
     "title": "HyperStrong besiegelt Großbeschaffung von CATL-Batteriezellen",
     "link": "https://battery-news.de/2025/11/21/hyperstrong-besiegelt-grossbeschaffung-von-catl-batteriezellen/",
     "date": "2025-11-21T06:04:50.000Z",
-    "source": "Battery-News.de"
-  },
-  {
-    "title": "LG Energy Solution plant LFP-Batterieproduktion in Südkorea",
-    "link": "https://battery-news.de/2025/11/20/lg-energy-solution-plant-lfp-batterieproduktion-in-suedkorea/",
-    "date": "2025-11-20T08:22:16.000Z",
     "source": "Battery-News.de"
   }
 ]
