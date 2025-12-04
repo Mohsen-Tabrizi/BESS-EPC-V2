@@ -1,45 +1,63 @@
 [
   {
+    "title": "Tunisia accelerates large-scale solar as new players enter market",
+    "link": "https://www.pv-magazine.com/2025/12/04/tunisias-pv-deployment-moving-forward/",
+    "date": "2025-12-04T16:50:10.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "RWE commissions Texas solar-plus-storage project",
+    "link": "https://www.energy-storage.news/rwe-commissions-texas-solar-plus-storage-project/",
+    "date": "2025-12-04T15:31:37.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Germany records growth in solar self-consumption",
+    "link": "https://www.pv-magazine.com/2025/12/04/germany-records-growth-in-solar-self-consumption/",
+    "date": "2025-12-04T15:21:31.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Ofgem approves GBP 10.3 billion investment in UK transmission grid",
+    "link": "https://www.pv-magazine.com/2025/12/04/ofgem-approves-gbp-10-3-billion-investment-in-uk-transmission-grid/",
+    "date": "2025-12-04T15:20:01.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Indiana utility to deliver 1.6GWh BESS for Amazon’s data center expansion, though fossil fuels form major part of package",
+    "link": "https://www.energy-storage.news/indiana-utility-to-deliver-1-6gwh-bess-for-amazons-data-center-expansion-though-fossil-fuels-form-major-part-of-package/",
+    "date": "2025-12-04T15:16:06.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "SMA launches new containerized medium-voltage substation for large-scale BESS and solar plants",
+    "link": "https://www.pv-magazine.com/2025/12/04/sma-launches-new-containerized-medium-voltage-substation-for-large-scale-bess-and-solar-plants/",
+    "date": "2025-12-04T14:16:01.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "How to build giant solar plants in mountainous areas",
+    "link": "https://www.pv-magazine.com/2025/12/04/how-to-build-giant-solar-plants-in-mountainous-areas/",
+    "date": "2025-12-04T14:13:30.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "German startup installs industrial heat pump producing 139 C steam",
+    "link": "https://www.pv-magazine.com/2025/12/04/german-startup-installs-industrial-heat-pump-producing-139c-steam/",
+    "date": "2025-12-04T13:57:08.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "PJM awards interconnection agreements to 23 BESS resources",
+    "link": "https://www.energy-storage.news/pjm-awards-interconnection-agreements-to-23-bess-resources/",
+    "date": "2025-12-04T13:31:10.000Z",
+    "source": "Energy Storage News"
+  },
+  {
     "title": "Germany Roundup: 500MW BESS and data centre transaction, seven-year toll and 370MW pipeline secured",
     "link": "https://www.energy-storage.news/germany-roundup-500mw-bess-and-data-centre-transaction-seven-year-toll-and-370mw-pipeline-secured/",
     "date": "2025-12-04T12:06:13.000Z",
     "source": "Energy Storage News"
-  },
-  {
-    "title": "Great British Energy plans 15 GW clean energy investment",
-    "link": "https://www.pv-magazine.com/2025/12/04/great-british-energy-plans-15-gw-clean-energy-investment/",
-    "date": "2025-12-04T12:00:56.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Polish energy regulator warns against fake solar inspections",
-    "link": "https://www.pv-magazine.com/2025/12/04/polish-energy-regulator-warns-against-fake-solar-inspections/",
-    "date": "2025-12-04T11:49:14.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Fraunhofer ISE achieves 30.6% efficiency for perovskite-silicon tandem based on industry-standard bottom TOPCon cell",
-    "link": "https://www.pv-magazine.com/2025/12/04/fraunhofer-ise-achieves-30-6-efficiency-for-perovskite-silicon-tandem-based-on-industry-standard-bottom-topcon-cell/",
-    "date": "2025-12-04T10:47:27.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Japan launches call for road-surface solar technologies",
-    "link": "https://www.pv-magazine.com/2025/12/04/japan-launches-call-for-road-surface-solar-technologies/",
-    "date": "2025-12-04T10:15:46.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Belgian grid operator enters final phase of digital meter rollout",
-    "link": "https://www.pv-magazine.com/2025/12/04/belgian-grid-operator-enters-final-phase-of-digital-meter-rollout/",
-    "date": "2025-12-04T09:03:08.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Vertical PV system at Japanese parking lot operating under PPA",
-    "link": "https://www.pv-magazine.com/2025/12/04/vertical-pv-system-at-japanese-parking-lot-operating-under-ppa/",
-    "date": "2025-12-04T08:42:55.000Z",
-    "source": "PV Magazine"
   },
   {
     "title": "„Vulcan Energy“ sichert Finanzierung des deutschen Lithium-Projekts",
@@ -57,24 +75,6 @@
     "title": "Zenith locks in 25-year PPA for 300MWh hybrid storage project at Western Australia gold mine",
     "link": "https://www.energy-storage.news/zenith-locks-in-25-year-ppa-for-300mwh-hybrid-storage-project-at-western-australia-gold-mine/",
     "date": "2025-12-04T02:00:00.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "ABB acquires Gamesa Electric power electronics division for undisclosed sum",
-    "link": "https://www.energy-storage.news/abb-acquires-gamesa-electric-power-electronics-division-for-undisclosed-sum/",
-    "date": "2025-12-03T13:51:40.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "Ontario municipality denies support for 3.2GWh BESS project ahead of looming IESO RFP deadline",
-    "link": "https://www.energy-storage.news/ontario-municipality-denies-support-for-3-2gwh-bess-project-ahead-of-looming-ieso-rfp-deadline/",
-    "date": "2025-12-03T12:56:32.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "Cache Power plans ‘Canada’s first’ commercial-scale compressed air energy storage facility",
-    "link": "https://www.energy-storage.news/cache-power-plans-canadas-first-commercial-scale-compressed-air-energy-storage-facility/",
-    "date": "2025-12-03T12:38:23.000Z",
     "source": "Energy Storage News"
   },
   {
