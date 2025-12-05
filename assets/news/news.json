@@ -1,15 +1,69 @@
 [
   {
+    "title": "M-Tec launches modular propane heat pump for residential, commercial use",
+    "link": "https://www.pv-magazine.com/2025/12/05/m-tec-launches-modular-propane-heat-pump-for-residential-commercial-use/",
+    "date": "2025-12-05T11:43:28.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "BrightNight and Cordelio close on 800MWh Washington state BESS",
+    "link": "https://www.energy-storage.news/brightnight-and-cordelio-close-on-800mwh-washington-state-bess/",
+    "date": "2025-12-05T11:24:00.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Large-scale agrivoltaics come to Norway",
+    "link": "https://www.pv-magazine.com/2025/12/05/large-scale-agrivoltaics-come-to-norway/",
+    "date": "2025-12-05T10:53:41.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Cooling PV modules with seawater",
+    "link": "https://www.pv-magazine.com/2025/12/05/cooling-pv-modules-with-seawater/",
+    "date": "2025-12-05T10:39:41.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Panasonic testing PV-driven hydrogen platform in Germany",
+    "link": "https://www.pv-magazine.com/2025/12/05/panasonic-testing-pv-driven-hydrogen-platform-in-germany/",
+    "date": "2025-12-05T10:26:08.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Endurans Solar launches transparent backsheet for utility-scale bifacial modules",
+    "link": "https://www.pv-magazine.com/2025/12/05/endurans-solar-launches-transparent-backsheet-for-utility-scale-bifacial-modules/",
+    "date": "2025-12-05T10:04:34.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Offshore solar could achieve LCOE of less than $0.06/kWh in Thailand, Malaysia",
+    "link": "https://www.pv-magazine.com/2025/12/05/offshore-solar-could-achieve-lcoe-of-less-than-0-06-kwh-in-thailand-malaysia/",
+    "date": "2025-12-05T10:03:55.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Unternehmen können Konsortialstudie für KI-Lösungen beitreten",
+    "link": "https://battery-news.de/2025/12/05/unternehmen-koennen-konsortialstudie-fuer-ki-loesungen-beitreten/",
+    "date": "2025-12-05T09:52:04.000Z",
+    "source": "Battery-News.de"
+  },
+  {
+    "title": "ADS-TEC battery-buffered EV fast chargers put into ancillary services market in Austria",
+    "link": "https://www.energy-storage.news/ads-tec-battery-buffered-ev-fast-chargers-put-into-ancillary-services-market-in-austria/",
+    "date": "2025-12-05T09:16:16.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "POSCO und Factorial kooperieren bei Festkörperbatterien",
+    "link": "https://battery-news.de/2025/12/05/posco-und-factorial-kooperieren-bei-festkoerperbatterien/",
+    "date": "2025-12-05T07:49:39.000Z",
+    "source": "Battery-News.de"
+  },
+  {
     "title": "Australia&#8217;s grid-forming battery storage pipeline extends to nearly a hundred projects, says AEMO",
     "link": "https://www.energy-storage.news/australias-grid-forming-battery-storage-pipeline-extends-to-nearly-a-hundred-projects-says-aemo/",
     "date": "2025-12-05T05:30:54.000Z",
     "source": "Energy Storage News"
-  },
-  {
-    "title": "Tunisia accelerates large-scale solar as new players enter market",
-    "link": "https://www.pv-magazine.com/2025/12/04/tunisias-pv-deployment-moving-forward/",
-    "date": "2025-12-04T16:50:10.000Z",
-    "source": "PV Magazine"
   },
   {
     "title": "RWE commissions Texas solar-plus-storage project",
@@ -18,40 +72,10 @@
     "source": "Energy Storage News"
   },
   {
-    "title": "Germany records growth in solar self-consumption",
-    "link": "https://www.pv-magazine.com/2025/12/04/germany-records-growth-in-solar-self-consumption/",
-    "date": "2025-12-04T15:21:31.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Ofgem approves GBP 10.3 billion investment in UK transmission grid",
-    "link": "https://www.pv-magazine.com/2025/12/04/ofgem-approves-gbp-10-3-billion-investment-in-uk-transmission-grid/",
-    "date": "2025-12-04T15:20:01.000Z",
-    "source": "PV Magazine"
-  },
-  {
     "title": "Indiana utility to deliver 1.6GWh BESS for Amazon’s data center expansion, though fossil fuels form major part of package",
     "link": "https://www.energy-storage.news/indiana-utility-to-deliver-1-6gwh-bess-for-amazons-data-center-expansion-though-fossil-fuels-form-major-part-of-package/",
     "date": "2025-12-04T15:16:06.000Z",
     "source": "Energy Storage News"
-  },
-  {
-    "title": "SMA launches new containerized medium-voltage substation for large-scale BESS and solar plants",
-    "link": "https://www.pv-magazine.com/2025/12/04/sma-launches-new-containerized-medium-voltage-substation-for-large-scale-bess-and-solar-plants/",
-    "date": "2025-12-04T14:16:01.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "How to build giant solar plants in mountainous areas",
-    "link": "https://www.pv-magazine.com/2025/12/04/how-to-build-giant-solar-plants-in-mountainous-areas/",
-    "date": "2025-12-04T14:13:30.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "German startup installs industrial heat pump producing 139 C steam",
-    "link": "https://www.pv-magazine.com/2025/12/04/german-startup-installs-industrial-heat-pump-producing-139c-steam/",
-    "date": "2025-12-04T13:57:08.000Z",
-    "source": "PV Magazine"
   },
   {
     "title": "PJM awards interconnection agreements to 23 BESS resources",
@@ -60,22 +84,10 @@
     "source": "Energy Storage News"
   },
   {
-    "title": "Germany Roundup: 500MW BESS and data centre transaction, seven-year toll and 370MW pipeline secured",
-    "link": "https://www.energy-storage.news/germany-roundup-500mw-bess-and-data-centre-transaction-seven-year-toll-and-370mw-pipeline-secured/",
-    "date": "2025-12-04T12:06:13.000Z",
-    "source": "Energy Storage News"
-  },
-  {
     "title": "„Vulcan Energy“ sichert Finanzierung des deutschen Lithium-Projekts",
     "link": "https://battery-news.de/2025/12/04/vulcan-energy-sichert-finanzierung-des-deutschen-lithium-projekts/",
     "date": "2025-12-04T08:10:07.000Z",
     "source": "Battery-News.de"
-  },
-  {
-    "title": "Eight energy trends that will shape energy storage in 2026",
-    "link": "https://www.energy-storage.news/eight-energy-trends-that-will-shape-energy-storage-in-2026/",
-    "date": "2025-12-04T03:00:00.000Z",
-    "source": "Energy Storage News"
   },
   {
     "title": "Accurec eröffnet Allround-Recycling-Werk für Lithium",
@@ -93,18 +105,6 @@
     "title": "Hyundai investiert in eigenes Batterie-Entwicklungszentrum",
     "link": "https://battery-news.de/2025/12/01/hyundai-investiert-in-eigenes-batterie-entwicklungszentrum/",
     "date": "2025-12-01T07:54:25.000Z",
-    "source": "Battery-News.de"
-  },
-  {
-    "title": "Natrium-Ionen-Technologie steht kurz vor der Marktreife",
-    "link": "https://battery-news.de/2025/11/28/natrium-ionen-technologie-steht-kurz-vor-der-marktreife/",
-    "date": "2025-11-28T10:11:00.000Z",
-    "source": "Battery-News.de"
-  },
-  {
-    "title": "C4V bezieht synthetischen Graphit von Vianode",
-    "link": "https://battery-news.de/2025/11/28/c4v-bezieht-synthetischen-graphit-von-vianode/",
-    "date": "2025-11-28T07:17:40.000Z",
     "source": "Battery-News.de"
   }
 ]
