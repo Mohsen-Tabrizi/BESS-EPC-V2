@@ -1,5 +1,53 @@
 [
   {
+    "title": "Mauritius opens 2 MW hybrid solar tender",
+    "link": "https://www.pv-magazine.com/2025/12/15/mauritius-opens-2-mw-hybrid-solar-tender/",
+    "date": "2025-12-15T12:25:25.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Germany brings world’s first supercapacitor STATCOM online",
+    "link": "https://www.pv-magazine.com/2025/12/15/germany-brings-worlds-first-supercapacitor-statcom-online/",
+    "date": "2025-12-15T12:00:21.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Energy Storage Europe welcomes EU proposal to end ‘first-come-first-served’ grid connections",
+    "link": "https://www.energy-storage.news/energy-storage-europe-welcomes-eu-proposal-to-end-first-come-first-served-grid-connections/",
+    "date": "2025-12-15T11:31:27.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Single 100MW BESS outage could cause a US$1.2 million monthly loss, cybersecurity report finds",
+    "link": "https://www.energy-storage.news/single-100mw-bess-outage-could-cause-a-us1-2-million-monthly-loss-cybersecurity-report-finds/",
+    "date": "2025-12-15T11:08:07.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Maxeon expands legal action against Aiko and its distributors in Germany",
+    "link": "https://www.pv-magazine.com/2025/12/15/maxeon-expands-legal-action-against-aiko-and-its-distributors-in-germany/",
+    "date": "2025-12-15T10:30:04.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Quality, bankability and how to reduce solar project failures",
+    "link": "https://www.pv-magazine.com/2025/12/15/quality-bankability-and-how-to-reduce-solar-project-failures/",
+    "date": "2025-12-15T10:00:58.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Hebei Juhang Energy Technology plans solar panel factory in Pakistan",
+    "link": "https://www.pv-magazine.com/2025/12/15/hebei-juhang-energy-technology-plans-solar-panel-factory-in-pakistan/",
+    "date": "2025-12-15T09:36:42.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "India’s Waaree Energies lifts global solar module capacity to 22.3 GW",
+    "link": "https://www.pv-magazine.com/2025/12/15/indias-waaree-energies-lifts-global-solar-module-capacity-to-22-3-gw/",
+    "date": "2025-12-15T09:15:37.000Z",
+    "source": "PV Magazine"
+  },
+  {
     "title": "SEAT und CUPRA eröffnen Montagewerk für Batteriesysteme",
     "link": "https://battery-news.de/2025/12/15/seat-und-cupra-eroeffnen-montagewerk-fuer-batteriesysteme/",
     "date": "2025-12-15T06:15:38.000Z",
@@ -12,46 +60,10 @@
     "source": "Energy Storage News"
   },
   {
-    "title": "The Hydrogen Stream: Europe forecasts €240 billion for hydrogen grids to 2040",
-    "link": "https://www.pv-magazine.com/2025/12/12/the-hydrogen-stream-european-commission-estimates-e240-billion-investments-in-hydrogen-grid-to-2040/",
-    "date": "2025-12-12T16:50:13.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Hungary launches $305 million subsidy for residential battery storage",
-    "link": "https://www.pv-magazine.com/2025/12/12/hungary-launches-huf-100-billion-subsidy-for-residential-battery-storage/",
-    "date": "2025-12-12T15:30:45.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Ireland reaches 1 GW of installed rooftop PV capacity",
-    "link": "https://www.pv-magazine.com/2025/12/12/ireland-reaches-1-gw-of-installed-rooftop-pv-capacity/",
-    "date": "2025-12-12T14:47:47.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Batteries now cheap enough to make dispatchable solar economically feasible",
-    "link": "https://www.pv-magazine.com/2025/12/12/batteries-now-cheap-enough-to-make-dispatchable-solar-economically-feasible/",
-    "date": "2025-12-12T13:00:06.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Táctica Industrial unveils off-grid PV system for modular green hydrogen",
-    "link": "https://www.pv-magazine.com/2025/12/12/tactica-industrial-unveils-off-grid-pv-system-for-modular-green-hydrogen/",
-    "date": "2025-12-12T12:00:29.000Z",
-    "source": "PV Magazine"
-  },
-  {
     "title": "Poland shortlists energy storage projects for €1 billion in grants",
     "link": "https://www.energy-storage.news/poland-shortlists-energy-storage-projects-for-e1-billion-in-grants/",
     "date": "2025-12-12T11:18:41.000Z",
     "source": "Energy Storage News"
-  },
-  {
-    "title": "Inlyte proves out first full-scale iron–sodium battery system in factory test",
-    "link": "https://www.pv-magazine.com/2025/12/12/inlyte-proves-out-first-full-scale-iron-sodium-battery-system-in-factory-test/",
-    "date": "2025-12-12T10:13:09.000Z",
-    "source": "PV Magazine"
   },
   {
     "title": "Batterie-Recycling in Europa: Stärker als die Nachfrage",
@@ -76,18 +88,6 @@
     "link": "https://battery-news.de/2025/12/12/sk-on-und-ford-beenden-batterie-joint-venture-in-den-usa/",
     "date": "2025-12-12T08:04:45.000Z",
     "source": "Battery-News.de"
-  },
-  {
-    "title": "Origin selects Wärtsilä for expansion of Australia’s largest approved BESS by capacity at Eraring",
-    "link": "https://www.energy-storage.news/origin-selects-wartsila-for-expansion-of-australias-largest-approved-bess-by-capacity-at-eraring/",
-    "date": "2025-12-12T04:43:35.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "How distributed energy resources could combat soaring electricity costs in the US",
-    "link": "https://www.energy-storage.news/how-distributed-energy-resources-could-combat-soaring-electricity-costs-in-the-us/",
-    "date": "2025-12-11T15:16:02.000Z",
-    "source": "Energy Storage News"
   },
   {
     "title": "Samsung SDI erhält Großauftrag für LFP-Batterien in den USA",
