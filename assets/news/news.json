@@ -1,5 +1,47 @@
 [
   {
+    "title": "JA Solar joins consortium building $210 million PV module factory in Egypt",
+    "link": "https://www.pv-magazine.com/2025/12/16/ja-solar-egypt-uae-bahrain-gigafactory-modules-cells-export-market-suez-canal-economic-zone/",
+    "date": "2025-12-16T16:53:30.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Fast deploy solar canopy EV charger secures UK distribution deal",
+    "link": "https://www.pv-magazine.com/2025/12/16/fast-deploy-solar-canopy-ev-charger-secures-uk-distribution-deal/",
+    "date": "2025-12-16T16:00:36.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Longi backs Carbon&#8217;s shift to GW-scale solar production in France",
+    "link": "https://www.pv-magazine.com/2025/12/16/longi-backs-carbons-shift-to-gw-scale-solar-production-in-france/",
+    "date": "2025-12-16T15:14:46.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Ecoprogetti ramps up solar module production line in Oman",
+    "link": "https://www.pv-magazine.com/2025/12/16/ecoprogetti-ramps-up-solar-module-production-line-in-oman/",
+    "date": "2025-12-16T13:51:31.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Key takeaways from France&#8217;s Energaia trade show",
+    "link": "https://www.pv-magazine.com/2025/12/16/key-takeaways-from-frances-energaia-trade-show/",
+    "date": "2025-12-16T13:30:18.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "US ROUNDUP: Shell immersion cooling partnership, PNNL begins utility-scale battery tests, ON.Energy in 5GW transformer deal",
+    "link": "https://www.energy-storage.news/us-roundup-shell-immersion-cooling-partnership-pnnl-begins-utility-scale-battery-tests-on-energy-in-5gw-transformer-deal/",
+    "date": "2025-12-16T13:12:14.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Georgia Power agrees electric bill deal with regulators to enable 9.9GW resource addition",
+    "link": "https://www.energy-storage.news/georgia-power-agrees-electric-bill-deal-with-regulators-to-enable-9-9gw-resource-addition/",
+    "date": "2025-12-16T13:03:00.000Z",
+    "source": "Energy Storage News"
+  },
+  {
     "title": "Turning data centres from a &#8216;potential liability to a grid asset&#8217;: Calibrant on its first-of-a-kind BESS with Aligned",
     "link": "https://www.energy-storage.news/turning-data-centres-from-a-potential-liability-to-a-grid-asset-calibrant-on-its-first-of-a-kind-bess-with-aligned/",
     "date": "2025-12-16T12:31:47.000Z",
@@ -12,46 +54,16 @@
     "source": "PV Magazine"
   },
   {
-    "title": "EU security doctrine highlights high-risk dependency on Chinese solar inverters",
-    "link": "https://www.pv-magazine.com/2025/12/16/eu-security-doctrine-highlights-high-risk-dependency-on-chinese-solar-inverters/",
-    "date": "2025-12-16T11:45:15.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Ford launches battery storage business, repurposing EV manufacturing capacity",
-    "link": "https://www.pv-magazine.com/2025/12/16/ford-launches-battery-storage-business-repurposing-ev-manufacturing-capacity/",
-    "date": "2025-12-16T11:32:44.000Z",
-    "source": "PV Magazine"
-  },
-  {
     "title": "Hithium launches 8-hour dedicated battery cell and BESS, sodium-lithium hybrid data centre solution",
     "link": "https://www.energy-storage.news/hithium-launches-8-hour-dedicated-battery-cell-and-bess-sodium-lithium-hybrid-data-centre-solution/",
     "date": "2025-12-16T11:29:39.000Z",
     "source": "Energy Storage News"
   },
   {
-    "title": "SEG Solar starts building 3 GW solar ingot, wafer factory in Indonesia",
-    "link": "https://www.pv-magazine.com/2025/12/16/seg-solar-starts-building-3-gw-solar-ingot-wafer-factory-in-indonesia/",
-    "date": "2025-12-16T10:25:38.000Z",
-    "source": "PV Magazine"
-  },
-  {
     "title": "Battery storage system prices continue to fall sharply, BNEF and Ember reports find",
     "link": "https://www.energy-storage.news/battery-storage-system-prices-continue-to-fall-sharply-bnef-and-ember-reports-find/",
     "date": "2025-12-16T10:12:06.000Z",
     "source": "Energy Storage News"
-  },
-  {
-    "title": "India’s SJVN nears completion of 1 GW utility-scale solar project",
-    "link": "https://www.pv-magazine.com/2025/12/16/indias-sjvn-nears-completion-of-1-gw-utility-scale-solar-project/",
-    "date": "2025-12-16T10:00:35.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "The impact of laser-assisted firing on TOPCon solar cell performance",
-    "link": "https://www.pv-magazine.com/2025/12/16/the-impact-of-laser-assisted-firing-on-topcon-solar-cell-performance/",
-    "date": "2025-12-16T09:30:50.000Z",
-    "source": "PV Magazine"
   },
   {
     "title": "Global BESS installs hit 14GWh in November, including 1GWh sodium-ion project; China slows",
@@ -64,18 +76,6 @@
     "link": "https://battery-news.de/2025/12/16/verkor-nimmt-produktion-in-erster-gigafactory-auf/",
     "date": "2025-12-16T07:00:36.000Z",
     "source": "Battery-News.de"
-  },
-  {
-    "title": "Akaysha Energy enters 300MWh BESS into NEM trading in Queensland, Australia",
-    "link": "https://www.energy-storage.news/akaysha-energy-enters-300mwh-bess-into-nem-trading-in-queensland-australia/",
-    "date": "2025-12-16T05:01:36.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "Energy Storage Europe welcomes EU proposal to end ‘first-come-first-served’ grid connections",
-    "link": "https://www.energy-storage.news/energy-storage-europe-welcomes-eu-proposal-to-end-first-come-first-served-grid-connections/",
-    "date": "2025-12-15T11:31:27.000Z",
-    "source": "Energy Storage News"
   },
   {
     "title": "SEAT und CUPRA eröffnen Montagewerk für Batteriesysteme",
