@@ -1,5 +1,53 @@
 [
   {
+    "title": "Greek solar producers petition EU over repowering and storage rules",
+    "link": "https://www.pv-magazine.com/2025/12/18/greek-solar-producers-petition-eu-over-repowering-and-storage-rules/",
+    "date": "2025-12-18T15:30:17.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Europe’s first sodium-ion cell made with fully domestic components",
+    "link": "https://www.pv-magazine.com/2025/12/18/europes-first-sodium-ion-cell-made-with-fully-domestic-components/",
+    "date": "2025-12-18T14:30:29.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "European solar manufacturers urge Italy to revise heterojunction tax rule",
+    "link": "https://www.pv-magazine.com/2025/12/18/european-solar-manufacturers-urge-italy-to-revise-heterojunction-tax-rule/",
+    "date": "2025-12-18T14:30:07.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "California CCA throws support behind two thermal battery storage startup developers",
+    "link": "https://www.energy-storage.news/california-cca-throws-support-behind-two-thermal-battery-storage-startup-developers/",
+    "date": "2025-12-18T14:11:41.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Amea Power begins construction on 1 GW/600 MWh solar-plus-storage plant in Egypt",
+    "link": "https://www.pv-magazine.com/2025/12/18/amea-power-egypt-aswan-governorate-hybrid-1-gw-solar-600-mwh-storage/",
+    "date": "2025-12-18T14:07:50.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "GridStor executes tolling agreement for Texas BESS, CPS Energy launches 500MW BESS RFP",
+    "link": "https://www.energy-storage.news/gridstor-executes-tolling-agreement-for-texas-bess-cps-energy-launches-500mw-bess-rfp/",
+    "date": "2025-12-18T14:02:06.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "US virtual power plant programmes advance with new partnerships and investment",
+    "link": "https://www.energy-storage.news/us-virtual-power-plant-programmes-advance-with-new-partnerships-and-investment/",
+    "date": "2025-12-18T13:58:35.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Saudi Arabia connects 7.8 GWh battery storage project to grid",
+    "link": "https://www.pv-magazine.com/2025/12/18/saudi-arabia-connects-7-8-gwh-battery-storage-project-to-grid/",
+    "date": "2025-12-18T13:00:26.000Z",
+    "source": "PV Magazine"
+  },
+  {
     "title": "India’s NTPC brings 359.58 MW of solar capacity into operation",
     "link": "https://www.pv-magazine.com/2025/12/18/indias-ntpc-brings-359-58-mw-of-solar-capacity-into-operation/",
     "date": "2025-12-18T12:00:40.000Z",
@@ -18,36 +66,6 @@
     "source": "Energy Storage News"
   },
   {
-    "title": "Sembcorp buys Australia&#8217;s Alinta Energy for $4.3 billion",
-    "link": "https://www.pv-magazine.com/2025/12/18/sembcorp-buys-australias-alinta-energy-for-4-3-billion/",
-    "date": "2025-12-18T10:00:39.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Pakistan unveils new net metering rules for rooftop PV",
-    "link": "https://www.pv-magazine.com/2025/12/18/pakistan-unveils-new-net-metering-rules-for-rooftop-pv/",
-    "date": "2025-12-18T09:55:48.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "India’s Tata Power plans solar ingot and wafer plant",
-    "link": "https://www.pv-magazine.com/2025/12/18/indias-tata-power-plans-solar-ingot-and-wafer-plant/",
-    "date": "2025-12-18T09:15:58.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Geon launches new inverter battery for residential, commercial use",
-    "link": "https://www.pv-magazine.com/2025/12/18/geon-launches-new-inverter-battery-for-residential-commercial-use/",
-    "date": "2025-12-18T09:02:27.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "New annual record for UK solar generation",
-    "link": "https://www.pv-magazine.com/2025/12/18/new-annual-record-for-uk-solar-generation/",
-    "date": "2025-12-18T08:30:38.000Z",
-    "source": "PV Magazine"
-  },
-  {
     "title": "Queensland government says it, not councils, will decide on battery storage projects in Australian state",
     "link": "https://www.energy-storage.news/queensland-government-says-it-not-councils-will-decide-on-battery-storage-projects-in-australian-state/",
     "date": "2025-12-18T08:27:04.000Z",
@@ -58,24 +76,6 @@
     "link": "https://battery-news.de/2025/12/18/volkswagen-startet-zellproduktion-in-salzgitter/",
     "date": "2025-12-18T06:26:27.000Z",
     "source": "Battery-News.de"
-  },
-  {
-    "title": "ERCOT BESS revenue &#8216;roller coaster&#8217; is a feature, not a bug",
-    "link": "https://www.energy-storage.news/ercot-bess-revenue-roller-coaster-is-a-feature-not-a-bug/",
-    "date": "2025-12-17T14:51:40.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "US energy storage installations in 2025 have already surpassed last year&#8217;s total: Wood Mac",
-    "link": "https://www.energy-storage.news/us-energy-storage-installations-in-2025-have-already-surpassed-last-years-total-wood-mac/",
-    "date": "2025-12-17T14:05:02.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "How thermal energy storage (TES) makes steam from renewables economically viable",
-    "link": "https://www.energy-storage.news/how-thermal-energy-storage-tes-makes-steam-from-renewables-economically-viable/",
-    "date": "2025-12-17T13:47:57.000Z",
-    "source": "Energy Storage News"
   },
   {
     "title": "Fraunhofer FFB produziert erste Zelle",
