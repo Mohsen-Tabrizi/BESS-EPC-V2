@@ -1,27 +1,63 @@
 [
   {
+    "title": "India’s NTPC brings 359.58 MW of solar capacity into operation",
+    "link": "https://www.pv-magazine.com/2025/12/18/indias-ntpc-brings-359-58-mw-of-solar-capacity-into-operation/",
+    "date": "2025-12-18T12:00:40.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "‘Evolving revenue mix, harsh Nordic operating conditions’: Hitachi Energy supplies PCS to Finland&#8217;s largest BESS",
+    "link": "https://www.energy-storage.news/evolving-revenue-mix-harsh-nordic-operating-conditions-hitachi-energy-supplies-pcs-to-finlands-largest-bess/",
+    "date": "2025-12-18T10:10:09.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Sungrow and Algihaz&#8217; 7.8GWh Saudi Arabia BESS connected to grid",
+    "link": "https://www.energy-storage.news/sungrow-and-algihaz-7-8gwh-saudi-arabia-bess-connected-to-grid/",
+    "date": "2025-12-18T10:06:08.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Sembcorp buys Australia&#8217;s Alinta Energy for $4.3 billion",
+    "link": "https://www.pv-magazine.com/2025/12/18/sembcorp-buys-australias-alinta-energy-for-4-3-billion/",
+    "date": "2025-12-18T10:00:39.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Pakistan unveils new net metering rules for rooftop PV",
+    "link": "https://www.pv-magazine.com/2025/12/18/pakistan-unveils-new-net-metering-rules-for-rooftop-pv/",
+    "date": "2025-12-18T09:55:48.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "India’s Tata Power plans solar ingot and wafer plant",
+    "link": "https://www.pv-magazine.com/2025/12/18/indias-tata-power-plans-solar-ingot-and-wafer-plant/",
+    "date": "2025-12-18T09:15:58.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Geon launches new inverter battery for residential, commercial use",
+    "link": "https://www.pv-magazine.com/2025/12/18/geon-launches-new-inverter-battery-for-residential-commercial-use/",
+    "date": "2025-12-18T09:02:27.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "New annual record for UK solar generation",
+    "link": "https://www.pv-magazine.com/2025/12/18/new-annual-record-for-uk-solar-generation/",
+    "date": "2025-12-18T08:30:38.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Queensland government says it, not councils, will decide on battery storage projects in Australian state",
+    "link": "https://www.energy-storage.news/queensland-government-says-it-not-councils-will-decide-on-battery-storage-projects-in-australian-state/",
+    "date": "2025-12-18T08:27:04.000Z",
+    "source": "Energy Storage News"
+  },
+  {
     "title": "Volkswagen startet Zellproduktion in Salzgitter",
     "link": "https://battery-news.de/2025/12/18/volkswagen-startet-zellproduktion-in-salzgitter/",
     "date": "2025-12-18T06:26:27.000Z",
     "source": "Battery-News.de"
-  },
-  {
-    "title": "Chile awards 2025 power supply tender solely to Enel unit",
-    "link": "https://www.pv-magazine.com/2025/12/17/chile-awards-electricity-tender-with-enel-as-the-sole-winner/",
-    "date": "2025-12-17T16:45:28.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "French testing body flags durability risks in TOPCon solar modules",
-    "link": "https://www.pv-magazine.com/2025/12/17/french-certification-body-reveals-results-of-topcon-solar-module-tests/",
-    "date": "2025-12-17T16:35:37.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "‘The real cost of a battery storage goes far beyond $/kWh’",
-    "link": "https://www.pv-magazine.com/2025/12/17/the-real-cost-of-a-battery-storage-goes-far-beyond-kwh/",
-    "date": "2025-12-17T16:04:26.000Z",
-    "source": "PV Magazine"
   },
   {
     "title": "ERCOT BESS revenue &#8216;roller coaster&#8217; is a feature, not a bug",
@@ -30,51 +66,15 @@
     "source": "Energy Storage News"
   },
   {
-    "title": "Albania reviewing solar project proposals totaling 135 MW",
-    "link": "https://www.pv-magazine.com/2025/12/17/albania-reviewing-solar-project-proposals-totaling-135-mw/",
-    "date": "2025-12-17T14:30:50.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Guayepo I&#038;II, the largest centralized solar park in Colombia",
-    "link": "https://www.pv-magazine.com/2025/12/17/guayepo-iii-the-largest-centralized-solar-park-in-colombia/",
-    "date": "2025-12-17T14:30:33.000Z",
-    "source": "PV Magazine"
-  },
-  {
     "title": "US energy storage installations in 2025 have already surpassed last year&#8217;s total: Wood Mac",
     "link": "https://www.energy-storage.news/us-energy-storage-installations-in-2025-have-already-surpassed-last-years-total-wood-mac/",
     "date": "2025-12-17T14:05:02.000Z",
     "source": "Energy Storage News"
   },
   {
-    "title": "US energy storage installations surpass 2024 total by Q3 2025",
-    "link": "https://www.pv-magazine.com/2025/12/17/us-energy-storage-installations-surpass-2024-total-by-q3-2025/",
-    "date": "2025-12-17T14:00:22.000Z",
-    "source": "PV Magazine"
-  },
-  {
     "title": "How thermal energy storage (TES) makes steam from renewables economically viable",
     "link": "https://www.energy-storage.news/how-thermal-energy-storage-tes-makes-steam-from-renewables-economically-viable/",
     "date": "2025-12-17T13:47:57.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "European BESS: 800MW of project awards, M&#038;A and financing announced across continent",
-    "link": "https://www.energy-storage.news/european-bess-800mw-of-project-awards-ma-and-financing-announced-across-continent/",
-    "date": "2025-12-17T11:57:52.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "Akuo Energy, Voltalia kick off projects in French overseas territories New Caledonia, French Guiana",
-    "link": "https://www.energy-storage.news/akuo-energy-voltalia-kick-off-projects-in-french-overseas-territories-new-caledonia-french-guiana/",
-    "date": "2025-12-17T11:46:13.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "Ford’s ‘big strategic pivot’ into the ‘fiercely competitive’ battery storage market",
-    "link": "https://www.energy-storage.news/fords-big-strategic-pivot-into-the-fiercely-competitive-battery-storage-market/",
-    "date": "2025-12-17T09:59:54.000Z",
     "source": "Energy Storage News"
   },
   {
