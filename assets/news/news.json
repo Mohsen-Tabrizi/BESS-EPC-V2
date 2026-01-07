@@ -1,5 +1,47 @@
 [
   {
+    "title": "Australia adds 1.2 GWh of behind-the-meter battery storage in December",
+    "link": "https://www.pv-magazine.com/2026/01/07/australia-adds-1-2-gwh-of-behind-the-meter-battery-storage-in-december/",
+    "date": "2026-01-07T12:15:18.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Grid code standards key to unlock Indonesia&#8217;s solar potential",
+    "link": "https://www.pv-magazine.com/2026/01/07/grid-code-standards-key-to-unlock-indonesias-solar-potential/",
+    "date": "2026-01-07T12:10:51.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Serbia tenders design, feasibility study of solar project",
+    "link": "https://www.pv-magazine.com/2026/01/07/serbia-tenders-design-feasibility-study-of-solar-project/",
+    "date": "2026-01-07T10:27:42.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "China connects world’s largest vanadium flow battery project",
+    "link": "https://www.pv-magazine.com/2026/01/07/china-connects-worlds-largest-vanadium-flow-battery-project/",
+    "date": "2026-01-07T09:50:01.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Peru adds 454 MW of large-scale PV in 2025",
+    "link": "https://www.pv-magazine.com/2026/01/07/peru-adds-454-mw-of-large-scale-pv-in-2025/",
+    "date": "2026-01-07T09:15:35.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Regulatory changes could shape Brazil’s 2026 battery storage auction",
+    "link": "https://www.pv-magazine.com/2026/01/07/regulatory-changes-could-shape-brazils-2026-battery-storage-auction/",
+    "date": "2026-01-07T08:30:56.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Samsung SDI und KG Mobility planen Batteriepack-Entwicklung",
+    "link": "https://battery-news.de/2026/01/07/samsung-sdi-und-kg-mobility-planen-batteriepack-entwicklung/",
+    "date": "2026-01-07T07:55:49.000Z",
+    "source": "Battery-News.de"
+  },
+  {
     "title": "Western Australia prioritises long-duration energy storage in latest clean energy funding round",
     "link": "https://www.energy-storage.news/western-australia-prioritises-long-duration-energy-storage-in-latest-clean-energy-funding-round/",
     "date": "2026-01-07T02:54:05.000Z",
@@ -12,46 +54,10 @@
     "source": "Energy Storage News"
   },
   {
-    "title": "Japanese companies to build world’s largest liquefied hydrogen carrier",
-    "link": "https://www.pv-magazine.com/2026/01/06/japanese-companies-to-build-worlds-largest-liquefied-hydrogen-carrier/",
-    "date": "2026-01-06T15:30:00.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Semi-transparent photovoltaics cost-competitive only up to 50% transparency",
-    "link": "https://www.pv-magazine.com/2026/01/06/semi-transparent-photovoltaics-cost-competitive-only-up-to-50-transparency/",
-    "date": "2026-01-06T15:22:16.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Corrosion-free bromine flow battery promises longer life and higher energy density",
-    "link": "https://www.pv-magazine.com/2026/01/06/corrosion-free-bromine-flow-battery-promises-longer-life-and-higher-energy-density/",
-    "date": "2026-01-06T14:43:52.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Rising silver prices drive China’s Longi shift to copper-metallized solar cells",
-    "link": "https://www.pv-magazine.com/2026/01/06/rising-silver-prices-drive-chinas-longi-shift-to-copper-metallized-solar-cells/",
-    "date": "2026-01-06T14:29:42.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Germany adds 17.5 GW of solar in 2025",
-    "link": "https://www.pv-magazine.com/2026/01/06/germany-adds-17-5-gw-of-solar-in-2025/",
-    "date": "2026-01-06T13:14:38.000Z",
-    "source": "PV Magazine"
-  },
-  {
     "title": "SolarMax secures two EPC agreements for 400MWh total BESS capacity in Puerto Rico",
     "link": "https://www.energy-storage.news/solarmax-secures-two-epc-agreements-for-400mwh-total-bess-capacity-in-puerto-rico/",
     "date": "2026-01-06T12:25:00.000Z",
     "source": "Energy Storage News"
-  },
-  {
-    "title": "Spain opens €90 million funding round for 7 GWh of pumped hydro storage",
-    "link": "https://www.pv-magazine.com/2026/01/06/spain-opens-e90-million-funding-round-for-7-gwh-of-pumped-hydro-storage/",
-    "date": "2026-01-06T12:12:48.000Z",
-    "source": "PV Magazine"
   },
   {
     "title": "Utilities SRP and ED3 seeking offtake deal for esVolta&#8217;s newly-approved 3.2GWh Arizona BESS",
@@ -99,12 +105,6 @@
     "title": "Frohe Weihnachten und einen guten Jahreswechsel!",
     "link": "https://battery-news.de/2025/12/19/frohe-weihnachten-und-einen-guten-jahreswechsel/",
     "date": "2025-12-19T10:11:00.000Z",
-    "source": "Battery-News.de"
-  },
-  {
-    "title": "AESC startet Batteriezellenproduktion in neuer Gigafactory",
-    "link": "https://battery-news.de/2025/12/19/aesc-startet-batteriezellenproduktion-in-neuer-gigafactory/",
-    "date": "2025-12-19T06:17:39.000Z",
     "source": "Battery-News.de"
   }
 ]
