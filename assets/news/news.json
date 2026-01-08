@@ -1,27 +1,69 @@
 [
   {
+    "title": "Australia’s biggest battery starts commercial operations",
+    "link": "https://www.pv-magazine.com/2026/01/08/australias-biggest-battery-starts-commercial-operations/",
+    "date": "2026-01-08T11:55:24.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "JinkoSolar pushes on perovskite-silicon tandem solar with new partnership",
+    "link": "https://www.pv-magazine.com/2026/01/08/jinkosolar-pushes-on-perovskite-silicon-tandem-solar-with-new-partnership/",
+    "date": "2026-01-08T11:39:25.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Year in Review: Hithium expects BESS market segmentation by application, not geography, in 2026",
+    "link": "https://www.energy-storage.news/year-in-review-hithium-expects-bess-market-segmentation-by-application-not-geography-in-2026/",
+    "date": "2026-01-08T11:27:17.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Germany grants €46 million for sodium-chloride solid-state battery factory",
+    "link": "https://www.energy-storage.news/germany-grants-e46-million-for-sodium-chloride-solid-state-battery-factory/",
+    "date": "2026-01-08T11:10:07.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Maldives microgrid project with floating solar becomes model for island renewables projects",
+    "link": "https://www.pv-magazine.com/2026/01/08/maldives-microgrid-project-with-floating-solar-becomes-model-for-island-renewables-projects/",
+    "date": "2026-01-08T10:00:30.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "UK startup claims its electrolytes can triple flow battery energy density",
+    "link": "https://www.pv-magazine.com/2026/01/08/uk-startup-claims-its-electrolytes-can-triple-flow-battery-energy-density/",
+    "date": "2026-01-08T10:00:09.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Pacific Energy advances renewable power project for town in Australia",
+    "link": "https://www.pv-magazine.com/2026/01/08/pacific-energy-advances-renewable-power-project-for-remote-town-in-australia/",
+    "date": "2026-01-08T09:15:04.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Adani Green unit signs hybrid power supply deal with Asahi India Glass",
+    "link": "https://www.pv-magazine.com/2026/01/08/adani-green-unit-signs-hybrid-power-supply-deal-with-asahi-india-glass/",
+    "date": "2026-01-08T08:30:34.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Malaysia: Energy Commission shortlists bidders in 1.6GWh ‘landmark’ BESS programme",
+    "link": "https://www.energy-storage.news/malaysia-energy-commission-shortlists-bidders-in-1-6gwh-landmark-bess-programme/",
+    "date": "2026-01-08T08:22:36.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "POSCO gründet Joint Venture für LFP-Kathodenmaterialien",
+    "link": "https://battery-news.de/2026/01/08/posco-gruendet-joint-venture-fuer-lfp-kathodenmaterialien/",
+    "date": "2026-01-08T08:00:00.000Z",
+    "source": "Battery-News.de"
+  },
+  {
     "title": "1.2GWh of energy storage submitted for EPBC Act approval across Australia",
     "link": "https://www.energy-storage.news/1-2gwh-of-energy-storage-submitted-for-epbc-act-approval-across-australia/",
     "date": "2026-01-08T01:48:16.000Z",
     "source": "Energy Storage News"
-  },
-  {
-    "title": "Astronergy launches 670 W TOPCon solar module with 24.9% efficiency",
-    "link": "https://www.pv-magazine.com/2026/01/07/astronergy-launches-670-w-topcon-solar-module-with-24-9-efficiency/",
-    "date": "2026-01-07T16:00:20.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Poland&#8217;s massive new airport project to host utility-scale solar-plus-storage project",
-    "link": "https://www.pv-magazine.com/2026/01/07/solar-storage-system-port-polska-airport-poland-tender-results-elektrotim/",
-    "date": "2026-01-07T15:37:43.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Türkiye installs 4.7 GW of solar in 2025",
-    "link": "https://www.pv-magazine.com/2026/01/07/turkiye-installs-4-7-gw-of-solar-in-2025/",
-    "date": "2026-01-07T15:20:01.000Z",
-    "source": "PV Magazine"
   },
   {
     "title": "ROUNDUP: Texas BESS updates from SolarMax, Energy Vault, Engie, and Spearmint",
@@ -36,46 +78,10 @@
     "source": "Energy Storage News"
   },
   {
-    "title": "New European solid-state battery business targets commercial production",
-    "link": "https://www.pv-magazine.com/2026/01/07/new-european-solid-state-battery-business-targets-commercial-production/",
-    "date": "2026-01-07T14:24:59.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "IPO updates from Chinese firms: EVE Energy re-files for HKEX, Fox ESS updates prospectus",
-    "link": "https://www.energy-storage.news/ipo-updates-from-chinese-firms-eve-energy-re-files-for-hkex-fox-ess-updates-prospectus/",
-    "date": "2026-01-07T14:08:49.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "CMBlu positions organic flow batteries as lithium alternative for US hyperscaler demand",
-    "link": "https://www.energy-storage.news/cmblu-positions-organic-flow-batteries-as-lithium-alternative-for-us-hyperscaler-demand/",
-    "date": "2026-01-07T13:49:58.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "French startup offers on-site solar module repair solution",
-    "link": "https://www.pv-magazine.com/2026/01/07/french-startup-offers-on-site-solar-module-repair-solution/",
-    "date": "2026-01-07T13:46:28.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Saudi Arabia reveals qualified bidders for 3.1 GW solar auction",
-    "link": "https://www.pv-magazine.com/2026/01/07/saudi-arabia-reveals-qualified-bidders-for-3-1-gw-solar-auction/",
-    "date": "2026-01-07T12:57:33.000Z",
-    "source": "PV Magazine"
-  },
-  {
     "title": "Samsung SDI und KG Mobility planen Batteriepack-Entwicklung",
     "link": "https://battery-news.de/2026/01/07/samsung-sdi-und-kg-mobility-planen-batteriepack-entwicklung/",
     "date": "2026-01-07T07:55:49.000Z",
     "source": "Battery-News.de"
-  },
-  {
-    "title": "Western Australia prioritises long-duration energy storage in latest clean energy funding round",
-    "link": "https://www.energy-storage.news/western-australia-prioritises-long-duration-energy-storage-in-latest-clean-energy-funding-round/",
-    "date": "2026-01-07T02:54:05.000Z",
-    "source": "Energy Storage News"
   },
   {
     "title": "LGES beendet Milliardenauftrag mit Freudenberg",
@@ -99,12 +105,6 @@
     "title": "Bund fördert Strukturwandel in Kohleregionen",
     "link": "https://battery-news.de/2025/12/22/bund-foerdert-strukturwandel-in-kohleregionen/",
     "date": "2025-12-22T07:27:16.000Z",
-    "source": "Battery-News.de"
-  },
-  {
-    "title": "Frohe Weihnachten und einen guten Jahreswechsel!",
-    "link": "https://battery-news.de/2025/12/19/frohe-weihnachten-und-einen-guten-jahreswechsel/",
-    "date": "2025-12-19T10:11:00.000Z",
     "source": "Battery-News.de"
   }
 ]
