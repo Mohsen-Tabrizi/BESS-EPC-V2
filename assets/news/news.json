@@ -1,5 +1,47 @@
 [
   {
+    "title": "US, Europe on track for 2030 solar goals despite pipeline gaps",
+    "link": "https://www.pv-magazine.com/2026/01/22/us-europe-on-track-for-2030-solar-goals-despite-pipeline-gaps/",
+    "date": "2026-01-22T14:53:36.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "EV slowdown creates potential lifeline for US energy storage amid FEOC, tariffs",
+    "link": "https://www.energy-storage.news/ev-slowdown-creates-potential-lifeline-for-us-energy-storage-amid-feoc-tariffs/",
+    "date": "2026-01-22T14:52:06.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "US startup Noon Energy unveils ‘multi-day baseload&#8217; energy storage tech demonstration",
+    "link": "https://www.energy-storage.news/us-startup-noon-energy-unveils-multi-day-baseload-energy-storage-tech-demonstration/",
+    "date": "2026-01-22T14:40:56.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Austria’s Andritz to supply South Korean 500 MW pumped storage power plant",
+    "link": "https://www.pv-magazine.com/2026/01/22/austrias-andritz-to-supply-south-korean-500-mw-pumped-storage-power-plant/",
+    "date": "2026-01-22T14:13:44.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Solar Steel presents new 2P single-row solar tracker",
+    "link": "https://www.pv-magazine.com/2026/01/22/solar-steel-presents-new-2p-single-row-solar-tracker/",
+    "date": "2026-01-22T14:00:18.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Private sector backers needed for next phase of Middle East energy storage market",
+    "link": "https://www.energy-storage.news/private-sector-backers-needed-for-next-phase-of-middle-east-energy-storage-market/",
+    "date": "2026-01-22T13:45:00.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Sungrow releases new inverters, storage system for utility and C&#038;I solar",
+    "link": "https://www.pv-magazine.com/2026/01/22/sungrow-releases-new-inverters-storage-system-for-utility-and-ci-solar/",
+    "date": "2026-01-22T13:15:14.000Z",
+    "source": "PV Magazine"
+  },
+  {
     "title": "Photovoltaics and jobs: The solar PV sector is the largest employer in the renewable energy industry",
     "link": "https://www.pv-magazine.com/2026/01/22/photovoltaics-and-jobs-the-solar-pv-sector-is-the-largest-employer-in-the-renewable-energy-industry/",
     "date": "2026-01-22T12:27:57.000Z",
@@ -12,46 +54,16 @@
     "source": "PV Magazine"
   },
   {
-    "title": "Grenada seeks installers for Solar for All program",
-    "link": "https://www.pv-magazine.com/2026/01/22/grenada-seeks-installers-for-solar-for-all-program/",
-    "date": "2026-01-22T11:27:48.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "&#8216;Agrivoltaics is not just a land-sharing concept, but a systems-level solution to some of the world’s most pressing challenges&#8217;",
-    "link": "https://www.pv-magazine.com/2026/01/22/agrivoltaics-is-not-just-a-land-sharing-concept-but-as-a-systems-level-solution-to-some-of-the-worlds-most-pressing-challenges/",
-    "date": "2026-01-22T11:12:41.000Z",
-    "source": "PV Magazine"
-  },
-  {
     "title": "UK&#8217;s Gore Street closes European battery storage fund, sees &#8216;improved economics of LDES&#8217;",
     "link": "https://www.energy-storage.news/uks-gore-street-closes-european-battery-storage-fund-sees-improved-economics-of-ldes/",
     "date": "2026-01-22T11:09:17.000Z",
     "source": "Energy Storage News"
   },
   {
-    "title": "German court: heat pump users not required to pay for switching off gas connection",
-    "link": "https://www.cleanenergywire.org/news/german-court-heat-pump-users-not-required-pay-switching-gas-connection",
-    "date": "2026-01-22T11:00:43.000Z",
-    "source": "Clean Energy Wire"
-  },
-  {
     "title": "Long-duration energy storage costs declining, European policymakers urged to make ‘strategic choice’",
     "link": "https://www.energy-storage.news/long-duration-energy-storage-costs-declining-european-policymakers-urged-to-make-strategic-choice/",
     "date": "2026-01-22T10:56:31.000Z",
     "source": "Energy Storage News"
-  },
-  {
-    "title": "Africa&#8217;s installed PV capacity estimated above 63 GW",
-    "link": "https://www.pv-magazine.com/2026/01/22/africas-installed-pv-capacity-estimated-above-63-gw/",
-    "date": "2026-01-22T10:54:48.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "IEA PVPS invites modelers to join first coloured BIPV intercomparison",
-    "link": "https://www.pv-magazine.com/2026/01/22/iea-pvps-invites-modelers-to-join-first-coloured-bipv-intercomparison/",
-    "date": "2026-01-22T10:18:34.000Z",
-    "source": "PV Magazine"
   },
   {
     "title": "In brief | 21 January ‘26",
@@ -96,22 +108,10 @@
     "source": "Clean Energy Wire"
   },
   {
-    "title": "Large-Scale Fire Testing (LSFT): from best practice to mandatory requirement",
-    "link": "https://www.energy-storage.news/large-scale-fire-testing-lsft-from-best-practice-to-mandatory-requirement/",
-    "date": "2026-01-21T15:12:17.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "Amazon buys ready-to-build Oregon solar-plus-storage project from bankrupt developer Pine Gate",
-    "link": "https://www.energy-storage.news/amazon-buys-ready-to-build-oregon-solar-plus-storage-project-from-bankrupt-developer-pine-gate/",
-    "date": "2026-01-21T14:57:37.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "Virginia proposes 20.78GW storage mandate as Trump, governors call for emergency PJM grid measures",
-    "link": "https://www.energy-storage.news/virginia-proposes-20-78gw-storage-mandate-as-trump-governors-call-for-emergency-pjm-grid-measures/",
-    "date": "2026-01-21T14:28:34.000Z",
-    "source": "Energy Storage News"
+    "title": "Germany to urge EU to soften 2035 combustion car deadline",
+    "link": "https://www.cleanenergywire.org/news/germany-urge-eu-soften-2035-combustion-car-deadline",
+    "date": "2026-01-21T16:42:09.000Z",
+    "source": "Clean Energy Wire"
   },
   {
     "title": "Lifthium erhält staatliche Förderung für Lithium-Raffinerie",
