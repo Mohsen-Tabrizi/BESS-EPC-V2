@@ -1,56 +1,86 @@
 [
   {
+    "title": "World’s largest compressed-air storage plant switched on in China",
+    "link": "https://www.pv-magazine.com/2026/01/27/worlds-largest-compressed-air-storage-plant-switched-on-in-china/",
+    "date": "2026-01-27T12:47:47.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Year in Review: Lunar Energy on the progress of US home energy storage through ‘turbulent 2025’ and the way ahead for virtual power plants",
+    "link": "https://www.energy-storage.news/year-in-review-lunar-energy-on-the-progress-of-us-home-energy-storage-through-turbulent-2025-and-the-way-ahead-for-virtual-power-plants/",
+    "date": "2026-01-27T12:44:56.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "&#8216;Greater acceptance of merchant exposure&#8217; in UK market, investment firm says",
+    "link": "https://www.energy-storage.news/greater-acceptance-of-merchant-exposure-in-uk-market-investment-firm-says/",
+    "date": "2026-01-27T12:37:41.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Sigenergy secures top position for multiple storage markets as installer adoption accelerates",
+    "link": "https://www.pv-magazine.com/2026/01/27/sigenergy-secures-top-position-for-multiple-storage-markets-as-installer-adoption-accelerates/",
+    "date": "2026-01-27T12:26:05.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "ContourGlobal buys BESS in Greece, Alpiq in France; Iberdrola commissions Spain&#8217;s largest projects",
+    "link": "https://www.energy-storage.news/contourglobal-buys-bess-in-greece-alpiq-in-france-iberdrola-commissions-spains-largest-projects/",
+    "date": "2026-01-27T12:23:57.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "How to combine C&#038;I solar with compressed air energy storage",
+    "link": "https://www.pv-magazine.com/2026/01/27/how-to-combine-ci-solar-with-compressed-air-energy-storage/",
+    "date": "2026-01-27T12:18:27.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Serbia installs 134.3 MW of solar in 2025",
+    "link": "https://www.pv-magazine.com/2026/01/27/serbia-installs-134-3-mw-of-solar-in-2025/",
+    "date": "2026-01-27T10:45:42.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Germany’s TSO begin inertia procurement with long-term contracts for grid-forming BESS",
+    "link": "https://www.energy-storage.news/germanys-tso-begin-inertia-procurement-with-long-term-contracts-for-grid-forming-bess/",
+    "date": "2026-01-27T10:22:22.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Fraunhofer ISE developing world&#8217;s first medium-voltage solar plants",
+    "link": "https://www.pv-magazine.com/2026/01/27/fraunhofer-ise-developing-worlds-first-medium-voltage-solar-plants/",
+    "date": "2026-01-27T10:17:38.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Rethinking utility-scale solar inspections in an era of tighter margins",
+    "link": "https://www.pv-magazine.com/2026/01/27/rethinking-utility-scale-solar-inspections-in-an-era-of-tighter-margins/",
+    "date": "2026-01-27T10:00:42.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Grid-forming, hybrids and alternative chemistries in Wood Mackenzie’s 2026 energy storage trend predictions",
+    "link": "https://www.energy-storage.news/grid-forming-hybrids-and-alternative-chemistries-in-wood-mackenzies-2026-energy-storage-trend-predictions/",
+    "date": "2026-01-27T06:54:13.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "IBU-tec erforscht Trockenbeschichtung von Lithium-Ionen-Kathoden",
+    "link": "https://battery-news.de/2026/01/27/ibu-tec-erforscht-trockenbeschichtung-von-lithium-ionen-kathoden/",
+    "date": "2026-01-27T06:48:15.000Z",
+    "source": "Battery-News.de"
+  },
+  {
     "title": "North Sea states aim for “world’s largest energy hub” with major offshore wind investment plan",
     "link": "https://www.cleanenergywire.org/news/north-sea-states-aim-worlds-largest-energy-hub-major-offshore-wind-investment-plan",
     "date": "2026-01-26T16:24:33.000Z",
     "source": "Clean Energy Wire"
   },
   {
-    "title": "Nigeria awards first floating PV project",
-    "link": "https://www.pv-magazine.com/2026/01/26/nigeria-awards-first-floating-pv-project/",
-    "date": "2026-01-26T16:19:36.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Germany launches instantaneous reserve market, opening door to storage",
-    "link": "https://www.pv-magazine.com/2026/01/26/germany-launches-instantaneous-reserve-market-opening-door-to-storage/",
-    "date": "2026-01-26T16:15:08.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "France installs 5.9 GW of PV in 2025",
-    "link": "https://www.pv-magazine.com/2026/01/26/france-deploys-5-9-gw-of-pv-in-2025/",
-    "date": "2026-01-26T16:13:51.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Jackery releases 2 kW solar gazebo",
-    "link": "https://www.pv-magazine.com/2026/01/26/jackery-releases-2-kw-solar-gazebo/",
-    "date": "2026-01-26T14:55:31.000Z",
-    "source": "PV Magazine"
-  },
-  {
     "title": "India’s ‘first merchant BESS’: Juniper Green brings 100MWh project into full operation",
     "link": "https://www.energy-storage.news/indias-first-merchant-bess-juniper-green-brings-100mwh-project-into-full-operation/",
     "date": "2026-01-26T14:31:35.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "TU Delft unveils liquid solar module encapsulation tech",
-    "link": "https://www.pv-magazine.com/2026/01/26/tu-delft-unveils-liquid-solar-module-encapsulation-tech/",
-    "date": "2026-01-26T14:07:44.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "China PV module prices expected to hit $0.12/W in H2",
-    "link": "https://www.pv-magazine.com/2026/01/26/china-pv-module-prices-expected-to-hit-0-12-w-in-h2/",
-    "date": "2026-01-26T13:30:42.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Bridging contracting and factory quality controls in BESS projects",
-    "link": "https://www.energy-storage.news/bridging-contracting-and-factory-quality-controls-in-bess-projects/",
-    "date": "2026-01-26T08:29:51.000Z",
     "source": "Energy Storage News"
   },
   {
@@ -60,34 +90,10 @@
     "source": "Battery-News.de"
   },
   {
-    "title": "Digital BESS services M&#038;A: Quinbrook sells optimiser Flexitricity, Fortescue&#8217;s analytics provider buys Zitara",
-    "link": "https://www.energy-storage.news/digital-bess-services-ma-quinbrook-sells-optimiser-flexitricity-fortescues-analytics-provider-buys-zitara/",
-    "date": "2026-01-26T07:11:45.000Z",
-    "source": "Energy Storage News"
-  },
-  {
     "title": "Europas Maschinen- und Anlagenbauer bündeln ihre Kompetenzen",
     "link": "https://battery-news.de/2026/01/23/europas-maschinen-und-anlagenbauer-buendeln-kompetenzen/",
     "date": "2026-01-23T08:00:00.000Z",
     "source": "Battery-News.de"
-  },
-  {
-    "title": "Third utility-scale battery storage project proposed for Western Australia’s Collie",
-    "link": "https://www.energy-storage.news/third-utility-scale-battery-storage-project-proposed-for-western-australias-collie/",
-    "date": "2026-01-23T04:19:50.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "Fortescue claims ‘record-low pricing’ for large-scale battery storage in Australia",
-    "link": "https://www.energy-storage.news/fortescue-claims-record-low-pricing-for-large-scale-battery-storage-in-australia/",
-    "date": "2026-01-23T04:06:29.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "EV slowdown creates potential lifeline for US energy storage amid FEOC, tariffs",
-    "link": "https://www.energy-storage.news/ev-slowdown-creates-potential-lifeline-for-us-energy-storage-amid-feoc-tariffs/",
-    "date": "2026-01-22T14:52:06.000Z",
-    "source": "Energy Storage News"
   },
   {
     "title": "LGES bereitet Pilotfertigung für Natrium-Batterien in China vor",
@@ -130,12 +136,6 @@
     "link": "https://www.cleanenergywire.org/experts/analysis-and-experimentation-ecosystems-european-research-infrastructure-consortium-anaee-eric",
     "date": "2026-01-19T14:01:15.000Z",
     "source": "Clean Energy Wire"
-  },
-  {
-    "title": "CATL sichert sich langfristige LFP-Lieferungen",
-    "link": "https://battery-news.de/2026/01/19/catl-sichert-sich-langfristige-lfp-lieferungen/",
-    "date": "2026-01-19T06:46:33.000Z",
-    "source": "Battery-News.de"
   },
   {
     "title": "Clemens A. Schöll",
