@@ -1,5 +1,65 @@
 [
   {
+    "title": "Work begins on Georgia&#8217;s first utility-scale solar plant for on-site consumption",
+    "link": "https://www.pv-magazine.com/2026/02/11/work-begins-on-georgias-first-utility-scale-solar-plant-for-on-site-consumption/",
+    "date": "2026-02-11T12:52:08.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "&#8216;Moment of truth&#8217;: The 2026 regulatory agenda for large battery storage in Germany",
+    "link": "https://www.energy-storage.news/moment-of-truth-the-2026-regulatory-agenda-for-large-battery-storage-in-germany/",
+    "date": "2026-02-11T12:41:39.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "NineDot Energy closes US$431 million for New York BESS, Ameresco completes multiple tax credit transfers",
+    "link": "https://www.energy-storage.news/ninedot-energy-closes-us431-million-for-new-york-bess-ameresco-completes-multiple-tax-credit-transfers/",
+    "date": "2026-02-11T12:20:53.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Varta unveils residential battery with AI-driven energy management",
+    "link": "https://www.pv-magazine.com/2026/02/11/varta-unveils-residential-battery-with-ai-driven-energy-management/",
+    "date": "2026-02-11T12:14:48.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Ore Energy pilots 100-hour iron-air BESS at EDF lab in France",
+    "link": "https://www.energy-storage.news/ore-energy-pilots-100-hour-iron-air-bess-at-edf-lab-in-france/",
+    "date": "2026-02-11T11:06:12.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Energy Vault secures 1.5 GWh sodium-ion supply for AI",
+    "link": "https://www.pv-magazine.com/2026/02/11/energy-vault-secures-1-5-gwh-sodium-ion-supply-for-ai/",
+    "date": "2026-02-11T10:00:54.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Scientists say land-preservation costs should be factored into agrivoltaics’ LCOE calculations",
+    "link": "https://www.pv-magazine.com/2026/02/11/scientists-say-land-preservation-costs-should-be-factored-into-agrivoltaics-lcoe-calculations/",
+    "date": "2026-02-11T09:55:13.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Silver prices forecast to strengthen further this year",
+    "link": "https://www.pv-magazine.com/2026/02/11/silver-prices-forecast-to-strengthen-further-this-year/",
+    "date": "2026-02-11T09:33:14.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "BESS financing benefitting from other clean energy segment struggles, US uncertainty, Fidra CEO says",
+    "link": "https://www.energy-storage.news/bess-financing-benefitting-from-other-clean-energy-segment-struggles-us-uncertainty-fidra-ceo-says/",
+    "date": "2026-02-11T09:23:53.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Australia grid constraints push data centers to regions",
+    "link": "https://www.pv-magazine.com/2026/02/11/australia-grid-constraints-push-data-centers-to-regions/",
+    "date": "2026-02-11T09:15:40.000Z",
+    "source": "PV Magazine"
+  },
+  {
     "title": "ProLogium startet Gigafactory-Bau für Festkörperbatterien in Frankreich",
     "link": "https://battery-news.de/2026/02/11/prologium-startet-gigafactory-bau-fuer-festkoerperbatterien-in-frankreich/",
     "date": "2026-02-11T06:32:58.000Z",
@@ -12,69 +72,9 @@
     "source": "Energy Storage News"
   },
   {
-    "title": "Wanxiang A123 launches immersion-cooled semi-solid-state energy storage solutions",
-    "link": "https://www.pv-magazine.com/2026/02/10/wanxiang-a123-launches-immersion-cooled-semi-solid-state-energy-storage-solutions/",
-    "date": "2026-02-10T14:28:34.000Z",
-    "source": "PV Magazine"
-  },
-  {
     "title": "Energy Vault to secure 1.5GWh of US-manufactured sodium-ion BESS from Peak Energy",
     "link": "https://www.energy-storage.news/energy-vault-to-secure-1-5gwh-of-us-manufactured-sodium-ion-bess-from-peak-energy/",
     "date": "2026-02-10T13:08:36.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "Samsung SDI partners with Korea East-West Power to develop ‘global’ BESS projects",
-    "link": "https://www.energy-storage.news/samsung-sdi-partners-with-korea-east-west-power-to-develop-global-bess-projects/",
-    "date": "2026-02-10T13:06:32.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "Norwegian firm introduces fire-resistant membrane for rooftop PV",
-    "link": "https://www.pv-magazine.com/2026/02/10/norwegian-firm-introduces-fire-resistant-membrane-for-rooftop-pv/",
-    "date": "2026-02-10T12:48:50.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Carbon dioxide removal benefits from solar PV",
-    "link": "https://www.pv-magazine.com/2026/02/10/carbon-dioxide-removal-benefits-from-solar-pv/",
-    "date": "2026-02-10T12:00:33.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Canada adds only 57 MW of utility-scale solar in 2025",
-    "link": "https://www.pv-magazine.com/2026/02/10/canada-adds-only-57-mw-of-utility-scale-solar-in-2025/",
-    "date": "2026-02-10T11:19:54.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Ore Energy completes 100-hour iron-air storage system for EDF in France",
-    "link": "https://www.pv-magazine.com/2026/02/10/ore-energy-completes-100-hour-iron-air-storage-system-for-edf-in-france/",
-    "date": "2026-02-10T11:11:50.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Zendure unveils new batteries for balcony, rooftop solar",
-    "link": "https://www.pv-magazine.com/2026/02/10/zendure-uneils-new-batteries-for-balcony-rootfop-solar/",
-    "date": "2026-02-10T10:33:51.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "RWE, Masdar, Zenobe, Enlight and others forge partnerships, tolling offers to further Germany market expansion",
-    "link": "https://www.energy-storage.news/rwe-masdar-zenobe-enlight-and-others-forge-partnerships-tolling-offers-to-further-germany-market-expansion/",
-    "date": "2026-02-10T10:03:29.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "Sungrow to invest US$270 million in inverter and BESS factory in Poland, first outside Asia",
-    "link": "https://www.energy-storage.news/sungrow-to-invest-us270-million-in-inverter-and-bess-factory-in-poland-first-outside-asia/",
-    "date": "2026-02-10T09:25:55.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "A123, Hithium tout semi-solid cells, immersion cooling and LSFT BESS safety advances",
-    "link": "https://www.energy-storage.news/a123-hithium-tout-semi-solid-cells-immersion-cooling-and-lsft-bess-safety-advances/",
-    "date": "2026-02-10T09:15:11.000Z",
     "source": "Energy Storage News"
   },
   {
