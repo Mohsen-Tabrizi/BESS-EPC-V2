@@ -1,14 +1,56 @@
 [
   {
-    "title": "Dominican Republic updates net metering rules for rooftop solar",
-    "link": "https://www.pv-magazine.com/2026/02/19/dominican-republic-updates-net-metering-rules-for-rooftop-solar/",
-    "date": "2026-02-19T13:00:58.000Z",
+    "title": "Japanese utility launches residential battery demand response pilot",
+    "link": "https://www.pv-magazine.com/2026/02/19/japanese-utility-launches-residential-battery-demand-response-pilot/",
+    "date": "2026-02-19T15:50:47.000Z",
     "source": "PV Magazine"
   },
   {
-    "title": "Anti-glare film enables PV system at Brussels Airport",
-    "link": "https://www.pv-magazine.com/2026/02/19/anti-glare-film-enables-pv-system-at-brussels-airport/",
-    "date": "2026-02-19T12:00:12.000Z",
+    "title": "Intertek acquires German PV inspection specialist AePVI",
+    "link": "https://www.pv-magazine.com/2026/02/19/intertek-acquires-german-pv-inspection-specialist-aepvi/",
+    "date": "2026-02-19T15:30:33.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Without transparent energy planning, the lights could go out",
+    "link": "https://www.energy-storage.news/without-transparent-energy-planning-the-lights-could-go-out/",
+    "date": "2026-02-19T14:47:31.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "ADB backs $350 million for three solar-plus-storage projects in Thailand",
+    "link": "https://www.pv-magazine.com/2026/02/19/adb-backs-350-million-for-three-solar-storage-projects-in-thailand/",
+    "date": "2026-02-19T14:25:28.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Idemitsu switches on 2 MW of solar above rice paddy",
+    "link": "https://www.pv-magazine.com/2026/02/19/idemitsu-switches-on-2-mw-of-solar-above-rice-paddy/",
+    "date": "2026-02-19T14:25:27.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "US Roundup: California CCAs secure LDES from Hydrostor, ESS Inc. iron-salt acquisition, PowerSecure microgrids enhance New Mexico grid",
+    "link": "https://www.energy-storage.news/us-roundup-california-ccas-secure-ldes-from-hydrostor-ess-inc-iron-salt-acquisition-powersecure-microgrids-enhance-new-mexico-grid/",
+    "date": "2026-02-19T13:58:07.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Moonwatt targets &#8216;same disruption string inverters had in solar&#8217; with distributed sodium-ion BESS architecture",
+    "link": "https://www.energy-storage.news/moonwatt-targets-same-disruption-string-inverters-had-in-solar-with-distributed-sodium-ion-bess-architecture/",
+    "date": "2026-02-19T13:42:06.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Zeo Energy signs MoU for 280 MW of solar plus LDES at Utah data center hub",
+    "link": "https://www.pv-magazine.com/2026/02/19/zeo-energy-signs-mou-for-280-mw-solar-plus-ldes-at-utah-data-center-hub/",
+    "date": "2026-02-19T13:30:28.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "World’s largest steam-producing heat pump comes online in Finland",
+    "link": "https://www.pv-magazine.com/2026/02/19/worlds-largest-steam-producing-heat-pump-comes-online-in-finland/",
+    "date": "2026-02-19T13:22:24.000Z",
     "source": "PV Magazine"
   },
   {
@@ -18,34 +60,10 @@
     "source": "Energy Storage News"
   },
   {
-    "title": "Space-based solar could be competitive by 2040, UK government finds",
-    "link": "https://www.pv-magazine.com/2026/02/19/space-based-solar-could-be-competitive-by-2040-uk-government-finds/",
-    "date": "2026-02-19T11:53:41.000Z",
-    "source": "PV Magazine"
-  },
-  {
     "title": "Ukraine&#8217;s strategic need for energy storage",
     "link": "https://www.energy-storage.news/ukraines-strategic-need-for-energy-storage/",
     "date": "2026-02-19T11:03:24.000Z",
     "source": "Energy Storage News"
-  },
-  {
-    "title": "Rotterdam port advances 96 MW floating solar project for local use",
-    "link": "https://www.pv-magazine.com/2026/02/19/large-scale-dutch-floating-solar-project-progresses/",
-    "date": "2026-02-19T10:00:22.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "The effects of solar module elevation on ground-mounted PV",
-    "link": "https://www.pv-magazine.com/2026/02/19/the-effects-of-solar-module-elevation-on-ground-mounted-pv/",
-    "date": "2026-02-19T09:53:46.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "AI can now predict solar cell efficiency from wafer quality",
-    "link": "https://www.pv-magazine.com/2026/02/19/ai-now-can-now-predict-solar-cell-efficiency-from-wafer-quality/",
-    "date": "2026-02-19T09:25:01.000Z",
-    "source": "PV Magazine"
   },
   {
     "title": "Australia’s NSW directs ASL to deliver firming tender for 2033-34 capacity shortfall",
@@ -54,28 +72,10 @@
     "source": "Energy Storage News"
   },
   {
-    "title": "&#8216;Each megawatt will be competing&#8217;: Wärtsilä on Australia&#8217;s evolving grid-scale BESS market",
-    "link": "https://www.energy-storage.news/each-megawatt-competing-wartsila-australias-evolving-grid-scale-bess-market/",
-    "date": "2026-02-19T08:18:25.000Z",
-    "source": "Energy Storage News"
-  },
-  {
     "title": "LG Energy Solution Vertech und Qcells schließen Batterie-Deal über 5 GWh",
     "link": "https://battery-news.de/2026/02/19/lg-energy-solution-vertech-und-qcells-schliessen-batterie-deal-ueber-5-gwh/",
     "date": "2026-02-19T08:00:00.000Z",
     "source": "Battery-News.de"
-  },
-  {
-    "title": "Lydian Energy secures US$689 million for three US BESS and solar projects",
-    "link": "https://www.energy-storage.news/lydian-energy-secures-us689-million-for-three-us-bess-and-solar-projects/",
-    "date": "2026-02-18T12:43:36.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "Interim FEOC guidance from US Treasury refers back to existing safe harbour guidelines",
-    "link": "https://www.energy-storage.news/interim-feoc-guidance-from-us-treasury-refers-back-to-existing-safe-harbour-guidelines/",
-    "date": "2026-02-18T12:38:14.000Z",
-    "source": "Energy Storage News"
   },
   {
     "title": "Albemarle setzt Lithiumhydroxid-Anlage in Australien außer Betrieb",
