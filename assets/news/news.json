@@ -1,39 +1,63 @@
 [
   {
+    "title": "The Hydrogen Stream: Dutch agribusiness installs 1 MW electrolyzer",
+    "link": "https://www.pv-magazine.com/2026/02/20/the-hydrogen-stream-agricultural-company-installs-solid-oxide-electrolyzer-for-local-production/",
+    "date": "2026-02-20T16:50:30.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "4-hour projects, 15-year toll: Neoen, Statkraft, Zenobē and Infranode progress BESS in Northern Europe",
+    "link": "https://www.energy-storage.news/4-hour-projects-15-year-toll-neoen-statkraft-zenobe-and-infranode-progress-bess-in-northern-europe/",
+    "date": "2026-02-20T16:17:28.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "VIDEO: The application gap between BESS asset operation data and insights",
+    "link": "https://www.energy-storage.news/video-the-application-gap-between-bess-asset-operation-data-and-insights/",
+    "date": "2026-02-20T15:55:29.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Corporate PPA deals down 10% in 2025 as AI demand plugs gaps",
+    "link": "https://www.pv-magazine.com/2026/02/20/corporate-ppa-deals-down-10-in-2025-as-ai-demand-plugs-gaps/",
+    "date": "2026-02-20T15:45:39.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "India: Energy storage tech scope widens with 100MWh flow battery, 100GW pumped hydro and grid-forming BESS prospects",
+    "link": "https://www.energy-storage.news/india-energy-storage-tech-scope-widens-with-100mwh-flow-battery-100gw-pumped-hydro-and-grid-forming-bess-prospects/",
+    "date": "2026-02-20T15:13:32.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "‘I had to work significantly harder to achieve the same level of credibility and recognition as my male peers’",
+    "link": "https://www.pv-magazine.com/2026/02/20/i-had-to-work-significantly-harder-to-achieve-the-same-level-of-credibility-and-recognition-as-my-male-peers/",
+    "date": "2026-02-20T15:10:32.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Panasonic debuts fuel cell cogeneration system for PV‑integrated homes",
+    "link": "https://www.pv-magazine.com/2026/02/20/panasonic-debuts-residential-fuel-cell-cogeneration-system-for-pv%e2%80%91integrated-homes/",
+    "date": "2026-02-20T14:54:41.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "German consortium launches web guide for BIPV planning",
+    "link": "https://www.pv-magazine.com/2026/02/20/german-consortium-launches-web-guide-for-bipv-planning/",
+    "date": "2026-02-20T13:40:48.000Z",
+    "source": "PV Magazine"
+  },
+  {
     "title": "Egypt tenders 500 MW solar project",
     "link": "https://www.pv-magazine.com/2026/02/20/egypt-tenders-500-mw-solar-project/",
     "date": "2026-02-20T12:00:32.000Z",
     "source": "PV Magazine"
   },
   {
-    "title": "Storm train hits Western Europe PV as East clears under cold",
-    "link": "https://www.pv-magazine.com/2026/02/20/storm-train-hits-western-europe-pv-as-east-clears-under-cold/",
-    "date": "2026-02-20T10:36:21.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "China wafer prices fall for fourth week as discounting deepens under inventory pressure",
-    "link": "https://www.pv-magazine.com/2026/02/20/china-wafer-prices-fall-for-fourth-week-as-discounting-deepens-under-inventory-pressure/",
-    "date": "2026-02-20T10:09:11.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Sunoyster offers lightweight 440 W glass-covered TOPCon PV panel",
-    "link": "https://www.pv-magazine.com/2026/02/20/sunoyster-offers-lightweight-440-w-glass-covered-topcon-pv-panel/",
-    "date": "2026-02-20T09:46:55.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Estonia advances 1.1 GWh heat storage, 250 MWh BESS and 800 MWh battery park",
-    "link": "https://www.pv-magazine.com/2026/02/20/estonia-advances-1-1-gwh-heat-storage-250-mwh-bess-and-800-mwh-battery-park/",
-    "date": "2026-02-20T09:45:54.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "NexWafe, Talon PV sign 7 GW solar wafer supply agreement",
-    "link": "https://www.pv-magazine.com/2026/02/20/nexwafe-talon-pv-sign-7-gw-solar-wafer-supply-agreement/",
-    "date": "2026-02-20T09:42:52.000Z",
-    "source": "PV Magazine"
+    "title": "Green tech rivalry clouds German chancellor Merz's first China visit - analyst",
+    "link": "https://www.cleanenergywire.org/news/green-tech-rivalry-clouds-german-chancellor-merzs-first-china-visit-analyst",
+    "date": "2026-02-20T10:01:34.000Z",
+    "source": "Clean Energy Wire"
   },
   {
     "title": "Enable the next wave of applications and opportunity: Cubenergy’s FlexCombo 2.0 flexible energy storage AC block",
@@ -57,24 +81,6 @@
     "title": "Without transparent energy planning, the lights could go out",
     "link": "https://www.energy-storage.news/without-transparent-energy-planning-the-lights-could-go-out/",
     "date": "2026-02-19T14:47:31.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "US Roundup: California CCAs secure LDES from Hydrostor, ESS Inc. iron-salt acquisition, PowerSecure microgrids enhance New Mexico grid",
-    "link": "https://www.energy-storage.news/us-roundup-california-ccas-secure-ldes-from-hydrostor-ess-inc-iron-salt-acquisition-powersecure-microgrids-enhance-new-mexico-grid/",
-    "date": "2026-02-19T13:58:07.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "Moonwatt targets &#8216;same disruption string inverters had in solar&#8217; with distributed sodium-ion BESS architecture",
-    "link": "https://www.energy-storage.news/moonwatt-targets-same-disruption-string-inverters-had-in-solar-with-distributed-sodium-ion-bess-architecture/",
-    "date": "2026-02-19T13:42:06.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "The Energy Storage Report 2026 out now: grid-forming, fire safety, bankability and more",
-    "link": "https://www.energy-storage.news/the-energy-storage-report-2026-out-now-grid-forming-fire-safety-bankability-and-more/",
-    "date": "2026-02-19T12:00:09.000Z",
     "source": "Energy Storage News"
   },
   {
@@ -135,12 +141,6 @@
     "title": "Grant",
     "link": "https://www.cleanenergywire.org/grant",
     "date": "2026-01-14T15:01:35.000Z",
-    "source": "Clean Energy Wire"
-  },
-  {
-    "title": "Zukunft KlimaSozial",
-    "link": "https://www.cleanenergywire.org/experts/zukunft-klimasozial",
-    "date": "2026-01-08T10:43:31.000Z",
     "source": "Clean Energy Wire"
   }
 ]
