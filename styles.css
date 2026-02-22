@@ -91,3 +91,73 @@ footer{background:#0b1220;border-top:1px solid rgba(255,255,255,.06);padding:40p
 }
 /* TEMP: hide Business Models from top nav */
 .nav a[href="business-models.html"] { display: none !important; }
+
+/* ===== Language switch (top right) ===== */
+.lang-switch {
+  display: inline-flex;
+  gap: 10px;
+  margin-left: 14px;
+  padding-left: 14px;
+  border-left: 1px solid rgba(255,255,255,.18);
+}
+
+.lang-switch a {
+  font-size: 12px;
+  opacity: 0.9;
+  text-decoration: none;
+}
+
+.lang-switch a:hover {
+  opacity: 1;
+}
+
+/* ===== Mobile menu button ===== */
+.menu-toggle {
+  display: none;
+  border: 1px solid rgba(255,255,255,.2);
+  background: transparent;
+  color: #fff;
+  padding: 8px 10px;
+  border-radius: 12px;
+  cursor: pointer;
+  font-size: 14px;
+  line-height: 1;
+}
+
+/* ===== Mobile nav behavior ===== */
+@media (max-width: 900px) {
+  .menu-toggle {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  /* your nav container must have id="nav" */
+  #nav {
+    display: none;
+    position: absolute;
+    top: 64px;
+    right: 16px;
+    left: 16px;
+    background: rgba(17, 24, 39, 0.98);
+    border: 1px solid rgba(255,255,255,.12);
+    border-radius: 16px;
+    padding: 12px;
+    flex-direction: column;
+    gap: 10px;
+    z-index: 50;
+  }
+
+  #nav.open {
+    display: flex;
+  }
+
+  #nav a {
+    padding: 10px 12px;
+    border-radius: 12px;
+  }
+
+  #nav a:hover {
+    background: rgba(255,255,255,.06);
+  }
+}
