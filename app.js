@@ -1,147 +1,65 @@
-/* BESS EPC - app.js
-   - Populates all labels from data-en / data-de so nav never appears blank
-   - EN/DE toggle for all pages
-   - Auto-redirect to de.html / zh.html for homepage visitors based on browser language
-*/
+/* app.js — language routing + manual override (GitHub Pages / custom domain safe) */
+(() => {
+  const PAGES = { en: "index.html", de: "de.html", zh: "zh.html" };
 
-(function () {
-  const SUPPORTED_UI_LANGS = ["en", "de"]; // UI toggle shows only EN/DE
-  const STORAGE_KEY = "bess_lang";
-
-  function normalizeLang(raw) {
-    if (!raw) return "en";
-    const s = String(raw).toLowerCase();
-    if (s.startsWith("de")) return "de";
-    if (s.startsWith("zh")) return "zh";
+  function browserDefaultLang() {
+    const l = (navigator.language || "en").toLowerCase();
+    if (l.startsWith("de")) return "de";
+    if (l.startsWith("zh")) return "zh";
     return "en";
   }
 
-  function getBrowserLang() {
-    const langs = Array.isArray(navigator.languages) ? navigator.languages : [];
-    if (langs.length) return normalizeLang(langs[0]);
-    return normalizeLang(navigator.language || navigator.userLanguage);
+  function savedLang() {
+    const v = localStorage.getItem("lang");
+    return v && PAGES[v] ? v : null;
   }
 
-  function getSavedLang() {
-    try {
-      return normalizeLang(localStorage.getItem(STORAGE_KEY));
-    } catch (e) {
-      return null;
-    }
+  function setLang(lang) {
+    if (PAGES[lang]) localStorage.setItem("lang", lang);
   }
 
-  function saveLang(lang) {
-    try {
-      localStorage.setItem(STORAGE_KEY, lang);
-    } catch (e) {}
+  function pageLangFromPath() {
+    const p = (location.pathname || "").toLowerCase();
+    if (p.endsWith("/de.html") || p.endsWith("de.html")) return "de";
+    if (p.endsWith("/zh.html") || p.endsWith("zh.html")) return "zh";
+    return "en"; // default
   }
 
-  // Redirect logic only for homepage entry
-  function maybeRedirectHomepage() {
-    const path = window.location.pathname || "";
-    const file = path.split("/").pop() || "";
-    const isHome =
-      file === "" ||
-      file === "index.html" ||
-      file === "de.html" ||
-      file === "zh.html";
-
-    if (!isHome) return;
-
-    // If user explicitly saved a UI language, respect it
-    const saved = getSavedLang();
-    const preferred = saved || getBrowserLang();
-
-    // Only redirect if we are on the wrong homepage file
-    if ((file === "" || file === "index.html") && preferred === "de") {
-      window.location.replace("de.html");
-      return;
-    }
-    if ((file === "" || file === "index.html") && preferred === "zh") {
-      window.location.replace("zh.html");
-      return;
-    }
-
-    // If user is on de.html but prefers EN, go to index.html
-    if (file === "de.html" && preferred === "en") {
-      window.location.replace("index.html");
-      return;
-    }
-
-    // If user is on zh.html and prefers EN/DE, redirect accordingly
-    if (file === "zh.html" && preferred === "de") {
-      window.location.replace("de.html");
-      return;
-    }
-    if (file === "zh.html" && preferred === "en") {
-      window.location.replace("index.html");
-      return;
-    }
+  function targetUrlFor(lang) {
+    // Keep it simple: same origin, root file
+    return `${location.origin}/${PAGES[lang]}`;
   }
 
-  function applyLanguage(lang) {
-    // We only apply UI strings for EN/DE across shared pages.
-    // zh.html is its own fully Chinese homepage.
-    const uiLang = SUPPORTED_UI_LANGS.includes(lang) ? lang : "en";
-
-    document.documentElement.setAttribute("lang", uiLang);
-
-    // Populate any element that uses data-en/data-de
-    const nodes = document.querySelectorAll("[data-en], [data-de]");
-    nodes.forEach((el) => {
-      const value = el.getAttribute("data-" + uiLang);
-      if (value !== null && value !== undefined) {
-        // Only overwrite if there is a value for the selected language
-        el.textContent = value;
-      }
-    });
-
-    // Update toggle button text (shows the OTHER language)
-    const btn = document.getElementById("lang-toggle");
-    if (btn) {
-      const next = uiLang === "de" ? "EN" : "DE";
-      btn.textContent = next;
-      btn.setAttribute("aria-label", "Switch language to " + next);
-    }
-
-    return uiLang;
+  function go(lang) {
+    const target = targetUrlFor(lang);
+    if (location.href !== target) location.replace(target);
   }
 
-  function wireLanguageToggle(currentLang) {
-    const btn = document.getElementById("lang-toggle");
-    if (!btn) return;
-
-    btn.addEventListener("click", function () {
-      const nextLang = currentLang === "de" ? "en" : "de";
-      saveLang(nextLang);
-
-      // If on a special homepage file, switch the file too
-      const path = window.location.pathname || "";
-      const file = path.split("/").pop() || "";
-
-      if (file === "de.html" && nextLang === "en") {
-        window.location.href = "index.html";
-        return;
-      }
-      if (file === "index.html" && nextLang === "de") {
-        window.location.href = "de.html";
-        return;
-      }
-      if (file === "zh.html") {
-        // From zh homepage, toggling goes to EN/DE homepage
-        window.location.href = nextLang === "de" ? "de.html" : "index.html";
-        return;
-      }
-
-      // Normal pages: just switch labels in-place
-      currentLang = applyLanguage(nextLang);
-    });
+  // 1) If user already chose a language before, ALWAYS respect it.
+  const saved = savedLang();
+  if (saved) {
+    const current = pageLangFromPath();
+    if (current !== saved) go(saved);
+  } else {
+    // 2) First visit: pick based on browser language and store it once.
+    const first = browserDefaultLang();
+    setLang(first);
+    const current = pageLangFromPath();
+    if (current !== first) go(first);
   }
 
-  // Run
-  maybeRedirectHomepage();
+  // 3) Manual language switch:
+  // Add links like: <a href="index.html" data-lang="en">EN</a>
+  //               <a href="de.html"    data-lang="de">DE</a>
+  document.addEventListener("click", (e) => {
+    const a = e.target.closest("a[data-lang]");
+    if (!a) return;
 
-  const initial = getSavedLang() || getBrowserLang();
-  const uiLang = applyLanguage(initial);
-  wireLanguageToggle(uiLang);
+    const lang = a.getAttribute("data-lang");
+    if (!PAGES[lang]) return;
+
+    e.preventDefault();
+    setLang(lang);
+    location.href = targetUrlFor(lang);
+  });
 })();
