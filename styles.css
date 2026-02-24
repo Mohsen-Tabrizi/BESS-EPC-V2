@@ -250,3 +250,18 @@ img {
   .gallery { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .thumb { height: 110px; }
 }
+/* Reduce big gap between stacked sections */
+.section {
+  padding: 48px 0; /* was 64px 0 */
+}
+
+/* If your Applications section ends with a grid, kill extra bottom margin */
+#solutions .grid-3,
+#solutions .cards {
+  margin-bottom: 0 !important;
+}
+
+/* If you still see too much gap, also reduce the H2 spacing a bit */
+.section h2 {
+  margin-bottom: 12px; /* was 16px */
+}
