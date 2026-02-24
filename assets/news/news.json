@@ -1,81 +1,87 @@
 [
   {
-    "title": "South Korea to invest $223 million in next-generation distributed grid",
-    "link": "https://www.pv-magazine.com/2026/02/23/south-korea-to-invest-223-million-in-next-generation-distributed-grid/",
-    "date": "2026-02-23T15:30:24.000Z",
+    "title": "&#8216;Garbage in, garbage out&#8217; – solar industry debates reality of AI",
+    "link": "https://www.pv-magazine.com/2026/02/24/garbage-in-garbage-out-solar-industry-debates-reality-of-ai/",
+    "date": "2026-02-24T13:00:55.000Z",
     "source": "PV Magazine"
   },
   {
-    "title": "Solar module prices rise faster than expected in February",
-    "link": "https://www.pv-magazine.com/2026/02/23/solar-module-prices-rise-faster-than-expected-in-february/",
-    "date": "2026-02-23T14:30:25.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Fox ESS releases hybrid inverters for commercial PV",
-    "link": "https://www.pv-magazine.com/2026/02/23/fox-ess-releases-hybrid-inverters-for-commercial-pv/",
-    "date": "2026-02-23T13:33:06.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "European Union members make mixed progress in implementing energy storage strategies",
-    "link": "https://www.energy-storage.news/european-union-members-make-mixed-progress-in-implementing-energy-storage-strategies/",
-    "date": "2026-02-23T12:23:32.000Z",
+    "title": "DESRI, Clearway move Texas BESS projects forward",
+    "link": "https://www.energy-storage.news/desri-clearway-move-texas-bess-projects-forward/",
+    "date": "2026-02-24T13:00:15.000Z",
     "source": "Energy Storage News"
   },
   {
-    "title": "FRV set for 1.2GW/5GWh BESS rollout in Spain",
-    "link": "https://www.energy-storage.news/frv-set-for-1-2gw-5gwh-bess-rollout-in-spain/",
-    "date": "2026-02-23T12:18:52.000Z",
+    "title": "Poland adds 3.6 GW of solar in 2025",
+    "link": "https://www.pv-magazine.com/2026/02/24/poland-adds-3-6-gw-of-solar-in-2025/",
+    "date": "2026-02-24T12:57:47.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "US BESS deployments to increase to 70GWh this year, SEIA says in first sector-dedicated report",
+    "link": "https://www.energy-storage.news/us-bess-deployments-to-increase-to-70gwh-this-year-seia-says-in-first-sector-dedicated-report/",
+    "date": "2026-02-24T12:52:41.000Z",
     "source": "Energy Storage News"
   },
   {
-    "title": "High-temp sodium-zinc batteries reveal causes of rapid capacity loss",
-    "link": "https://www.pv-magazine.com/2026/02/23/high-temp-sodium-zinc-batteries-reveal-causes-of-rapid-capacity-loss/",
-    "date": "2026-02-23T12:00:11.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Redefining BESS bankability in 2026: from installed capacity to operational performance",
-    "link": "https://www.energy-storage.news/redefining-bess-bankability-in-2026-from-installed-capacity-to-operational-performance/",
-    "date": "2026-02-23T11:36:10.000Z",
+    "title": "&#8216;No project above 100MW is fully merchant&#8217;: Bankability in focus as Energy Storage Summit 2026 kicks off",
+    "link": "https://www.energy-storage.news/no-project-above-100mw-is-fully-merchant-bankability-in-focus-as-energy-storage-summit-2026-kicks-off/",
+    "date": "2026-02-24T12:40:06.000Z",
     "source": "Energy Storage News"
   },
   {
-    "title": "How airflow modifications in agrivoltaics affect crop yield, energy output",
-    "link": "https://www.pv-magazine.com/2026/02/23/how-airflow-modifications-in-agrivoltaics-affect-crop-yield-energy-output/",
-    "date": "2026-02-23T11:22:00.000Z",
+    "title": "Sodium-ion batteries key to EU competitive edge, says EESC president",
+    "link": "https://www.pv-magazine.com/2026/02/24/sodium-ion-batteries-key-to-eu-competitive-edge-says-eesc-president/",
+    "date": "2026-02-24T12:00:28.000Z",
     "source": "PV Magazine"
   },
   {
-    "title": "Taiwan’s solar feed-in tariffs remain unchanged",
-    "link": "https://www.pv-magazine.com/2026/02/23/taiwans-solar-feed-in-tariffs-remain-unchanged/",
-    "date": "2026-02-23T11:20:55.000Z",
+    "title": "How to protect animals from lightning in agrivoltaics",
+    "link": "https://www.pv-magazine.com/2026/02/24/how-to-protect-animals-from-lightning-in-agrivoltaics/",
+    "date": "2026-02-24T11:26:27.000Z",
     "source": "PV Magazine"
+  },
+  {
+    "title": "Israel approves rules for agrivoltaics",
+    "link": "https://www.pv-magazine.com/2026/02/24/israel-approves-rules-for-agrivoltaics/",
+    "date": "2026-02-24T10:48:55.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Argentina adds 810 MW of solar capacity in 2025",
+    "link": "https://www.pv-magazine.com/2026/02/24/argentina-adds-810-mw-of-solar-capacity-in-2025/",
+    "date": "2026-02-24T10:00:31.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Lightsource bp sells 800MWh of co-located battery storage in Australia to Aula Energy",
+    "link": "https://www.energy-storage.news/lightsource-bp-sells-800mwh-of-co-located-battery-storage-in-australia-to-aula-energy/",
+    "date": "2026-02-24T09:04:53.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Execution discipline redefines energy storage value in Europe, as investable projects become harder to secure",
+    "link": "https://www.energy-storage.news/execution-discipline-redefines-energy-storage-value-in-europe-as-investable-projects-become-harder-to-secure/",
+    "date": "2026-02-24T08:38:41.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "RES Australia joint venture bags EPBC Act approval for 3.6GWh solar-plus-storage project in Queensland",
+    "link": "https://www.energy-storage.news/res-australia-joint-venture-bags-epbc-act-approval-for-3-6gwh-solar-plus-storage-project-in-queensland/",
+    "date": "2026-02-24T08:30:17.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "„Battery Atlas 2026“ beleuchtet europäische Wertschöpfungskette",
+    "link": "https://battery-news.de/2026/02/24/battery-atlas-2026-beleuchtet-europaeische-wertschoepfungskette/",
+    "date": "2026-02-24T08:22:01.000Z",
+    "source": "Battery-News.de"
   },
   {
     "title": "Imerys stoppt Lithium-Projekt in Großbritannien",
     "link": "https://battery-news.de/2026/02/23/imerys-stoppt-lithium-projekt-in-grossbritannien/",
     "date": "2026-02-23T06:51:16.000Z",
     "source": "Battery-News.de"
-  },
-  {
-    "title": "4-hour projects, 15-year toll: Neoen, Statkraft, Zenobē and Infranode progress BESS in Northern Europe",
-    "link": "https://www.energy-storage.news/4-hour-projects-15-year-toll-neoen-statkraft-zenobe-and-infranode-progress-bess-in-northern-europe/",
-    "date": "2026-02-20T16:17:28.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "VIDEO: The application gap between BESS asset operation data and insights",
-    "link": "https://www.energy-storage.news/video-the-application-gap-between-bess-asset-operation-data-and-insights/",
-    "date": "2026-02-20T15:55:29.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "India: Energy storage tech scope widens with 100MWh flow battery, 100GW pumped hydro and grid-forming BESS prospects",
-    "link": "https://www.energy-storage.news/india-energy-storage-tech-scope-widens-with-100mwh-flow-battery-100gw-pumped-hydro-and-grid-forming-bess-prospects/",
-    "date": "2026-02-20T15:13:32.000Z",
-    "source": "Energy Storage News"
   },
   {
     "title": "Green tech rivalry clouds German chancellor Merz's first China visit - analyst",
@@ -105,12 +111,6 @@
     "title": "PEM forscht an Echtzeit-Vermessung von Slurry im Mischprozess",
     "link": "https://battery-news.de/2026/02/17/pem-forscht-an-echtzeit-vermessung-von-slurry-im-mischprozess/",
     "date": "2026-02-17T08:00:00.000Z",
-    "source": "Battery-News.de"
-  },
-  {
-    "title": "Gotion und BASF kooperieren bei Festkörperbatterien",
-    "link": "https://battery-news.de/2026/02/13/gotion-und-basf-kooperieren-bei-festkoerperbatterien/",
-    "date": "2026-02-13T08:00:00.000Z",
     "source": "Battery-News.de"
   },
   {
