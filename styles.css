@@ -265,3 +265,6 @@ img {
 .section h2 {
   margin-bottom: 12px; /* was 16px */
 }
+
+/* Tighten spacing between Applications & Value and Services on home */
+.section.tight-top { padding-top: 28px; }
