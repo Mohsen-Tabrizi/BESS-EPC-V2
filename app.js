@@ -1,6 +1,7 @@
-/* app.js — auto language routing (browser default) + optional manual override + i18n text binding */
+/* app.js — home-only auto language routing + optional manual override + i18n binding + mobile menu */
 (() => {
   const PAGES = { en: "index.html", de: "de.html", zh: "zh.html" };
+  const HOME_FILES = new Set(["", "/", "/index.html", "/de.html", "/zh.html"]);
 
   function browserDefaultLang() {
     const l = (navigator.language || "en").toLowerCase();
@@ -29,10 +30,12 @@
     return "en";
   }
 
-  function isHomeEntry() {
-    // Only auto-route on the entry page ("/" or "/index.html")
+  function isHomePage() {
     const p = (location.pathname || "").toLowerCase();
-    return p.endsWith("/") || p.endsWith("/index.html") || p.endsWith("index.html") || p === "";
+    // normalize: some servers return "/" only, some return "/index.html"
+    if (p === "") return true;
+    if (HOME_FILES.has(p)) return true;
+    return false;
   }
 
   function targetUrlFor(lang) {
@@ -44,22 +47,22 @@
     if (location.href !== target) location.replace(target);
   }
 
-  // ROUTING RULES:
-  // 1) If manual override exists, it wins (even if you typed another language page).
-  // 2) If NO manual override:
-  //    - Only auto-route when you are on the home entry ("/" or "index.html").
-  //    - If you typed de.html or zh.html directly, we respect that and do NOT redirect you away.
-  const manual = manualOverrideLang();
-  const current = pageLangFromPath();
+  // 1) Auto-route ONLY on home pages.
+  // If someone visits municipalities.html etc, do NOT force them back to home.
+  if (isHomePage()) {
+    const desired = manualOverrideLang() || browserDefaultLang();
+    const current = pageLangFromPath();
 
-  if (manual) {
-    if (current !== manual) go(manual);
-  } else if (isHomeEntry()) {
-    const desired = browserDefaultLang();
-    if (current !== desired) go(desired);
+    // Important: if user is explicitly on de.html or zh.html, do NOT redirect away.
+    // Auto-routing should mainly decide which home to land on.
+    const p = (location.pathname || "").toLowerCase();
+    const explicitlyOnDeOrZh = p.endsWith("de.html") || p.endsWith("zh.html");
+
+    if (!explicitlyOnDeOrZh && current !== desired) go(desired);
+    // If explicitly on de.html/zh.html, stay there.
   }
 
-  // Manual language switch (your HTML only exposes EN/DE)
+  // 2) Manual language switch (you can keep only EN/DE in HTML)
   document.addEventListener("click", (e) => {
     const a = e.target.closest("a[data-lang]");
     if (!a) return;
@@ -72,7 +75,7 @@
     location.href = targetUrlFor(lang);
   });
 
-  // Bind texts from data-en/data-de/data-zh so nothing becomes empty
+  // 3) Bind i18n texts (prevents empty labels/buttons)
   function bindI18nTexts() {
     const lang = pageLangFromPath();
     const key = `data-${lang}`;
@@ -93,7 +96,7 @@
     });
   }
 
-  // Mobile menu toggle (works on pages that have #menu-toggle + #nav)
+  // 4) Mobile menu toggle
   function initMobileMenu() {
     const btn = document.getElementById("menu-toggle");
     const nav = document.getElementById("nav");
