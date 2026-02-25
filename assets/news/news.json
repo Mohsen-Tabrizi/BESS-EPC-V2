@@ -1,21 +1,69 @@
 [
   {
+    "title": "German startup launches gateway to block inverter kill switches",
+    "link": "https://www.pv-magazine.com/2026/02/25/german-startup-launches-gateway-to-block-inverter-kill-switches/",
+    "date": "2026-02-25T16:30:59.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "SolarPower Europe issues due diligence guide for PV-BESS",
+    "link": "https://www.pv-magazine.com/2026/02/25/solarpower-europe-issues-due-diligence-guide-for-pv-bess/",
+    "date": "2026-02-25T16:00:10.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Germany’s grid fees and inertia payments highlight contrasts in energy storage regulation",
+    "link": "https://www.energy-storage.news/germanys-grid-fees-and-inertia-payments-highlight-contrasts-in-energy-storage-regulation/",
+    "date": "2026-02-25T15:03:27.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Energy storage co-location with solar PV not a ‘silver bullet’",
+    "link": "https://www.energy-storage.news/energy-storage-co-location-with-solar-pv-not-a-silver-bullet/",
+    "date": "2026-02-25T14:35:07.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Tongwei plans to acquire polysilicon competitor Qinghai Lihao",
+    "link": "https://www.pv-magazine.com/2026/02/25/tongwei-plans-to-acquire-polysilicon-competitor-qinghai-lihao/",
+    "date": "2026-02-25T14:31:01.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "US Roundup: FlexGen updates EMS, LandGate&#8217;s BESS site selection tool, ON.Energy-Shoals target data centres, Sunrun’s season of VPP dispatching",
+    "link": "https://www.energy-storage.news/us-roundup-flexgen-updates-ems-landgates-bess-site-selection-tool-on-energy-shoals-target-data-centres-sunruns-season-of-vpp-dispatching/",
+    "date": "2026-02-25T14:02:10.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Data centres are &#8216;convenient scapegoats&#8217; for grid failures, says energy consultant",
+    "link": "https://www.energy-storage.news/data-centres-are-convenient-scapegoats-for-grid-failures-says-energy-consultant/",
+    "date": "2026-02-25T13:57:57.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Malaysia restricts non-AI data centers, citing energy concerns",
+    "link": "https://www.pv-magazine.com/2026/02/25/malaysia-restricts-non-ai-data-centers-citing-energy-concerns/",
+    "date": "2026-02-25T13:36:22.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Fraunhofer IEE calls for &#8216;grid-forming readiness&#8217; in distribution networks",
+    "link": "https://www.pv-magazine.com/2026/02/25/fraunhofer-iee-calls-for-grid-forming-readiness-in-distribution-networks/",
+    "date": "2026-02-25T13:32:17.000Z",
+    "source": "PV Magazine"
+  },
+  {
     "title": "Switzerland streamlines construction of large-scale solar plants",
     "link": "https://www.pv-magazine.com/2026/02/25/switzerland-streamlines-construction-of-large-scale-solar-plants/",
     "date": "2026-02-25T12:47:07.000Z",
     "source": "PV Magazine"
   },
   {
-    "title": "AlphaESS releases containerized C&#038;I storage system",
-    "link": "https://www.pv-magazine.com/2026/02/25/alphaess-releases-containerized-ci-storage-system/",
-    "date": "2026-02-25T12:02:47.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Standardizing smart energy requirements",
-    "link": "https://www.pv-magazine.com/2026/02/25/standardizing-smart-energy-requirements/",
-    "date": "2026-02-25T10:46:36.000Z",
-    "source": "PV Magazine"
+    "title": "German government drops mandatory renewable energy share for heating",
+    "link": "https://www.cleanenergywire.org/news/german-government-drops-mandatory-renewable-share-heating",
+    "date": "2026-02-25T10:26:01.000Z",
+    "source": "Clean Energy Wire"
   },
   {
     "title": "Energy Storage Summit 2026 Day One: Reflections and takeaways at Europe’s biggest industry conference",
@@ -30,52 +78,10 @@
     "source": "Energy Storage News"
   },
   {
-    "title": "JinkoSolar achieves record-breaking 26.66% efficiency for TOPCon solar cell based on M10-size wafer",
-    "link": "https://www.pv-magazine.com/2026/02/25/jinkosolar-achieves-record-breaking-26-66-efficiency-for-topcon-solar-cell-based-on-m10-size-wafer/",
-    "date": "2026-02-25T10:05:33.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Bolivia creates net metering scheme for medium-voltage distributed generation",
-    "link": "https://www.pv-magazine.com/2026/02/25/bolivia-creates-net-metering-scheme-for-medium-voltage-distributed-generation/",
-    "date": "2026-02-25T10:00:27.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "US solar assets lose average $5,070 per MW from power losses",
-    "link": "https://www.pv-magazine.com/2026/02/25/us-solar-assets-lose-average-5070-per-mw-from-power-losses/",
-    "date": "2026-02-25T09:42:20.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "RE Developments eyes 1GWh battery storage system in Western Australia",
-    "link": "https://www.energy-storage.news/re-developments-eyes-1gwh-battery-storage-system-in-western-australia/",
-    "date": "2026-02-25T09:24:34.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "400MWh grid-forming New England BESS registered with Australia’s AEMO",
-    "link": "https://www.energy-storage.news/400mwh-grid-forming-new-england-bess-registered-with-australias-aemo/",
-    "date": "2026-02-25T09:20:01.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "Waratah Super Battery transformer replacement scheduled for Q3 2026 delivery in Australia",
-    "link": "https://www.energy-storage.news/waratah-super-battery-transformer-replacement-scheduled-for-q3-2026-delivery-in-australia/",
-    "date": "2026-02-25T09:14:13.000Z",
-    "source": "Energy Storage News"
-  },
-  {
     "title": "Ampere und Basquevolt kooperieren bei Lithium-Metall-Batterie",
     "link": "https://battery-news.de/2026/02/25/ampere-und-basquevolt-kooperieren-bei-lithium-metall-batterie/",
     "date": "2026-02-25T08:00:00.000Z",
     "source": "Battery-News.de"
-  },
-  {
-    "title": "How can batteries respond to energy price volatility in Europe?",
-    "link": "https://www.energy-storage.news/how-can-batteries-respond-to-energy-price-volatility-in-europe/",
-    "date": "2026-02-24T16:11:47.000Z",
-    "source": "Energy Storage News"
   },
   {
     "title": "„Battery Atlas 2026“ beleuchtet europäische Wertschöpfungskette",
@@ -88,12 +94,6 @@
     "link": "https://battery-news.de/2026/02/23/imerys-stoppt-lithium-projekt-in-grossbritannien/",
     "date": "2026-02-23T06:51:16.000Z",
     "source": "Battery-News.de"
-  },
-  {
-    "title": "Green tech rivalry clouds German chancellor Merz's first China visit - analyst",
-    "link": "https://www.cleanenergywire.org/news/green-tech-rivalry-clouds-german-chancellor-merzs-first-china-visit-analyst",
-    "date": "2026-02-20T10:01:34.000Z",
-    "source": "Clean Energy Wire"
   },
   {
     "title": "Rio Tinto übernimmt Mehrheitsanteil an Nemaska Lithium",
