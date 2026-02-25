@@ -29,6 +29,12 @@
     return "en";
   }
 
+  function isHomeEntry() {
+    // Only auto-route on the entry page ("/" or "/index.html")
+    const p = (location.pathname || "").toLowerCase();
+    return p.endsWith("/") || p.endsWith("/index.html") || p.endsWith("index.html") || p === "";
+  }
+
   function targetUrlFor(lang) {
     return `${location.origin}/${PAGES[lang]}`;
   }
@@ -38,13 +44,22 @@
     if (location.href !== target) location.replace(target);
   }
 
-  // 0) Decide target language:
-  // Manual override wins. Otherwise always follow browser default.
-  const desired = manualOverrideLang() || browserDefaultLang();
+  // ROUTING RULES:
+  // 1) If manual override exists, it wins (even if you typed another language page).
+  // 2) If NO manual override:
+  //    - Only auto-route when you are on the home entry ("/" or "index.html").
+  //    - If you typed de.html or zh.html directly, we respect that and do NOT redirect you away.
+  const manual = manualOverrideLang();
   const current = pageLangFromPath();
-  if (current !== desired) go(desired);
 
-  // 1) Manual language switch (only EN/DE links exist in HTML)
+  if (manual) {
+    if (current !== manual) go(manual);
+  } else if (isHomeEntry()) {
+    const desired = browserDefaultLang();
+    if (current !== desired) go(desired);
+  }
+
+  // Manual language switch (your HTML only exposes EN/DE)
   document.addEventListener("click", (e) => {
     const a = e.target.closest("a[data-lang]");
     if (!a) return;
@@ -57,9 +72,9 @@
     location.href = targetUrlFor(lang);
   });
 
-  // 2) Bind texts from data-en/data-de/data-zh so nothing becomes empty
+  // Bind texts from data-en/data-de/data-zh so nothing becomes empty
   function bindI18nTexts() {
-    const lang = pageLangFromPath(); // bind to the page you are on
+    const lang = pageLangFromPath();
     const key = `data-${lang}`;
 
     document.querySelectorAll(`[${key}]`).forEach((el) => {
@@ -78,7 +93,7 @@
     });
   }
 
-  // 3) Mobile menu toggle (works on pages that have #menu-toggle + #nav)
+  // Mobile menu toggle (works on pages that have #menu-toggle + #nav)
   function initMobileMenu() {
     const btn = document.getElementById("menu-toggle");
     const nav = document.getElementById("nav");
