@@ -20,9 +20,15 @@
   <meta property="og:title" content="BESS EPC | 欧洲电池储能EPC与并网集成"/>
   <meta property="og:description" content="面向欧洲市场的电池储能EPC项目：设计、建设、并网与技术验证。"/>
   <meta property="og:url" content="https://bess-epc.de/zh.html"/>
+  <meta property="og:image" content="https://bess-epc.de/assets/logo/favicon.png"/>
 
-  <link rel="icon" type="image/png" href="assets/logo/favicon.png"/>
-  <link rel="stylesheet" href="styles.css"/>
+  <meta name="twitter:card" content="summary"/>
+  <meta name="twitter:title" content="BESS EPC | 欧洲电池储能EPC与并网集成"/>
+  <meta name="twitter:description" content="面向欧洲市场的电池储能EPC项目：设计、建设、并网与技术验证。"/>
+  <meta name="twitter:image" content="https://bess-epc.de/assets/logo/favicon.png"/>
+
+  <link rel="icon" type="image/png" href="/assets/logo/favicon.png"/>
+  <link rel="stylesheet" href="/styles.css"/>
 
   <script type="application/ld+json">
   {
@@ -31,16 +37,26 @@
     "name":"BESS EPC",
     "url":"https://bess-epc.de/",
     "logo":"https://bess-epc.de/assets/logo/favicon.png",
-    "description":"面向欧洲市场的电池储能系统 EPC 与项目开发支持。"
+    "description":"面向欧洲市场的电池储能系统 EPC 与项目开发支持。",
+    "email":"info@bess-epc.de",
+    "telephone":"+49 175 1055104",
+    "address":{
+      "@type":"PostalAddress",
+      "streetAddress":"Industriestraße 4",
+      "postalCode":"70565",
+      "addressLocality":"Stuttgart",
+      "addressCountry":"DE"
+    }
   }
   </script>
 </head>
 
 <body>
+
 <header class="header">
   <div class="container header-inner">
     <a class="brand" href="zh.html" aria-label="BESS EPC">
-      <img src="assets/logo/BESS-EPC LogoHorizontal_No background_White_text.png" alt="BESS EPC"/>
+      <img src="/assets/logo/BESS-EPC LogoHorizontal_No background_White_text.png" alt="BESS EPC"/>
     </a>
 
     <button id="menu-toggle" class="menu-toggle" aria-label="菜单" aria-expanded="false">菜单</button>
@@ -55,10 +71,10 @@
       <a href="company.html">公司</a>
       <a href="blog.html">新闻</a>
 
-      <!-- Only EN / DE visible -->
-      <div class="lang-switch">
-        <a href="index.html" id="lang-en">EN</a>
-        <a href="de.html" id="lang-de">DE</a>
+      <!-- Chinese option should NOT be shown. Only EN/DE visible -->
+      <div class="lang-switch" aria-label="Language switch">
+        <a href="index.html" data-lang="en">EN</a>
+        <a href="de.html" data-lang="de">DE</a>
       </div>
     </nav>
   </div>
@@ -74,8 +90,8 @@
     </p>
 
     <div class="video-frame" style="margin-top:18px">
-      <video autoplay muted loop playsinline preload="metadata" poster="assets/video/hero-poster.jpg">
-        <source src="assets/video/hero-loop.mp4" type="video/mp4"/>
+      <video autoplay muted loop playsinline preload="metadata" poster="/assets/video/hero-poster.jpg">
+        <source src="/assets/video/hero-loop.mp4" type="video/mp4"/>
       </video>
     </div>
 
@@ -89,8 +105,8 @@
         <div class="muted">项目储备</div>
       </div>
       <div class="card">
-        <div class="stat">欧洲 <small>市场</small></div>
-        <div class="muted">项目范围</div>
+        <div class="stat">20+ <small>年</small></div>
+        <div class="muted">工程经验</div>
       </div>
     </div>
   </div>
@@ -99,40 +115,253 @@
 <section class="section" id="solutions">
   <div class="container">
     <h2>应用场景与价值</h2>
-    <p class="muted">覆盖中压到超高压，独立储能或与光伏/风电混合。</p>
+    <p class="muted">覆盖中压到超高压，独立储能或与光伏/风电混合。重点关注性能、合规与可融资性（Bankability）。</p>
 
     <div class="cards">
       <div class="card">
         <h3>电网服务</h3>
-        <p class="muted">FCR、调频、电压支撑、黑启动与拥塞管理，符合欧洲并网规范。</p>
+        <p class="muted">FCR、aFRR/mFRR、电压支撑、黑启动与拥塞管理，配合已验证的保护与控制方案。</p>
       </div>
       <div class="card">
-        <h3>市场与交易</h3>
-        <p class="muted">电价套利、调度策略、聚合商接口与收益优化结构。</p>
+        <h3>能源交易</h3>
+        <p class="muted">套利与日内策略，聚合商接入，明确调度边界与可用率逻辑，保障结算与透明度。</p>
       </div>
       <div class="card">
         <h3>工商业与混合</h3>
-        <p class="muted">光储系统、备用电源、负荷管理与自发自用优化。</p>
+        <p class="muted">光储、备用电源、负荷管理、自发自用与网络费用优化，结合清晰的KPI结构。</p>
       </div>
     </div>
   </div>
 </section>
 
-<section class="section" id="services">
+<section class="section tight-top" id="services">
   <div class="container">
-    <h2>生命周期技术服务</h2>
-    <p class="muted">EPC实施结合工程验证、质量控制与并网支持，降低技术风险。</p>
+    <h2>全生命周期服务</h2>
+    <p class="muted">
+      EPC实施结合工程交付、验证与并网支持，降低从设计到运营的技术风险。清晰范围，接口可控，可融资证据链。
+    </p>
 
+    <!-- Chinese version has MORE services (as you requested) -->
     <div class="cards" style="margin-top:12px">
-      <div class="card"><h3>整体EPC(F)</h3><p class="muted">设计、采购、建设与系统集成。</p></div>
-      <div class="card"><h3>项目开发</h3><p class="muted">选址、电网研究、许可与RTB准备。</p></div>
-      <div class="card"><h3>并网与认证</h3><p class="muted">VDE规范、接口文件与FAT/SAT支持。</p></div>
-      <div class="card"><h3>技术管理</h3><p class="muted">电池、PCS、变压器、EMS、SCADA接口协调。</p></div>
-      <div class="card"><h3>质量验证</h3><p class="muted">到货检查、安装验证与验收准备。</p></div>
-      <div class="card"><h3>调试与交付</h3><p class="muted">测试流程、问题跟踪与技术移交。</p></div>
-      <div class="card"><h3>技术尽调（项目侧）</h3><p class="muted">设计、接口与合规风险评估。</p></div>
-      <div class="card"><h3>业主工程</h3><p class="muted">代表投资方进行工程技术控制。</p></div>
-      <div class="card"><h3>运维策略</h3><p class="muted">监控、维护策略与可用率KPI。</p></div>
+
+      <div class="card">
+        <h3>整体EPC(F)</h3>
+        <p class="muted">工程设计、采购、建设与系统集成，覆盖电网侧、工商业与混合项目。</p>
+        <ul class="muted">
+          <li>范围定义与接口责任矩阵（RACI）</li>
+          <li>施工监督、Punch List与关闭跟踪</li>
+          <li>竣工资料与结构化交付包</li>
+        </ul>
+      </div>
+
+      <div class="card">
+        <h3>项目开发支持</h3>
+        <p class="muted">EPC前的去风险：电网现实、许可、Stakeholder与RTB计划。</p>
+        <ul class="muted">
+          <li>站址筛选与电网研究（MV到EHV）</li>
+          <li>许可协调与Stakeholder对齐</li>
+          <li>RTB准备：时间表、风险清单与交付物</li>
+        </ul>
+      </div>
+
+      <div class="card">
+        <h3>并网与合规</h3>
+        <p class="muted">接口管理与文件体系，覆盖VDE-AR-N 4110/4120/4130、EN 50549及项目要求。</p>
+        <ul class="muted">
+          <li>保护与控制方案，测试规划</li>
+          <li>面向DSO/TSO验收的证据包</li>
+          <li>FAT/SAT支持与合规差距关闭</li>
+        </ul>
+      </div>
+
+      <div class="card">
+        <h3>工程交付物</h3>
+        <p class="muted">清晰图纸与接口文件，减少返工和纠纷。</p>
+        <ul class="muted">
+          <li>单线图（SLD）与保护方案</li>
+          <li>电缆清单、I/O清单、信号映射</li>
+          <li>ICD接口控制文件与集成计划</li>
+        </ul>
+      </div>
+
+      <div class="card">
+        <h3>质量保障与验证</h3>
+        <p class="muted">到货检查、安装验证、Punch List与验收准备。</p>
+        <ul class="muted">
+          <li>到货验证与可追溯性（Traceability）</li>
+          <li>安装验证与范围完整性检查</li>
+          <li>问题清单与纠正措施建议</li>
+        </ul>
+      </div>
+
+      <div class="card">
+        <h3>调试支持与交付</h3>
+        <p class="muted">调试准备评审、测试规划、缺陷关闭与结构化交付资料。</p>
+        <ul class="muted">
+          <li>调试验证与安全准备（Safety Readiness）</li>
+          <li>关键参数评审与运行检查</li>
+          <li>交付Punch List与Closeout</li>
+        </ul>
+      </div>
+
+      <div class="card">
+        <h3>业主工程（Owner’s Engineering）</h3>
+        <p class="muted">代表业主控制质量、进度、接口风险与验收关闭。</p>
+        <ul class="muted">
+          <li>设计与接口协调</li>
+          <li>执行质量检查与状态报告</li>
+          <li>验收支持与Closeout</li>
+        </ul>
+      </div>
+
+      <div class="card">
+        <h3>技术尽调支持</h3>
+        <p class="muted">面向买方、投资方与融资方的文件审核、合规差距与风险评估。</p>
+        <ul class="muted">
+          <li>文件审核与Gap分析</li>
+          <li>风险与缓解建议（Mitigation）</li>
+          <li>可融资的报告结构</li>
+        </ul>
+      </div>
+
+      <div class="card">
+        <h3>运维与O&amp;M策略</h3>
+        <p class="muted">监控体系、预防性维护逻辑、可用率KPI与长期OPEX控制。</p>
+        <ul class="muted">
+          <li>KPI结构与报告逻辑</li>
+          <li>告警逻辑、事件分类与升级机制</li>
+          <li>交易与结算所需的数据完整性</li>
+        </ul>
+      </div>
+
+      <!-- Extra CN-only (as "more than EN/DE") -->
+      <div class="card">
+        <h3>供应商技术管理与交付控制</h3>
+        <p class="muted">电芯与系统级供应商的技术边界、接口与交付节奏控制。</p>
+        <ul class="muted">
+          <li>关键技术条款审查与澄清</li>
+          <li>FAT见证与整改闭环</li>
+          <li>文档完整性与版本控制</li>
+        </ul>
+      </div>
+
+      <div class="card">
+        <h3>数据与计量架构（交易侧）</h3>
+        <p class="muted">保障计量、数据链路与结算的一致性，减少收益争议。</p>
+        <ul class="muted">
+          <li>计量点与数据边界定义</li>
+          <li>数据质量规则与审计轨迹</li>
+          <li>对接聚合商与结算需求</li>
+        </ul>
+      </div>
+
+    </div>
+
+    <div class="card" style="margin-top:16px">
+      <h3>我们交付什么</h3>
+      <p class="muted">
+        结构化文件与证据链，使项目更容易融资、更容易运营，并在出现争议时更容易维护自身立场。重点关注接口、合规、验收准备与性能透明度。
+      </p>
+      <ul class="muted">
+        <li>范围定义与接口责任矩阵（RACI）</li>
+        <li>验收与调试证据包</li>
+        <li>质量Punch List与关闭跟踪</li>
+        <li>并网合规文件体系（按项目要求对齐）</li>
+      </ul>
+    </div>
+
+  </div>
+</section>
+
+<section class="section" id="projects">
+  <div class="container">
+    <h2>项目与案例</h2>
+
+    <div class="grid-3" style="margin-top:12px">
+
+      <div class="card">
+        <div class="title">Metelen, 德国</div>
+        <div class="meta">
+          <span class="pill">电网侧</span>
+          <span class="small">91 MW / 231 MWh</span>
+        </div>
+        <ul class="muted">
+          <li>62 个 BYD 集装箱，每个 4.2 MWh</li>
+          <li>31 台 SMA PCS，每台 5 MW</li>
+        </ul>
+        <div class="gallery">
+          <img class="thumb" src="/assets/projects/metelen/IMG_3367.jpeg" alt="Metelen 1"/>
+          <img class="thumb" src="/assets/projects/metelen/IMG_3394.jpeg" alt="Metelen 2"/>
+          <img class="thumb" src="/assets/projects/metelen/IMG_3398.jpeg" alt="Metelen 3"/>
+          <img class="thumb" src="/assets/projects/metelen/IMG_3400.jpeg" alt="Metelen 4"/>
+          <img class="thumb" src="/assets/projects/metelen/IMG_3472.jpeg" alt="Metelen 5"/>
+          <img class="thumb" src="/assets/projects/metelen/IMG_3570.jpeg" alt="Metelen 6"/>
+          <img class="thumb" src="/assets/projects/metelen/IMG_3572.jpeg" alt="Metelen 7"/>
+          <img class="thumb" src="/assets/projects/metelen/IMG_3578.jpeg" alt="Metelen 8"/>
+        </div>
+      </div>
+
+      <div class="card">
+        <div class="title">德国比勒费尔德周边</div>
+        <div class="meta">
+          <span class="pill">电网侧</span>
+          <span class="small">250 MW / 680 MWh</span>
+        </div>
+        <ul class="muted">
+          <li>具备并网与市场接入条件（RTB/建设阶段）</li>
+        </ul>
+        <div class="gallery">
+          <img class="thumb" src="/assets/projects/bielefeld/IMG_3634.jpeg" alt="Bielefeld 1"/>
+          <img class="thumb" src="/assets/projects/bielefeld/IMG_4835.jpeg" alt="Bielefeld 2"/>
+          <img class="thumb" src="/assets/projects/bielefeld/IMG_4837.jpeg" alt="Bielefeld 3"/>
+          <img class="thumb" src="/assets/projects/bielefeld/IMG_4868.jpeg" alt="Bielefeld 4"/>
+        </div>
+      </div>
+
+      <div class="card">
+        <div class="title">Veľká Bytča, 斯洛伐克</div>
+        <div class="meta">
+          <span class="pill">工商业</span>
+          <span class="small">2.6 MW / 5 MWh</span>
+        </div>
+        <ul class="muted">
+          <li>2× 40ft Tecloman，4× 650 kW PCS，C-rate 0.5</li>
+        </ul>
+        <div class="gallery">
+          <img class="thumb" src="/assets/projects/velka-bytca/IMG_1390.jpeg" alt="SK 1"/>
+          <img class="thumb" src="/assets/projects/velka-bytca/IMG_1389_2.jpeg" alt="SK 2"/>
+          <img class="thumb" src="/assets/projects/velka-bytca/IMG_1425_2.jpeg" alt="SK 3"/>
+          <img class="thumb" src="/assets/projects/velka-bytca/IMG_1447.jpeg" alt="SK 4"/>
+          <img class="thumb" src="/assets/projects/velka-bytca/IMG_1465.jpeg" alt="SK 5"/>
+          <img class="thumb" src="/assets/projects/velka-bytca/IMG_1467.jpeg" alt="SK 6"/>
+          <img class="thumb" src="/assets/projects/velka-bytca/IMG_1533.jpeg" alt="SK 7"/>
+          <img class="thumb" src="/assets/projects/velka-bytca/IMG_1551.jpeg" alt="SK 8"/>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<section class="section" id="partners">
+  <div class="container">
+    <h2>合作伙伴与技术</h2>
+
+    <div class="grid-4 badges" style="margin-top:12px">
+      <a class="badge" href="https://www.tecloman.com/" target="_blank" rel="noopener">Tecloman</a>
+      <a class="badge" href="https://www.bydenergy.com/" target="_blank" rel="noopener">BYD</a>
+      <a class="badge" href="https://www.hyperstrong.com/en/" target="_blank" rel="noopener">HyperStrong</a>
+      <a class="badge" href="https://en.sungrowpower.com/" target="_blank" rel="noopener">SUNGROW</a>
+      <a class="badge" href="https://www.solaxpower.com/" target="_blank" rel="noopener">SOLAX</a>
+      <a class="badge" href="https://www.sma.de/en/products" target="_blank" rel="noopener">SMA</a>
+      <a class="badge" href="https://www.siemens-energy.com/" target="_blank" rel="noopener">Siemens</a>
+      <a class="badge" href="https://www.nhet.energy/" target="_blank" rel="noopener">Nenghui Energy</a>
+    </div>
+
+    <div class="video-frame" style="margin-top:16px">
+      <video autoplay muted loop playsinline preload="metadata" poster="/assets/video/case-study-poster.jpg">
+        <source src="/assets/video/case-study.mp4" type="video/mp4"/>
+      </video>
     </div>
   </div>
 </section>
@@ -140,38 +369,67 @@
 <section class="section" id="contact">
   <div class="container">
     <h2>联系</h2>
+
     <div class="grid-2" style="margin-top:12px">
       <div>
-        <p class="muted">📍 德国斯图加特</p>
+        <p class="muted">📍 Industriestraße 4, 70565 Stuttgart, Germany</p>
         <p class="muted">✉️ <a href="mailto:info@bess-epc.de">info@bess-epc.de</a></p>
         <p class="muted">📞 <a href="tel:+491751055104">+49 175 1055104</a></p>
+        <p class="muted">管理董事与股东: Bahman Hamedebarghi</p>
+
+        <div class="card" style="margin-top:14px">
+          <h3 style="margin-top:0">帮助我们更快回复</h3>
+          <ul class="muted" style="margin:10px 0 0 18px">
+            <li>项目地点与系统规模</li>
+            <li>BESS范围（如涉及PV/并网范围也请说明）</li>
+            <li>阶段：规划、交付、调试或运营</li>
+            <li>需求：报告、检查、验证或咨询</li>
+            <li>如方便，可发送简短技术说明，我们将给出结构化范围与交付物建议</li>
+          </ul>
+        </div>
       </div>
 
       <form class="form" method="POST" action="https://formspree.io/f/yourFormId">
         <div class="grid-2">
-          <div><label>姓名</label><input name="name" required/></div>
-          <div><label>邮箱</label><input type="email" name="email" required/></div>
-          <div><label>电话（可选）</label><input name="phone"/></div>
-          <div style="grid-column:1/-1"><label>需求说明</label><textarea name="message" rows="6" required></textarea></div>
+          <div>
+            <label>姓名</label>
+            <input name="name" required/>
+          </div>
+          <div>
+            <label>邮箱</label>
+            <input type="email" name="email" required/>
+          </div>
+          <div>
+            <label>电话（可选）</label>
+            <input name="phone"/>
+          </div>
+          <div style="grid-column:1/-1">
+            <label>需求说明</label>
+            <textarea name="message" rows="6" required></textarea>
+          </div>
         </div>
         <div class="form-actions">
           <button class="btn" type="submit">发送</button>
         </div>
       </form>
     </div>
+
   </div>
 </section>
 
 <footer>
   <div class="container footer-row">
     <a class="brand" href="#top">
-      <img src="assets/logo/BESS-EPC LogoHorizontal_No background_White_text.png" alt="BESS EPC"/>
+      <img src="/assets/logo/BESS-EPC LogoHorizontal_No background_White_text.png" alt="BESS EPC"/>
     </a>
+    <div class="muted"><a href="impressum.html">Impressum</a> · <a href="datenschutz.html">Datenschutz</a></div>
     <div class="muted">© <span id="year"></span> BESS EPC</div>
   </div>
 </footer>
 
-<script>document.getElementById('year').innerText=(new Date()).getFullYear()</script>
-<script src="app.js"></script>
+<script>
+  document.getElementById('year').innerText = (new Date()).getFullYear();
+</script>
+<script src="/app.js"></script>
 </body>
 </html>
