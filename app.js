@@ -1,7 +1,6 @@
-/* app.js — home-only auto language routing + optional manual override + i18n binding + mobile menu */
+/* app.js — Option A: homepage routing only + per-page i18n binding (EN/DE + hidden ZH) */
 (() => {
-  const PAGES = { en: "index.html", de: "de.html", zh: "zh.html" };
-  const HOME_FILES = new Set(["", "/", "/index.html", "/de.html", "/zh.html"]);
+  const HOME_PAGES = { en: "index.html", de: "de.html", zh: "zh.html" };
 
   function browserDefaultLang() {
     const l = (navigator.language || "en").toLowerCase();
@@ -10,74 +9,80 @@
     return "en";
   }
 
-  function manualOverrideLang() {
+  function getLang() {
     const manual = localStorage.getItem("lang_manual") === "1";
-    if (!manual) return null;
-    const v = localStorage.getItem("lang");
-    return v && PAGES[v] ? v : null;
+    const saved = localStorage.getItem("lang");
+    if (manual && saved && HOME_PAGES[saved]) return saved;
+    return browserDefaultLang();
   }
 
-  function setManualLang(lang) {
-    if (!PAGES[lang]) return;
+  function setLang(lang, manual) {
+    if (!HOME_PAGES[lang]) return;
     localStorage.setItem("lang", lang);
-    localStorage.setItem("lang_manual", "1");
+    localStorage.setItem("lang_manual", manual ? "1" : "0");
   }
 
-  function pageLangFromPath() {
-    const p = (location.pathname || "").toLowerCase();
-    if (p.endsWith("/de.html") || p.endsWith("de.html")) return "de";
-    if (p.endsWith("/zh.html") || p.endsWith("zh.html")) return "zh";
+  function currentFile() {
+    const p = (location.pathname || "");
+    const last = p.split("/").pop() || "";
+    return last.toLowerCase() || "index.html";
+  }
+
+  function isHomepage() {
+    const f = currentFile();
+    return f === "index.html" || f === "de.html" || f === "zh.html" || f === "";
+  }
+
+  function homepageLangFromFile() {
+    const f = currentFile();
+    if (f === "de.html") return "de";
+    if (f === "zh.html") return "zh";
     return "en";
   }
 
-  function isHomePage() {
-    const p = (location.pathname || "").toLowerCase();
-    // normalize: some servers return "/" only, some return "/index.html"
-    if (p === "") return true;
-    if (HOME_FILES.has(p)) return true;
-    return false;
+  function homepageUrlFor(lang) {
+    return `${location.origin}/${HOME_PAGES[lang]}`;
   }
 
-  function targetUrlFor(lang) {
-    return `${location.origin}/${PAGES[lang]}`;
+  // A) Homepage routing ONLY
+  const desired = getLang();
+
+  if (isHomepage()) {
+    // keep localStorage in sync with what we want (not manual unless user clicked)
+    if (localStorage.getItem("lang_manual") !== "1") setLang(desired, false);
+
+    const currentHomeLang = homepageLangFromFile();
+    if (currentHomeLang !== desired) {
+      location.replace(homepageUrlFor(desired));
+      return;
+    }
+  } else {
+    // On subpages: never redirect. Just remember desired (unless user manually chose).
+    if (localStorage.getItem("lang_manual") !== "1") setLang(desired, false);
   }
 
-  function go(lang) {
-    const target = targetUrlFor(lang);
-    if (location.href !== target) location.replace(target);
-  }
-
-  // 1) Auto-route ONLY on home pages.
-  // If someone visits municipalities.html etc, do NOT force them back to home.
-  if (isHomePage()) {
-    const desired = manualOverrideLang() || browserDefaultLang();
-    const current = pageLangFromPath();
-
-    // Important: if user is explicitly on de.html or zh.html, do NOT redirect away.
-    // Auto-routing should mainly decide which home to land on.
-    const p = (location.pathname || "").toLowerCase();
-    const explicitlyOnDeOrZh = p.endsWith("de.html") || p.endsWith("zh.html");
-
-    if (!explicitlyOnDeOrZh && current !== desired) go(desired);
-    // If explicitly on de.html/zh.html, stay there.
-  }
-
-  // 2) Manual language switch (you can keep only EN/DE in HTML)
+  // B) Language switch clicks (EN/DE links in your header)
   document.addEventListener("click", (e) => {
     const a = e.target.closest("a[data-lang]");
     if (!a) return;
 
     const lang = a.getAttribute("data-lang");
-    if (!PAGES[lang]) return;
+    if (!HOME_PAGES[lang]) return;
 
     e.preventDefault();
-    setManualLang(lang);
-    location.href = targetUrlFor(lang);
+    setLang(lang, true);
+
+    if (isHomepage()) {
+      location.href = homepageUrlFor(lang);
+    } else {
+      // stay on same subpage, just re-bind text
+      bindI18nTexts(lang);
+    }
   });
 
-  // 3) Bind i18n texts (prevents empty labels/buttons)
-  function bindI18nTexts() {
-    const lang = pageLangFromPath();
+  // C) Bind texts so nothing becomes empty
+  function bindI18nTexts(forceLang) {
+    const lang = forceLang || getLang();
     const key = `data-${lang}`;
 
     document.querySelectorAll(`[${key}]`).forEach((el) => {
@@ -96,7 +101,7 @@
     });
   }
 
-  // 4) Mobile menu toggle
+  // D) Mobile menu toggle (if present)
   function initMobileMenu() {
     const btn = document.getElementById("menu-toggle");
     const nav = document.getElementById("nav");
@@ -114,8 +119,8 @@
     });
 
     nav.addEventListener("click", (e) => {
-      const a = e.target.closest("a");
-      if (a) close();
+      const link = e.target.closest("a");
+      if (link) close();
     });
 
     document.addEventListener("click", (e) => {
