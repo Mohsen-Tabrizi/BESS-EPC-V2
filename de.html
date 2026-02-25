@@ -319,6 +319,29 @@
   </div>
 </section>
 
+<section class="section" id="partners">
+  <div class="container">
+    <h2>Partner &amp; Technologie</h2>
+
+    <div class="grid-4 badges" style="margin-top:12px">
+      <a class="badge" href="https://www.tecloman.com/" target="_blank" rel="noopener">Tecloman</a>
+      <a class="badge" href="https://www.bydenergy.com/" target="_blank" rel="noopener">BYD</a>
+      <a class="badge" href="https://www.hyperstrong.com/en/" target="_blank" rel="noopener">HyperStrong</a>
+      <a class="badge" href="https://en.sungrowpower.com/" target="_blank" rel="noopener">SUNGROW</a>
+      <a class="badge" href="https://www.solaxpower.com/" target="_blank" rel="noopener">SOLAX</a>
+      <a class="badge" href="https://www.sma.de/en/products" target="_blank" rel="noopener">SMA</a>
+      <a class="badge" href="https://www.siemens-energy.com/" target="_blank" rel="noopener">Siemens</a>
+      <a class="badge" href="https://www.nhet.energy/" target="_blank" rel="noopener">Nenghui Energy</a>
+    </div>
+
+    <div class="video-frame" style="margin-top:16px">
+      <video autoplay muted loop playsinline preload="metadata" poster="assets/video/case-study-poster.jpg">
+        <source src="assets/video/case-study.mp4" type="video/mp4"/>
+      </video>
+    </div>
+  </div>
+</section>
+
 <section class="section" id="contact">
   <div class="container">
     <h2>Kontakt</h2>
@@ -385,6 +408,18 @@
 
 <script>
   document.getElementById('year').innerText = (new Date()).getFullYear();
+
+  // Mobile menu toggle (works with your existing CSS #nav.open)
+  (function(){
+    const btn = document.getElementById('menu-toggle');
+    const nav = document.getElementById('nav');
+    if(!btn || !nav) return;
+
+    btn.addEventListener('click', () => {
+      const open = nav.classList.toggle('open');
+      btn.setAttribute('aria-expanded', open ? 'true' : 'false');
+    });
+  })();
 </script>
 
 <script src="app.js"></script>
