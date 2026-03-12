@@ -1,5 +1,53 @@
 [
   {
+    "title": "Japan establishes national benchmarks for agrivoltaics as sites expand",
+    "link": "https://www.pv-magazine.com/2026/03/12/japan-establishes-national-benchmarks-for-agrivoltaics-as-sites-expand/",
+    "date": "2026-03-12T16:15:44.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Swift Solar acquires Meyer Burger assets to scale U.S. HJT and perovskite production",
+    "link": "https://www.pv-magazine.com/2026/03/12/swift-solar-acquires-meyer-burger-assets-to-scale-u-s-hjt-and-perovskite-production/",
+    "date": "2026-03-12T15:59:09.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "New Jersey state government advances 1GW of battery storage in energy affordability push",
+    "link": "https://www.energy-storage.news/new-jersey-state-government-advances-1gw-of-battery-storage-in-energy-affordability-push/",
+    "date": "2026-03-12T15:02:03.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Vikram Solar&#8217;s PowerHive unit launches VION lithium batteries in India",
+    "link": "https://www.pv-magazine.com/2026/03/12/vikram-solar-unit-powerhive-launches-vion-lithium-batteries-in-india/",
+    "date": "2026-03-12T14:50:54.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "GoodWe introduces low-noise all-in-one storage system for rooftop PV",
+    "link": "https://www.pv-magazine.com/2026/03/12/goodwe-introduces-low-noise-all-in-one-storage-system-for-rooftop-pv/",
+    "date": "2026-03-12T14:14:31.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Heat pumps are transforming domestic hot water production &#8211; How to avoid hygiene risks?",
+    "link": "https://www.pv-magazine.com/2026/03/12/heat-pumps-are-transforming-domestic-hot-water-production-how-to-avoid-hygiene-risks/",
+    "date": "2026-03-12T14:07:29.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "US BESS industry is &#8216;primed for years of growth’: Enertis Applus+ on financing storage in the FEOC era",
+    "link": "https://www.energy-storage.news/us-bess-industry-is-primed-for-years-of-growth-enertis-applus-on-financing-storage-in-the-feoc-era/",
+    "date": "2026-03-12T13:53:54.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Toshiba rolls out AI-powered solar plant portfolio management platform",
+    "link": "https://www.pv-magazine.com/2026/03/12/toshiba-rolls-out-ai-powered-solar-plant-portfolio-management-platform/",
+    "date": "2026-03-12T13:42:43.000Z",
+    "source": "PV Magazine"
+  },
+  {
     "title": "US Roundup: Over US$2 billion of financing updates from Arevon, Primergy and Gridstor",
     "link": "https://www.energy-storage.news/us-roundup-over-us2-billion-of-financing-updates-from-arevon-primergy-and-gridstor/",
     "date": "2026-03-12T12:21:14.000Z",
@@ -18,42 +66,6 @@
     "source": "Energy Storage News"
   },
   {
-    "title": "Research shows conventional solar arrays can support livestock grazing",
-    "link": "https://www.pv-magazine.com/2026/03/12/research-shows-conventional-solar-arrays-can-support-livestock-grazing/",
-    "date": "2026-03-12T12:00:57.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Russia adds around 100 MW of solar in 2025",
-    "link": "https://www.pv-magazine.com/2026/03/12/russia-adds-around-100-mw-of-solar-in-2025/",
-    "date": "2026-03-12T11:34:27.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "India launches tender for 1 GW round-the-clock renewable power",
-    "link": "https://www.pv-magazine.com/2026/03/12/india-launches-tender-for-1-gw-round-the-clock-renewable-power/",
-    "date": "2026-03-12T10:00:53.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "New simulation platform lets energy operators train against realistic cyberattacks",
-    "link": "https://www.pv-magazine.com/2026/03/12/new-simulation-platform-lets-energy-operators-train-against-realistic-cyberattacks/",
-    "date": "2026-03-12T09:59:54.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Debt-laden South African municipalities may turn to solar-plus-battery backup solutions",
-    "link": "https://www.pv-magazine.com/2026/03/12/debt-laden-south-african-municipalities-may-turn-to-solar-plus-battery-backup-solutions/",
-    "date": "2026-03-12T09:19:59.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Graphene could improve durability of perovskite solar cells",
-    "link": "https://www.pv-magazine.com/2026/03/12/graphene-could-improve-durability-of-perovskite-solar-cells/",
-    "date": "2026-03-12T09:15:39.000Z",
-    "source": "PV Magazine"
-  },
-  {
     "title": "AGL&#8217;s Torrens Island BESS in South Australia hit by a second AEMO direction",
     "link": "https://www.energy-storage.news/agls-torrens-island-bess-in-south-australia-hit-by-a-second-aemo-direction/",
     "date": "2026-03-12T08:40:59.000Z",
@@ -64,18 +76,6 @@
     "link": "https://battery-news.de/2026/03/12/tu-braunschweig-erweitert-infrastruktur-fuer-batterieforschung/",
     "date": "2026-03-12T07:48:02.000Z",
     "source": "Battery-News.de"
-  },
-  {
-    "title": "BESS asset operation in CAISO is complex, but lean teams can leverage advanced analytics",
-    "link": "https://www.energy-storage.news/bess-asset-operation-in-caiso-is-complex-but-lean-teams-can-leverage-advanced-analytics/",
-    "date": "2026-03-11T14:48:47.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "RWE brings online four BESS projects in 13GW US clean energy portfolio",
-    "link": "https://www.energy-storage.news/rwe-brings-online-four-bess-projects-in-13gw-us-clean-energy-portfolio/",
-    "date": "2026-03-11T14:10:45.000Z",
-    "source": "Energy Storage News"
   },
   {
     "title": "Suzuki übernimmt Festkörperbatterie-Geschäft von Kanadevia",
