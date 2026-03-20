@@ -1,5 +1,41 @@
 [
   {
+    "title": "Why BESS insurers are sweating transformers and contractor errors over battery fires",
+    "link": "https://www.pv-magazine.com/2026/03/20/why-bess-insurers-are-sweating-transformers-and-contractor-errors-over-battery-fires/",
+    "date": "2026-03-20T14:39:37.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "The Hydrogen Stream: Ionautics advances catalyst toward production",
+    "link": "https://www.pv-magazine.com/2026/03/20/the-hydrogen-stream-swedish-company-advances-catalyst-towards-full-scale-industrial-production/",
+    "date": "2026-03-20T14:00:38.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Chinese PV Industry Brief: JinkoSolar appoints new CEO",
+    "link": "https://www.pv-magazine.com/2026/03/20/chinese-pv-industry-brief-jinkosolar-appoints-new-ceo/",
+    "date": "2026-03-20T13:45:24.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "‘US battery manufacturing will surpass 100% of demand’, US ESC report states",
+    "link": "https://www.energy-storage.news/us-battery-manufacturing-will-surpass-100-of-demand-us-esc-report-states/",
+    "date": "2026-03-20T13:15:15.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "The case for ground-level agrivoltaics",
+    "link": "https://www.pv-magazine.com/2026/03/20/the-case-for-ground-level-agrivoltaics/",
+    "date": "2026-03-20T13:11:48.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Energy Vault continues to diversify as it experiences Q4, full year 2025 growth",
+    "link": "https://www.energy-storage.news/energy-vault-continues-to-diversify-as-it-experiences-q4-full-year-2025-growth/",
+    "date": "2026-03-20T13:11:40.000Z",
+    "source": "Energy Storage News"
+  },
+  {
     "title": "Canadian startup unveils AI tool for solar panel cleaning optimization",
     "link": "https://www.pv-magazine.com/2026/03/20/canadian-startup-unveils-ai-tool-for-solar-panel-cleaning-optimization/",
     "date": "2026-03-20T12:27:04.000Z",
@@ -12,34 +48,10 @@
     "source": "PV Magazine"
   },
   {
-    "title": "Why technical due diligence is becoming the backbone of Europe’s solar-storage boom",
-    "link": "https://www.pv-magazine.com/2026/03/20/why-technical-due-diligence-is-becoming-the-backbone-of-europes-solar-storage-boom/",
-    "date": "2026-03-20T12:01:56.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Iran conflict stirs solar demand debate in Germany",
-    "link": "https://www.pv-magazine.com/2026/03/20/iran-conflict-stirs-solar-demand-debate-in-germany/",
-    "date": "2026-03-20T12:00:15.000Z",
-    "source": "PV Magazine"
-  },
-  {
     "title": "VIDEO: Financial strategies for energy storage assets, beyond arbitrage",
     "link": "https://www.energy-storage.news/video-financial-strategies-for-energy-storage-assets-beyond-arbitrage/",
     "date": "2026-03-20T11:51:28.000Z",
     "source": "Energy Storage News"
-  },
-  {
-    "title": "Clean Winter air drives major irradiance surplus across China and Taiwan in February",
-    "link": "https://www.pv-magazine.com/2026/03/20/clean-winter-air-drives-major-irradiance-surplus-across-china-and-taiwan-in-february/",
-    "date": "2026-03-20T10:25:17.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Greece receives 12.2 GW of merchant battery applications for 4.7 GW program",
-    "link": "https://www.pv-magazine.com/2026/03/20/greece-receives-12-2-gw-of-merchant-battery-applications-for-4-7-gw-program/",
-    "date": "2026-03-20T10:18:12.000Z",
-    "source": "PV Magazine"
   },
   {
     "title": "Eve Energy stellt Festkörperbatterien vor",
@@ -66,22 +78,16 @@
     "source": "Energy Storage News"
   },
   {
-    "title": "Island commissioning to battery oversizing: Key lessons from AGL&#8217;s 1GWh grid-forming Liddell BESS in Australia",
-    "link": "https://www.energy-storage.news/island-commissioning-to-battery-oversizing-key-lessons-from-agls-1gwh-grid-forming-liddell-bess-in-australia/",
-    "date": "2026-03-19T23:10:12.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "US 100-hour battery startup Form Energy’s first overseas deployment ‘set to fill a critical gap in Ireland’s power system’",
-    "link": "https://www.energy-storage.news/us-100-hour-battery-startup-form-energys-first-overseas-deployment-set-to-fill-a-critical-gap-in-irelands-power-system/",
-    "date": "2026-03-19T15:09:32.000Z",
-    "source": "Energy Storage News"
-  },
-  {
     "title": "Lyten plant Batteriefertigung am ehemaligen Northvolt-Standort Heide ab 2028",
     "link": "https://battery-news.de/2026/03/19/lyten-plant-batteriefertigung-am-ehemaligen-northvolt-standort-heide-ab-2028/",
     "date": "2026-03-19T09:46:00.000Z",
     "source": "Battery-News.de"
+  },
+  {
+    "title": "German forests back as carbon sink, but stagnant emissions highlight need for more climate action",
+    "link": "https://www.cleanenergywire.org/news/german-forests-back-carbon-sink-stagnant-emissions-highlight-need-more-climate-action",
+    "date": "2026-03-16T10:51:35.000Z",
+    "source": "Clean Energy Wire"
   },
   {
     "title": "Samsung SDI erhält ESS-Großauftrag über eine Milliarde Dollar",
@@ -106,12 +112,6 @@
     "link": "https://battery-news.de/2026/03/12/tu-braunschweig-erweitert-infrastruktur-fuer-batterieforschung/",
     "date": "2026-03-12T07:48:02.000Z",
     "source": "Battery-News.de"
-  },
-  {
-    "title": "Q&A: Will Germany’s upcoming electricity grid reform slow down the energy transition?",
-    "link": "https://www.cleanenergywire.org/factsheets/qa-will-germanys-upcoming-electricity-grid-reform-slow-down-energy-transition",
-    "date": "2026-03-09T09:29:18.000Z",
-    "source": "Clean Energy Wire"
   },
   {
     "title": "CLEW Webinar: Staying on track? What's next for climate and energy in Germany and Europe in 2026",
