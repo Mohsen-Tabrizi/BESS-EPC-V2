@@ -1,21 +1,51 @@
 [
   {
+    "title": "US startup begins manufacturing grid-scale flywheel ESS",
+    "link": "https://www.pv-magazine.com/2026/03/30/us-startup-begins-manufacturing-grid-scale-flywheel-ess/",
+    "date": "2026-03-30T13:21:38.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Multi-year field study finds that agrivoltaics can support healthy potato yields",
+    "link": "https://www.pv-magazine.com/2026/03/30/multi-year-field-study-suggest-that-agrivoltaics-can-support-healthy-potato-yields/",
+    "date": "2026-03-30T12:00:34.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "UK defining stronger energy cybersecurity rules after Poland attack",
+    "link": "https://www.pv-magazine.com/2026/03/30/uk-defining-stronger-energy-cybersecurity-rules-after-poland-attack/",
+    "date": "2026-03-30T11:01:31.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Adani Green commissions 951 MW solar, hybrid capacity in India",
+    "link": "https://www.pv-magazine.com/2026/03/30/adani-green-commissions-951-mw-solar-hybrid-capacity-in-india/",
+    "date": "2026-03-30T11:00:41.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Sodium-ion cells launched for energy storage by another Chinese mid-tier battery company",
+    "link": "https://www.pv-magazine.com/2026/03/30/sodium-ion-cells-launched-for-energy-storage-by-another-chinese-mid-tier-battery-company/",
+    "date": "2026-03-30T09:55:33.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "European BESS route-to-market optimisers Entrix, GridBeyond raise €55 million",
+    "link": "https://www.energy-storage.news/european-bess-route-to-market-optimisers-entrix-gridbeyond-raise-e55-million/",
+    "date": "2026-03-30T09:48:36.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Lithuania’s solar capacity surpasses 3 GW",
+    "link": "https://www.pv-magazine.com/2026/03/30/lithuanias-solar-capacity-surpasses-3-gw/",
+    "date": "2026-03-30T09:18:31.000Z",
+    "source": "PV Magazine"
+  },
+  {
     "title": "VIDEO: Grid-forming technology, from niche application to standard requirement",
     "link": "https://www.energy-storage.news/video-grid-forming-technology-from-niche-application-to-standard-requirement/",
     "date": "2026-03-30T07:40:28.000Z",
     "source": "Energy Storage News"
-  },
-  {
-    "title": "Indonesia’s path to 100 GW of solar",
-    "link": "https://www.pv-magazine.com/2026/03/30/indonesias-path-to-100-gw-of-solar/",
-    "date": "2026-03-30T07:30:49.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Tongwei moves into hybrid heterojunction back contact solar cell technology",
-    "link": "https://www.pv-magazine.com/2026/03/30/tongwei-moves-into-hybrid-heterojunction-back-contact-solar-cell-technology/",
-    "date": "2026-03-30T07:10:40.000Z",
-    "source": "PV Magazine"
   },
   {
     "title": "POSCO Future M startet Kooperation für Lithium-Metall-Batterien",
@@ -24,34 +54,10 @@
     "source": "Battery-News.de"
   },
   {
-    "title": "Beware of cleaning photovoltaic panels with dishwashing detergent",
-    "link": "https://www.pv-magazine.com/2026/03/30/beware-of-cleaning-photovoltaic-panels-with-dishwashing-detergent/",
-    "date": "2026-03-30T06:50:17.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "DIY plug-in solar shows $0.65/W potential in US market",
-    "link": "https://www.pv-magazine.com/2026/03/30/diy-plug-in-solar-shows-0-65-w-potential-in-us-market/",
-    "date": "2026-03-30T06:45:47.000Z",
-    "source": "PV Magazine"
-  },
-  {
     "title": "1.6GWh grid-forming Rutherglen Battery receives EPBC Act approval in Australia",
     "link": "https://www.energy-storage.news/1-6gwh-grid-forming-rutherglen-battery-receives-epbc-act-approval-in-australia/",
     "date": "2026-03-30T01:30:14.000Z",
     "source": "Energy Storage News"
-  },
-  {
-    "title": "The Hydrogen Stream: Capacity outlook grows, deals shift",
-    "link": "https://www.pv-magazine.com/2026/03/27/the-hydrogen-stream-global-hydrogen-production-capacity-could-reach-82-3-mtpa-by-2030/",
-    "date": "2026-03-27T16:50:53.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "China PV Industry Brief: China adds 32.48 GW solar as polysilicon prices fall",
-    "link": "https://www.pv-magazine.com/2026/03/27/china-pv-industry-brief-china-adds-32-48-gw-solar-as-polysilicon-prices-fall/",
-    "date": "2026-03-27T16:40:22.000Z",
-    "source": "PV Magazine"
   },
   {
     "title": "Form Energy signs 12GWh agreement to supply multi-day iron-air batteries to new US AI data centres",
@@ -81,12 +87,6 @@
     "title": "Akuo building 80MW/220MWh Portugal BESS for 2027 completion",
     "link": "https://www.energy-storage.news/akuo-building-80mw-220mwh-portugal-bess-for-2027-completion/",
     "date": "2026-03-27T06:18:37.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "Iberdrola Australia&#8217;s 360MWh Broadsound BESS begins commissioning in Queensland",
-    "link": "https://www.energy-storage.news/iberdrola-australias-360mwh-broadsound-bess-begins-commissioning-in-queensland/",
-    "date": "2026-03-27T01:30:12.000Z",
     "source": "Energy Storage News"
   },
   {
