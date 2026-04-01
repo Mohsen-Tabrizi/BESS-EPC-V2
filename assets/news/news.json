@@ -1,5 +1,29 @@
 [
   {
+    "title": "US small-scale solar hits record 1.9 GW in Q4 2025",
+    "link": "https://www.pv-magazine.com/2026/04/01/us-small-scale-solar-hits-record-1-9-gw-in-q4-2025/",
+    "date": "2026-04-01T06:45:22.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Ion beam technology offers pathway to low-defect silicon solar cells",
+    "link": "https://www.pv-magazine.com/2026/04/01/ion-beam-technology-offers-pathway-to-low-defect-silicon-solar-cells/",
+    "date": "2026-04-01T06:39:49.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "“Global Battery Materials” liefert erste Graphitproben",
+    "link": "https://battery-news.de/2026/04/01/global-battery-materials-liefert-erste-graphitproben/",
+    "date": "2026-04-01T06:00:00.000Z",
+    "source": "Battery-News.de"
+  },
+  {
+    "title": "Japan’s first capacity market-contracted BESS brought online by Hexa Energy",
+    "link": "https://www.energy-storage.news/japans-first-capacity-market-contracted-bess-brought-online-by-hexa-energy/",
+    "date": "2026-04-01T05:06:18.000Z",
+    "source": "Energy Storage News"
+  },
+  {
     "title": "&#8216;We learned more in the past six months than the past six years&#8217;: Australian battery storage lenders navigate merchant risk",
     "link": "https://www.energy-storage.news/we-learned-more-in-the-past-six-months-than-the-past-six-years-australian-battery-storage-lenders-navigate-merchant-risk/",
     "date": "2026-04-01T01:00:48.000Z",
@@ -30,12 +54,6 @@
     "source": "PV Magazine"
   },
   {
-    "title": "TerraSpark, Dcubed to test space solar on SpaceX 2027 mission",
-    "link": "https://www.pv-magazine.com/2026/03/31/space-based-solar-startup-terraspark-to-join-spacex-and-dcubed-on-solar-array-demo-mission/",
-    "date": "2026-03-31T12:30:08.000Z",
-    "source": "PV Magazine"
-  },
-  {
     "title": "Michigan approves 1,332MW of BESS with 332MW supporting Oracle data centre",
     "link": "https://www.energy-storage.news/michigan-approves-1332mw-of-bess-with-332mw-supporting-oracle-data-centre/",
     "date": "2026-03-31T11:58:34.000Z",
@@ -48,12 +66,6 @@
     "source": "Energy Storage News"
   },
   {
-    "title": "German rooftop PV tender undersubscribed as prices hold",
-    "link": "https://www.pv-magazine.com/2026/03/31/german-rooftop-pv-tender-undersubscribed-as-prices-hold/",
-    "date": "2026-03-31T11:05:54.000Z",
-    "source": "PV Magazine"
-  },
-  {
     "title": "NGEN building 170MWh Austria BESS; Foresight and EBRD invest in Germany, Lithuania developers",
     "link": "https://www.energy-storage.news/ngen-building-170mwh-austria-bess-foresight-and-ebrd-invest-in-germany-lithuania-developers/",
     "date": "2026-03-31T09:38:43.000Z",
@@ -63,12 +75,6 @@
     "title": "What end-to-end visibility reveals about hidden BESS safety risks",
     "link": "https://www.energy-storage.news/what-end-to-end-visibility-reveals-about-hidden-bess-safety-risks/",
     "date": "2026-03-31T08:21:29.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "ROUNDUP: Non-lithium energy storage system technology advances in US, Spain, and Scotland",
-    "link": "https://www.energy-storage.news/roundup-non-lithium-energy-storage-system-technology-advances-in-us-spain-and-scotland/",
-    "date": "2026-03-31T07:01:20.000Z",
     "source": "Energy Storage News"
   },
   {
@@ -99,12 +105,6 @@
     "title": "POSCO Future M und Molten planen Entwicklung von Anodenmaterial aus Methan",
     "link": "https://battery-news.de/2026/03/26/posco-future-m-und-molten-planen-entwicklung-von-anodenmaterial-aus-methan/",
     "date": "2026-03-26T08:00:00.000Z",
-    "source": "Battery-News.de"
-  },
-  {
-    "title": "Samsung SDI sichert LFP-Kathodenmaterial für ESS-Produktion",
-    "link": "https://battery-news.de/2026/03/25/samsung-sdi-sichert-lfp-kathodenmaterial-fuer-ess-produktion/",
-    "date": "2026-03-25T08:00:00.000Z",
     "source": "Battery-News.de"
   }
 ]
