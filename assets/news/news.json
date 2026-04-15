@@ -1,5 +1,59 @@
 [
   {
+    "title": "Porous silica-based anti-reflective coating increases PV glass optical transmission by 5.2%",
+    "link": "https://www.pv-magazine.com/2026/04/15/porous-silica-based-anti-reflective-coating-increases-pv-glass-optical-transmission-by-5-2/",
+    "date": "2026-04-15T07:31:14.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Cyber threats for PV: What are credential compromise attacks and how do they work",
+    "link": "https://www.pv-magazine.com/2026/04/15/cyber-threats-for-pv-what-are-credential-compromise-attacks-and-how-do-they-work/",
+    "date": "2026-04-15T07:09:13.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Free midday electricity key to drive consumer demand to match excess PV generation",
+    "link": "https://www.pv-magazine.com/2026/04/15/free-midday-electricity-key-to-drive-consumer-demand-to-match-excess-pv-generation/",
+    "date": "2026-04-15T07:05:31.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Mova unveils all-in-one plug-in solar and storage solutions",
+    "link": "https://www.pv-magazine.com/2026/04/15/mova-unveils-all-in-one-plug-in-solar-and-storage-solutions/",
+    "date": "2026-04-15T06:48:38.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Tunisia launches 200 MW call for PV projects under new licensing scheme",
+    "link": "https://www.pv-magazine.com/2026/04/15/tunisia-launches-200-mw-call-for-pv-projects-under-new-licensing-scheme/",
+    "date": "2026-04-15T06:37:25.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Vertical bifacial PV outperforms tilted PV systems in the UK",
+    "link": "https://www.pv-magazine.com/2026/04/15/vertical-bifacial-pv-outperforms-tilted-pv-systems-in-the-uk/",
+    "date": "2026-04-15T06:05:26.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Qualitätssicherung in der Batteriefertigung: Mitutoyo lädt zum Battery Forum 2026",
+    "link": "https://battery-news.de/2026/04/15/qualitaetssicherung-in-der-batteriefertigung-mitutoyo-laedt-zum-battery-forum-2026/",
+    "date": "2026-04-15T06:00:00.000Z",
+    "source": "Battery-News.de"
+  },
+  {
+    "title": "From ‘refrigerators in the desert’ to resilient, thermally passive BESS assets",
+    "link": "https://www.energy-storage.news/from-refrigerators-in-the-desert-to-resilient-thermally-passive-bess-assets/",
+    "date": "2026-04-15T05:05:03.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Fortescue fast-tracks &#8216;world&#8217;s largest off-grid system&#8217; with 4-5GWh battery storage in Australia",
+    "link": "https://www.energy-storage.news/fortescue-fast-tracks-worlds-largest-off-grid-system-with-4-5gwh-battery-storage-in-australia/",
+    "date": "2026-04-15T03:48:29.000Z",
+    "source": "Energy Storage News"
+  },
+  {
     "title": "UGL advances construction on 2.1GWh of battery storage for Neoen across two Australian states",
     "link": "https://www.energy-storage.news/ugl-advances-construction-on-2-1gwh-of-battery-storage-for-neoen-across-two-australian-states/",
     "date": "2026-04-15T01:19:30.000Z",
@@ -12,34 +66,10 @@
     "source": "Energy Storage News"
   },
   {
-    "title": "How to generate hydrogen at home with recycled solar panels",
-    "link": "https://www.pv-magazine.com/2026/04/14/how-to-generate-hydrogen-at-home-with-recycled-solar-panels/",
-    "date": "2026-04-14T11:14:46.000Z",
-    "source": "PV Magazine"
-  },
-  {
     "title": "Europe deploys 3.4GWh of BESS in March, 19% of global total",
     "link": "https://www.energy-storage.news/europe-deploys-3-4gwh-of-bess-in-march-19-of-global-total/",
     "date": "2026-04-14T11:11:35.000Z",
     "source": "Energy Storage News"
-  },
-  {
-    "title": "Omani company to build 500 MW of solar in Botswana",
-    "link": "https://www.pv-magazine.com/2026/04/14/omani-company-to-build-500-mw-of-solar-in-botswana/",
-    "date": "2026-04-14T11:05:56.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Dominican Republic opens bids for 600 MW renewables tender",
-    "link": "https://www.pv-magazine.com/2026/04/14/dominican-republic-opens-bids-for-600-mw-renewables-tender/",
-    "date": "2026-04-14T10:58:43.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Household solar is easier said than installed",
-    "link": "https://www.pv-magazine.com/2026/04/14/easier-said-than-installed/",
-    "date": "2026-04-14T10:30:51.000Z",
-    "source": "PV Magazine"
   },
   {
     "title": "Germany: NGEN starts building 100MWh BESS, Harmony Energy secures 3GWh pipeline financing",
@@ -48,27 +78,33 @@
     "source": "Energy Storage News"
   },
   {
-    "title": "Experts weigh in on navigating supply chain bottlenecks in US energy storage",
-    "link": "https://www.energy-storage.news/experts-weigh-in-on-navigating-supply-chain-bottlenecks-in-us-energy-storage/",
-    "date": "2026-04-14T10:12:24.000Z",
-    "source": "Energy Storage News"
+    "title": "Ascend Elements leitet Chapter-11-Verfahren zur Restrukturierung ein",
+    "link": "https://battery-news.de/2026/04/14/ascend-elements-leitet-chapter-11-verfahren-zur-restrukturierung-ein/",
+    "date": "2026-04-14T06:00:00.000Z",
+    "source": "Battery-News.de"
   },
   {
-    "title": "Vietnam&#8217;s GG Power opens 5GWh BESS factory, government emphasises support for local supply chain",
-    "link": "https://www.energy-storage.news/vietnams-gg-power-opens-5gwh-bess-factory-government-emphasises-support-for-local-supply-chain/",
-    "date": "2026-04-14T09:35:01.000Z",
-    "source": "Energy Storage News"
+    "title": "PEM und Battery-News auf der Advanced Battery Power Conference 2026",
+    "link": "https://battery-news.de/2026/04/13/pem-und-battery-news-auf-der-advanced-battery-power-conference-2026/",
+    "date": "2026-04-13T11:03:27.000Z",
+    "source": "Battery-News.de"
   },
   {
-    "title": "JA Solar responds to changing market needs with DeepBlue 4.0 Pro and 5.0 modules",
-    "link": "https://www.pv-magazine.com/2026/04/14/ja-solar-responds-to-changing-market-needs-with-deepblue-4-0-pro-and-5-0-modules/",
-    "date": "2026-04-14T09:00:16.000Z",
-    "source": "PV Magazine"
+    "title": "Digitale Batteriepässe im ÖPNV: BVG startet Projekt mit Technologieanbieter Spherity",
+    "link": "https://battery-news.de/2026/04/10/digitale-batteriepaesse-im-oepnv-bvg-startet-projekt-mit-technologieanbieter-spherity/",
+    "date": "2026-04-10T08:30:00.000Z",
+    "source": "Battery-News.de"
   },
   {
-    "title": "Atmoce debuts microinverter connecting two solar modules",
-    "link": "https://www.pv-magazine.com/2026/04/14/atmoce-debuts-microinverter-connecting-two-solar-modules/",
-    "date": "2026-04-14T08:39:49.000Z",
-    "source": "PV Magazine"
+    "title": "cylib untersucht Recycling von Natrium-Ionen-Batterien im SIB:DE-Projekt",
+    "link": "https://battery-news.de/2026/04/10/cylib-untersucht-recycling-von-natrium-ionen-batterien-im-sibde-projekt/",
+    "date": "2026-04-10T06:00:00.000Z",
+    "source": "Battery-News.de"
+  },
+  {
+    "title": "BMW i7: Hochvoltspeicher aus Kooperation mit Rimac Technology",
+    "link": "https://battery-news.de/2026/04/09/bmw-i7-hochvoltspeicher-aus-kooperation-mit-rimac-technology/",
+    "date": "2026-04-09T06:00:00.000Z",
+    "source": "Battery-News.de"
   }
 ]
