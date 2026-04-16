@@ -1,5 +1,41 @@
 [
   {
+    "title": "Italy PV grid connection requests reach 144 GW as ready-to-build pipeline grows to 9.34 GW",
+    "link": "https://www.pv-magazine.com/2026/04/16/italy-has-now-a-9-34-gw-pipeline-of-ready-to-build-pv-projects/",
+    "date": "2026-04-16T07:15:53.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "VIDEO – Energy Storage Summit 2026: How attractive is BESS for M&#038;A?",
+    "link": "https://www.energy-storage.news/video-energy-storage-summit-2026-how-attractive-is-bess-for-ma/",
+    "date": "2026-04-16T06:43:34.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Scientists identify new loss factor in tracker-based PV plants on slightly undulating terrain",
+    "link": "https://www.pv-magazine.com/2026/04/16/scientists-identify-new-loss-factor-in-tracker-based-pv-plants-on-slightly-undulating-terrain/",
+    "date": "2026-04-16T06:32:37.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "U.S. community solar passes 10 GW milestone despite market contraction",
+    "link": "https://www.pv-magazine.com/2026/04/16/u-s-community-solar-passes-10-gw-milestone-despite-market-contraction/",
+    "date": "2026-04-16T06:19:35.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Microbial biofilms can reduce solar module yield by up to 30% in arid zones",
+    "link": "https://www.pv-magazine.com/2026/04/16/microbial-biofilms-can-reduce-solar-module-yield-by-up-to-30-in-arid-zones/",
+    "date": "2026-04-16T06:14:34.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "OPC UA in der Batteriefertigung: Der Weg zu gemeinsamen Datenmodellen",
+    "link": "https://battery-news.de/2026/04/16/opc-ua-in-der-batteriefertigung-der-weg-zu-gemeinsamen-datenmodellen/",
+    "date": "2026-04-16T06:00:00.000Z",
+    "source": "Battery-News.de"
+  },
+  {
     "title": "Neoen Australia submits 3.2GWh Bondo wind-plus-storage project to the EPBC Act",
     "link": "https://www.energy-storage.news/neoen-australia-submits-3-2gwh-bondo-wind-plus-storage-project-to-the-epbc-act/",
     "date": "2026-04-16T02:08:04.000Z",
@@ -36,40 +72,10 @@
     "source": "PV Magazine"
   },
   {
-    "title": "Silver demand from PV industry expected to drop 19% this year",
-    "link": "https://www.pv-magazine.com/2026/04/15/silver-demand-from-pv-industry-expected-to-drop-19-this-year/",
-    "date": "2026-04-15T12:15:16.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "European power grid investment set to rise sharply by 2027",
-    "link": "https://www.pv-magazine.com/2026/04/15/european-grid-investment-to-nearly-double-by-2027-says-acer/",
-    "date": "2026-04-15T12:06:05.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Togo opens solar minigrid tender",
-    "link": "https://www.pv-magazine.com/2026/04/15/togo-opens-solar-minigrid-tender/",
-    "date": "2026-04-15T12:00:09.000Z",
-    "source": "PV Magazine"
-  },
-  {
     "title": "‘Unfettered optimism’ on US BESS degradation hits wall of operational reality",
     "link": "https://www.energy-storage.news/unfettered-optimism-on-us-bess-degradation-hits-wall-of-operational-reality/",
     "date": "2026-04-15T10:58:48.000Z",
     "source": "Energy Storage News"
-  },
-  {
-    "title": "Rye Development advances 2,128MWh pumped hydro project at former Kentucky coal mine",
-    "link": "https://www.energy-storage.news/rye-development-advances-2128mwh-pumped-hydro-project-at-former-kentucky-coal-mine/",
-    "date": "2026-04-15T10:48:55.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "Varta launches all-in-one residential inverter and modular battery",
-    "link": "https://www.pv-magazine.com/2026/04/15/varta-launches-all-in-one-residential-inverter-and-modular-battery/",
-    "date": "2026-04-15T09:29:03.000Z",
-    "source": "PV Magazine"
   },
   {
     "title": "Qualitätssicherung in der Batteriefertigung: Mitutoyo lädt zum Battery Forum 2026",
@@ -99,12 +105,6 @@
     "title": "cylib untersucht Recycling von Natrium-Ionen-Batterien im SIB:DE-Projekt",
     "link": "https://battery-news.de/2026/04/10/cylib-untersucht-recycling-von-natrium-ionen-batterien-im-sibde-projekt/",
     "date": "2026-04-10T06:00:00.000Z",
-    "source": "Battery-News.de"
-  },
-  {
-    "title": "BMW i7: Hochvoltspeicher aus Kooperation mit Rimac Technology",
-    "link": "https://battery-news.de/2026/04/09/bmw-i7-hochvoltspeicher-aus-kooperation-mit-rimac-technology/",
-    "date": "2026-04-09T06:00:00.000Z",
     "source": "Battery-News.de"
   }
 ]
