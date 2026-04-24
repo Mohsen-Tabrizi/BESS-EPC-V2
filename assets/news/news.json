@@ -1,39 +1,51 @@
 [
   {
+    "title": "Saudi Arabia launches qualification process for 12 GWh of battery storage projects",
+    "link": "https://www.pv-magazine.com/2026/04/24/saudi-arabia-launches-qualification-process-for-12-gwh-of-battery-storage-projects/",
+    "date": "2026-04-24T08:02:01.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "How BIPV façades behave under enclosure fire conditions",
+    "link": "https://www.pv-magazine.com/2026/04/24/how-bipv-facades-behave-under-enclosure-fire-conditions/",
+    "date": "2026-04-24T07:22:12.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "China wafer declines narrow as demand-side regulation lifts market sentiment",
+    "link": "https://www.pv-magazine.com/2026/04/24/china-wafer-declines-narrow-as-demand-side-regulation-lifts-market-sentiment/",
+    "date": "2026-04-24T07:14:54.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Daikin unveils &#8216;plumb-and-play&#8217; residential heat pump",
+    "link": "https://www.pv-magazine.com/2026/04/24/daikin-unveils-plumb-and-play-residential-heat-pump/",
+    "date": "2026-04-24T06:43:41.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Inside PV Manufacturing: Midsummer’s CIGS factory in Italy",
+    "link": "https://www.pv-magazine.com/2026/04/24/inside-pv-manufacturing-midsummers-cigs-factory-in-italy/",
+    "date": "2026-04-24T06:04:34.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Samsung SDI liefert erstmals Batterien an Mercedes-Benz",
+    "link": "https://battery-news.de/2026/04/24/samsung-sdi-liefert-erstmals-batterien-an-mercedes-benz/",
+    "date": "2026-04-24T06:00:00.000Z",
+    "source": "Battery-News.de"
+  },
+  {
+    "title": "Saatvik Green Energy enters transformer manufacturing",
+    "link": "https://www.pv-magazine.com/2026/04/24/saatvik-green-energy-enters-transformer-manufacturing/",
+    "date": "2026-04-24T05:47:00.000Z",
+    "source": "PV Magazine"
+  },
+  {
     "title": "Grid-forming inverters feature in 74% of Australia&#8217;s 33.2GW NEM battery storage pipeline",
     "link": "https://www.energy-storage.news/grid-forming-inverters-feature-in-74-of-australias-33-2gw-nem-battery-storage-pipeline/",
     "date": "2026-04-24T02:07:46.000Z",
     "source": "Energy Storage News"
-  },
-  {
-    "title": "EU moves to restrict funding for projects using inverters from high-risk suppliers",
-    "link": "https://www.pv-magazine.com/2026/04/23/eu-moves-to-restrict-funding-for-projects-using-inverters-from-high-risk-suppliers/",
-    "date": "2026-04-23T16:13:05.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Tesla launches three-phase Powerwall 3P",
-    "link": "https://www.pv-magazine.com/2026/04/23/tesla-launches-three-phase-powerwall-3p/",
-    "date": "2026-04-23T15:35:03.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Fraunhofer ISE develops colored film tech for patterned solar modules",
-    "link": "https://www.pv-magazine.com/2026/04/23/fraunhofer-ise-develops-colored-film-tech-for-patterned-solar-modules/",
-    "date": "2026-04-23T14:00:41.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Long-duration battery storage can contribute to security of supply more cost-effectively than gas-fired power plants, LCP Delta finds",
-    "link": "https://www.pv-magazine.com/2026/04/23/auctions-long-duration-battery-storage-can-contribute-to-security-of-supply-more-cost-effectively-than-gas-fired-power-plants-lcp-delta-finds/",
-    "date": "2026-04-23T13:47:02.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Manufacturing partnership brings new PV technology to U.S.-sourced solar",
-    "link": "https://www.pv-magazine.com/2026/04/23/manufacturing-partnership-brings-new-pv-technology-to-u-s-sourced-solar/",
-    "date": "2026-04-23T13:43:45.000Z",
-    "source": "PV Magazine"
   },
   {
     "title": "RWE and Polarium to combine distributed batteries into 50MW/135MWh Germany VPP",
@@ -46,12 +58,6 @@
     "link": "https://www.energy-storage.news/us-battery-recycling-in-doldrums-updates-from-redwood-materials-ascend-elements/",
     "date": "2026-04-23T11:58:17.000Z",
     "source": "Energy Storage News"
-  },
-  {
-    "title": "Trina Solar, JA Solar, JinkoSolar launch China&#8217;s first PV patent pool for TOPCon technologies",
-    "link": "https://www.pv-magazine.com/2026/04/23/trina-solar-ja-solar-jinkosolar-launch-chinas-first-pv-patent-pool-for-topcon-technologies/",
-    "date": "2026-04-23T11:56:34.000Z",
-    "source": "PV Magazine"
   },
   {
     "title": "Tesla reports declines in quarterly energy storage revenues and deployments",
@@ -99,12 +105,6 @@
     "title": "Recycling in der Kostenfalle: Wie neue Zellchemien das Geschäftsmodell unter Druck setzen",
     "link": "https://battery-news.de/2026/04/17/recycling-in-der-kostenfalle-wie-neue-zellchemien-das-geschaeftsmodell-unter-druck-setzen/",
     "date": "2026-04-17T08:30:00.000Z",
-    "source": "Battery-News.de"
-  },
-  {
-    "title": "BASF kooperiert mit TSR beim Batterierecycling in Europa",
-    "link": "https://battery-news.de/2026/04/17/basf-kooperiert-mit-tsr-beim-batterierecycling-in-europa/",
-    "date": "2026-04-17T06:00:00.000Z",
     "source": "Battery-News.de"
   }
 ]
