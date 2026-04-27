@@ -1,15 +1,51 @@
 [
   {
-    "title": "&#8216;Breaking barriers is rarely a solo effort&#8217;",
-    "link": "https://www.pv-magazine.com/2026/04/24/breaking-barriers-is-rarely-a-solo-effort/",
-    "date": "2026-04-24T15:30:55.000Z",
+    "title": "Two-year testing shows how PV plants increase local temperatures in semi-arid regions",
+    "link": "https://www.pv-magazine.com/2026/04/27/two-year-testing-shows-how-pv-plants-increase-local-temperatures-in-semi-arid-regions/",
+    "date": "2026-04-27T08:19:07.000Z",
     "source": "PV Magazine"
   },
   {
-    "title": "AccelerateEU backs 200 GW storage goal but omits dedicated mechanism",
-    "link": "https://www.pv-magazine.com/2026/04/24/accelerateeu-backs-200-gw-storage-goal-but-omits-dedicated-mechanism/",
-    "date": "2026-04-24T15:30:41.000Z",
+    "title": "New Zealand&#8217;s grid operator finds emerging energy gap in early 2030s",
+    "link": "https://www.pv-magazine.com/2026/04/27/new-zealands-grid-operator-finds-emerging-energy-gap-in-early-2030s/",
+    "date": "2026-04-27T08:02:24.000Z",
     "source": "PV Magazine"
+  },
+  {
+    "title": "Chinese solar exports surge 125% in March on policy change rush, not underlying demand acceleration",
+    "link": "https://www.pv-magazine.com/2026/04/27/chinese-solar-exports-surge-125-on-policy-change-rush-not-underlying-demand-acceleration/",
+    "date": "2026-04-27T07:29:51.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Pakistan plans to scrap licensing fee for PV systems up to 25 kW",
+    "link": "https://www.pv-magazine.com/2026/04/27/pakistan-plans-to-scrap-licensing-fee-for-pv-systems-up-to-25-kw/",
+    "date": "2026-04-27T07:16:56.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Key takeaways from Austria&#8217;s Solar Solutions",
+    "link": "https://www.pv-magazine.com/2026/04/27/key-takeaways-from-austrias-solar-solutions/",
+    "date": "2026-04-27T06:09:56.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Mangrove eröfffnet Lithiumraffinerie in Kanada",
+    "link": "https://battery-news.de/2026/04/27/mangrove-eroefffnet-lithiumraffinerie-in-kanada/",
+    "date": "2026-04-27T06:00:00.000Z",
+    "source": "Battery-News.de"
+  },
+  {
+    "title": "Record solar, wind surge drives 3.3% drop in India’s fossil generation in 2025",
+    "link": "https://www.pv-magazine.com/2026/04/27/record-solar-wind-surge-drives-3-3-drop-in-indias-fossil-generation-in-2025/",
+    "date": "2026-04-27T05:45:29.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Australian court amends consent for Hydrostor&#8217;s 1.6GWh long-duration energy storage project following appeal",
+    "link": "https://www.energy-storage.news/australian-court-amends-consent-for-hydrostors-1-6gwh-long-duration-energy-storage-project-following-appeal/",
+    "date": "2026-04-27T04:00:43.000Z",
+    "source": "Energy Storage News"
   },
   {
     "title": "Saudi Arabia begins qualifying bidders for 3GW/12GWh battery storage RFP",
@@ -30,45 +66,15 @@
     "source": "Energy Storage News"
   },
   {
-    "title": "Israeli storage developer moves into solar EPC with majority stake deal",
-    "link": "https://www.pv-magazine.com/2026/04/24/israeli-storage-developer-moves-into-solar-epc-with-majority-stake-deal/",
-    "date": "2026-04-24T13:45:35.000Z",
-    "source": "PV Magazine"
-  },
-  {
     "title": "VIDEO – Energy Storage Summit 2026: How European energy price volatility is driving the business case for storage",
     "link": "https://www.energy-storage.news/video-energy-storage-summit-2026-how-european-energy-price-volatility-is-driving-the-business-case-for-storage/",
     "date": "2026-04-24T13:43:57.000Z",
     "source": "Energy Storage News"
   },
   {
-    "title": "The Hydrogen Stream: Atome builds $665 million green hydrogen-based fertilizer plant in Paraguay",
-    "link": "https://www.pv-magazine.com/2026/04/24/the-hydrogen-stream-atome-builds-665-million-green-hydrogen-based-fertilizer-plant-in-paraguay/",
-    "date": "2026-04-24T13:20:10.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Dutch government grants priority status to planned polysilicon factory",
-    "link": "https://www.pv-magazine.com/2026/04/24/dutch-government-grants-priority-status-to-planned-polysilicon-factory/",
-    "date": "2026-04-24T12:47:24.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "UK solar developer secures $1.1 billion financing package",
-    "link": "https://www.pv-magazine.com/2026/04/24/uk-solar-developer-secures-1-1-billion-financing-package/",
-    "date": "2026-04-24T12:07:19.000Z",
-    "source": "PV Magazine"
-  },
-  {
     "title": "ROUNDUP: IPPs BrightNight, Lydian acquire US portfolios, ILOS Projects upsizes European credit facility",
     "link": "https://www.energy-storage.news/roundup-ipps-brightnight-lydian-acquire-us-portfolios-ilos-projects-upsizes-european-credit-facility/",
     "date": "2026-04-24T10:34:01.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "VIDEO – Energy Storage Summit 2026: How much LDES does the UK need, and at what price?",
-    "link": "https://www.energy-storage.news/video-energy-storage-summit-2026-how-much-ldes-does-the-uk-need-and-at-what-price/",
-    "date": "2026-04-24T09:48:44.000Z",
     "source": "Energy Storage News"
   },
   {
@@ -99,12 +105,6 @@
     "title": "GRS-Studie: Batterierecycling braucht neues Finanzierungsmodell",
     "link": "https://battery-news.de/2026/04/21/grs-studie-batterierecycling-braucht-neues-finanzierungsmodell/",
     "date": "2026-04-21T09:00:00.000Z",
-    "source": "Battery-News.de"
-  },
-  {
-    "title": "MEET Battery Research Center will mit modularer Fertigung Batterieentwicklung beschleunigen",
-    "link": "https://battery-news.de/2026/04/20/meet-battery-research-center-will-mit-modularer-fertigung-batterieentwicklung-beschleunigen/",
-    "date": "2026-04-20T06:00:00.000Z",
     "source": "Battery-News.de"
   }
 ]
