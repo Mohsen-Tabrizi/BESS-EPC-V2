@@ -1,5 +1,53 @@
 [
   {
+    "title": "Cox buys Iberdrola Mexico for $4 billion",
+    "link": "https://www.pv-magazine.com/2026/04/28/cox-buys-iberdrola-mexico-for-4-billion/",
+    "date": "2026-04-28T08:20:47.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Sumitomo Electric flow battery wins Japanese transmission operator HEPCO’s renewables integration tender",
+    "link": "https://www.energy-storage.news/sumitomo-electric-flow-battery-wins-japanese-transmission-operator-hepcos-renewables-integration-tender/",
+    "date": "2026-04-28T08:09:15.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "China commissions salt cavern hydrogen storage project",
+    "link": "https://www.pv-magazine.com/2026/04/28/china-commissions-salt-cavern-hydrogen-storage-project/",
+    "date": "2026-04-28T08:07:29.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Bulgaria seeks to revive 864 MW Chaira pumped-storage hydropower plant",
+    "link": "https://www.pv-magazine.com/2026/04/28/bulgaria-seeks-to-revive-864-mw-chaira-pumped-storage-hydropower-plant/",
+    "date": "2026-04-28T07:38:47.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Longi announces world record efficiency of 28.13% for silicon solar cell",
+    "link": "https://www.pv-magazine.com/2026/04/28/longi-announces-world-record-efficiency-of-28-13-for-silicon-solar-cell/",
+    "date": "2026-04-28T06:31:58.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "CATL erhält Großauftrag für Natrium-Ionen-Batterien",
+    "link": "https://battery-news.de/2026/04/28/catl-erhaelt-grossauftrag-fuer-natrium-ionen-batterien/",
+    "date": "2026-04-28T06:00:00.000Z",
+    "source": "Battery-News.de"
+  },
+  {
+    "title": "CATL secures world’s largest sodium-ion battery order with Hyperstrong",
+    "link": "https://www.pv-magazine.com/2026/04/28/catl-secures-worlds-largest-sodium-ion-battery-order-with-hyperstrong/",
+    "date": "2026-04-28T05:50:46.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Dyness battery container stolen from BM Energy logistics partner, units to be remotely blocked",
+    "link": "https://www.pv-magazine.com/2026/04/28/dyness-battery-container-stolen-from-bm-energy-logistics-partner-units-to-be-remotely-blocked/",
+    "date": "2026-04-28T05:46:22.000Z",
+    "source": "PV Magazine"
+  },
+  {
     "title": "Sungrow re-files submission for Hong Kong Stock Exchange IPO",
     "link": "https://www.energy-storage.news/sungrow-re-files-submission-for-hong-kong-stock-exchange-ipo/",
     "date": "2026-04-28T03:21:05.000Z",
@@ -30,48 +78,6 @@
     "source": "Energy Storage News"
   },
   {
-    "title": "Huaneng energizes 5.4 GW hydro-solar complex in southwest China",
-    "link": "https://www.pv-magazine.com/2026/04/27/huaneng-energizes-5-4-gw-hydro-solar-complex-in-southwest-china/",
-    "date": "2026-04-27T13:55:44.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Meta gains early access to 1 GW of space-based solar power",
-    "link": "https://www.pv-magazine.com/2026/04/27/meta-gains-early-access-to-1-gw-of-space-based-solar-power/",
-    "date": "2026-04-27T13:21:40.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "&#8216;A turning point&#8217;: CATL and HyperStrong sign 60GWh sodium-ion agreement",
-    "link": "https://www.energy-storage.news/a-turning-point-catl-and-hyperstrong-sign-60gwh-sodium-ion-agreement/",
-    "date": "2026-04-27T13:02:52.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "Trina Solar claims world’s highest efficiency for silicon solar cells with 28.0%-efficient device",
-    "link": "https://www.pv-magazine.com/2026/04/27/trina-solar-claims-worlds-highest-efficiency-for-silicon-solar-cells-with-28-0-efficient-device/",
-    "date": "2026-04-27T12:58:05.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Premier Energies unveils 600-630 W all-black TOPCon solar modules",
-    "link": "https://www.pv-magazine.com/2026/04/27/premier-energies-unveils-600-630-w-all-black-topcon-solar-modules/",
-    "date": "2026-04-27T11:53:23.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Oxford PV says tandem solar could add up to 5 km to daily EV range",
-    "link": "https://www.pv-magazine.com/2026/04/27/oxford-pv-says-tandem-solar-could-add-up-to-5-km-to-daily-ev-range/",
-    "date": "2026-04-27T11:36:15.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "UK startup showcases all-in-one water cylinder heat pump prototype",
-    "link": "https://www.pv-magazine.com/2026/04/27/uk-startup-showcases-all-in-one-water-cylinder-heat-pump-prototype/",
-    "date": "2026-04-27T11:16:26.000Z",
-    "source": "PV Magazine"
-  },
-  {
     "title": "Mangrove eröfffnet Lithiumraffinerie in Kanada",
     "link": "https://battery-news.de/2026/04/27/mangrove-eroefffnet-lithiumraffinerie-in-kanada/",
     "date": "2026-04-27T06:00:00.000Z",
@@ -99,12 +105,6 @@
     "title": "CATL stellt neues Batterie-Lineup vor",
     "link": "https://battery-news.de/2026/04/22/catl-stellt-neues-batterie-lineup-vor/",
     "date": "2026-04-22T06:00:00.000Z",
-    "source": "Battery-News.de"
-  },
-  {
-    "title": "GRS-Studie: Batterierecycling braucht neues Finanzierungsmodell",
-    "link": "https://battery-news.de/2026/04/21/grs-studie-batterierecycling-braucht-neues-finanzierungsmodell/",
-    "date": "2026-04-21T09:00:00.000Z",
     "source": "Battery-News.de"
   }
 ]
