@@ -1,9 +1,51 @@
 [
   {
-    "title": "Cox buys Iberdrola Mexico for $4 billion",
-    "link": "https://www.pv-magazine.com/2026/04/28/cox-buys-iberdrola-mexico-for-4-billion/",
-    "date": "2026-04-28T08:20:47.000Z",
+    "title": "Solar and storage expected to drive 86 GW capacity surge in the U.S. this year",
+    "link": "https://www.pv-magazine.com/2026/04/28/solar-and-storage-expected-to-drive-86-gw-capacity-surge-in-the-u-s-this-year/",
+    "date": "2026-04-28T14:00:14.000Z",
     "source": "PV Magazine"
+  },
+  {
+    "title": "Utility DTE Energy’s plan to pause Michigan rate increases hinges on Oracle data centre",
+    "link": "https://www.energy-storage.news/utility-dte-energys-plan-to-pause-michigan-rate-increases-hinges-on-oracle-data-centre/",
+    "date": "2026-04-28T13:56:47.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "China tightens carbon accountability framework, strengthening structural push for renewables",
+    "link": "https://www.pv-magazine.com/2026/04/28/china-tightens-carbon-accountability-framework-strengthening-structural-push-for-renewables/",
+    "date": "2026-04-28T13:05:21.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Cooling PV modules with hydrogel-coated paper",
+    "link": "https://www.pv-magazine.com/2026/04/28/cooling-pv-modules-with-hydrogel-coated-paper/",
+    "date": "2026-04-28T11:29:04.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Ireland&#8217;s grid-scale solar breaches 1 GW generation mark",
+    "link": "https://www.pv-magazine.com/2026/04/28/ireland-grid-scale-solar-pv-generation-1-gigawatt-record/",
+    "date": "2026-04-28T11:18:15.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "How to electrify greenhouses with semi-transparent PV, heat pumps",
+    "link": "https://www.pv-magazine.com/2026/04/28/how-to-electrify-greenhouses-with-semi-transparent-pv-heat-pumps/",
+    "date": "2026-04-28T11:13:08.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "CATL raises $5 billion in share sale, Sungrow files for Hong Kong IPO for the second time",
+    "link": "https://www.pv-magazine.com/2026/04/28/catl-raises-5-billion-in-share-sale-sungrow-files-for-hong-kong-ipo-for-the-second-time/",
+    "date": "2026-04-28T10:59:08.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Grenergy signs 12-year toll for 680MWh Spain BESS",
+    "link": "https://www.energy-storage.news/grenergy-signs-12-year-toll-for-680mwh-spain-bess/",
+    "date": "2026-04-28T09:28:08.000Z",
+    "source": "Energy Storage News"
   },
   {
     "title": "Sumitomo Electric flow battery wins Japanese transmission operator HEPCO’s renewables integration tender",
@@ -12,40 +54,10 @@
     "source": "Energy Storage News"
   },
   {
-    "title": "China commissions salt cavern hydrogen storage project",
-    "link": "https://www.pv-magazine.com/2026/04/28/china-commissions-salt-cavern-hydrogen-storage-project/",
-    "date": "2026-04-28T08:07:29.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Bulgaria seeks to revive 864 MW Chaira pumped-storage hydropower plant",
-    "link": "https://www.pv-magazine.com/2026/04/28/bulgaria-seeks-to-revive-864-mw-chaira-pumped-storage-hydropower-plant/",
-    "date": "2026-04-28T07:38:47.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Longi announces world record efficiency of 28.13% for silicon solar cell",
-    "link": "https://www.pv-magazine.com/2026/04/28/longi-announces-world-record-efficiency-of-28-13-for-silicon-solar-cell/",
-    "date": "2026-04-28T06:31:58.000Z",
-    "source": "PV Magazine"
-  },
-  {
     "title": "CATL erhält Großauftrag für Natrium-Ionen-Batterien",
     "link": "https://battery-news.de/2026/04/28/catl-erhaelt-grossauftrag-fuer-natrium-ionen-batterien/",
     "date": "2026-04-28T06:00:00.000Z",
     "source": "Battery-News.de"
-  },
-  {
-    "title": "CATL secures world’s largest sodium-ion battery order with Hyperstrong",
-    "link": "https://www.pv-magazine.com/2026/04/28/catl-secures-worlds-largest-sodium-ion-battery-order-with-hyperstrong/",
-    "date": "2026-04-28T05:50:46.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Dyness battery container stolen from BM Energy logistics partner, units to be remotely blocked",
-    "link": "https://www.pv-magazine.com/2026/04/28/dyness-battery-container-stolen-from-bm-energy-logistics-partner-units-to-be-remotely-blocked/",
-    "date": "2026-04-28T05:46:22.000Z",
-    "source": "PV Magazine"
   },
   {
     "title": "Sungrow re-files submission for Hong Kong Stock Exchange IPO",
@@ -63,18 +75,6 @@
     "title": "ARENA invests AU$11 million in First Nations-led microgrids in Australia’s Northern Territory",
     "link": "https://www.energy-storage.news/arena-invests-au11-million-in-first-nations-led-microgrids-in-australias-northern-territory/",
     "date": "2026-04-28T01:22:03.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "EticaAG contends that immersion cooling is the next evolution of BESS cooling systems",
-    "link": "https://www.energy-storage.news/eticaag-contends-that-immersion-cooling-is-the-next-evolution-of-bess-cooling-systems/",
-    "date": "2026-04-27T14:00:24.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "Georgia Power files RFP for up to 6,000MW of new dispatchable energy resources",
-    "link": "https://www.energy-storage.news/georgia-power-files-rfp-for-up-to-6000mw-of-new-dispatchable-energy-resources/",
-    "date": "2026-04-27T13:59:27.000Z",
     "source": "Energy Storage News"
   },
   {
