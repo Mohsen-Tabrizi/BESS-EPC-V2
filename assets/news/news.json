@@ -1,51 +1,63 @@
 [
   {
+    "title": "Low-power ride-through tech keeps green hydrogen flowing in standalone PV–electrolyzers",
+    "link": "https://www.pv-magazine.com/2026/04/29/low-power-ride-through-keeps-green-hydrogen-flowing-in-standalone-pv-electrolyzers/",
+    "date": "2026-04-29T08:00:10.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Western Australia unveils AU$1.4 billion fund for Clean Energy Link and SWIS grid expansion",
+    "link": "https://www.energy-storage.news/western-australia-unveils-au1-4-billion-fund-for-clean-energy-link-and-swis-grid-expansion/",
+    "date": "2026-04-29T07:28:47.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Indium oxide promises to increase CIS solar cell efficiency to unprecedented levels",
+    "link": "https://www.pv-magazine.com/2026/04/29/indium-oxide-promises-to-increase-cis-solar-cell-efficiency-to-unprecedented-levels/",
+    "date": "2026-04-29T07:00:37.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Redwood Materials streicht Stellen und richtet Fokus auf Energiespeicher",
+    "link": "https://battery-news.de/2026/04/29/redwood-materials-streicht-stellen-und-richtet-fokus-auf-energiespeicher/",
+    "date": "2026-04-29T06:00:00.000Z",
+    "source": "Battery-News.de"
+  },
+  {
+    "title": "Installed BESS capacity in Spain grew by 589% since 2025 blackout",
+    "link": "https://www.pv-magazine.com/2026/04/29/installed-bess-capacity-in-spain-grew-by-589-since-2025-blackout/",
+    "date": "2026-04-29T05:53:29.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "India launches 500 MW renewables tender requiring dispatch via power exchanges",
+    "link": "https://www.pv-magazine.com/2026/04/29/india-launches-500-mw-renewables-tender-requiring-dispatch-via-power-exchanges/",
+    "date": "2026-04-29T05:49:58.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Sungrow proposes multi-microgrid clusters for mining above 100 MW",
+    "link": "https://www.pv-magazine.com/2026/04/29/sungrow-proposes-multi-microgrid-clusters-for-mining-above-100-mw/",
+    "date": "2026-04-29T05:45:19.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "The battery cost disconnect",
+    "link": "https://www.pv-magazine.com/2026/04/29/the-battery-cost-disconnect/",
+    "date": "2026-04-29T05:40:27.000Z",
+    "source": "PV Magazine"
+  },
+  {
     "title": "Sodium-ion for BESS: chemistries and battery products from CATL, Envision, BYD, Hithium &#038; HiNA compared",
     "link": "https://www.energy-storage.news/sodium-ion-for-bess-chemistries-and-battery-products-from-catl-envision-byd-hithium-hina-compared/",
     "date": "2026-04-28T14:18:13.000Z",
     "source": "Energy Storage News"
   },
   {
-    "title": "Solar and storage expected to drive 86 GW capacity surge in the U.S. this year",
-    "link": "https://www.pv-magazine.com/2026/04/28/solar-and-storage-expected-to-drive-86-gw-capacity-surge-in-the-u-s-this-year/",
-    "date": "2026-04-28T14:00:14.000Z",
-    "source": "PV Magazine"
-  },
-  {
     "title": "Utility DTE Energy’s plan to pause Michigan rate increases hinges on Oracle data centre",
     "link": "https://www.energy-storage.news/utility-dte-energys-plan-to-pause-michigan-rate-increases-hinges-on-oracle-data-centre/",
     "date": "2026-04-28T13:56:47.000Z",
     "source": "Energy Storage News"
-  },
-  {
-    "title": "China tightens carbon accountability framework, strengthening structural push for renewables",
-    "link": "https://www.pv-magazine.com/2026/04/28/china-tightens-carbon-accountability-framework-strengthening-structural-push-for-renewables/",
-    "date": "2026-04-28T13:05:21.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Cooling PV modules with hydrogel-coated paper",
-    "link": "https://www.pv-magazine.com/2026/04/28/cooling-pv-modules-with-hydrogel-coated-paper/",
-    "date": "2026-04-28T11:29:04.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Ireland&#8217;s grid-scale solar breaches 1 GW generation mark",
-    "link": "https://www.pv-magazine.com/2026/04/28/ireland-grid-scale-solar-pv-generation-1-gigawatt-record/",
-    "date": "2026-04-28T11:18:15.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "How to electrify greenhouses with semi-transparent PV, heat pumps",
-    "link": "https://www.pv-magazine.com/2026/04/28/how-to-electrify-greenhouses-with-semi-transparent-pv-heat-pumps/",
-    "date": "2026-04-28T11:13:08.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "CATL raises $5 billion in share sale, Sungrow files for Hong Kong IPO for the second time",
-    "link": "https://www.pv-magazine.com/2026/04/28/catl-raises-5-billion-in-share-sale-sungrow-files-for-hong-kong-ipo-for-the-second-time/",
-    "date": "2026-04-28T10:59:08.000Z",
-    "source": "PV Magazine"
   },
   {
     "title": "Grenergy signs 12-year toll for 680MWh Spain BESS",
@@ -60,15 +72,39 @@
     "source": "Energy Storage News"
   },
   {
+    "title": "CATL erhält Großauftrag für Natrium-Ionen-Batterien",
+    "link": "https://battery-news.de/2026/04/28/catl-erhaelt-grossauftrag-fuer-natrium-ionen-batterien/",
+    "date": "2026-04-28T06:00:00.000Z",
+    "source": "Battery-News.de"
+  },
+  {
     "title": "Sungrow re-files submission for Hong Kong Stock Exchange IPO",
     "link": "https://www.energy-storage.news/sungrow-re-files-submission-for-hong-kong-stock-exchange-ipo/",
     "date": "2026-04-28T03:21:05.000Z",
     "source": "Energy Storage News"
   },
   {
-    "title": "GenusPlus wins contract to deliver 800MWh battery storage system in South Australia",
-    "link": "https://www.energy-storage.news/genusplus-wins-contract-to-deliver-800mwh-battery-storage-system-in-south-australia/",
-    "date": "2026-04-28T01:46:16.000Z",
-    "source": "Energy Storage News"
+    "title": "Mangrove eröfffnet Lithiumraffinerie in Kanada",
+    "link": "https://battery-news.de/2026/04/27/mangrove-eroefffnet-lithiumraffinerie-in-kanada/",
+    "date": "2026-04-27T06:00:00.000Z",
+    "source": "Battery-News.de"
+  },
+  {
+    "title": "Batterie-Aktivmaterialien in Europa",
+    "link": "https://battery-news.de/2026/04/24/batterie-aktivmaterialien-in-europa/",
+    "date": "2026-04-24T08:30:00.000Z",
+    "source": "Battery-News.de"
+  },
+  {
+    "title": "Samsung SDI liefert erstmals Batterien an Mercedes-Benz",
+    "link": "https://battery-news.de/2026/04/24/samsung-sdi-liefert-erstmals-batterien-an-mercedes-benz/",
+    "date": "2026-04-24T06:00:00.000Z",
+    "source": "Battery-News.de"
+  },
+  {
+    "title": "Batterielagerung im Fokus: Warum der Betriebszustand über das Risiko entscheidet",
+    "link": "https://battery-news.de/2026/04/23/batterielagerung-im-fokus-warum-der-betriebszustand-ueber-das-risiko-entscheidet/",
+    "date": "2026-04-23T06:00:00.000Z",
+    "source": "Battery-News.de"
   }
 ]
