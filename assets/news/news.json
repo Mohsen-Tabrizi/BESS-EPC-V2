@@ -1,14 +1,44 @@
 [
   {
-    "title": "Italy probes PV companies over €60 million tax evasion and €33 million subsidy fraud",
-    "link": "https://www.pv-magazine.com/2026/04/30/italy-probes-pv-companies-over-e60-million-tax-evasion-and-e33-million-subsidy-fraud/",
-    "date": "2026-04-30T14:12:26.000Z",
+    "title": "Australia, India, Japan, Philippines drive APAC battery storage shift",
+    "link": "https://www.energy-storage.news/australia-india-japan-philippines-drive-apac-battery-storage-shift/",
+    "date": "2026-05-01T08:12:01.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "20-month field tests show tracker-based bifacial PV outpeforms fixed tilt counterparts with 13.5% higher ouput in desert enviroments",
+    "link": "https://www.pv-magazine.com/2026/05/01/20-month-field-tests-show-tracker-based-bifacial-pv-outpeforms-fixed-tilt-counterparts-with-13-5-higher-ouput-in-desert-enviroments/",
+    "date": "2026-05-01T08:00:12.000Z",
     "source": "PV Magazine"
   },
   {
-    "title": "German solar module maker Soluxtec files for insolvency",
-    "link": "https://www.pv-magazine.com/2026/04/30/german-solar-module-maker-soluxtec-files-for-insolvency/",
-    "date": "2026-04-30T13:53:30.000Z",
+    "title": "Europe’s solar and storage development: Selectivity amid rising global supply and returning energy shocks",
+    "link": "https://www.pv-magazine.com/2026/05/01/europes-solar-and-storage-development-selectivity-amid-rising-global-supply-and-returning-energy-shocks/",
+    "date": "2026-05-01T07:30:25.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Inorganic perovskite solar cell based on tetraphenyl-porphine zinc interlayer achieves 82% fill factor",
+    "link": "https://www.pv-magazine.com/2026/05/01/inorganic-perovskite-solar-cell-based-on-tetraphenyl-porphine-zinc-interlayer-achieves-82-fill-factor/",
+    "date": "2026-05-01T07:00:24.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Australian researchers develop vapour-based manufacturing process for lead-free perovskite solar",
+    "link": "https://www.pv-magazine.com/2026/05/01/australian-researchers-develop-vapour-based-manufacturing-process-for-lead-free-perovskite-solar/",
+    "date": "2026-05-01T06:11:01.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "California sets precedent by overriding local blockade for massive solar-plus-storage project",
+    "link": "https://www.pv-magazine.com/2026/05/01/california-sets-precedent-by-overriding-local-blockade-for-massive-solar-plus-storage-project/",
+    "date": "2026-05-01T06:05:50.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Italy probes PV companies over €60 million tax evasion and €33 million subsidy fraud",
+    "link": "https://www.pv-magazine.com/2026/04/30/italy-probes-pv-companies-over-e60-million-tax-evasion-and-e33-million-subsidy-fraud/",
+    "date": "2026-04-30T14:12:26.000Z",
     "source": "PV Magazine"
   },
   {
@@ -18,34 +48,10 @@
     "source": "Energy Storage News"
   },
   {
-    "title": "Mozambique relaunches 30 MW solar tender in EU-backed program",
-    "link": "https://www.pv-magazine.com/2026/04/30/mozambique-relaunches-30-mw-solar-tender-in-eu-backed-program/",
-    "date": "2026-04-30T12:46:52.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Solar-assisted air-source heat pump for radiant floor heating",
-    "link": "https://www.pv-magazine.com/2026/04/30/solar-assisted-air-source-heat-pump-for-radiant-floor-heating/",
-    "date": "2026-04-30T12:28:11.000Z",
-    "source": "PV Magazine"
-  },
-  {
     "title": "Matrix Renewables, BW ESS secure finance and offtake for over 2.2GWh of UK BESS",
     "link": "https://www.energy-storage.news/matrix-renewables-bw-ess-secure-finance-and-offtake-for-over-2-2gwh-of-uk-bess/",
     "date": "2026-04-30T11:07:41.000Z",
     "source": "Energy Storage News"
-  },
-  {
-    "title": "ESS Tech to add 8.5 GWh of US-made sodium‑ion batteries to its portfolio",
-    "link": "https://www.pv-magazine.com/2026/04/30/ess-tech-to-add-8-5-gwh-of-us-made-sodium%e2%80%91ion-batteries-to-its-portfolio/",
-    "date": "2026-04-30T11:06:55.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Anker Solix launches 7 kWh modular battery with 5 kWh bidirectional inverter",
-    "link": "https://www.pv-magazine.com/2026/04/30/anker-solix-launches-7-kwh-modular-battery-with-5-kwh-bidirectional-inverter/",
-    "date": "2026-04-30T10:38:51.000Z",
-    "source": "PV Magazine"
   },
   {
     "title": "US investors’ €50 billion hyperscaler data centre in Croatia will be ‘fully supplied’ by BTM solar and batteries",
@@ -70,12 +76,6 @@
     "link": "https://battery-news.de/2026/04/30/siemens-erhaelt-auftrag-fuer-lithiumprojekt-lionheart/",
     "date": "2026-04-30T06:00:00.000Z",
     "source": "Battery-News.de"
-  },
-  {
-    "title": "RES submits 2,400MWh Bunyip North battery storage system to Australia&#8217;s EPBC Act",
-    "link": "https://www.energy-storage.news/res-submits-2400mwh-bunyip-north-battery-storage-system-to-australias-epbc-act/",
-    "date": "2026-04-30T03:25:53.000Z",
-    "source": "Energy Storage News"
   },
   {
     "title": "Redwood Materials streicht Stellen und richtet Fokus auf Energiespeicher",
