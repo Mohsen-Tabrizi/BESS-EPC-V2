@@ -1,14 +1,62 @@
 [
   {
-    "title": "SoftBank to make next-gen zinc-halogen battery cells in Japan for AI data centers",
-    "link": "https://www.pv-magazine.com/2026/05/12/softbank-to-make-next-gen-zinc-halogen-battery-cells-in-japan-for-ai-data-centers/",
-    "date": "2026-05-12T08:05:00.000Z",
+    "title": "Envision Energy exploring 300MW Nova Scotia hybrid wind and BESS project",
+    "link": "https://www.energy-storage.news/envision-energy-exploring-300mw-nova-scotia-hybrid-wind-and-bess-project/",
+    "date": "2026-05-12T12:53:43.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Alsym Energy announces 500MWh sodium-ion strategic partnership in California",
+    "link": "https://www.energy-storage.news/alsym-energy-announces-500mwh-sodium-ion-strategic-partnership-in-california/",
+    "date": "2026-05-12T12:43:14.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Ford officially launches US stationary energy storage subsidiary, deliveries to begin in 2027",
+    "link": "https://www.energy-storage.news/ford-officially-launches-us-stationary-energy-storage-subsidiary-deliveries-to-begin-in-2027/",
+    "date": "2026-05-12T11:41:21.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Fire hits German home fitted with photovoltaic tiles",
+    "link": "https://www.pv-magazine.com/2026/05/12/fire-hits-german-home-fitted-with-photovoltaic-tiles/",
+    "date": "2026-05-12T10:41:30.000Z",
     "source": "PV Magazine"
   },
   {
-    "title": "Coal India shuts down solar manufacturing arm",
-    "link": "https://www.pv-magazine.com/2026/05/12/coal-india-shuts-down-solar-manufacturing-arm/",
-    "date": "2026-05-12T07:35:10.000Z",
+    "title": "BayWa r.e. to manage Germany&#8217;s largest BESS; smaller projects move to construction",
+    "link": "https://www.energy-storage.news/baywa-r-e-to-manage-germanys-largest-bess-smaller-projects-move-to-construction/",
+    "date": "2026-05-12T10:32:07.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Jolywood starts mass production of low-silver TOPCon solar cells",
+    "link": "https://www.pv-magazine.com/2026/05/12/jolywood-starts-mass-production-of-low-silver-topcon-solar-cells/",
+    "date": "2026-05-12T10:31:24.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Zambia’s largest solar plant goes online",
+    "link": "https://www.pv-magazine.com/2026/05/12/zambias-largest-solar-plant-goes-online/",
+    "date": "2026-05-12T10:24:30.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "The impact of fly ash-induced soiling on PV panel performance",
+    "link": "https://www.pv-magazine.com/2026/05/12/the-impact-of-fly-ash-induced-soiling-on-pv-panel-performance/",
+    "date": "2026-05-12T10:15:49.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Ford Energy announces DC block utility-scale BESS based on 512 Ah LFP cells",
+    "link": "https://www.pv-magazine.com/2026/05/12/ford-energy-announces-dc-block-utility-scale-bess-based-on-512-ah-lfp-cells/",
+    "date": "2026-05-12T09:46:15.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Germany allocates 2.3 GW in latest ground-mounted PV tender, lowest bid comes in at €0.039/kWh",
+    "link": "https://www.pv-magazine.com/2026/05/12/germany-allocates-2-3-gw-in-latest-ground-mounted-pv-tender-lowest-bid-comes-in-at-e0-039-kwh/",
+    "date": "2026-05-12T09:30:17.000Z",
     "source": "PV Magazine"
   },
   {
@@ -16,24 +64,6 @@
     "link": "https://www.energy-storage.news/meralco-powergen-corp-brings-online-first-phase-of-100mwh-catl-battery-project-in-cebu-philippines/",
     "date": "2026-05-12T07:28:02.000Z",
     "source": "Energy Storage News"
-  },
-  {
-    "title": "Zendure launches EMS combining rooftop PV, battery storage and household loads",
-    "link": "https://www.pv-magazine.com/2026/05/12/zendure-launches-ems-combining-rooftop-pv-battery-storage-and-household-loads/",
-    "date": "2026-05-12T06:59:29.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "New Zealand moves to reduce red tape for rooftop solar",
-    "link": "https://www.pv-magazine.com/2026/05/12/new-zealand-moves-to-reduce-red-tape-for-rooftop-solar/",
-    "date": "2026-05-12T06:12:21.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "U.S. transformer market faces severe supply constraints",
-    "link": "https://www.pv-magazine.com/2026/05/12/u-s-transformer-market-faces-severe-supply-constraints/",
-    "date": "2026-05-12T06:00:46.000Z",
-    "source": "PV Magazine"
   },
   {
     "title": "Porsche plant Stilllegung der Batterietochter Cellforce",
@@ -45,36 +75,6 @@
     "title": "BW ESS submits 700MW Bannaby battery storage project in NSW to Australia&#8217;s EPBC Act",
     "link": "https://www.energy-storage.news/bw-ess-submits-700mw-bannaby-battery-storage-project-in-nsw-to-australias-epbc-act/",
     "date": "2026-05-12T02:02:05.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "VIDEO: &#8216;We miss some benefits of diversification&#8217;: ITP Thermal warns against lithium-ion over-reliance in Australia",
-    "link": "https://www.energy-storage.news/video-we-miss-some-benefits-of-diversification-itp-thermal-warns-against-lithium-ion-over-reliance-in-australia/",
-    "date": "2026-05-12T01:59:58.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "AESC, Jinko’s asset sales are start of wider US clean energy manufacturing industry restructuring",
-    "link": "https://www.energy-storage.news/aesc-jinkos-asset-sales-are-start-of-wider-us-clean-energy-manufacturing-industry-restructuring/",
-    "date": "2026-05-11T15:53:39.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "Drax deploying solar panels at Scottish hydropower stations",
-    "link": "https://www.pv-magazine.com/2026/05/11/drax-deploying-solar-panels-at-scottish-hydropower-stations/",
-    "date": "2026-05-11T14:29:44.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Energy Vault reaffirms 2026 guidance, sets sights on AI infrastructure PPA deals",
-    "link": "https://www.energy-storage.news/energy-vault-reaffirms-2026-guidance-sets-sights-on-ai-infrastructure-ppa-deals/",
-    "date": "2026-05-11T13:17:20.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "Qcells partners Jabil in US for domestic content residential battery storage manufacturing",
-    "link": "https://www.energy-storage.news/qcells-partners-jabil-in-us-for-domestic-content-residential-battery-storage-manufacturing/",
-    "date": "2026-05-11T13:07:35.000Z",
     "source": "Energy Storage News"
   },
   {
