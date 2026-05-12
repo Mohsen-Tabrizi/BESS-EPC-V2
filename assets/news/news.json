@@ -1,5 +1,47 @@
 [
   {
+    "title": "SoftBank to make next-gen zinc-halogen battery cells in Japan for AI data centers",
+    "link": "https://www.pv-magazine.com/2026/05/12/softbank-to-make-next-gen-zinc-halogen-battery-cells-in-japan-for-ai-data-centers/",
+    "date": "2026-05-12T08:05:00.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Coal India shuts down solar manufacturing arm",
+    "link": "https://www.pv-magazine.com/2026/05/12/coal-india-shuts-down-solar-manufacturing-arm/",
+    "date": "2026-05-12T07:35:10.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Meralco PowerGen Corp brings online first phase of 100MWh CATL battery project in Cebu, Philippines",
+    "link": "https://www.energy-storage.news/meralco-powergen-corp-brings-online-first-phase-of-100mwh-catl-battery-project-in-cebu-philippines/",
+    "date": "2026-05-12T07:28:02.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Zendure launches EMS combining rooftop PV, battery storage and household loads",
+    "link": "https://www.pv-magazine.com/2026/05/12/zendure-launches-ems-combining-rooftop-pv-battery-storage-and-household-loads/",
+    "date": "2026-05-12T06:59:29.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "New Zealand moves to reduce red tape for rooftop solar",
+    "link": "https://www.pv-magazine.com/2026/05/12/new-zealand-moves-to-reduce-red-tape-for-rooftop-solar/",
+    "date": "2026-05-12T06:12:21.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "U.S. transformer market faces severe supply constraints",
+    "link": "https://www.pv-magazine.com/2026/05/12/u-s-transformer-market-faces-severe-supply-constraints/",
+    "date": "2026-05-12T06:00:46.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Porsche plant Stilllegung der Batterietochter Cellforce",
+    "link": "https://battery-news.de/2026/05/12/porsche-plant-stilllegung-der-batterietochter-cellforce/",
+    "date": "2026-05-12T06:00:00.000Z",
+    "source": "Battery-News.de"
+  },
+  {
     "title": "BW ESS submits 700MW Bannaby battery storage project in NSW to Australia&#8217;s EPBC Act",
     "link": "https://www.energy-storage.news/bw-ess-submits-700mw-bannaby-battery-storage-project-in-nsw-to-australias-epbc-act/",
     "date": "2026-05-12T02:02:05.000Z",
@@ -24,51 +66,15 @@
     "source": "PV Magazine"
   },
   {
-    "title": "Ferroli launches monobloc propane air-to-water heat pumps for residential, commercial use",
-    "link": "https://www.pv-magazine.com/2026/05/11/ferroli-launches-monobloc-propane-air-to-water-heat-pumps-for-residential-commercial-use/",
-    "date": "2026-05-11T14:22:51.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Ireland urged to create national clearing house to streamline solar projects",
-    "link": "https://www.pv-magazine.com/2026/05/11/ireland-urged-to-create-national-clearing-house-to-streamline-solar-projects/",
-    "date": "2026-05-11T13:27:58.000Z",
-    "source": "PV Magazine"
-  },
-  {
     "title": "Energy Vault reaffirms 2026 guidance, sets sights on AI infrastructure PPA deals",
     "link": "https://www.energy-storage.news/energy-vault-reaffirms-2026-guidance-sets-sights-on-ai-infrastructure-ppa-deals/",
     "date": "2026-05-11T13:17:20.000Z",
     "source": "Energy Storage News"
   },
   {
-    "title": "Hybrid tidal-photovoltaic system for modular renewables deployment in estuarine channels",
-    "link": "https://www.pv-magazine.com/2026/05/11/hybrid-tidal-photovoltaic-system-for-modular-renewables-deployment-in-estuarine-channels/",
-    "date": "2026-05-11T13:15:22.000Z",
-    "source": "PV Magazine"
-  },
-  {
     "title": "Qcells partners Jabil in US for domestic content residential battery storage manufacturing",
     "link": "https://www.energy-storage.news/qcells-partners-jabil-in-us-for-domestic-content-residential-battery-storage-manufacturing/",
     "date": "2026-05-11T13:07:35.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "Adani adds 150 MW solar capacity to Khavda 30 GW renewable energy park",
-    "link": "https://www.pv-magazine.com/2026/05/11/adani-adds-150-mw-solar-capacity-to-khavda-30-gw-renewable-energy-park/",
-    "date": "2026-05-11T12:00:22.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Assessment of Nigeria’s agrivoltaic potential identifies northern states as optimal areas",
-    "link": "https://www.pv-magazine.com/2026/05/11/assessment-of-nigerias-agrivoltaic-potential-identifies-northern-states-as-optimal-areas/",
-    "date": "2026-05-11T11:46:49.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Fluence doubles order intake, expects to book first big data centre deal this quarter",
-    "link": "https://www.energy-storage.news/fluence-doubles-order-intake-expects-to-book-first-big-data-centre-deal-this-quarter/",
-    "date": "2026-05-11T10:00:18.000Z",
     "source": "Energy Storage News"
   },
   {
@@ -99,12 +105,6 @@
     "title": "CMblu überschreitet Unicorn-Schwelle mit 50 Mio. Euro Series C",
     "link": "https://battery-news.de/2026/05/04/cmblu-ueberschreitet-unicorn-schwelle-mit-50-mio-euro-series-c/",
     "date": "2026-05-04T11:54:10.000Z",
-    "source": "Battery-News.de"
-  },
-  {
-    "title": "Siemens erhält Auftrag für Lithiumprojekt Lionheart",
-    "link": "https://battery-news.de/2026/04/30/siemens-erhaelt-auftrag-fuer-lithiumprojekt-lionheart/",
-    "date": "2026-04-30T06:00:00.000Z",
     "source": "Battery-News.de"
   }
 ]
