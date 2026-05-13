@@ -1,5 +1,47 @@
 [
   {
+    "title": "Solar capture factors fall across europe as negative price hours surge in key markets",
+    "link": "https://www.pv-magazine.com/2026/05/13/solar-capture-factors-fall-across-europe-as-negative-price-hours-surge-in-key-markets/",
+    "date": "2026-05-13T08:42:21.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Continuous-wave infrared laser technology enables damage-free backsheet removal in end-of-life solar modules",
+    "link": "https://www.pv-magazine.com/2026/05/13/continuous-wave-infrared-laser-technology-enables-damage-free-backsheet-removal-in-end-of-life-solar-modules/",
+    "date": "2026-05-13T08:26:07.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Solar Impulse 2 crashes in Gulf of Mexico during unmanned test flight",
+    "link": "https://www.pv-magazine.com/2026/05/13/solar-impulse-2-crashes-in-gulf-of-mexico-during-unmanned-test-flight/",
+    "date": "2026-05-13T06:57:18.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Anker Solix launches modular 5 kWh battery for residential PV",
+    "link": "https://www.pv-magazine.com/2026/05/13/anker-solix-launches-modular-5-kwh-battery-for-residential-pv/",
+    "date": "2026-05-13T06:20:35.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Tesla erhöht Batteriezell-Ziel in Grünheide auf 18 Gigawattstunden",
+    "link": "https://battery-news.de/2026/05/13/tesla-erhoeht-batteriezell-ziel-in-gruenheide-auf-18-gigawattstunden/",
+    "date": "2026-05-13T06:00:00.000Z",
+    "source": "Battery-News.de"
+  },
+  {
+    "title": "Alsym and Juniper to deploy 500 MWh of sodium-ion battery storage",
+    "link": "https://www.pv-magazine.com/2026/05/13/sodium-ion-batteries-alsym-and-juniper-to-deploy-500-mwh-of-sodium-ion-battery-storage/",
+    "date": "2026-05-13T05:54:47.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "U.S. Solar developer seeks connection to wrong powerline, delays project five years",
+    "link": "https://www.pv-magazine.com/2026/05/13/u-s-solar-developer-seeks-connection-to-wrong-powerline-delays-project-five-years/",
+    "date": "2026-05-13T05:50:06.000Z",
+    "source": "PV Magazine"
+  },
+  {
     "title": "Western Australia&#8217;s battery storage supplies record 37.2% of peak demand",
     "link": "https://www.energy-storage.news/western-australias-battery-storage-supplies-record-37-2-of-peak-demand/",
     "date": "2026-05-13T03:15:06.000Z",
@@ -30,46 +72,10 @@
     "source": "Energy Storage News"
   },
   {
-    "title": "Fire hits German home fitted with photovoltaic tiles",
-    "link": "https://www.pv-magazine.com/2026/05/12/fire-hits-german-home-fitted-with-photovoltaic-tiles/",
-    "date": "2026-05-12T10:41:30.000Z",
-    "source": "PV Magazine"
-  },
-  {
     "title": "BayWa r.e. to manage Germany&#8217;s largest BESS; smaller projects move to construction",
     "link": "https://www.energy-storage.news/baywa-r-e-to-manage-germanys-largest-bess-smaller-projects-move-to-construction/",
     "date": "2026-05-12T10:32:07.000Z",
     "source": "Energy Storage News"
-  },
-  {
-    "title": "Jolywood starts mass production of low-silver TOPCon solar cells",
-    "link": "https://www.pv-magazine.com/2026/05/12/jolywood-starts-mass-production-of-low-silver-topcon-solar-cells/",
-    "date": "2026-05-12T10:31:24.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Zambia’s largest solar plant goes online",
-    "link": "https://www.pv-magazine.com/2026/05/12/zambias-largest-solar-plant-goes-online/",
-    "date": "2026-05-12T10:24:30.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "The impact of fly ash-induced soiling on PV panel performance",
-    "link": "https://www.pv-magazine.com/2026/05/12/the-impact-of-fly-ash-induced-soiling-on-pv-panel-performance/",
-    "date": "2026-05-12T10:15:49.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Ford Energy announces DC block utility-scale BESS based on 512 Ah LFP cells",
-    "link": "https://www.pv-magazine.com/2026/05/12/ford-energy-announces-dc-block-utility-scale-bess-based-on-512-ah-lfp-cells/",
-    "date": "2026-05-12T09:46:15.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Germany allocates 2.3 GW in latest ground-mounted PV tender, lowest bid comes in at €0.039/kWh",
-    "link": "https://www.pv-magazine.com/2026/05/12/germany-allocates-2-3-gw-in-latest-ground-mounted-pv-tender-lowest-bid-comes-in-at-e0-039-kwh/",
-    "date": "2026-05-12T09:30:17.000Z",
-    "source": "PV Magazine"
   },
   {
     "title": "Meralco PowerGen Corp brings online first phase of 100MWh CATL battery project in Cebu, Philippines",
@@ -99,12 +105,6 @@
     "title": "Norwegischer Batteriehersteller Morrow leitet Insolvenzverfahren ein",
     "link": "https://battery-news.de/2026/05/07/norwegischer-batteriehersteller-morrow-leitet-insolvenzverfahren-ein/",
     "date": "2026-05-07T10:01:59.000Z",
-    "source": "Battery-News.de"
-  },
-  {
-    "title": "Caterpillar präsentiert batterieelektrische Power Unit für Industrieanwendungen",
-    "link": "https://battery-news.de/2026/05/05/caterpillar-praesentiert-batterieelektrische-power-unit-fuer-industrieanwendungen/",
-    "date": "2026-05-05T08:30:24.000Z",
     "source": "Battery-News.de"
   }
 ]
