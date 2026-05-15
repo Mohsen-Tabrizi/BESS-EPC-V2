@@ -1,21 +1,63 @@
 [
   {
+    "title": "Women’s leadership is everywhere in Ukraine",
+    "link": "https://www.pv-magazine.com/2026/05/15/womens-leadership-is-everywhere-in-ukraine/",
+    "date": "2026-05-15T14:00:45.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Zelestra energises 1GWh hybrid BESS project in Chile",
+    "link": "https://www.energy-storage.news/zelestra-energises-1gwh-hybrid-bess-project-in-chile/",
+    "date": "2026-05-15T13:08:08.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Solar PPAs raise Spanish spot prices, not suppress them",
+    "link": "https://www.pv-magazine.com/2026/05/15/solar-ppas-raise-spanish-spot-prices-not-suppress-them/",
+    "date": "2026-05-15T11:32:58.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Blocking pattern lifts irradiance from France to Finland while storms hit the east",
+    "link": "https://www.pv-magazine.com/2026/05/15/blocking-pattern-lifts-irradiance-from-france-to-finland-while-storms-hit-the-east/",
+    "date": "2026-05-15T10:40:46.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Rept Battero opens Indonesian cell and BESS manufacturing facility",
+    "link": "https://www.energy-storage.news/rept-battero-opens-indonesian-cell-and-bess-manufacturing-facility/",
+    "date": "2026-05-15T09:57:47.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "German scientists explore whether solar power plants can induce rain in deserts",
+    "link": "https://www.pv-magazine.com/2026/05/15/german-scientists-explore-whether-solar-power-plants-can-induce-rain-in-deserts/",
+    "date": "2026-05-15T09:56:32.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Brazil deploys 4.4 GW of solar in Q1",
+    "link": "https://www.pv-magazine.com/2026/05/15/brazil-deploys-4-4-gw-of-solar-in-q1/",
+    "date": "2026-05-15T09:41:52.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Heterojunction PV modules with low silver content tested in world&#8217;s sunniest region",
+    "link": "https://www.pv-magazine.com/2026/05/15/heterojunction-pv-modules-with-low-silver-content-tested-in-worlds-sunniest-region/",
+    "date": "2026-05-15T09:26:31.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Wie neue Batterietypen Planung und Betrieb von Trockenräumen verändern",
+    "link": "https://battery-news.de/2026/05/15/wie-neue-batterietypen-planung-und-betrieb-von-trockenraumen/",
+    "date": "2026-05-15T09:00:00.000Z",
+    "source": "Battery-News.de"
+  },
+  {
     "title": "System-level BESS manufacturing defects cause ‘hidden risk’ for developers, Intertek CEA says",
     "link": "https://www.energy-storage.news/system-level-bess-manufacturing-defects-cause-hidden-risk-for-developers-intertek-cea-says/",
     "date": "2026-05-15T08:24:15.000Z",
     "source": "Energy Storage News"
-  },
-  {
-    "title": "Chinese PV Industry Brief: Daqo, Tongwei, Aiko Solar post Q1 losses",
-    "link": "https://www.pv-magazine.com/2026/05/15/chinese-pv-industry-brief-daqo-longi-aiko-solar-post-q1-losses/",
-    "date": "2026-05-15T08:16:50.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "China TOPCon module prices hold steady as supplier price gap widens",
-    "link": "https://www.pv-magazine.com/2026/05/15/china-topcon-module-prices-hold-steady-as-supplier-price-gap-widens/",
-    "date": "2026-05-15T07:58:07.000Z",
-    "source": "PV Magazine"
   },
   {
     "title": "EnerVenue piloting &#8216;30,000-cycle&#8217; nickel-hydrogen BESS in China",
@@ -24,28 +66,10 @@
     "source": "Energy Storage News"
   },
   {
-    "title": "HY Solar unveils 670 W TOPCon modules with 24.8% efficiency",
-    "link": "https://www.pv-magazine.com/2026/05/15/hy-solar-unveils-670-w-topcon-modules-with-24-8-efficiency/",
-    "date": "2026-05-15T06:39:55.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Mistubishi launches propane air-to-water heat pumps for large homes, light commercial applications",
-    "link": "https://www.pv-magazine.com/2026/05/15/mistubishi-launches-propane-air-to-water-heat-pumps-for-large-homes-light-commercial-applications/",
-    "date": "2026-05-15T06:24:50.000Z",
-    "source": "PV Magazine"
-  },
-  {
     "title": "Eve Energy erweitert Geschäft in Indien mit Großauftrag für Energiespeicher",
     "link": "https://battery-news.de/2026/05/15/eve-energy-erweitert-geschaeft-in-indien-mit-grossauftrag-fuer-energiespeicher/",
     "date": "2026-05-15T06:00:00.000Z",
     "source": "Battery-News.de"
-  },
-  {
-    "title": "Inox Clean buys U.S. PV manufacturing assets of Boviet Solar for $750 million",
-    "link": "https://www.pv-magazine.com/2026/05/15/inox-clean-buys-u-s-pv-manufacturing-assets-of-boviet-solar-for-750-million/",
-    "date": "2026-05-15T05:55:11.000Z",
-    "source": "PV Magazine"
   },
   {
     "title": "Iberdrola Australia submits 1GW battery storage system to the EPBC Act",
@@ -57,24 +81,6 @@
     "title": "Australia: NSW firming tender secures 2,128MWh of energy storage to address summer shortfall",
     "link": "https://www.energy-storage.news/australia-nsw-firming-tender-secures-2128mwh-of-energy-storage-to-address-summer-shortfall/",
     "date": "2026-05-15T03:04:24.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "India installs 15.3 GW of solar capacity in Q1",
-    "link": "https://www.pv-magazine.com/2026/05/14/india-installs-15-3-gw-of-solar-capacity-in-q1/",
-    "date": "2026-05-14T15:45:50.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "China&#8217;s Gotion and Richardson Electronics partner for US-made BESS",
-    "link": "https://www.energy-storage.news/chinas-gotion-and-richardson-electronics-partner-for-us-made-bess/",
-    "date": "2026-05-14T13:05:13.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "Pew&#8217;s US DER policy playbook aimed at giving ‘every state a path forward’",
-    "link": "https://www.energy-storage.news/pews-us-der-policy-playbook-aimed-at-giving-every-state-a-path-forward/",
-    "date": "2026-05-14T11:50:54.000Z",
     "source": "Energy Storage News"
   },
   {
@@ -99,12 +105,6 @@
     "title": "CATL erweitert Produktion von Natrium-Ionen-Batterien um 40 GWh",
     "link": "https://battery-news.de/2026/05/11/catl-erweitert-produktion-von-natrium-ionen-batterien-um-40-gwh/",
     "date": "2026-05-11T06:00:00.000Z",
-    "source": "Battery-News.de"
-  },
-  {
-    "title": "AABC Europe 2026 setzt Impulse für die Batterie-Zukunft",
-    "link": "https://battery-news.de/2026/05/08/aabc-europe-2026-setzt-impulse-fuer-die-batterie-zukunft/",
-    "date": "2026-05-08T08:30:00.000Z",
     "source": "Battery-News.de"
   }
 ]
