@@ -1,5 +1,41 @@
 [
   {
+    "title": "Romania moves from solar to storage rebates",
+    "link": "https://www.pv-magazine.com/2026/05/18/romania-moves-from-solar-to-storage-rebates/",
+    "date": "2026-05-18T10:08:54.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Canadian Solar plans to double battery cell and BESS manufacturing capacity, new CEO says",
+    "link": "https://www.energy-storage.news/canadian-solar-plans-to-double-battery-cell-and-bess-manufacturing-capacity-new-ceo-says/",
+    "date": "2026-05-18T09:23:43.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Dimplex launches propane air-to-water heat pumps for light commercial applications",
+    "link": "https://www.pv-magazine.com/2026/05/18/dimplex-launches-propane-air-to-water-heat-pumps-for-light-commercial-applications/",
+    "date": "2026-05-18T08:50:23.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Glass frit chemistry explains EVA-driven degradation mechanisms in TOPCon solar cells",
+    "link": "https://www.pv-magazine.com/2026/05/18/glass-frit-chemistry-explains-eva-driven-degradation-mechanisms-in-topcon-solar-cells/",
+    "date": "2026-05-18T06:19:15.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "BYD und Corvus Energy vereinbaren Kooperation für maritime LFP-Batteriesysteme",
+    "link": "https://battery-news.de/2026/05/18/byd-und-corvus-energy-vereinbaren-kooperation-fuer-maritime-lfp-batteriesysteme/",
+    "date": "2026-05-18T06:00:00.000Z",
+    "source": "Battery-News.de"
+  },
+  {
+    "title": "Australia hits 400,000 home battery installations with 11.2GWh capacity in under a year",
+    "link": "https://www.energy-storage.news/australia-hits-400000-home-battery-installations-with-11-2gwh-capacity-in-under-a-year/",
+    "date": "2026-05-18T04:29:32.000Z",
+    "source": "Energy Storage News"
+  },
+  {
     "title": "Hydrostor launches 4 GWh advanced compressed air energy storage project in Ontario",
     "link": "https://www.pv-magazine.com/2026/05/16/hydrostor-launches-4-gwh-advanced-compressed-air-energy-storage-project-in-ontario/",
     "date": "2026-05-16T09:00:59.000Z",
@@ -15,24 +51,6 @@
     "title": "Spain, Denmark could develop European green hydrogen corridor for €2/kg by combining solar and offshore wind",
     "link": "https://www.pv-magazine.com/2026/05/16/spain-denmark-could-develop-european-green-hydrogen-corridor-for-e2-kg-by-combining-solar-and-offshore-wind/",
     "date": "2026-05-16T08:00:52.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "PV power generation to surpass coal in Texas",
-    "link": "https://www.pv-magazine.com/2026/05/16/pv-power-generation-to-surpass-coal-in-texas/",
-    "date": "2026-05-16T07:00:03.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Japan awards 1.25 GW of battery storage in capacity market auction",
-    "link": "https://www.pv-magazine.com/2026/05/16/japan-awards-1-25-gw-of-battery-storage-in-capacity-market-auction/",
-    "date": "2026-05-16T06:00:53.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Argentina commissions 360 MW solar farm",
-    "link": "https://www.pv-magazine.com/2026/05/15/argentina-commissions-305-mw-solar-farm/",
-    "date": "2026-05-15T14:58:11.000Z",
     "source": "PV Magazine"
   },
   {
@@ -72,18 +90,6 @@
     "source": "Battery-News.de"
   },
   {
-    "title": "Iberdrola Australia submits 1GW battery storage system to the EPBC Act",
-    "link": "https://www.energy-storage.news/iberdrola-australia-submits-1gw-battery-storage-system-to-the-epbc-act/",
-    "date": "2026-05-15T03:08:46.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "Australia: NSW firming tender secures 2,128MWh of energy storage to address summer shortfall",
-    "link": "https://www.energy-storage.news/australia-nsw-firming-tender-secures-2128mwh-of-energy-storage-to-address-summer-shortfall/",
-    "date": "2026-05-15T03:04:24.000Z",
-    "source": "Energy Storage News"
-  },
-  {
     "title": "Tesla erhöht Batteriezell-Ziel in Grünheide auf 18 Gigawattstunden",
     "link": "https://battery-news.de/2026/05/13/tesla-erhoeht-batteriezell-ziel-in-gruenheide-auf-18-gigawattstunden/",
     "date": "2026-05-13T06:00:00.000Z",
@@ -99,12 +105,6 @@
     "title": "Porsche plant Stilllegung der Batterietochter Cellforce",
     "link": "https://battery-news.de/2026/05/12/porsche-plant-stilllegung-der-batterietochter-cellforce/",
     "date": "2026-05-12T06:00:00.000Z",
-    "source": "Battery-News.de"
-  },
-  {
-    "title": "CATL erweitert Produktion von Natrium-Ionen-Batterien um 40 GWh",
-    "link": "https://battery-news.de/2026/05/11/catl-erweitert-produktion-von-natrium-ionen-batterien-um-40-gwh/",
-    "date": "2026-05-11T06:00:00.000Z",
     "source": "Battery-News.de"
   }
 ]
