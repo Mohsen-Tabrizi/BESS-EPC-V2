@@ -1,5 +1,53 @@
 [
   {
+    "title": "Storing renewables with compressed air in urban heating pipeline",
+    "link": "https://www.pv-magazine.com/2026/05/26/storing-renewables-with-compressed-air-in-urban-heating-pipeline/",
+    "date": "2026-05-26T09:28:04.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "CATL supplying 1.5GWh for Grenergy&#8217;s long-term tolled Spanish BESS projects",
+    "link": "https://www.energy-storage.news/catl-supplying-1-5gwh-for-grenergys-long-term-tolled-spanish-bess-projects/",
+    "date": "2026-05-26T09:05:01.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Study finds POLO back junction solar cells could outperform PERC on costs in Europe",
+    "link": "https://www.pv-magazine.com/2026/05/26/study-finds-polo-back-junction-solar-cells-could-outperform-perc-on-costs-in-europe/",
+    "date": "2026-05-26T08:54:16.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "DC vs AC coupling: which is best for co-locating your BESS and solar setups?",
+    "link": "https://www.energy-storage.news/dc-vs-ac-coupling-which-is-best-for-co-locating-your-bess-and-solar-setups/",
+    "date": "2026-05-26T08:46:58.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "On-road tests show strong impact of shading on vehicle-integrated photovoltaics",
+    "link": "https://www.pv-magazine.com/2026/05/26/on-road-tests-show-strong-impact-of-shading-on-vehicle-integrated-photovoltaics/",
+    "date": "2026-05-26T07:53:48.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Securing India&#8217;s battery supply chain is more critical than ever",
+    "link": "https://www.energy-storage.news/securing-indias-battery-supply-chain-is-more-critical-than-ever/",
+    "date": "2026-05-26T06:41:35.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "SK On beendet US-Batteriepartnerschaft mit Ford",
+    "link": "https://battery-news.de/2026/05/26/sk-on-beendet-us-batteriepartnerschaft-mit-ford/",
+    "date": "2026-05-26T06:00:00.000Z",
+    "source": "Battery-News.de"
+  },
+  {
+    "title": "Australia seeks 5 GW renewable generation in new tender",
+    "link": "https://www.pv-magazine.com/2026/05/26/australia-seeks-5-gw-renewable-generation-in-new-tender/",
+    "date": "2026-05-26T05:44:30.000Z",
+    "source": "PV Magazine"
+  },
+  {
     "title": "Gujarat Industries Power Co seeks bids for 120MWh vanadium flow battery pilot project",
     "link": "https://www.energy-storage.news/gujarat-industries-power-co-seeks-bids-for-120mwh-vanadium-flow-battery-pilot-project/",
     "date": "2026-05-26T03:04:00.000Z",
@@ -18,57 +66,15 @@
     "source": "Energy Storage News"
   },
   {
-    "title": "Battery storage dominates Australia&#8217;s Capacity Investment Scheme Tender 7 as hybrid projects secure 7.9GWh",
-    "link": "https://www.energy-storage.news/battery-storage-dominates-australias-capacity-investment-scheme-tender-7-as-hybrid-projects-secure-7-9gwh/",
-    "date": "2026-05-26T00:48:43.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "Australia becomes the ‘world&#8217;s third-largest utility-scale battery storage market’",
-    "link": "https://www.energy-storage.news/australia-becomes-the-worlds-third-largest-utility-scale-battery-storage-market/",
-    "date": "2026-05-26T00:44:11.000Z",
-    "source": "Energy Storage News"
-  },
-  {
     "title": "JA Solar, Gold Stone Energy claim world’s highest efficiency for silicon solar cells with 28.2%-efficient back contact device",
     "link": "https://www.pv-magazine.com/2026/05/25/ja-solar-gold-stone-energy-claim-worlds-highest-efficiency-for-silicon-solar-cells-with-28-2-efficient-back-contact-device/",
     "date": "2026-05-25T14:40:15.000Z",
     "source": "PV Magazine"
   },
   {
-    "title": "BloombergNEF ups BESS forecast as renewables add resilience from fossil fuel price shocks",
-    "link": "https://www.energy-storage.news/bloombergnef-ups-bess-forecast-as-renewables-add-resilience-from-fossil-fuel-price-shocks/",
-    "date": "2026-05-25T13:27:10.000Z",
-    "source": "Energy Storage News"
-  },
-  {
     "title": "Cuba raises renewable electricity export tariff 30-fold",
     "link": "https://www.pv-magazine.com/2026/05/25/cuba-raises-renewable-electricity-export-tariff-30-fold/",
     "date": "2026-05-25T13:04:34.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "EU awards €400 million to 65 industrial heat projects in auction",
-    "link": "https://www.pv-magazine.com/2026/05/25/eu-awards-e400-million-to-65-industrial-heat-projects-in-auction/",
-    "date": "2026-05-25T12:15:40.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "An uncomfortable truth: What Spain’s blackout really showed",
-    "link": "https://www.pv-magazine.com/2026/05/25/an-uncomfortable-truth-what-spains-blackout-really-showed/",
-    "date": "2026-05-25T12:00:40.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "San Marino launches solar acquisition program",
-    "link": "https://www.pv-magazine.com/2026/05/25/san-marino-launches-solar-acquisition-program/",
-    "date": "2026-05-25T11:00:32.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "DAS Solar, UNSW build tunnel back-contact solar cell with 27% efficiency, lower silver content",
-    "link": "https://www.pv-magazine.com/2026/05/25/das-solar-unsw-build-tunnel-back-contact-solar-cell-with-27-efficiency-lower-silver-content/",
-    "date": "2026-05-25T09:00:12.000Z",
     "source": "PV Magazine"
   },
   {
@@ -99,12 +105,6 @@
     "title": "Ford beliefert EDF über neues Tochterunternehmen für Batteriespeicher",
     "link": "https://battery-news.de/2026/05/19/ford-beliefert-edf-ueber-neues-tochterunternehmen-fuer-batteriespeicher/",
     "date": "2026-05-19T06:00:00.000Z",
-    "source": "Battery-News.de"
-  },
-  {
-    "title": "BYD und Corvus Energy vereinbaren Kooperation für maritime LFP-Batteriesysteme",
-    "link": "https://battery-news.de/2026/05/18/byd-und-corvus-energy-vereinbaren-kooperation-fuer-maritime-lfp-batteriesysteme/",
-    "date": "2026-05-18T06:00:00.000Z",
     "source": "Battery-News.de"
   }
 ]
