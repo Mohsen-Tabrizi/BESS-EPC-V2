@@ -1,45 +1,63 @@
 [
   {
+    "title": "Türkiye adds 1.97 GW of solar in January-April",
+    "link": "https://www.pv-magazine.com/2026/06/01/turkiye-adds-1-97-gw-of-solar-in-january-april/",
+    "date": "2026-06-01T10:31:53.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Trina Solar announces 907 W tandem solar module with 29.2% efficiency",
+    "link": "https://www.pv-magazine.com/2026/06/01/trina-solar-announces-907-w-tandem-solar-module-with-29-2-efficiency/",
+    "date": "2026-06-01T10:16:34.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Hoymiles launches new hybrid residential battery series",
+    "link": "https://www.pv-magazine.com/2026/06/01/hoymiles-launches-new-hybrid-residential-battery-series/",
+    "date": "2026-06-01T09:17:29.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "JinkoSolar shipped 86.8 GW of modules in 2025, securing lead in global sales for the seventh time",
+    "link": "https://www.pv-magazine.com/2026/06/01/jinkosolar-shipped-86-8-gw-of-modules-in-2025-securing-lead-in-global-sales-for-the-seventh-time/",
+    "date": "2026-06-01T09:00:00.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Lesotho seeks consultants for floating PV feasibility study",
+    "link": "https://www.pv-magazine.com/2026/06/01/lesotho-seeks-consultants-for-floating-pv-feasibility-study/",
+    "date": "2026-06-01T08:24:06.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Scale key to viable polysilicon production in Australia, study finds",
+    "link": "https://www.pv-magazine.com/2026/06/01/scale-key-to-viable-polysilicon-production-in-australia-study-finds/",
+    "date": "2026-06-01T07:41:26.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Germany: Level playing field for storage vs conventional generation is major challenge, says developer Kyon",
+    "link": "https://www.energy-storage.news/germany-level-playing-field-for-storage-vs-conventional-generation-is-major-challenge-says-developer-kyon/",
+    "date": "2026-06-01T06:48:57.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "CATL opens &#8216;world&#8217;s largest&#8217; energy storage testing platform in China",
+    "link": "https://www.energy-storage.news/catl-opens-worlds-largest-energy-storage-testing-platform-in-china/",
+    "date": "2026-06-01T06:43:19.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Eni und Seri Industrial planen Lieferkette für stationäre Batteriespeicher",
+    "link": "https://battery-news.de/2026/06/01/eni-und-seri-industrial-planen-lieferkette-fuer-stationaere-batteriespeicher/",
+    "date": "2026-06-01T06:00:00.000Z",
+    "source": "Battery-News.de"
+  },
+  {
     "title": "RES Australia&#8217;s 2.4GWh Bunyip North BESS clears EPBC Act assessment in Victoria",
     "link": "https://www.energy-storage.news/res-australias-2-4gwh-bunyip-north-bess-clears-epbc-act-assessment-in-victoria/",
     "date": "2026-06-01T01:32:32.000Z",
     "source": "Energy Storage News"
-  },
-  {
-    "title": "Lessons from the solar frontier",
-    "link": "https://www.pv-magazine.com/2026/05/30/lessons-from-the-solar-frontier-2/",
-    "date": "2026-05-30T09:59:00.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "K2 Systems unveils solar carport",
-    "link": "https://www.pv-magazine.com/2026/05/30/k2-systems-devoile-son-ombriere-photovoltaique-k2-carport/",
-    "date": "2026-05-30T09:00:00.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "South Africa’s Eskom starts constructing 75 MW of solar",
-    "link": "https://www.pv-magazine.com/2026/05/30/south-africas-eskom-starts-constructing-75-mw-of-solar/",
-    "date": "2026-05-30T08:00:00.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Lointek supplies 50 MW / 300 MWh liquid air energy storage system in the United Kingdom",
-    "link": "https://www.pv-magazine.com/2026/05/30/lointek-suministra-un-sistema-de-almacenamiento-de-aire-liquido-de-50-mw-300-mwh-en-uk/",
-    "date": "2026-05-30T07:00:00.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "ContourGlobal inaugurates Chilean hybrid plant with 231 MW of solar and 200 MW/1.3 GWh BESS",
-    "link": "https://www.pv-magazine.com/2026/05/30/inauguran-en-chile-una-planta-hibrida-con-231-mwp-solares-y-un-bess-de-200-mw-13-gwh/",
-    "date": "2026-05-30T06:00:00.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "EU approves capacity market for Spain",
-    "link": "https://www.pv-magazine.com/2026/05/30/la-comision-aprueba-el-mercado-de-capacidad-para-espana/",
-    "date": "2026-05-30T05:00:00.000Z",
-    "source": "PV Magazine"
   },
   {
     "title": "US ROUNDUP: BESS news from NeoVolta, Goshe, Frontier Power &#038; Stella and Prevalon",
@@ -60,22 +78,10 @@
     "source": "Energy Storage News"
   },
   {
-    "title": "Nord Pool’s new European BESS revenue index &#8216;reduces trader bias risk&#8217; for merchant plays",
-    "link": "https://www.energy-storage.news/nord-pools-new-european-bess-revenue-index-reduces-trader-bias-risk-for-merchant-plays/",
-    "date": "2026-05-29T07:55:23.000Z",
-    "source": "Energy Storage News"
-  },
-  {
     "title": "LG Energy Solution Vertech liefert Batteriespeicher an DTE Energy in Michigan.",
     "link": "https://battery-news.de/2026/05/29/lg-energy-solution-vertech-liefert-batteriespeicher-an-dte-energy-in-michigan/",
     "date": "2026-05-29T06:00:00.000Z",
     "source": "Battery-News.de"
-  },
-  {
-    "title": "Ausgrid submits 300MWh Berkeley Vale BESS in New South Wales to Australia&#8217;s EPBC Act",
-    "link": "https://www.energy-storage.news/ausgrid-submits-300mwh-berkeley-vale-bess-in-new-south-wales-to-australias-epbc-act/",
-    "date": "2026-05-29T03:17:01.000Z",
-    "source": "Energy Storage News"
   },
   {
     "title": "Basquevolt stellt Lithium-Metall-Batteriezelle vor",
@@ -99,12 +105,6 @@
     "title": "Neuer PEM Battery Report: Datenbasierter Blick auf den europäischen EV-Batteriemarkt",
     "link": "https://battery-news.de/2026/05/22/neuer-pem-battery-report-datenbasierter-blick-auf-den-europaeischen-ev-batteriemarkt/",
     "date": "2026-05-22T06:30:00.000Z",
-    "source": "Battery-News.de"
-  },
-  {
-    "title": "Ganfeng Lithium startet Kleinserie mit Festkörperbatterien",
-    "link": "https://battery-news.de/2026/05/22/ganfeng-lithium-startet-kleinserie-mit-festkoerperbatterien/",
-    "date": "2026-05-22T06:00:00.000Z",
     "source": "Battery-News.de"
   }
 ]
