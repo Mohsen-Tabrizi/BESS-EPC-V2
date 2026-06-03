@@ -1,12 +1,54 @@
 [
   {
+    "title": "JinkoSolar launches 700 W TOPCon solar module with 25.91% efficiency",
+    "link": "https://www.pv-magazine.com/2026/06/03/jinkosolar-launches-700-w-topcon-solar-module-with-25-91-efficiency/",
+    "date": "2026-06-03T14:29:51.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Podcast zur Lage der europäischen Batterieindustrie mit Prof. Heiner Heimes",
+    "link": "https://battery-news.de/2026/06/03/podcast-zur-lage-der-europaeischen-batterieindustrie-mit-prof-heiner-heimes/",
+    "date": "2026-06-03T13:24:53.000Z",
+    "source": "Battery-News.de"
+  },
+  {
+    "title": "Vietnam’s first direct power purchase agreement enters operation",
+    "link": "https://www.pv-magazine.com/2026/06/03/vietnams-first-direct-power-purchase-agreement-enters-operation/",
+    "date": "2026-06-03T13:15:00.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "How to structure a US BESS manufacturing deal with Chinese partners amidst FEOC, with NeoVolta",
+    "link": "https://www.energy-storage.news/how-to-structure-a-us-bess-manufacturing-deal-with-chinese-partners-amidst-feoc-with-neovolta/",
+    "date": "2026-06-03T12:48:38.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "France sees negative spot price of -€498/MWh",
+    "link": "https://www.pv-magazine.com/2026/06/03/un-prix-spot-negatif-record-de-498-e-mwh-enregistre-le-1er-mai/",
+    "date": "2026-06-03T12:30:00.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Alsym Energy partners with Re:Build Manufacturing to scale US Na-ion BESS",
+    "link": "https://www.energy-storage.news/alsym-energy-partners-with-rebuild-manufacturing-to-scale-us-na-ion-bess/",
+    "date": "2026-06-03T12:05:44.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Anker Solix launches 2 kWh home backup power system",
+    "link": "https://www.pv-magazine.com/2026/06/03/anker-solix-launches-2-kwh-home-backup-power-system/",
+    "date": "2026-06-03T12:02:00.000Z",
+    "source": "PV Magazine"
+  },
+  {
     "title": "NTPC Green Energy floats 3.3GWh BESS EPC tender for Khavda Solar Park in Gujarat, India",
     "link": "https://www.energy-storage.news/ntpc-green-energy-3-3gwh-bess-epc-tender-khavda-solar-gujarat-india/",
     "date": "2026-06-03T10:30:30.000Z",
     "source": "Energy Storage News"
   },
   {
-    "title": "Mexico surpasses 5 GW of distributed solar capacity",
+    "title": "Mexico exceeds 5 GW of distributed solar capacity",
     "link": "https://www.pv-magazine.com/2026/06/03/mexico-supera-en-2025-los-5-gw-solares-en-generacion-distribuida/",
     "date": "2026-06-03T10:30:00.000Z",
     "source": "PV Magazine"
@@ -30,30 +72,6 @@
     "source": "Energy Storage News"
   },
   {
-    "title": "Grid expansion, batteries to ease curtailment in Brazil",
-    "link": "https://www.pv-magazine.com/2026/06/03/melhorias-na-rede-eletrica-e-entrada-de-baterias-no-medio-prazo-aliviarao-curtailment-projeta-aurora/",
-    "date": "2026-06-03T09:30:00.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Natural ester fluids beat mineral oil for use in renewable energy applications",
-    "link": "https://www.pv-magazine.com/2026/06/03/natural-ester-fluids-beat-mineral-oil-for-use-in-renewable-energy-applications/",
-    "date": "2026-06-03T09:00:00.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "France, Germany, Portugal, Spain set daily solar records",
-    "link": "https://www.pv-magazine.com/2026/06/03/france-germany-portugal-spain-set-daily-solar-records/",
-    "date": "2026-06-03T08:41:15.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Scientists achieve 27% efficiency in a co-deposited inverted perovskite",
-    "link": "https://www.pv-magazine.com/2026/06/03/scientists-achieve-27-efficiency-in-a-co-deposited-inverted-perovskite/",
-    "date": "2026-06-03T08:30:00.000Z",
-    "source": "PV Magazine"
-  },
-  {
     "title": "Third-party technologies for preventing or dealing with thermal runaway in BESS assets",
     "link": "https://www.energy-storage.news/third-party-technologies-for-preventing-or-dealing-with-thermal-runaway-in-bess-assets/",
     "date": "2026-06-03T08:09:46.000Z",
@@ -64,18 +82,6 @@
     "link": "https://battery-news.de/2026/06/03/vianode-und-cylib-pruefen-recycling-graphit-fuer-batterieanoden/",
     "date": "2026-06-03T06:00:00.000Z",
     "source": "Battery-News.de"
-  },
-  {
-    "title": "Akaysha Energy&#8217;s 415MW/1,660MWh Orana BESS reaches full output in Australia",
-    "link": "https://www.energy-storage.news/akaysha-energys-415mw-1660mwh-orana-bess-reaches-full-output-in-australia/",
-    "date": "2026-06-03T01:56:32.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "Australia’s Queensland opens AU$200 million fund for battery storage and generation projects",
-    "link": "https://www.energy-storage.news/australias-queensland-opens-au200-million-fund-for-battery-storage-and-generation-projects/",
-    "date": "2026-06-03T01:51:11.000Z",
-    "source": "Energy Storage News"
   },
   {
     "title": "Tesla hält vorerst an Graphit-Vertrag mit Syrah fest",
@@ -99,12 +105,6 @@
     "title": "Basquevolt stellt Lithium-Metall-Batteriezelle vor",
     "link": "https://battery-news.de/2026/05/28/basquevolt-stellt-lithium-metall-batteriezelle-vor/",
     "date": "2026-05-28T06:00:00.000Z",
-    "source": "Battery-News.de"
-  },
-  {
-    "title": "DHL baut Batterielogistik in Holtum aus",
-    "link": "https://battery-news.de/2026/05/27/dhl-baut-batterielogistik-in-holtum-aus/",
-    "date": "2026-05-27T06:00:00.000Z",
     "source": "Battery-News.de"
   }
 ]
