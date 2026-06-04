@@ -1,15 +1,51 @@
 [
   {
+    "title": "European Commission to conduct risk assessment of EU solar, wind installations",
+    "link": "https://www.pv-magazine.com/2026/06/04/european-commission-to-conduct-risk-assessment-of-eu-solar-wind-installations/",
+    "date": "2026-06-04T09:30:00.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "India extends countervailing duty on Malaysian solar glass imports for five years",
+    "link": "https://www.pv-magazine.com/2026/06/04/india-extends-countervailing-duty-on-malaysian-solar-glass-imports-for-five-years/",
+    "date": "2026-06-04T08:30:00.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Europe must support role of long-duration energy storage in electrification, security and competitiveness, trade groups say",
+    "link": "https://www.energy-storage.news/europe-must-support-role-of-long-duration-energy-storage-in-electrification-security-and-competitiveness-trade-groups-say/",
+    "date": "2026-06-04T08:08:12.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Researchers combine agrivoltaics with insect net house",
+    "link": "https://www.pv-magazine.com/2026/06/04/researchers-combine-agrivoltaics-with-insect-net-house/",
+    "date": "2026-06-04T08:00:00.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "UK hits 22.3 GW solar capacity as cost per kW falls",
+    "link": "https://www.pv-magazine.com/2026/06/04/uk-hits-22-3-gw-solar-capacity-as-cost-per-kw-falls/",
+    "date": "2026-06-04T07:30:00.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Mauritius tenders 220 MW of solar and storage via new ‘e-Marketplace’",
+    "link": "https://www.pv-magazine.com/2026/06/04/mauritius-tenders-220-mw-of-solar-and-storage-via-new-e-marketplace/",
+    "date": "2026-06-04T07:00:00.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Hybrid solar-hydrogen project planned at Antarctic base",
+    "link": "https://www.pv-magazine.com/2026/06/04/giz-valida-un-piloto-de-energias-renovables-e-hidrogeno-en-una-base-antartica-chilena/",
+    "date": "2026-06-04T06:00:00.000Z",
+    "source": "PV Magazine"
+  },
+  {
     "title": "Taiwan&#8217;s Recharge Power partners with Energy Decarb for 292MWh battery storage pipeline in Australia",
     "link": "https://www.energy-storage.news/taiwans-recharge-power-partners-with-energy-decarb-for-292mwh-battery-storage-pipeline-in-australia/",
     "date": "2026-06-04T01:52:41.000Z",
     "source": "Energy Storage News"
-  },
-  {
-    "title": "JinkoSolar launches 700 W TOPCon solar module with 25.91% efficiency",
-    "link": "https://www.pv-magazine.com/2026/06/03/jinkosolar-launches-700-w-topcon-solar-module-with-25-91-efficiency/",
-    "date": "2026-06-03T14:29:51.000Z",
-    "source": "PV Magazine"
   },
   {
     "title": "Podcast zur Lage der europäischen Batterieindustrie mit Prof. Heiner Heimes",
@@ -18,22 +54,10 @@
     "source": "Battery-News.de"
   },
   {
-    "title": "Vietnam’s first direct power purchase agreement enters operation",
-    "link": "https://www.pv-magazine.com/2026/06/03/vietnams-first-direct-power-purchase-agreement-enters-operation/",
-    "date": "2026-06-03T13:15:00.000Z",
-    "source": "PV Magazine"
-  },
-  {
     "title": "How to structure a US BESS manufacturing deal with Chinese partners amidst FEOC, with NeoVolta",
     "link": "https://www.energy-storage.news/how-to-structure-a-us-bess-manufacturing-deal-with-chinese-partners-amidst-feoc-with-neovolta/",
     "date": "2026-06-03T12:48:38.000Z",
     "source": "Energy Storage News"
-  },
-  {
-    "title": "France sees negative spot price of -€498/MWh",
-    "link": "https://www.pv-magazine.com/2026/06/03/un-prix-spot-negatif-record-de-498-e-mwh-enregistre-le-1er-mai/",
-    "date": "2026-06-03T12:30:00.000Z",
-    "source": "PV Magazine"
   },
   {
     "title": "Alsym Energy partners with Re:Build Manufacturing to scale US Na-ion BESS",
@@ -42,39 +66,15 @@
     "source": "Energy Storage News"
   },
   {
-    "title": "Anker Solix launches 2 kWh home backup power system",
-    "link": "https://www.pv-magazine.com/2026/06/03/anker-solix-launches-2-kwh-home-backup-power-system/",
-    "date": "2026-06-03T12:02:00.000Z",
-    "source": "PV Magazine"
-  },
-  {
     "title": "NTPC Green Energy floats 3.3GWh BESS EPC tender for Khavda Solar Park in Gujarat, India",
     "link": "https://www.energy-storage.news/ntpc-green-energy-3-3gwh-bess-epc-tender-khavda-solar-gujarat-india/",
     "date": "2026-06-03T10:30:30.000Z",
     "source": "Energy Storage News"
   },
   {
-    "title": "Mexico exceeds 5 GW of distributed solar capacity",
-    "link": "https://www.pv-magazine.com/2026/06/03/mexico-supera-en-2025-los-5-gw-solares-en-generacion-distribuida/",
-    "date": "2026-06-03T10:30:00.000Z",
-    "source": "PV Magazine"
-  },
-  {
     "title": "Why BESS performance guarantees are more complex than they seem",
     "link": "https://www.energy-storage.news/why-bess-performance-guarantees-are-more-complex-than-they-seem/",
     "date": "2026-06-03T10:22:16.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "Cambodia&#8217;s utility-scale solar surpasses planned targets for 2030 and 2035",
-    "link": "https://www.pv-magazine.com/2026/06/03/cambodias-utility-scale-solar-surpasses-planned-targets-for-2030-and-2035/",
-    "date": "2026-06-03T10:01:00.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Eco Stor and Next Kraftwerke agree toll for 700MWh Germany BESS",
-    "link": "https://www.energy-storage.news/eco-stor-and-next-kraftwerke-agree-toll-for-700mwh-germany-bess/",
-    "date": "2026-06-03T09:55:51.000Z",
     "source": "Energy Storage News"
   },
   {
