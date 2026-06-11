@@ -1,21 +1,69 @@
 [
   {
-    "title": "Production not politics, capex not capacity – the new metrics defining U.S. solar manufacturing",
-    "link": "https://www.pv-magazine.com/2026/06/10/production-not-politics-capex-not-capacity-the-new-metrics-defining-u-s-solar-manufacturing/",
-    "date": "2026-06-10T14:55:03.000Z",
+    "title": "Residential PV costs fell 7% year over year in Brazil",
+    "link": "https://www.pv-magazine.com/2026/06/11/el-precio-medio-de-la-energia-solar-en-brasil-retrocede-un-7-en-un-ano/",
+    "date": "2026-06-11T10:38:45.000Z",
     "source": "PV Magazine"
   },
   {
-    "title": "Swedish online auction platform selling 10.2 MW of solar modules from failed PV project",
-    "link": "https://www.pv-magazine.com/2026/06/10/swedish-online-auction-platform-selling-10-2-mw-of-solar-modules-from-failed-pv-project/",
-    "date": "2026-06-10T14:50:34.000Z",
+    "title": "Established manufacturing footprint, new technology: SK On’s US BESS market strategy",
+    "link": "https://www.energy-storage.news/established-manufacturing-footprint-new-technology-sk-ons-us-bess-market-strategy/",
+    "date": "2026-06-11T10:30:27.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Spain&#8217;s BESS pipeline is real: the PE models are wrong",
+    "link": "https://www.energy-storage.news/spains-bess-pipeline-is-real-the-pe-models-are-wrong/",
+    "date": "2026-06-11T09:51:42.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "SNEC 2026: BESS overtakes PV modules in expo floor space, more than 97GWh of deals signed",
+    "link": "https://www.energy-storage.news/snec-2026-bess-overtakes-pv-modules-in-expo-floor-space-more-than-97gwh-of-deals-signed/",
+    "date": "2026-06-11T09:48:52.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "GoodWe launches PV-driven residential air-to-water heat pumps",
+    "link": "https://www.pv-magazine.com/2026/06/11/goodwe-launches-pv-driven-residential-air-to-water-heat-pumps/",
+    "date": "2026-06-11T09:31:52.000Z",
     "source": "PV Magazine"
   },
   {
-    "title": "Switzerland launches call for PV deployment on cantonal road retaining walls",
-    "link": "https://www.pv-magazine.com/2026/06/10/switzerland-launches-call-for-pv-deployment-on-cantonal-road-retaining-walls/",
-    "date": "2026-06-10T14:17:56.000Z",
+    "title": "Tongwei debuts BIFIMAX module for projects requiring high-bifaciality",
+    "link": "https://www.pv-magazine.com/2026/06/11/tongwei-debuts-bifimax-module-for-projects-requiring-high-bifaciality/",
+    "date": "2026-06-11T09:00:00.000Z",
     "source": "PV Magazine"
+  },
+  {
+    "title": "One-year outdoor testing reveals degradation paths in perovskite tandem solar cells",
+    "link": "https://www.pv-magazine.com/2026/06/11/one-year-outdoor-testing-reveals-degradation-paths-in-perovskite-tandem-solar-cells/",
+    "date": "2026-06-11T08:46:39.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "DNV verifies 98.7% availability of Fluence&#8217;s global battery energy storage fleet",
+    "link": "https://www.energy-storage.news/dnv-verifies-98-7-availability-of-fluences-global-battery-energy-storage-fleet/",
+    "date": "2026-06-11T08:42:42.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Solar module cooling tech based on perforated fins",
+    "link": "https://www.pv-magazine.com/2026/06/11/solar-module-cooling-tech-based-on-perforated-fins/",
+    "date": "2026-06-11T08:00:00.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Study finds tandem PV has 30% lower environmental impact than crystalline silicon",
+    "link": "https://www.pv-magazine.com/2026/06/11/study-finds-tandem-pv-has-30-lower-environmental-impact-than-crystalline-silicon/",
+    "date": "2026-06-11T07:00:00.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Peak Energy und General Motors entwickeln Natrium-Ionen-Zellen für Netzspeicher",
+    "link": "https://battery-news.de/2026/06/11/peak-energy-und-general-motors-entwickeln-natrium-ionen-zellen-fuer-netzspeicher/",
+    "date": "2026-06-11T06:00:00.000Z",
+    "source": "Battery-News.de"
   },
   {
     "title": "Thermal energy storage tech analysis: Rondo, Antora, Malta Inc, MGA, 1414, EnergyNest, Polar Night and Brenmiller",
@@ -27,48 +75,6 @@
     "title": "Challenges remain for inertia in Germany, but value to BESS ‘will only go up’",
     "link": "https://www.energy-storage.news/challenges-remain-inertia-german-bess-value-will-only-go-up/",
     "date": "2026-06-10T13:13:07.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "Kehua debuts 465 kW string inverter for desert, offshore PV",
-    "link": "https://www.pv-magazine.com/2026/06/10/kehua-debuts-465-kw-string-inverter-for-desert-offshore-pv/",
-    "date": "2026-06-10T12:49:33.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "JA Solar changes name into JA",
-    "link": "https://www.pv-magazine.com/2026/06/10/ja-solar-changes-name-into-ja/",
-    "date": "2026-06-10T12:38:44.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "US ROUNDUP: EDP 800MWh Arizona project, Pathway targets SPP &#038; MISO, Waymo second-life partnership",
-    "link": "https://www.energy-storage.news/us-roundup-edp-800mwh-arizona-project-pathway-targets-spp-miso-waymo-second-life-partnership/",
-    "date": "2026-06-10T12:37:28.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "Poland&#8217;s new energy strategy envisages sharp increase in renewables",
-    "link": "https://www.pv-magazine.com/2026/06/10/polands-new-energy-strategy-envisages-sharp-increase-in-renewables/",
-    "date": "2026-06-10T12:24:33.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Expert counterparties and tolling structures key to minimising uncertainty in German BESS market",
-    "link": "https://www.energy-storage.news/working-with-experts-signing-tolling-agreements-options-minimise-uncertainty-german-bess/",
-    "date": "2026-06-10T11:57:25.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "Chile’s president attends inauguration of 3.5GWh BESS at Grenergy’s Oasis de Atacama solar-plus-storage complex",
-    "link": "https://www.energy-storage.news/chiles-president-attends-inauguration-of-3-5gwh-bess-at-grenergys-oasis-de-atacama-solar-plus-storage-complex/",
-    "date": "2026-06-10T10:23:06.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "General Motors plots sodium-ion tech leapfrog into grid-scale energy storage market",
-    "link": "https://www.energy-storage.news/general-motors-plots-sodium-ion-tech-leapfrog-into-grid-scale-energy-storage-market/",
-    "date": "2026-06-10T10:22:33.000Z",
     "source": "Energy Storage News"
   },
   {
@@ -99,12 +105,6 @@
     "title": "Vianode und cylib prüfen Recycling-Graphit für Batterieanoden",
     "link": "https://battery-news.de/2026/06/03/vianode-und-cylib-pruefen-recycling-graphit-fuer-batterieanoden/",
     "date": "2026-06-03T06:00:00.000Z",
-    "source": "Battery-News.de"
-  },
-  {
-    "title": "Tesla hält vorerst an Graphit-Vertrag mit Syrah fest",
-    "link": "https://battery-news.de/2026/06/02/tesla-haelt-vorerst-an-graphit-vertrag-mit-syrah-fest/",
-    "date": "2026-06-02T06:00:00.000Z",
     "source": "Battery-News.de"
   }
 ]
