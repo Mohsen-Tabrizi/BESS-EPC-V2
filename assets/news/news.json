@@ -1,9 +1,51 @@
 [
   {
-    "title": "New Zealand’s largest rooftop solar installation comes online",
-    "link": "https://www.pv-magazine.com/2026/06/16/sunergise-flicks-switch-on-nzs-largest-rooftop-solar-installation/",
-    "date": "2026-06-16T04:17:59.000Z",
+    "title": "UtmoLight launches new perovskite solar module series",
+    "link": "https://www.pv-magazine.com/2026/06/16/utmolight-launches-new-perovskite-solar-module-series/",
+    "date": "2026-06-16T11:09:40.000Z",
     "source": "PV Magazine"
+  },
+  {
+    "title": "US Roundup: Virginia’s biggest standalone BESS, Cypress Creek raises US$3.5 billion and Kore sells mobile battery business",
+    "link": "https://www.energy-storage.news/us-roundup-virginias-biggest-standalone-bess-cypress-creek-raises-us3-5-billion-and-kore-sells-mobile-battery-business/",
+    "date": "2026-06-16T10:17:39.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Vikram Solar to commission 9 GW PV cell manufacturing capacity by December",
+    "link": "https://www.pv-magazine.com/2026/06/16/vikram-solar-to-commission-9-gw-pv-cell-manufacturing-capacity-by-december-2026/",
+    "date": "2026-06-16T10:01:52.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "The real cybersecurity debate around chinese inverters is only just beginning",
+    "link": "https://www.pv-magazine.com/2026/06/16/the-real-cybersecurity-debate-around-chinese-inverters-is-only-just-beginning/",
+    "date": "2026-06-16T09:22:56.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Satellite breakthrough enables accurate panel-scale temperature mapping for solar farms",
+    "link": "https://www.pv-magazine.com/2026/06/16/satellite-breakthrough-enables-accurate-panel-scale-temperature-mapping-for-solar-farms/",
+    "date": "2026-06-16T07:46:23.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Welsh rugby stadium goes solar with 1.5 MW PV array",
+    "link": "https://www.pv-magazine.com/2026/06/16/welsh-rugby-stadium-goes-solar-with-1-5-mw-pv-array/",
+    "date": "2026-06-16T07:27:46.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Rheem launches variable-speed air-source heat pump",
+    "link": "https://www.pv-magazine.com/2026/06/16/rheem-launches-variable-speed-air-source-heat-pump/",
+    "date": "2026-06-16T07:19:30.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "OPmobility und ProLogium prüfen Festkörperbatterien für E-Auto-Packs",
+    "link": "https://battery-news.de/2026/06/16/opmobility-und-prologium-pruefen-festkoerperbatterien-fuer-e-auto-packs/",
+    "date": "2026-06-16T06:00:00.000Z",
+    "source": "Battery-News.de"
   },
   {
     "title": "Western Power begins work on 18 new community batteries in Western Australia",
@@ -18,40 +60,10 @@
     "source": "Energy Storage News"
   },
   {
-    "title": "Spain&#8217;s offshore PV potential estimated at 6.48 GW",
-    "link": "https://www.pv-magazine.com/2026/06/15/spains-offshore-pv-potential-estimated-at-6-48-gw/",
-    "date": "2026-06-15T14:23:08.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Austria allocates €12 million for solar-plus-storage rebates",
-    "link": "https://www.pv-magazine.com/2026/06/15/austria-allocates-e12-million-for-solar-plus-storage-rebates-2/",
-    "date": "2026-06-15T13:35:44.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Liberia’s first utility-scale solar plant begins operating",
-    "link": "https://www.pv-magazine.com/2026/06/15/liberias-first-utility-scale-solar-plant-begins-operating/",
-    "date": "2026-06-15T12:01:03.000Z",
-    "source": "PV Magazine"
-  },
-  {
     "title": "Wärtsilä wraps energy storage business into joint venture with solar manufacturer RCT Solutions",
     "link": "https://www.energy-storage.news/wartsila-wraps-energy-storage-business-into-joint-venture-with-solar-manufacturer-rct-solutions/",
     "date": "2026-06-15T11:13:09.000Z",
     "source": "Energy Storage News"
-  },
-  {
-    "title": "HVR Solar to set up 1.2 GW TOPCon cell factory in India",
-    "link": "https://www.pv-magazine.com/2026/06/15/hvr-solar-to-set-up-1-2-gw-topcon-cell-manufacturing-facility-in-uttar-pradesh/",
-    "date": "2026-06-15T09:09:25.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Energy density up 25%, site footprint down 20%",
-    "link": "https://www.pv-magazine.com/2026/06/15/energy-density-up-25-site-footprint-down-20/",
-    "date": "2026-06-15T09:00:00.000Z",
-    "source": "PV Magazine"
   },
   {
     "title": "VIDEO: Germany’s ramp constraints, grid limitations and their impact on the energy storage business case",
@@ -69,12 +81,6 @@
     "title": "Inside South Australia&#8217;s FERM tender: Why a technology-neutral process produced an all-battery outcome",
     "link": "https://www.energy-storage.news/inside-south-australias-ferm-tender-why-a-technology-neutral-process-produced-an-all-battery-outcome/",
     "date": "2026-06-15T03:16:58.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "APAC data centres risk a fossil fuel dependency long-duration energy storage can help end",
-    "link": "https://www.energy-storage.news/apac-data-centres-risk-a-fossil-fuel-dependency-long-duration-energy-storage-can-help-end/",
-    "date": "2026-06-15T00:57:29.000Z",
     "source": "Energy Storage News"
   },
   {
@@ -99,12 +105,6 @@
     "title": "Peak Energy und General Motors entwickeln Natrium-Ionen-Zellen für Netzspeicher",
     "link": "https://battery-news.de/2026/06/11/peak-energy-und-general-motors-entwickeln-natrium-ionen-zellen-fuer-netzspeicher/",
     "date": "2026-06-11T06:00:00.000Z",
-    "source": "Battery-News.de"
-  },
-  {
-    "title": "Nissan, Oxford und Gelion arbeiten an Festkörperbatterien mit Schwefelkathode",
-    "link": "https://battery-news.de/2026/06/10/nissan-oxford-und-gelion-arbeiten-an-festkoerperbatterien-mit-schwefelkathode/",
-    "date": "2026-06-10T06:00:00.000Z",
     "source": "Battery-News.de"
   }
 ]
