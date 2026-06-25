@@ -1,5 +1,53 @@
 [
   {
+    "title": "Solar, storage uptake grows in Ukraine as community prosumers emerge",
+    "link": "https://www.pv-magazine.com/2026/06/25/solar-storage-uptake-grows-in-ukraine-as-community-prosumers-emerge/",
+    "date": "2026-06-25T09:00:00.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Impacts of the EU inverter ban",
+    "link": "https://www.pv-magazine.com/2026/06/25/solar-inverters-or-sitting-ducks/",
+    "date": "2026-06-25T08:45:00.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Storage leading growth in Denmark’s energy market",
+    "link": "https://www.pv-magazine.com/2026/06/25/storage-leading-growth-in-denmarks-energy-market/",
+    "date": "2026-06-25T08:17:37.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "ees Europe 2026: Grid-forming PCS, DC-coupling, C&#038;I and data centre solutions among product launches and market debuts",
+    "link": "https://www.energy-storage.news/ees-europe-2026-grid-forming-pcs-dc-coupling-ci-and-data-centre-solutions-among-product-launches-and-market-debuts/",
+    "date": "2026-06-25T06:16:48.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Vaisala-Webinar rückt die Energiekosten der Kathodentrocknung in den Fokus",
+    "link": "https://battery-news.de/2026/06/25/vaisala-webinar-rueckt-die-energiekosten-der-kathodentrocknung-in-den-fokus/",
+    "date": "2026-06-25T06:00:00.000Z",
+    "source": "Battery-News.de"
+  },
+  {
+    "title": "The Smarter E spotlights Renewables 24/7",
+    "link": "https://www.pv-magazine.com/2026/06/25/the-smarter-e-spotlights-renewables-24-7/",
+    "date": "2026-06-25T05:42:44.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "ITRPV: Global solar module shipments reached 706 GW in 2025",
+    "link": "https://www.pv-magazine.com/2026/06/25/itrpv-global-solar-module-shipments-reached-approximately-706-gw-in-2025/",
+    "date": "2026-06-25T05:28:36.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Samduo launches residential AC-coupled plug-in storage systems",
+    "link": "https://www.pv-magazine.com/2026/06/25/samduo-launches-residential-ac-coupled-plug-in-storage-systems-2/",
+    "date": "2026-06-25T05:16:09.000Z",
+    "source": "PV Magazine"
+  },
+  {
     "title": "Australia: AEMO calls for 35GW of short and medium-duration storage plus 5GW of long-duration storage by 2050",
     "link": "https://www.energy-storage.news/australia-aemo-calls-for-35gw-of-short-and-medium-duration-storage-plus-5gw-of-long-duration-storage-by-2050/",
     "date": "2026-06-25T02:30:12.000Z",
@@ -10,36 +58,6 @@
     "link": "https://www.energy-storage.news/dominion-energy-launches-long-duration-energy-storage-rfi-in-virginia/",
     "date": "2026-06-24T13:44:00.000Z",
     "source": "Energy Storage News"
-  },
-  {
-    "title": "Turkish PV keeps growing amid policy shift, financing constraints",
-    "link": "https://www.pv-magazine.com/2026/06/24/turkish-pv-keeps-growing-amid-policy-shift-financing-constraints/",
-    "date": "2026-06-24T12:54:30.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Czech PV market faces policy reset, supply-chain uncertainty",
-    "link": "https://www.pv-magazine.com/2026/06/24/czech-pv-market-faces-policy-reset-supply-chain-uncertainty/",
-    "date": "2026-06-24T12:20:23.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Grid-forming BESS to enhance stability in utility-scale PV",
-    "link": "https://www.pv-magazine.com/2026/06/24/grid-forming-bess-to-enhance-stability-in-utility-scale-pv/",
-    "date": "2026-06-24T12:17:17.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Paving the way for lithium–nitrogen batteries, one hurdle at a time",
-    "link": "https://www.pv-magazine.com/2026/06/24/paving-the-way-for-lithium-nitrogen-batteries-one-hurdle-at-a-time/",
-    "date": "2026-06-24T12:15:19.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Microquanta launches 26%-efficient colored perovskite-silicon tandem modules for building-integrated PV",
-    "link": "https://www.pv-magazine.com/2026/06/24/microquanta-launches-26-efficient-colored-perovskite-silicon-tandem-modules-for-building-integrated-pv/",
-    "date": "2026-06-24T12:05:02.000Z",
-    "source": "PV Magazine"
   },
   {
     "title": "EU funding ban on Chinese inverters drives BESS industry towards optionality, supply chain resiliency",
@@ -54,21 +72,9 @@
     "source": "Energy Storage News"
   },
   {
-    "title": "Sweden’s solar market stabilizes as storage pushes deployment",
-    "link": "https://www.pv-magazine.com/2026/06/24/swedens-solar-market-stabilizes-as-storage-pushes-deployment/",
-    "date": "2026-06-24T11:28:15.000Z",
-    "source": "PV Magazine"
-  },
-  {
     "title": "Grid-forming technology explored and explained: Download our white paper, with Kehua Digital Energy &#038; TÜV Rheinland",
     "link": "https://www.energy-storage.news/grid-forming-technology-explored-and-explained-download-our-white-paper-with-kehua-digital-energy-tuv-rheinland/",
     "date": "2026-06-24T09:25:17.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "NatPower, Tesla sign 25GWh Megapack supply and execution agreement for Italy and UK BESS projects",
-    "link": "https://www.energy-storage.news/natpower-tesla-sign-25gwh-megapack-supply-and-execution-agreement-for-italy-and-uk-bess-projects/",
-    "date": "2026-06-24T09:05:19.000Z",
     "source": "Energy Storage News"
   },
   {
@@ -99,12 +105,6 @@
     "title": "Automatisierte Batterielogistik für die Batterieproduktion von morgen",
     "link": "https://battery-news.de/2026/06/17/automatisierte-batterielogistik-fuer-die-batterieproduktion-von-morgen/",
     "date": "2026-06-17T06:00:00.000Z",
-    "source": "Battery-News.de"
-  },
-  {
-    "title": "OPmobility und ProLogium prüfen Festkörperbatterien für E-Auto-Packs",
-    "link": "https://battery-news.de/2026/06/16/opmobility-und-prologium-pruefen-festkoerperbatterien-fuer-e-auto-packs/",
-    "date": "2026-06-16T06:00:00.000Z",
     "source": "Battery-News.de"
   }
 ]
