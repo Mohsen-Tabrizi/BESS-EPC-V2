@@ -1,51 +1,63 @@
 [
   {
+    "title": "Goldbeck Solar developing 3-step solution for automated construction of utility-scale PV plants",
+    "link": "https://www.pv-magazine.com/2026/06/30/goldbeck-solar-offers-3-step-solution-for-automated-construction-of-utility-scale-pv-plants/",
+    "date": "2026-06-30T13:50:36.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "pv magazine Focus: Quality control underpins bankable BESS projects",
+    "link": "https://www.pv-magazine.com/2026/06/30/pv-magazine-focus-quality-control-underpins-bankable-bess-projects/",
+    "date": "2026-06-30T13:36:14.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Avangrid to build 82MWh Oregon BESS project",
+    "link": "https://www.energy-storage.news/avangrid-to-build-82mwh-oregon-bess-project/",
+    "date": "2026-06-30T12:19:58.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "India’s annual solar installations could reach 85 GW by fiscal year 2030",
+    "link": "https://www.pv-magazine.com/2026/06/30/indias-annual-solar-installations-could-touch-85-gw-by-fy30-equirus/",
+    "date": "2026-06-30T12:00:00.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Voltec boosts residential module power with 50-cell layout",
+    "link": "https://www.pv-magazine.com/2026/06/30/voltec-boosts-residential-module-power-with-new-50-cell-layout/",
+    "date": "2026-06-30T11:56:51.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "New reflective solar panel geometry promises 20% higher energy yield",
+    "link": "https://www.pv-magazine.com/2026/06/30/new-reflective-solar-panel-geometry-promises-20-higher-energy-yield/",
+    "date": "2026-06-30T11:45:17.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "European heatwave drives up electricity prices",
+    "link": "https://www.pv-magazine.com/2026/06/30/european-heatwave-drives-up-electricity-prices/",
+    "date": "2026-06-30T10:55:00.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "EnBW, Elements Green and VPI launch construction, enlist suppliers for 2.5GWh of BESS in Germany",
+    "link": "https://www.energy-storage.news/enbw-elements-green-and-vpi-launch-construction-enlist-suppliers-for-2-5gwh-of-bess-in-germany/",
+    "date": "2026-06-30T09:47:46.000Z",
+    "source": "Energy Storage News"
+  },
+  {
     "title": "EU Roundup: Axpo and e-Storage partner in Italy, RES secures Nordic asset management deal, R.Power sells Poland BESS to Engie",
     "link": "https://www.energy-storage.news/eu-roundup-axpo-and-e-storage-partner-in-italy-res-secures-nordic-asset-management-deal-r-power-sells-poland-bess-to-engie/",
     "date": "2026-06-30T09:15:15.000Z",
     "source": "Energy Storage News"
   },
   {
-    "title": "Europe could integrate 614 GW of solar within hourly demand limits",
-    "link": "https://www.pv-magazine.com/2026/06/30/europe-could-integrate-614-gw-of-solar-within-hourly-demand-limits/",
-    "date": "2026-06-30T08:48:13.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "UNSW unveils spectrally selective solar modules for agrivoltaics",
-    "link": "https://www.pv-magazine.com/2026/06/30/unsw-unveils-spectrally-selective-solar-modules-for-agrivoltaics/",
-    "date": "2026-06-30T08:00:00.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "UK study finds floating solar can generate hydrogen and save water on reservoirs",
-    "link": "https://www.pv-magazine.com/2026/06/30/uk-study-finds-floating-solar-can-generate-hydrogen-and-save-water-on-reservoirs/",
-    "date": "2026-06-30T07:00:00.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "EU approves 45 GW energy storage target in bid to reduce gas exposure",
-    "link": "https://www.pv-magazine.com/2026/06/30/eu-approves-45-gw-energy-storage-target-in-bid-to-reduce-gas-exposure/",
-    "date": "2026-06-30T06:30:00.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Pumped hydro and lithium BESS top UK LDES cap and floor",
-    "link": "https://www.pv-magazine.com/2026/06/30/pumped-hydro-and-lithium-bess-top-uk-ldes-cap-and-floor/",
-    "date": "2026-06-30T06:00:00.000Z",
-    "source": "PV Magazine"
-  },
-  {
     "title": "Sicona erhält 45 Millionen Dollar für Anodenmaterial-Produktion in Wollongong",
     "link": "https://battery-news.de/2026/06/30/sicona-erhaelt-45-millionen-dollar-fuer-anodenmaterial-produktion-in-wollongong/",
     "date": "2026-06-30T06:00:00.000Z",
     "source": "Battery-News.de"
-  },
-  {
-    "title": "UK increasing heat pump grant for heating oil households",
-    "link": "https://www.pv-magazine.com/2026/06/30/uk-increasing-heat-pump-grant-for-heating-oil-households/",
-    "date": "2026-06-30T05:30:00.000Z",
-    "source": "PV Magazine"
   },
   {
     "title": "CATL, CALB among backers of new China BESS industry payment and contracting initiative",
@@ -63,18 +75,6 @@
     "title": "Neoen Australia begins construction on 963MWh battery storage system at 440MWp solar PV plant",
     "link": "https://www.energy-storage.news/neoen-australia-begins-construction-on-963mwh-battery-storage-system-at-440mwp-solar-pv-plant/",
     "date": "2026-06-30T03:31:27.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "Akaysha Energy&#8217;s 1,660MWh Orana BESS reaches commercial operations in Australia",
-    "link": "https://www.energy-storage.news/akaysha-energys-1660mwh-orana-bess-reaches-commercial-operations-in-australia/",
-    "date": "2026-06-30T03:29:27.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "Flow batteries selected for microgrid deployments in Maldives, Paskenta Tribe lands in California",
-    "link": "https://www.energy-storage.news/flow-batteries-selected-for-microgrid-deployments-in-maldives-paskenta-tribe-lands-in-california/",
-    "date": "2026-06-29T11:09:04.000Z",
     "source": "Energy Storage News"
   },
   {
