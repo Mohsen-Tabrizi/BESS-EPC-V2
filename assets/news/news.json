@@ -1,38 +1,68 @@
 [
   {
+    "title": "KKR to acquire EDF’s North American operations for $4.2 billion",
+    "link": "https://www.pv-magazine.com/2026/07/01/kkr-to-acquire-edf-power-solutions-north-american-operations-for-4-2-billion/",
+    "date": "2026-07-01T14:34:37.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Opsun introduces commercial flat-roof inverter racking system",
+    "link": "https://www.pv-magazine.com/2026/07/01/opsunintroducesdedicated-commercial-flat-roof-inverter-racking-system/",
+    "date": "2026-07-01T14:28:08.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Energy Dome to build 23 MW/200 MWh carbon battery in Ireland",
+    "link": "https://www.pv-magazine.com/2026/07/01/energy-dome-to-build-23-mw-200-mwh-carbon-battery-in-ireland/",
+    "date": "2026-07-01T12:11:08.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Co-location of solar and BESS still has a long way to go",
+    "link": "https://www.energy-storage.news/co-location-of-solar-and-bess-still-has-a-long-way-to-go/",
+    "date": "2026-07-01T11:31:26.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Grenergy signs 1TWh night-time PPA for 3.5GWh Chile BESS",
+    "link": "https://www.energy-storage.news/grenergy-signs-1twh-night-time-ppa-for-3-5gwh-chile-bess/",
+    "date": "2026-07-01T11:18:54.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Neoen awarded capacity contract for 1,600MWh Ontario BESS through LT2 procurement",
+    "link": "https://www.energy-storage.news/neoen-awarded-capacity-contract-for-1600mwh-ontario-bess-through-lt2-procurement/",
+    "date": "2026-07-01T11:16:18.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "2025 BESS cell and system shipments: BYD takes BESS crown, no Korean firms in top 10 cell suppliers",
+    "link": "https://www.energy-storage.news/2025-bess-cell-and-system-shipments-byd-takes-bess-crown-no-korean-firms-in-top-10-cell-suppliers/",
+    "date": "2026-07-01T11:07:07.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Europe goes big: BESS projects totalling 11GWh launched by IPPs BW ESS, Greenvolt and Giga Storage",
+    "link": "https://www.energy-storage.news/europe-goes-big-bess-projects-totalling-11gwh-launched-by-ipps-bw-ess-greenvolt-and-giga-storage/",
+    "date": "2026-07-01T10:10:23.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Scotland’s solar capacity reaches 0.9 GW",
+    "link": "https://www.pv-magazine.com/2026/07/01/scotlands-solar-capacity-reaches-0-9-gw/",
+    "date": "2026-07-01T09:54:17.000Z",
+    "source": "PV Magazine"
+  },
+  {
     "title": "When the rivers ran warm: how a heatwave thinned France’s nuclear export cushion",
     "link": "https://www.pv-magazine.com/2026/07/01/when-the-rivers-ran-warm-how-a-heatwave-thinned-frances-nuclear-export-cushion/",
     "date": "2026-07-01T09:24:33.000Z",
     "source": "PV Magazine"
   },
   {
-    "title": "Tests begin on Spain&#8217;s largest green hydrogen facility",
+    "title": "Tests begin at Spain&#8217;s largest green hydrogen facility",
     "link": "https://www.pv-magazine.com/2026/07/01/tests-begin-on-spains-largest-green-hydrogen-facility/",
     "date": "2026-07-01T09:06:55.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "SolaX introduces AC-side V2H system at Intersolar Europe 2026",
-    "link": "https://www.pv-magazine.com/2026/07/01/solax-introduces-ac-side-v2h-system-at-intersolar-europe-2026/",
-    "date": "2026-07-01T09:00:00.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "German researchers achieve world record 25.5% efficiency for perovskite-CIGS tandem solar cell",
-    "link": "https://www.pv-magazine.com/2026/07/01/german-researchers-achieve-world-record-25-5-efficiency-for-perovskite-cigs-tandem-solar-cell/",
-    "date": "2026-07-01T07:51:44.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "RWE, PPC complete 930 MW solar cluster in Greece",
-    "link": "https://www.pv-magazine.com/2026/07/01/rwe-ppc-complete-930-mw-solar-cluster-in-greece/",
-    "date": "2026-07-01T07:45:25.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Vertical agrivoltaics for oats",
-    "link": "https://www.pv-magazine.com/2026/07/01/vertical-agrivoltaics-for-oats/",
-    "date": "2026-07-01T07:01:17.000Z",
     "source": "PV Magazine"
   },
   {
@@ -45,36 +75,6 @@
     "title": "Energy storage essential to ASEAN nations’ knowledge-based economy transition and uncoupling from volatile fossil fuel costs",
     "link": "https://www.energy-storage.news/energy-storage-essential-to-asean-nations-knowledge-based-economy-transition-and-uncoupling-from-volatile-fossil-fuel-costs/",
     "date": "2026-07-01T05:20:25.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "Wärtsilä completes 300MWh Bungama BESS for Revera Energy in South Australia",
-    "link": "https://www.energy-storage.news/wartsila-completes-300mwh-bungama-bess-for-revera-energy-in-south-australia/",
-    "date": "2026-07-01T04:21:26.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "Samsung C&#038;T submits 600MWh Comet Park BESS to Australia&#8217;s EPBC Act",
-    "link": "https://www.energy-storage.news/samsung-ct-submits-600mwh-comet-park-bess-to-australias-epbc-act/",
-    "date": "2026-07-01T03:50:34.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "Australian AI developer locks in 1.5GWh of battery energy storage under 12-year agreement",
-    "link": "https://www.energy-storage.news/australian-ai-developer-locks-in-1-5gwh-of-battery-energy-storage-under-12-year-agreement/",
-    "date": "2026-07-01T03:49:13.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "Avangrid to build 82MWh Oregon BESS project",
-    "link": "https://www.energy-storage.news/avangrid-to-build-82mwh-oregon-bess-project/",
-    "date": "2026-06-30T12:19:58.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "EnBW, Elements Green and VPI launch construction, enlist suppliers for 2.5GWh of BESS in Germany",
-    "link": "https://www.energy-storage.news/enbw-elements-green-and-vpi-launch-construction-enlist-suppliers-for-2-5gwh-of-bess-in-germany/",
-    "date": "2026-06-30T09:47:46.000Z",
     "source": "Energy Storage News"
   },
   {
