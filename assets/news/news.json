@@ -1,5 +1,53 @@
 [
   {
+    "title": "Octopus Energy launches plug-in home battery",
+    "link": "https://www.pv-magazine.com/2026/07/07/octopus-energy-launches-plug-in-home-battery/",
+    "date": "2026-07-07T14:07:31.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "JinkoSolar: &#8216;New momentum for solar expected from 2028&#8217;",
+    "link": "https://www.pv-magazine.com/2026/07/07/jinkosolar-new-momentum-for-solar-expected-from-2028/",
+    "date": "2026-07-07T13:51:51.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Netherlands allocates 773 MW of solar in 2025 subsidy round",
+    "link": "https://www.pv-magazine.com/2026/07/07/netherlands-allocates-773-mw-of-solar-in-2025-subsidy-round/",
+    "date": "2026-07-07T12:36:43.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Software can unlock 300 GW of capacity on U.S. grid without building a single power plant",
+    "link": "https://www.pv-magazine.com/2026/07/07/software-can-unlock-300-of-capacity-on-u-s-grid-without-building-a-single-power-plant/",
+    "date": "2026-07-07T12:30:00.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "The decision points that make or break solar projects",
+    "link": "https://www.pv-magazine.com/2026/07/07/the-decision-points-that-make-or-break-solar-projects/",
+    "date": "2026-07-07T11:43:15.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "ENSD launches 40 kW charging module for DC EV-charging stations",
+    "link": "https://www.pv-magazine.com/2026/07/07/ensd-launches-40-kw-charging-module-for-dc-ev-charging-stations/",
+    "date": "2026-07-07T11:00:46.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "VIDEO: HyperStrong to deploy sodium-ion BESS first in China, international projects could follow in 2027",
+    "link": "https://www.energy-storage.news/video-hyperstrong-to-deploy-sodium-ion-bess-first-in-china-international-projects-could-follow-in-2027/",
+    "date": "2026-07-07T10:52:27.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "European battery &#038; BESS manufacturing gets boost with Eni Storage and Hithium gigafactory milestones in Italy, Spain",
+    "link": "https://www.energy-storage.news/european-battery-manufacturing-boost-eni-storage-hithium-lfp-gigafactory-milestones-italy-spain/",
+    "date": "2026-07-07T10:47:00.000Z",
+    "source": "Energy Storage News"
+  },
+  {
     "title": "‘Climate risk is a daily operational reality’ for BESS developers in Southeast Asia",
     "link": "https://www.energy-storage.news/climate-risk-is-a-daily-operational-reality-for-bess-developers-in-southeast-asia/",
     "date": "2026-07-07T09:26:45.000Z",
@@ -12,40 +60,10 @@
     "source": "Energy Storage News"
   },
   {
-    "title": "Enphase targets 800 V DC data centers with distributed solid-state transformers",
-    "link": "https://www.pv-magazine.com/2026/07/07/enphase-targets-800-v-dc-data-centers-with-distributed-solid-state-transformers/",
-    "date": "2026-07-07T08:49:54.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "UK CfD price ceiling and new auction framework for solar revealed",
-    "link": "https://www.pv-magazine.com/2026/07/07/uk-cfd-price-ceiling-and-new-auction-framework-for-solar-revealed/",
-    "date": "2026-07-07T08:14:03.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Ivory Coast switches on 52 MW of solar",
-    "link": "https://www.pv-magazine.com/2026/07/07/ivory-coast-switches-on-52-mw-of-solar/",
-    "date": "2026-07-07T07:52:33.000Z",
-    "source": "PV Magazine"
-  },
-  {
     "title": "Gotion plant Batterieprojekt in Valladolid mit rund 950 Millionen Euro",
     "link": "https://battery-news.de/2026/07/07/gotion-plant-batterieprojekt-in-valladolid-mit-rund-950-millionen-euro/",
     "date": "2026-07-07T06:00:00.000Z",
     "source": "Battery-News.de"
-  },
-  {
-    "title": "Recycling of spin-triplet excitons enables 20.5% efficiency in organic solar cell",
-    "link": "https://www.pv-magazine.com/2026/07/07/recycling-of-spin-triplet-excitons-enables-20-5-efficiency-in-organic-solar-cell/",
-    "date": "2026-07-07T05:59:19.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Australian O&#038;M specialist backs proactive maintenance to reduce premature PV waste",
-    "link": "https://www.pv-magazine.com/2026/07/07/solar-shine-backs-proactive-maintenance-to-reduce-premature-pv-waste/",
-    "date": "2026-07-07T05:31:48.000Z",
-    "source": "PV Magazine"
   },
   {
     "title": "Meridian Energy secures three-year consent to access 545GWh hydro storage at New Zealand’s Lake Pūkaki",
@@ -54,27 +72,9 @@
     "source": "Energy Storage News"
   },
   {
-    "title": "How a Colorado tribe beat the federal solar permit freeze",
-    "link": "https://www.pv-magazine.com/2026/07/07/how-a-colorado-tribe-beat-the-federal-solar-permit-freeze/",
-    "date": "2026-07-07T05:29:20.000Z",
-    "source": "PV Magazine"
-  },
-  {
     "title": "Australia’s CleanPeak Energy to deploy 120MWh battery storage system at Western Sydney International Airport",
     "link": "https://www.energy-storage.news/australias-cleanpeak-energy-to-deploy-120mwh-battery-storage-system-at-western-sydney-international-airport/",
     "date": "2026-07-07T01:52:13.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "3.8GWh of battery storage progresses through Australia&#8217;s EPBC Act process across three projects",
-    "link": "https://www.energy-storage.news/3-8gwh-of-battery-storage-progresses-through-australias-epbc-act-process-across-three-projects/",
-    "date": "2026-07-07T01:50:30.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "Engie agrees offtake deal with developer for 625MWh of Spain BESS",
-    "link": "https://www.energy-storage.news/engie-agrees-offtake-deal-developer-625mwh-spain-bess-flexibility-floor-toll/",
-    "date": "2026-07-06T13:37:36.000Z",
     "source": "Energy Storage News"
   },
   {
