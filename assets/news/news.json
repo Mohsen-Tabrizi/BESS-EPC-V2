@@ -1,39 +1,69 @@
 [
   {
-    "title": "Octopus Energy launches plug-in home batteries",
-    "link": "https://www.pv-magazine.com/2026/07/07/octopus-energy-launches-plug-in-home-battery/",
-    "date": "2026-07-07T14:07:31.000Z",
+    "title": "Elestor, Windpark Zeewolde partner on 10-40-hour hydrogen-iron flow battery LDES project in Netherlands",
+    "link": "https://www.energy-storage.news/elestor-windpark-zeewolde-partner-on-10-40-hour-hydrogen-iron-flow-battery-ldes-project-in-netherlands/",
+    "date": "2026-07-08T08:01:42.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Grid expansion, storage, flexibility lag behind Europe’s renewables growth",
+    "link": "https://www.pv-magazine.com/2026/07/08/grid-expansion-storage-flexibility-lag-behind-europes-renewables-growth/",
+    "date": "2026-07-08T07:49:48.000Z",
     "source": "PV Magazine"
   },
   {
-    "title": "JinkoSolar: &#8216;New momentum for solar expected from 2028&#8217;",
-    "link": "https://www.pv-magazine.com/2026/07/07/jinkosolar-new-momentum-for-solar-expected-from-2028/",
-    "date": "2026-07-07T13:51:51.000Z",
+    "title": "Water-jet delamination for solar module recycling",
+    "link": "https://www.pv-magazine.com/2026/07/08/water-jet-delamination-for-solar-module-recycling/",
+    "date": "2026-07-08T07:18:29.000Z",
     "source": "PV Magazine"
   },
   {
-    "title": "Netherlands allocates 773 MW of solar in 2025 subsidy round",
-    "link": "https://www.pv-magazine.com/2026/07/07/netherlands-allocates-773-mw-of-solar-in-2025-subsidy-round/",
-    "date": "2026-07-07T12:36:43.000Z",
+    "title": "TÜV NORD study confirms back-contact advantage over TOPCon is limited to mild shading conditions",
+    "link": "https://www.pv-magazine.com/2026/07/08/tuv-nord-study-confirms-back-contact-advantage-over-topcon-is-limited-to-mild-shading-conditions/",
+    "date": "2026-07-08T07:06:13.000Z",
     "source": "PV Magazine"
   },
   {
-    "title": "Software can unlock 300 GW of capacity on U.S. grid without building a single power plant",
-    "link": "https://www.pv-magazine.com/2026/07/07/software-can-unlock-300-of-capacity-on-u-s-grid-without-building-a-single-power-plant/",
-    "date": "2026-07-07T12:30:00.000Z",
+    "title": "Haier launches propane air-to-water heat pump for commercial applications",
+    "link": "https://www.pv-magazine.com/2026/07/08/haier-launches-propane-air-to-water-heat-pump-for-commercial-applications/",
+    "date": "2026-07-08T06:26:31.000Z",
     "source": "PV Magazine"
   },
   {
-    "title": "The decision points that make or break solar projects",
-    "link": "https://www.pv-magazine.com/2026/07/07/the-decision-points-that-make-or-break-solar-projects/",
-    "date": "2026-07-07T11:43:15.000Z",
+    "title": "CATL stellt Schnellladebatterie für leichte Nutzfahrzeuge vor",
+    "link": "https://battery-news.de/2026/07/08/catl-stellt-schnellladebatterie-fuer-leichte-nutzfahrzeuge-vor/",
+    "date": "2026-07-08T06:00:00.000Z",
+    "source": "Battery-News.de"
+  },
+  {
+    "title": "Australian utility delivers solar microgrid for farming operation",
+    "link": "https://www.pv-magazine.com/2026/07/08/agl-delivers-solar-powered-microgrid-for-farming-operation-2/",
+    "date": "2026-07-08T05:04:51.000Z",
     "source": "PV Magazine"
   },
   {
-    "title": "ENSD launches 40 kW charging module for DC EV-charging stations",
-    "link": "https://www.pv-magazine.com/2026/07/07/ensd-launches-40-kw-charging-module-for-dc-ev-charging-stations/",
-    "date": "2026-07-07T11:00:46.000Z",
+    "title": "UK scraps mandatory consultations for large-scale solar planning",
+    "link": "https://www.pv-magazine.com/2026/07/08/uk-scraps-mandatory-consultations-for-large-scale-solar-planning/",
+    "date": "2026-07-08T05:00:00.000Z",
     "source": "PV Magazine"
+  },
+  {
+    "title": "Akaysha Energy begins construction of 82MWh BESS in southern Japan with Itochu-Tokyo Century JV",
+    "link": "https://www.energy-storage.news/akaysha-energy-begins-construction-of-82mwh-bess-in-southern-japan-with-itochu-tokyo-century-jv/",
+    "date": "2026-07-08T04:54:07.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Australia reserves 500MW generation and 2GWh storage for First Nations in Capacity Investment Scheme Tenders 9 and 10",
+    "link": "https://www.energy-storage.news/australia-reserves-500mw-generation-and-2gwh-storage-for-first-nations-in-capacity-investment-scheme-tenders-9-and-10/",
+    "date": "2026-07-08T03:13:59.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "‘Battery storage may be important, but we also welcome long-duration storage’: QIC on Queensland’s North West Energy Fund",
+    "link": "https://www.energy-storage.news/battery-storage-may-be-important-but-we-also-welcome-long-duration-storage-qic-on-queenslands-north-west-energy-fund/",
+    "date": "2026-07-08T03:12:58.000Z",
+    "source": "Energy Storage News"
   },
   {
     "title": "VIDEO: HyperStrong to deploy sodium-ion BESS first in China, international projects could follow in 2027",
@@ -48,34 +78,10 @@
     "source": "Energy Storage News"
   },
   {
-    "title": "‘Climate risk is a daily operational reality’ for BESS developers in Southeast Asia",
-    "link": "https://www.energy-storage.news/climate-risk-is-a-daily-operational-reality-for-bess-developers-in-southeast-asia/",
-    "date": "2026-07-07T09:26:45.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "Chinese system integrators capture 76% of global BESS market as competition intensifies",
-    "link": "https://www.energy-storage.news/chinese-system-integrators-capture-76-of-global-bess-market-as-competition-intensifies/",
-    "date": "2026-07-07T08:56:48.000Z",
-    "source": "Energy Storage News"
-  },
-  {
     "title": "Gotion plant Batterieprojekt in Valladolid mit rund 950 Millionen Euro",
     "link": "https://battery-news.de/2026/07/07/gotion-plant-batterieprojekt-in-valladolid-mit-rund-950-millionen-euro/",
     "date": "2026-07-07T06:00:00.000Z",
     "source": "Battery-News.de"
-  },
-  {
-    "title": "Meridian Energy secures three-year consent to access 545GWh hydro storage at New Zealand’s Lake Pūkaki",
-    "link": "https://www.energy-storage.news/meridian-energy-secures-three-year-consent-to-access-545gwh-hydro-storage-at-new-zealands-lake-pukaki/",
-    "date": "2026-07-07T05:30:41.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "Australia’s CleanPeak Energy to deploy 120MWh battery storage system at Western Sydney International Airport",
-    "link": "https://www.energy-storage.news/australias-cleanpeak-energy-to-deploy-120mwh-battery-storage-system-at-western-sydney-international-airport/",
-    "date": "2026-07-07T01:52:13.000Z",
-    "source": "Energy Storage News"
   },
   {
     "title": "Forge Nano und Samsung SDI planen Batteriefertigung in North Carolina",
@@ -99,12 +105,6 @@
     "title": "IBPC 2026 verlängert Call for Abstracts bis 10. Juli",
     "link": "https://battery-news.de/2026/07/02/ibpc-2026-verlaengert-call-for-abstracts-bis-10-juli/",
     "date": "2026-07-02T06:00:00.000Z",
-    "source": "Battery-News.de"
-  },
-  {
-    "title": "Ford-CATL-Batterieprojekt in Michigan startet Produktion",
-    "link": "https://battery-news.de/2026/07/01/ford-catl-batterieprojekt-in-michigan-startet-produktion/",
-    "date": "2026-07-01T06:00:00.000Z",
     "source": "Battery-News.de"
   }
 ]
