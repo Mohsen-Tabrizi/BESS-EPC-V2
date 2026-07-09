@@ -1,33 +1,69 @@
 [
   {
+    "title": "Argentina awards 700.5 MW of battery storage across critical grid nodes",
+    "link": "https://www.pv-magazine.com/2026/07/09/argentina-awards-700-5-mw-of-battery-storage-across-critical-grid-nodes/",
+    "date": "2026-07-09T09:32:31.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Spain launches national map of agrivoltaic projects",
+    "link": "https://www.pv-magazine.com/2026/07/09/spain-launches-national-map-of-agrivoltaic-projects/",
+    "date": "2026-07-09T09:25:34.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Longi starts 21 GW production of copper-metallized back-contact solar cells",
+    "link": "https://www.pv-magazine.com/2026/07/09/longi-switches-on-21-gw-production-line-for-copper-metallized-back-contact-solar-cells/",
+    "date": "2026-07-09T09:25:00.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Brazilian grid operator expects PV, wind curtailment to reach 40 GW",
+    "link": "https://www.pv-magazine.com/2026/07/09/brazilian-grid-operators-expects-pv-wind-courtailment-to-reach-40-gw/",
+    "date": "2026-07-09T09:11:46.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Colombia commissions 360 MW solar plant",
+    "link": "https://www.pv-magazine.com/2026/07/09/colombia-commissions-360-mw-solar-plant/",
+    "date": "2026-07-09T09:02:55.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "LONGi showcases solar+storage solution at The smarter E 2026",
+    "link": "https://www.pv-magazine.com/2026/07/09/longi-showcases-solarstorage-solution-at-the-smarter-e-2026/",
+    "date": "2026-07-09T09:00:00.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "UK ROUNDUP: Field closes financing on 1GWh portfolio; Pulse Clean Energy selects Envision for 310MWh project",
+    "link": "https://www.energy-storage.news/uk-roundup-field-closes-financing-on-1gwh-portfolio-pulse-clean-energy-selects-envision-for-310mwh-project/",
+    "date": "2026-07-09T08:04:10.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "In the age of AI data centres and electrification, the grid is the real bottleneck",
+    "link": "https://www.energy-storage.news/in-the-age-of-ai-data-centres-and-electrification-the-grid-is-the-real-bottleneck/",
+    "date": "2026-07-09T07:56:28.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Nio plant Batterieforschungszentrum in Shanghai",
+    "link": "https://battery-news.de/2026/07/09/nio-plant-batterieforschungszentrum-in-shanghai/",
+    "date": "2026-07-09T06:00:00.000Z",
+    "source": "Battery-News.de"
+  },
+  {
     "title": "BESS developer opts for California Energy Commission fast-track approval after facing local county ordinance obstacles",
     "link": "https://www.energy-storage.news/bess-developer-opts-for-california-energy-commission-fast-track-approval-after-facing-local-county-ordinance-obstacles/",
     "date": "2026-07-08T13:43:13.000Z",
     "source": "Energy Storage News"
   },
   {
-    "title": "Unigrid unveils sodium-ion residential energy storage systems",
-    "link": "https://www.pv-magazine.com/2026/07/08/unigrid-unveils-sodium-ion-residential-energy-storage-systems/",
-    "date": "2026-07-08T13:22:53.000Z",
-    "source": "PV Magazine"
-  },
-  {
     "title": "Honda-LG ES begin ESS cell production at retooled Ohio EV cell facility",
     "link": "https://www.energy-storage.news/honda-lg-es-begin-ess-cell-production-at-retooled-ohio-ev-cell-facility/",
     "date": "2026-07-08T12:58:02.000Z",
     "source": "Energy Storage News"
-  },
-  {
-    "title": "One-third of India&#8217;s new renewable energy capacity faces curtailment",
-    "link": "https://www.pv-magazine.com/2026/07/08/one-third-of-indias-new-renewable-energy-capacity-faces-curtailment-due-to-grid-constraints/",
-    "date": "2026-07-08T12:30:50.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Algeria’s path to 15 GW of solar",
-    "link": "https://www.pv-magazine.com/2026/07/08/algerias-path-to-15-gw-of-solar/",
-    "date": "2026-07-08T12:10:45.000Z",
-    "source": "PV Magazine"
   },
   {
     "title": "Hiconics discusses PowerNexus residential smart energy solution at Intersolar Europe",
@@ -42,40 +78,10 @@
     "source": "Energy Storage News"
   },
   {
-    "title": "South Africa awards licenses to 1 GW of solar",
-    "link": "https://www.pv-magazine.com/2026/07/08/south-africa-awards-licenses-to-1-gw-of-solar/",
-    "date": "2026-07-08T09:56:38.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Germany plans to reduce subsidies for heat pumps",
-    "link": "https://www.pv-magazine.com/2026/07/08/germany-plans-to-reduce-subsidies-for-heat-pumps/",
-    "date": "2026-07-08T09:46:42.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "A rebuildable solar array to train students and access &#8216;beginner’s mind&#8217;",
-    "link": "https://www.pv-magazine.com/2026/07/08/a-rebuildable-pv-array-to-train-students-and-access-beginners-mind/",
-    "date": "2026-07-08T08:34:53.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Elestor, Windpark Zeewolde partner on 10-40-hour hydrogen-iron flow battery LDES project in Netherlands",
-    "link": "https://www.energy-storage.news/elestor-windpark-zeewolde-partner-on-10-40-hour-hydrogen-iron-flow-battery-ldes-project-in-netherlands/",
-    "date": "2026-07-08T08:01:42.000Z",
-    "source": "Energy Storage News"
-  },
-  {
     "title": "CATL stellt Schnellladebatterie für leichte Nutzfahrzeuge vor",
     "link": "https://battery-news.de/2026/07/08/catl-stellt-schnellladebatterie-fuer-leichte-nutzfahrzeuge-vor/",
     "date": "2026-07-08T06:00:00.000Z",
     "source": "Battery-News.de"
-  },
-  {
-    "title": "Akaysha Energy begins construction of 82MWh BESS in southern Japan with Itochu-Tokyo Century JV",
-    "link": "https://www.energy-storage.news/akaysha-energy-begins-construction-of-82mwh-bess-in-southern-japan-with-itochu-tokyo-century-jv/",
-    "date": "2026-07-08T04:54:07.000Z",
-    "source": "Energy Storage News"
   },
   {
     "title": "Gotion plant Batterieprojekt in Valladolid mit rund 950 Millionen Euro",
@@ -99,12 +105,6 @@
     "title": "CATL nimmt Lithium-Mine in Jiangxi wieder in Betrieb",
     "link": "https://battery-news.de/2026/07/03/catl-nimmt-lithium-mine-in-jiangxi-wieder-in-betrieb/",
     "date": "2026-07-03T06:00:00.000Z",
-    "source": "Battery-News.de"
-  },
-  {
-    "title": "IBPC 2026 verlängert Call for Abstracts bis 10. Juli",
-    "link": "https://battery-news.de/2026/07/02/ibpc-2026-verlaengert-call-for-abstracts-bis-10-juli/",
-    "date": "2026-07-02T06:00:00.000Z",
     "source": "Battery-News.de"
   }
 ]
