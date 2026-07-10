@@ -1,5 +1,71 @@
 [
   {
+    "title": "&#8216;Never underestimate the impact you can have, whatever your role&#8217;",
+    "link": "https://www.pv-magazine.com/2026/07/10/never-underestimate-the-impact-you-can-have-whatever-your-role/",
+    "date": "2026-07-10T09:21:51.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "SVOLT brings LFP battery expertise from EVs to C&#038;I and utility-scale storage markets",
+    "link": "https://www.pv-magazine.com/2026/07/10/svolt-brings-lfp-battery-expertise-from-evs-to-ci-and-utility-scale-storage-markets/",
+    "date": "2026-07-10T09:00:00.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Switzerland deploys 1.33 GW of solar in 2025",
+    "link": "https://www.pv-magazine.com/2026/07/10/switzerland-deploys-1-33-gw-of-solar-in-2025/",
+    "date": "2026-07-10T08:56:08.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Ines, Mondragon launch new industrial tool for integrating photovoltaics into custom-made products",
+    "link": "https://www.pv-magazine.com/2026/07/10/ines-mondragon-launch-new-industrial-tool-for-integrating-photovoltaics-into-custom-made-products/",
+    "date": "2026-07-10T08:46:42.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Laser-patterned poly-Si finger contacts reduce parasitic absorption, improve efficiency in TOPCon solar cells",
+    "link": "https://www.pv-magazine.com/2026/07/10/laser-patterned-poly-si-finger-contacts-reduce-parasitic-absorption-improve-efficiency-in-topcon-solar-cells/",
+    "date": "2026-07-10T08:30:01.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "US-based BESS companies Peak Energy, ESS Inc and Unigrid aim to commercialise sodium-ion in US, Europe",
+    "link": "https://www.energy-storage.news/us-based-bess-companies-peak-energy-ess-inc-and-unigrid-aim-to-commercialise-sodium-ion-in-us-europe/",
+    "date": "2026-07-10T08:25:47.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "State of health: The critical metric for measuring battery ageing and performance, and why it matters for BESS",
+    "link": "https://www.energy-storage.news/state-of-health-the-critical-metric-for-measuring-battery-ageing-and-performance-and-why-it-matters-for-bess/",
+    "date": "2026-07-10T07:42:42.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Zambia introduces new procurement approaches as solar interest booms",
+    "link": "https://www.pv-magazine.com/2026/07/10/zambia-introduces-new-procurement-approaches-as-solar-interest-booms/",
+    "date": "2026-07-10T07:30:00.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Feststoffbatterien &#8222;Made in Europe&#8220;: Wie ProLogium in Dünkirchen Fakten schafft",
+    "link": "https://battery-news.de/2026/07/10/feststoffbatterien-made-in-europe-wie-prologium-in-duenkirchen-fakten-schafft/",
+    "date": "2026-07-10T07:00:00.000Z",
+    "source": "Battery-News.de"
+  },
+  {
+    "title": "AESC startet Serienproduktion von 46120-Zellen für BMWs „Neue Klasse”",
+    "link": "https://battery-news.de/2026/07/10/aesc-startet-serienproduktion-von-46120-zellen-fuer-bmws-neue-klasse/",
+    "date": "2026-07-10T06:00:00.000Z",
+    "source": "Battery-News.de"
+  },
+  {
+    "title": "SEC and Energy Dome to deploy 20MW/200MWh compressed CO2 energy storage system in Victoria, Australia",
+    "link": "https://www.energy-storage.news/sec-and-energy-dome-to-deploy-20mw-240mwh-compressed-co2-energy-storage-system-in-victoria-australia/",
+    "date": "2026-07-10T04:14:02.000Z",
+    "source": "Energy Storage News"
+  },
+  {
     "title": "Palau solar-plus-storage site to add 19.8MWh BESS in Australian-backed augmentation",
     "link": "https://www.energy-storage.news/palau-solar-plus-storage-site-to-add-19-8mwh-bess-in-australian-backed-augmentation/",
     "date": "2026-07-10T02:46:01.000Z",
@@ -12,63 +78,9 @@
     "source": "Energy Storage News"
   },
   {
-    "title": "AlphaESS presents 313 kWh storage solution for C&#038;I applications",
-    "link": "https://www.pv-magazine.com/2026/07/09/alphaess-presents-313-kwh-storage-solution-for-ci-applications/",
-    "date": "2026-07-09T13:42:14.000Z",
-    "source": "PV Magazine"
-  },
-  {
     "title": "Opdenergy closes US$227 million financing for Chile renewables and BESS portfolio",
     "link": "https://www.energy-storage.news/opdenergy-closes-us227-million-financing-for-chile-renewables-and-bess-portfolio/",
     "date": "2026-07-09T13:28:18.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "Frontier Power USA picks four sites to deploy 920MWh of Eos zinc hybrid-cathode BESS",
-    "link": "https://www.energy-storage.news/frontier-power-usa-picks-four-sites-to-deploy-920mwh-of-eos-zinc-hybrid-cathode-bess/",
-    "date": "2026-07-09T13:25:52.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "Swiss firm Alpiq acquires 90% stake in BESS developer-operator Harmony Energy",
-    "link": "https://www.energy-storage.news/alpiq-acquires-harmony-energy/",
-    "date": "2026-07-09T12:57:56.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "Ukraine updates solar feed-in tariffs",
-    "link": "https://www.pv-magazine.com/2026/07/09/ukraine-updates-solar-feed-in-tariffs/",
-    "date": "2026-07-09T11:49:15.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Agrivoltaic facility supplies traction power directly to Austrian rail network",
-    "link": "https://www.pv-magazine.com/2026/07/09/agrivoltaic-facility-supplies-traction-power-directly-to-austrian-rail-network/",
-    "date": "2026-07-09T11:42:31.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Italy selects 566 self-consumption PV projects in incentive scheme for southern businesses",
-    "link": "https://www.pv-magazine.com/2026/07/09/italy-selects-566-self-consumption-pv-projects-in-incentive-scheme-for-southern-businesses/",
-    "date": "2026-07-09T11:15:53.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Premier Energies inaugurates 5.6 GW solar module manufacturing facility in India",
-    "link": "https://www.pv-magazine.com/2026/07/09/premier-energies-inaugurates-5-6-gw-solar-module-manufacturing-facility-in-telangana/",
-    "date": "2026-07-09T10:47:57.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Study finds residential heat pumps offer flexibility potential even during coldest periods",
-    "link": "https://www.pv-magazine.com/2026/07/09/study-finds-residential-heat-pumps-offer-flexibility-potential-even-during-coldest-periods/",
-    "date": "2026-07-09T10:39:24.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Battery storage business models explored for AI data centres with Nordic reserve market revenues and US household computing power",
-    "link": "https://www.energy-storage.news/battery-storage-business-models-explored-for-ai-data-centres-with-nordic-reserve-market-revenues-and-us-household-computing-power/",
-    "date": "2026-07-09T10:07:43.000Z",
     "source": "Energy Storage News"
   },
   {
@@ -93,18 +105,6 @@
     "title": "Forge Nano und Samsung SDI planen Batteriefertigung in North Carolina",
     "link": "https://battery-news.de/2026/07/06/forge-nano-und-samsung-sdi-planen-batteriefertigung-in-north-carolina/",
     "date": "2026-07-06T06:00:00.000Z",
-    "source": "Battery-News.de"
-  },
-  {
-    "title": "„Wir brauchen eine neue Gründerzeit“",
-    "link": "https://battery-news.de/2026/07/03/wir-brauchen-eine-neue-gruenderzeit/",
-    "date": "2026-07-03T07:30:00.000Z",
-    "source": "Battery-News.de"
-  },
-  {
-    "title": "CATL nimmt Lithium-Mine in Jiangxi wieder in Betrieb",
-    "link": "https://battery-news.de/2026/07/03/catl-nimmt-lithium-mine-in-jiangxi-wieder-in-betrieb/",
-    "date": "2026-07-03T06:00:00.000Z",
     "source": "Battery-News.de"
   }
 ]
