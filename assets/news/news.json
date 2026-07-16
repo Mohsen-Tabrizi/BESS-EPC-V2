@@ -1,5 +1,47 @@
 [
   {
+    "title": "Malaysia unveils sixth large-scale solar tender",
+    "link": "https://www.pv-magazine.com/2026/07/16/malaysia-unveils-sixth-large-scale-solar-tender/",
+    "date": "2026-07-16T08:00:27.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "VSL PowerHive launches LFP batteries for residential, small commercial applications",
+    "link": "https://www.pv-magazine.com/2026/07/16/vsl-powerhive-launches-10-kwh-and-15-kwh-residential-small-commercial-energy-storage-systems/",
+    "date": "2026-07-16T07:51:26.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Hoymiles introduces first UL 3700-compliant plug-in microinverter to U.S. market",
+    "link": "https://www.pv-magazine.com/2026/07/16/hoymiles-introduces-first-ul-3700-compliant-plug-in-microinverter-to-u-s-market/",
+    "date": "2026-07-16T07:49:27.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Hyundai und SK On starten Batterieproduktion in Georgia",
+    "link": "https://battery-news.de/2026/07/16/hyundai-und-sk-on-starten-batterieproduktion-in-georgia/",
+    "date": "2026-07-16T06:00:00.000Z",
+    "source": "Battery-News.de"
+  },
+  {
+    "title": "Australia’s New South Wales grants planning consent for 3.6GWh pumped hydro project at former coal mine",
+    "link": "https://www.energy-storage.news/australias-new-south-wales-grants-planning-consent-for-3-6gwh-pumped-hydro-project-at-former-coal-mine/",
+    "date": "2026-07-16T04:57:30.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Australia’s Transgrid opens pathway for 900MW of grid-forming battery storage as synchronous condenser costs surge 38%",
+    "link": "https://www.energy-storage.news/australias-transgrid-opens-pathway-for-900mw-of-grid-forming-battery-storage-as-synchronous-condenser-costs-surge-38/",
+    "date": "2026-07-16T04:52:38.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "The swiftest route to scale",
+    "link": "https://www.pv-magazine.com/2026/07/16/the-swiftest-route-to-scale/",
+    "date": "2026-07-16T04:00:00.000Z",
+    "source": "PV Magazine"
+  },
+  {
     "title": "Germany installs 7.4 GW of PV in H1",
     "link": "https://www.pv-magazine.com/2026/07/15/germany-installs-7-4-gw-of-pv-in-h1/",
     "date": "2026-07-15T14:10:49.000Z",
@@ -12,34 +54,10 @@
     "source": "PV Magazine"
   },
   {
-    "title": "The Philippines inaugurates first phase of massive solar-storage project",
-    "link": "https://www.pv-magazine.com/2026/07/15/the-philippines-inaugurates-first-phase-of-massive-solar-storage-project/",
-    "date": "2026-07-15T12:47:26.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Japan’s 28th solar auction allocates 89.2 MW of PV capacity",
-    "link": "https://www.pv-magazine.com/2026/07/15/japans-28th-solar-auction-allocates-89-2-mw-of-pv-capacity/",
-    "date": "2026-07-15T12:15:00.000Z",
-    "source": "PV Magazine"
-  },
-  {
     "title": "Avantus progresses California solar-plus-storage projects, Fluence providing domestic content BESS",
     "link": "https://www.energy-storage.news/avantus-progresses-california-solar-plus-storage-projects-fluence-providing-domestic-content-bess/",
     "date": "2026-07-15T11:47:15.000Z",
     "source": "Energy Storage News"
-  },
-  {
-    "title": "AI for the electricity grid",
-    "link": "https://www.pv-magazine.com/2026/07/15/ai-for-the-electricity-grid/",
-    "date": "2026-07-15T11:32:10.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Pakistan imports 4.6 GWh of BESS in 2025",
-    "link": "https://www.pv-magazine.com/2026/07/15/pakistan-imports-4-6-gwh-of-bess-in-2025/",
-    "date": "2026-07-15T11:22:27.000Z",
-    "source": "PV Magazine"
   },
   {
     "title": "Global BESS deployments soar 27% in H1 2026, Saudi Arabia drives figures in June",
@@ -60,22 +78,10 @@
     "source": "Energy Storage News"
   },
   {
-    "title": "What does a bankable route-to-market strategy for battery storage in Europe actually look like?",
-    "link": "https://www.energy-storage.news/what-does-a-bankable-route-to-market-strategy-for-battery-storage-in-europe-actually-look-like/",
-    "date": "2026-07-15T07:59:18.000Z",
-    "source": "Energy Storage News"
-  },
-  {
     "title": "Industrieverbände fordern bessere Bedingungen für Batteriezellfertigung",
     "link": "https://battery-news.de/2026/07/15/industrieverbaende-fordern-bessere-bedingungen-fuer-batteriezellfertigung/",
     "date": "2026-07-15T06:00:00.000Z",
     "source": "Battery-News.de"
-  },
-  {
-    "title": "Over 4GWh of battery storage added to Australia&#8217;s updated National Renewable Energy Priority List",
-    "link": "https://www.energy-storage.news/over-4gwh-of-battery-storage-added-to-australias-updated-national-renewable-energy-priority-list/",
-    "date": "2026-07-15T03:04:33.000Z",
-    "source": "Energy Storage News"
   },
   {
     "title": "FFB Fab in Münster feiert Richtfest",
@@ -99,12 +105,6 @@
     "title": "AESC startet Serienproduktion von 46120-Zellen für BMWs „Neue Klasse”",
     "link": "https://battery-news.de/2026/07/10/aesc-startet-serienproduktion-von-46120-zellen-fuer-bmws-neue-klasse/",
     "date": "2026-07-10T06:00:00.000Z",
-    "source": "Battery-News.de"
-  },
-  {
-    "title": "Nio plant Batterieforschungszentrum in Shanghai",
-    "link": "https://battery-news.de/2026/07/09/nio-plant-batterieforschungszentrum-in-shanghai/",
-    "date": "2026-07-09T06:00:00.000Z",
     "source": "Battery-News.de"
   }
 ]
