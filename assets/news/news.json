@@ -1,45 +1,69 @@
 [
   {
-    "title": "Giving away excess daytime solar for free",
-    "link": "https://www.pv-magazine.com/2026/07/17/giving-away-excess-daytime-solar-for-free/",
-    "date": "2026-07-17T07:27:48.000Z",
+    "title": "China imposes new consumption tax on PV cells, batteries amid industry consolidation push",
+    "link": "https://www.pv-magazine.com/2026/07/17/china-imposes-new-consumption-tax-on-pv-cells-batteries-amid-industry-consolidation-push/",
+    "date": "2026-07-17T13:32:39.000Z",
     "source": "PV Magazine"
   },
   {
-    "title": "Oman plans 6 GW solar cell, module factory",
-    "link": "https://www.pv-magazine.com/2026/07/17/oman-plans-6-gw-solar-cell-module-factory/",
-    "date": "2026-07-17T07:25:19.000Z",
+    "title": "California batteries missing out on revenue due to suboptimal bidding strategies, Gridmatic analysis finds",
+    "link": "https://www.energy-storage.news/california-batteries-missing-out-on-revenue-due-to-suboptimal-bidding-strategies-gridmatic-analysis-finds/",
+    "date": "2026-07-17T12:53:57.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "South Korea announces 1 GW solar tender",
+    "link": "https://www.pv-magazine.com/2026/07/17/south-korea-announces-1-gw-solar-tender/",
+    "date": "2026-07-17T12:53:00.000Z",
     "source": "PV Magazine"
   },
   {
-    "title": "The Hydrogen Stream: Tanaka energizes 500 kW fuel cell facility in Japan",
-    "link": "https://www.pv-magazine.com/2026/07/17/the-hydrogen-stream-tanaka-energizes-500-kw-pure-hydrogen-fuel-cell-facility-in-japan/",
-    "date": "2026-07-17T07:00:17.000Z",
+    "title": "Ingeteam announces central inverter for utility-scale BESS",
+    "link": "https://www.pv-magazine.com/2026/07/17/ingeteam-announces-central-inverter-for-utility-scale-bess/",
+    "date": "2026-07-17T12:51:41.000Z",
     "source": "PV Magazine"
   },
   {
-    "title": "AI-powered 9-ton tracked robot for large-scale PV construction",
-    "link": "https://www.pv-magazine.com/2026/07/17/ai-powered-9-ton-tracked-robot-for-large-scale-pv-construction/",
-    "date": "2026-07-17T06:33:22.000Z",
+    "title": "Eos to provide energy storage for US Department of Defense ‘Golden Dome,’ releases preliminary Q2 financials",
+    "link": "https://www.energy-storage.news/eos-to-provide-energy-storage-for-us-department-of-defense-golden-dome-releases-preliminary-q2-financials/",
+    "date": "2026-07-17T12:45:29.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Chinese PV Industry Brief: module manufacturers forecast heavy losses as oversupply persists",
+    "link": "https://www.pv-magazine.com/2026/07/17/chinese-pv-industry-brief-pv-manufacturers-forecast-heavy-losses-as-oversupply-persists/",
+    "date": "2026-07-17T12:37:50.000Z",
     "source": "PV Magazine"
   },
   {
-    "title": "Argentina’s electricity demand fell by 1,700 MW during World Cup semifinal against England",
-    "link": "https://www.pv-magazine.com/2026/07/17/argentinas-electricity-demand-fell-by-1700-mw-during-world-cup-semifinal-against-england/",
-    "date": "2026-07-17T06:05:33.000Z",
+    "title": "China’s battery boom pivoting from scale to utilization, says Ember",
+    "link": "https://www.pv-magazine.com/2026/07/17/chinas-battery-boom-pivoting-from-scale-to-utilization-says-ember/",
+    "date": "2026-07-17T11:54:33.000Z",
     "source": "PV Magazine"
+  },
+  {
+    "title": "Western Europe sees strong irradiance gains during record June heat",
+    "link": "https://www.pv-magazine.com/2026/07/17/western-europe-sees-strong-irradiance-gains-during-record-june-heat/",
+    "date": "2026-07-17T11:52:07.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "&#8216;It&#8217;s on the up now&#8217;: How grid fee clarity unlocked BW ESS&#8217; German ambitions",
+    "link": "https://www.energy-storage.news/its-on-the-up-now-how-grid-fee-clarity-unlocked-bw-ess-german-ambitions/",
+    "date": "2026-07-17T10:53:00.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Waaree, India’s biggest PV module supplier, opens 5.15GWh battery storage assembly plant",
+    "link": "https://www.energy-storage.news/waaree-indias-biggest-pv-module-supplier-opens-5-15gwh-battery-storage-assembly-plant/",
+    "date": "2026-07-17T09:46:20.000Z",
+    "source": "Energy Storage News"
   },
   {
     "title": "Alfen und CATL planen 5 GWh Natrium-Ionen-Batteriespeicher in Europa",
     "link": "https://battery-news.de/2026/07/17/alfen-und-catl-planen-5-gwh-natrium-ionen-batteriespeicher-in-europa/",
     "date": "2026-07-17T06:00:00.000Z",
     "source": "Battery-News.de"
-  },
-  {
-    "title": "Construction begins on 31 MW agrivoltaic project in New Zealand",
-    "link": "https://www.pv-magazine.com/2026/07/17/31-mw-agrovoltaic-project-kicks-off-construction-in-new-zealand/",
-    "date": "2026-07-17T05:42:05.000Z",
-    "source": "PV Magazine"
   },
   {
     "title": "ib vogt wins approval for 480MWh battery storage site in Australia’s Wagga Wagga Special Activation Precinct",
@@ -51,30 +75,6 @@
     "title": "Port of Newcastle cleared to safely stage grid-scale battery storage systems in New South Wales, Australia",
     "link": "https://www.energy-storage.news/port-of-newcastle-cleared-to-safely-stage-grid-scale-battery-storage-systems-in-new-south-wales-australia/",
     "date": "2026-07-17T04:18:05.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "Sunrun, FranklinWH expand BESS virtual power plant capacity in California, Texas",
-    "link": "https://www.energy-storage.news/sunrun-franklinwh-expand-bess-virtual-power-plant-capacity-in-california-texas/",
-    "date": "2026-07-16T13:20:05.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "Alfen and CATL agree 5GWh sodium-ion BESS partnership in Europe",
-    "link": "https://www.energy-storage.news/alfen-and-catl-agree-5gwh-sodium-ion-bess-partnership-in-europe/",
-    "date": "2026-07-16T11:39:33.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "Thailand needs ‘many regulatory reforms’ of electricity sector to catch up with ASEAN leaders on energy storage",
-    "link": "https://www.energy-storage.news/thailand-needs-many-regulatory-reforms-of-electricity-sector-to-catch-up-with-asean-leaders-on-energy-storage/",
-    "date": "2026-07-16T11:20:57.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "EU ROUNDUP: Operators commission 682MWh of BESS in Germany, Estonia, Belgium, Denmark and Bulgaria",
-    "link": "https://www.energy-storage.news/eu-roundup-operators-commission-682mwh-of-bess-in-germany-estonia-belgium-denmark-and-bulgaria/",
-    "date": "2026-07-16T09:16:51.000Z",
     "source": "Energy Storage News"
   },
   {
