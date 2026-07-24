@@ -1,9 +1,57 @@
 [
   {
-    "title": "China TOPCon cell prices extend decline on weak demand and oversupply",
-    "link": "https://www.pv-magazine.com/2026/07/24/china-topcon-cell-prices-extend-decline-on-weak-demand-and-oversupply/",
-    "date": "2026-07-24T08:21:46.000Z",
+    "title": "China adopts tougher mandatory energy limits for polysilicon plants",
+    "link": "https://www.pv-magazine.com/2026/07/24/china-adopts-tougher-mandatory-energy-limits-for-polysilicon-plants/",
+    "date": "2026-07-24T12:40:00.000Z",
     "source": "PV Magazine"
+  },
+  {
+    "title": "How to win and how not to lose: What the Football World Cup final teaches us about leading the energy transition",
+    "link": "https://www.pv-magazine.com/2026/07/24/how-to-win-and-how-not-to-lose-what-the-football-world-cup-final-teaches-us-about-leading-the-energy-transition/",
+    "date": "2026-07-24T12:00:00.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Tunisia authorizes residential solar-plus-storage amid heatwave",
+    "link": "https://www.pv-magazine.com/2026/07/24/tunisia-authorizes-residential-solar-plus-storage-amid-heatwave/",
+    "date": "2026-07-24T11:59:20.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Chinese PV Industry Brief: H1 solar additions total just 72 GW",
+    "link": "https://www.pv-magazine.com/2026/07/24/chinese-pv-industry-brief-h1-solar-additions-total-just-72-gw/",
+    "date": "2026-07-24T11:45:07.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Mounting system for photovoltaic installations on gabions",
+    "link": "https://www.pv-magazine.com/2026/07/24/mounting-system-for-photovoltaic-installations-on-gabions/",
+    "date": "2026-07-24T11:38:53.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "German startup launches high-voltage sodium-ion battery for residential applications",
+    "link": "https://www.pv-magazine.com/2026/07/24/german-startup-launches-high-voltage-sodium-ion-battery-for-residential-applications/",
+    "date": "2026-07-24T11:33:44.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Poland: R.Power enlists EPCs for 2.2GWh of BESS, EDF and Eurus, Eiffel and Ergy co-invest in projects",
+    "link": "https://www.energy-storage.news/poland-r-power-enlists-epcs-for-2-2gwh-of-bess-edf-and-eurus-eiffel-and-ergy-co-invest-in-projects/",
+    "date": "2026-07-24T10:48:49.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Sodium-ion BESS: CATL in 2GWh Eastern Europe collaboration, ESS Inc signs LOI for 500MWh of US deployments",
+    "link": "https://www.energy-storage.news/sodium-ion-bess-catl-in-2gwh-eastern-europe-collaboration-ess-inc-signs-loi-for-500mwh-of-us-deployments/",
+    "date": "2026-07-24T08:40:48.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Alpiq follows Harmony Energy acquisition with 1.2GWh project announcement",
+    "link": "https://www.energy-storage.news/alpiq-follows-harmony-energy-acquisition-with-1-2gwh-project-announcement/",
+    "date": "2026-07-24T08:35:47.000Z",
+    "source": "Energy Storage News"
   },
   {
     "title": "AI data centres&#8217; battery dilemma: when mission-critical uptime meets thermal runaway risk",
@@ -12,34 +60,10 @@
     "source": "Energy Storage News"
   },
   {
-    "title": "South African airport tenders 2 MW solar plant",
-    "link": "https://www.pv-magazine.com/2026/07/24/south-african-airport-tenders-2-mw-solar-plant/",
-    "date": "2026-07-24T07:40:27.000Z",
-    "source": "PV Magazine"
-  },
-  {
     "title": "Europe ROUNDUP: Grenergy, MaxSolar with Saft, and Amarenco progress BESS projects in Spain, Germany, and France",
     "link": "https://www.energy-storage.news/europe-roundup-grenergy-maxsolar-with-saft-and-amarenco-progress-bess-projects-in-spain-germany-and-france/",
     "date": "2026-07-24T07:01:49.000Z",
     "source": "Energy Storage News"
-  },
-  {
-    "title": "Superhydrophobic nanocomposite coating boosts PV power output by 16%, outperforms manual cleaning",
-    "link": "https://www.pv-magazine.com/2026/07/24/superhydrophobic-nanocomposite-coating-boosts-pv-power-output-by-16-outperforms-manual-cleaning/",
-    "date": "2026-07-24T06:45:00.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Idemitsu plans 864 MWh vanadium flow battery at Australian coal mine site",
-    "link": "https://www.pv-magazine.com/2026/07/24/idemitsu-plans-864-mwh-vanadium-flow-battery-at-australian-coal-mine-site/",
-    "date": "2026-07-24T06:18:13.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Texxecure launches rating system for assessing PV project quality and technical risks",
-    "link": "https://www.pv-magazine.com/2026/07/24/texxecure-launches-rating-system-for-assessing-pv-project-quality-and-technical-risks/",
-    "date": "2026-07-24T06:10:44.000Z",
-    "source": "PV Magazine"
   },
   {
     "title": "Sila sichert 300 Millionen US-Dollar für Silizium-Anodenproduktion",
@@ -48,33 +72,9 @@
     "source": "Battery-News.de"
   },
   {
-    "title": "Wildfire resilience: How vegetation clearing protected an 11 MW solar plant in France",
-    "link": "https://www.pv-magazine.com/2026/07/24/wildfire-resilience-how-vegetation-clearing-protected-an-11-mw-solar-plant-in-france/",
-    "date": "2026-07-24T05:34:24.000Z",
-    "source": "PV Magazine"
-  },
-  {
     "title": "Brookfield buys BESS developer Aypa Power from Blackstone",
     "link": "https://www.energy-storage.news/brookfield-buys-bess-developer-aypa-power-from-blackstone/",
     "date": "2026-07-23T14:53:49.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "Germany sets September date for first capacity market auction",
-    "link": "https://www.energy-storage.news/germany-sets-september-date-for-first-capacity-market-auction/",
-    "date": "2026-07-23T11:40:09.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "Analysis: Recent AI data centre BESS technology and deployment partnerships",
-    "link": "https://www.energy-storage.news/analysis-recent-ai-data-centre-bess-technology-and-deployment-partnerships/",
-    "date": "2026-07-23T10:37:12.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "&#8216;Growing interest&#8217; in US microgrids attracts tax equity investor Foss &#038; Company to US$30 million Maryland deal",
-    "link": "https://www.energy-storage.news/growing-interest-in-us-microgrids-attracts-tax-equity-investor-foss-company-to-us30-million-maryland-deal/",
-    "date": "2026-07-23T10:14:33.000Z",
     "source": "Energy Storage News"
   },
   {
