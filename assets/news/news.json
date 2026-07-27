@@ -1,45 +1,51 @@
 [
   {
+    "title": "Lebanon tenders 350 MW of solar",
+    "link": "https://www.pv-magazine.com/2026/07/27/lebanon-tenders-350-mw-of-solar/",
+    "date": "2026-07-27T09:30:00.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "HyperStrong introduces C&#038;I energy storage solutions at The smarter E 2026",
+    "link": "https://www.pv-magazine.com/2026/07/27/hyperstrong-introduces-ci-energy-storage-solutions-at-the-smarter-e-2026/",
+    "date": "2026-07-27T09:00:00.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Albanian government approves agrivoltaics",
+    "link": "https://www.pv-magazine.com/2026/07/27/albanian-government-approves-agrivoltaics/",
+    "date": "2026-07-27T08:30:00.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "New disaggregation methodology quantifies uncertainty in behind-the-meter PV generation",
+    "link": "https://www.pv-magazine.com/2026/07/27/new-disaggregation-methodology-quantifies-uncertainty-in-behind-the-meter-pv-generation-and-heat-pump-demand/",
+    "date": "2026-07-27T08:00:00.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "India&#8217;s Advait Greenergy, China&#8217;s GuofuHee showcase 5 MW alkaline electrolyzer",
+    "link": "https://www.pv-magazine.com/2026/07/27/advait-greenergy-guofuhee-showcase-5-mw-alkaline-electrolyser-in-live-factory-acceptance-testing-ahead-of-india-deployment/",
+    "date": "2026-07-27T07:40:00.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Canadian Solar subsidiary opens 6 GW solar cell factory in Indiana",
+    "link": "https://www.pv-magazine.com/2026/07/27/canadian-solar-subsidiary-opens-6-gw-solar-cell-factory-in-indiana/",
+    "date": "2026-07-27T07:20:00.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "ACCUREC erweitert Standort in Krefeld mit Investition von 5,5 Millionen Euro",
+    "link": "https://battery-news.de/2026/07/27/accurec-erweitert-standort-in-krefeld-mit-investition-von-55-millionen-euro/",
+    "date": "2026-07-27T06:00:00.000Z",
+    "source": "Battery-News.de"
+  },
+  {
     "title": "Ark Energy locks in AU$1.3 billion for 2.2GWh solar-plus-storage site in New South Wales, Australia",
     "link": "https://www.energy-storage.news/ark-energy-locks-in-au1-3-billion-for-2-2gwh-solar-plus-storage-site-in-new-south-wales-australia/",
     "date": "2026-07-27T02:35:14.000Z",
     "source": "Energy Storage News"
-  },
-  {
-    "title": "China adopts tougher mandatory energy limits for polysilicon plants",
-    "link": "https://www.pv-magazine.com/2026/07/24/china-adopts-tougher-mandatory-energy-limits-for-polysilicon-plants/",
-    "date": "2026-07-24T12:40:00.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "How to win and how not to lose: What the Football World Cup final teaches us about leading the energy transition",
-    "link": "https://www.pv-magazine.com/2026/07/24/how-to-win-and-how-not-to-lose-what-the-football-world-cup-final-teaches-us-about-leading-the-energy-transition/",
-    "date": "2026-07-24T12:00:00.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Tunisia authorizes residential solar-plus-storage amid heatwave",
-    "link": "https://www.pv-magazine.com/2026/07/24/tunisia-authorizes-residential-solar-plus-storage-amid-heatwave/",
-    "date": "2026-07-24T11:59:20.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Chinese PV Industry Brief: H1 solar additions total just 72 GW",
-    "link": "https://www.pv-magazine.com/2026/07/24/chinese-pv-industry-brief-h1-solar-additions-total-just-72-gw/",
-    "date": "2026-07-24T11:45:07.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Mounting system for photovoltaic installations on gabions",
-    "link": "https://www.pv-magazine.com/2026/07/24/mounting-system-for-photovoltaic-installations-on-gabions/",
-    "date": "2026-07-24T11:38:53.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "German startup launches high-voltage sodium-ion battery for residential applications",
-    "link": "https://www.pv-magazine.com/2026/07/24/german-startup-launches-high-voltage-sodium-ion-battery-for-residential-applications/",
-    "date": "2026-07-24T11:33:44.000Z",
-    "source": "PV Magazine"
   },
   {
     "title": "Poland: R.Power enlists EPCs for 2.2GWh of BESS, EDF and Eurus, Eiffel and Ergy co-invest in projects",
@@ -99,12 +105,6 @@
     "title": "China beendet Steuerprivileg für Lithium-Ionen-Batterien",
     "link": "https://battery-news.de/2026/07/20/china-beendet-steuerprivileg-fuer-lithium-ionen-batterien/",
     "date": "2026-07-20T06:00:00.000Z",
-    "source": "Battery-News.de"
-  },
-  {
-    "title": "Alfen und CATL planen 5 GWh Natrium-Ionen-Batteriespeicher in Europa",
-    "link": "https://battery-news.de/2026/07/17/alfen-und-catl-planen-5-gwh-natrium-ionen-batteriespeicher-in-europa/",
-    "date": "2026-07-17T06:00:00.000Z",
     "source": "Battery-News.de"
   }
 ]
