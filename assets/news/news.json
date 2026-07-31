@@ -1,26 +1,62 @@
 [
   {
-    "title": "Colombia awards 725 MW of solar on second day of green energy auction",
-    "link": "https://www.pv-magazine.com/2026/07/31/colombia-awards-725-mw-of-solar-on-second-day-of-green-energy-auction/",
-    "date": "2026-07-31T08:30:00.000Z",
+    "title": "UK solar capacity hits 22.8 GW as market prepares for plug-in launch",
+    "link": "https://www.pv-magazine.com/2026/07/31/uk-solar-capacity-hits-22-8-gw-as-market-prepares-for-plug-in-launch/",
+    "date": "2026-07-31T12:30:00.000Z",
     "source": "PV Magazine"
   },
   {
-    "title": "Study shows consequences of PV-related fires are generally limited in severity",
-    "link": "https://www.pv-magazine.com/2026/07/31/study-shows-consequences-of-pv-related-fires-are-generally-limited-in-severity/",
-    "date": "2026-07-31T08:00:00.000Z",
+    "title": "Solar&#8217;s share of EU electricity demand tops 20% for three consecutive months",
+    "link": "https://www.pv-magazine.com/2026/07/31/solars-share-of-eu-electricity-demand-tops-20-for-three-consecutive-months/",
+    "date": "2026-07-31T12:00:00.000Z",
     "source": "PV Magazine"
   },
   {
-    "title": "Australia identifies utility-scale project delivery as key barrier to lower solar costs",
-    "link": "https://www.pv-magazine.com/2026/07/31/utility-scale-pv-project-delivery-a-roadblock-to-ultra-low-cost-solar-arena/",
-    "date": "2026-07-31T07:30:00.000Z",
+    "title": "Antora Energy closes US$550 million Series C to scale US thermal battery deployment",
+    "link": "https://www.energy-storage.news/antora-energy-closes-us550-million-series-c-to-scale-us-thermal-battery-deployment/",
+    "date": "2026-07-31T11:48:18.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Veolia to operate 350MW microgrid for AI data centre in central Ohio",
+    "link": "https://www.energy-storage.news/veolia-to-operate-350mw-microgrid-for-ai-data-centre-in-central-ohio/",
+    "date": "2026-07-31T11:43:43.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "The Hydrogen Stream: Chinese company sets record for green ammonia export",
+    "link": "https://www.pv-magazine.com/2026/07/31/the-hydrogen-stream-chinese-company-sets-record-for-green-ammonia-export/",
+    "date": "2026-07-31T11:30:00.000Z",
     "source": "PV Magazine"
   },
   {
-    "title": "Exploring electrochemical recovery of silver from end-of-life solar modules",
-    "link": "https://www.pv-magazine.com/2026/07/31/exploring-electrochemical-recovery-of-silver-from-end-of-life-solar-modules/",
-    "date": "2026-07-31T07:00:00.000Z",
+    "title": "‘Business as usual, just accelerated’: Harmony Energy CEO on life after Alpiq acquisition",
+    "link": "https://www.energy-storage.news/business-as-usual-just-accelerated-harmony-energy-ceo-on-life-after-alpiq-acquisition/",
+    "date": "2026-07-31T11:24:41.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Sierra Leone switches on solar-storage project",
+    "link": "https://www.pv-magazine.com/2026/07/31/sierra-leone-switches-on-first-solar-storage-project/",
+    "date": "2026-07-31T11:00:00.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Greenvolt inaugurates 200MW/800MWh capacity market-contracted BESS in Poland",
+    "link": "https://www.energy-storage.news/greenvolt-inaugurates-200mw-800mwh-capacity-market-contracted-bess-in-poland/",
+    "date": "2026-07-31T10:40:19.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Italy records 88 zero-price hours in H1",
+    "link": "https://www.pv-magazine.com/2026/07/31/italy-records-88-zero-price-hours-in-h1/",
+    "date": "2026-07-31T10:30:00.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Europe&#8217;s heatwave brings high irradiance as smoke, dust impact southern PV systems",
+    "link": "https://www.pv-magazine.com/2026/07/31/europes-heatwave-brings-high-irradiance-as-smoke-dust-impact-southern-pv-systems/",
+    "date": "2026-07-31T10:00:00.000Z",
     "source": "PV Magazine"
   },
   {
@@ -39,42 +75,6 @@
     "title": "Thermal energy storage company 1414 Degrees secures 1GW data centre deal in South Australia",
     "link": "https://www.energy-storage.news/thermal-energy-storage-company-1414-degrees-secures-1gw-data-centre-deal-in-south-australia/",
     "date": "2026-07-31T03:32:11.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "Türkiye adds 2.1 GW of solar in H1",
-    "link": "https://www.pv-magazine.com/2026/07/30/turkiye-adds-2-1-gw-of-solar-in-h1/",
-    "date": "2026-07-30T12:30:00.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Aecon executes energy storage agreement for 1,200MWh Ontario BESS",
-    "link": "https://www.energy-storage.news/aecon-executes-energy-storage-agreement-for-1200mwh-ontario-bess/",
-    "date": "2026-07-30T12:27:15.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "Eolian begins construction on 1.06GWh Ohio BESS, largest system built in PJM",
-    "link": "https://www.energy-storage.news/eolian-begins-construction-on-1-06gwh-ohio-bess-largest-system-built-in-pjm/",
-    "date": "2026-07-30T12:17:14.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "Indonesia signals start of 100 GW solar initiative",
-    "link": "https://www.pv-magazine.com/2026/07/30/indonesia-signals-start-of-100-gw-solar-initiative/",
-    "date": "2026-07-30T12:00:00.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "VIDEO: Rept Battero’s overseas team on navigating the evolving landscape and requirements for Chinese OEMs",
-    "link": "https://www.energy-storage.news/video-rept-batteros-overseas-team-on-navigating-the-evolving-landscape-and-requirements-for-chinese-oems/",
-    "date": "2026-07-30T10:57:58.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "Central &#038; Eastern Europe: UK’s Alcemi buys 2.3GWh Romania projects, Slovakia’s biggest BESS brought online",
-    "link": "https://www.energy-storage.news/central-eastern-europe-uks-alcemi-buys-2-3gwh-romania-projects-slovakias-biggest-bess-brought-online/",
-    "date": "2026-07-30T10:30:03.000Z",
     "source": "Energy Storage News"
   },
   {
