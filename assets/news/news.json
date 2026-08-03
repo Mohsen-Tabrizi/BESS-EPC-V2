@@ -1,15 +1,63 @@
 [
   {
-    "title": "UK solar capacity hits 22.8 GW as market prepares for plug-in launch",
-    "link": "https://www.pv-magazine.com/2026/07/31/uk-solar-capacity-hits-22-8-gw-as-market-prepares-for-plug-in-launch/",
-    "date": "2026-07-31T12:30:00.000Z",
+    "title": "Ulanqab selects developers for 4.4 GWh grid-forming storage buildout",
+    "link": "https://www.pv-magazine.com/2026/08/03/ulanqab-selects-developers-for-4-4-gwh-grid-forming-storage-buildout/",
+    "date": "2026-08-03T09:30:00.000Z",
     "source": "PV Magazine"
   },
   {
-    "title": "Solar&#8217;s share of EU electricity demand tops 20% for three consecutive months",
-    "link": "https://www.pv-magazine.com/2026/07/31/solars-share-of-eu-electricity-demand-tops-20-for-three-consecutive-months/",
-    "date": "2026-07-31T12:00:00.000Z",
+    "title": "Germany reduces solar feed-in tariffs by 1%",
+    "link": "https://www.pv-magazine.com/2026/08/03/germany-reduces-solar-feed-in-tariffs-by-1/",
+    "date": "2026-08-03T09:00:00.000Z",
     "source": "PV Magazine"
+  },
+  {
+    "title": "Samsung SDI on track with US LFP cell production, expects demand to outstrip production",
+    "link": "https://www.energy-storage.news/samsung-sdi-on-track-with-us-lfp-cell-production-expects-demand-to-outstrip-production/",
+    "date": "2026-08-03T08:31:51.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Peruvian researchers develop foldable solar panels for naval, mining applications",
+    "link": "https://www.pv-magazine.com/2026/08/03/peruvian-researchers-develop-foldable-solar-panels-for-naval-mining-applications/",
+    "date": "2026-08-03T08:30:00.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Scientists develop perovskite-organic tandem solar cell with enhanced reverse-bias stability",
+    "link": "https://www.pv-magazine.com/2026/08/03/scientists-develop-perovskite-organic-tandem-solar-cell-with-enhanced-reverse-bias-stability/",
+    "date": "2026-08-03T08:00:00.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "TCL Solar to supply back-contact modules to Australian solar projects",
+    "link": "https://www.pv-magazine.com/2026/08/03/tcl-to-supply-modules-for-worlds-largest-back-contact-solar-power-station/",
+    "date": "2026-08-03T07:30:00.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Solar-plus-storage-driven heat pumps can reduce grid electricity use by 59.89%",
+    "link": "https://www.pv-magazine.com/2026/08/03/solar-plus-storage-driven-heat-pumps-can-reduce-grid-electricity-use-by-59-89/",
+    "date": "2026-08-03T07:00:00.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Samsung SDI plant Serienfertigung von Feststoffbatterien ab 2027",
+    "link": "https://battery-news.de/2026/08/03/samsung-sdi-plant-serienfertigung-von-feststoffbatterien-ab-2027/",
+    "date": "2026-08-03T06:00:00.000Z",
+    "source": "Battery-News.de"
+  },
+  {
+    "title": "&#8216;You cannot build a whole electricity system purely on solar hybrids&#8217;: Squadron Energy CEO warns",
+    "link": "https://www.energy-storage.news/you-cannot-build-a-whole-electricity-system-purely-on-solar-hybrids-squadron-energy-ceo-warns/",
+    "date": "2026-08-03T03:50:49.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Grid-forming BESS not yet confirmed for minimum system strength in Australia as AEMO launches fault current trial",
+    "link": "https://www.energy-storage.news/grid-forming-bess-not-yet-confirmed-for-minimum-system-strength-in-australia-as-aemo-launches-fault-current-trial/",
+    "date": "2026-08-03T03:29:54.000Z",
+    "source": "Energy Storage News"
   },
   {
     "title": "Antora Energy closes US$550 million Series C to scale US thermal battery deployment",
@@ -24,58 +72,16 @@
     "source": "Energy Storage News"
   },
   {
-    "title": "The Hydrogen Stream: Chinese company sets record for green ammonia export",
-    "link": "https://www.pv-magazine.com/2026/07/31/the-hydrogen-stream-chinese-company-sets-record-for-green-ammonia-export/",
-    "date": "2026-07-31T11:30:00.000Z",
-    "source": "PV Magazine"
-  },
-  {
     "title": "‘Business as usual, just accelerated’: Harmony Energy CEO on life after Alpiq acquisition",
     "link": "https://www.energy-storage.news/business-as-usual-just-accelerated-harmony-energy-ceo-on-life-after-alpiq-acquisition/",
     "date": "2026-07-31T11:24:41.000Z",
     "source": "Energy Storage News"
   },
   {
-    "title": "Sierra Leone switches on solar-storage project",
-    "link": "https://www.pv-magazine.com/2026/07/31/sierra-leone-switches-on-first-solar-storage-project/",
-    "date": "2026-07-31T11:00:00.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Greenvolt inaugurates 200MW/800MWh capacity market-contracted BESS in Poland",
-    "link": "https://www.energy-storage.news/greenvolt-inaugurates-200mw-800mwh-capacity-market-contracted-bess-in-poland/",
-    "date": "2026-07-31T10:40:19.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "Italy records 88 zero-price hours in H1",
-    "link": "https://www.pv-magazine.com/2026/07/31/italy-records-88-zero-price-hours-in-h1/",
-    "date": "2026-07-31T10:30:00.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Europe&#8217;s heatwave brings high irradiance as smoke, dust impact southern PV systems",
-    "link": "https://www.pv-magazine.com/2026/07/31/europes-heatwave-brings-high-irradiance-as-smoke-dust-impact-southern-pv-systems/",
-    "date": "2026-07-31T10:00:00.000Z",
-    "source": "PV Magazine"
-  },
-  {
     "title": "Factorial und SK On prüfen Zusammenarbeit bei der Fertigung von Feststoffbatterien",
     "link": "https://battery-news.de/2026/07/31/factorial-und-sk-on-pruefen-zusammenarbeit-bei-der-fertigung-von-feststoffbatterien/",
     "date": "2026-07-31T06:00:00.000Z",
     "source": "Battery-News.de"
-  },
-  {
-    "title": "China&#8217;s 15th Five-Year Carbon Peaking Action Plan aims to accelerate shift of energy mix from coal-dominant",
-    "link": "https://www.energy-storage.news/chinas-15th-five-year-carbon-peaking-action-plan-aims-to-accelerate-shift-of-energy-mix-from-coal-dominant/",
-    "date": "2026-07-31T05:40:47.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "Thermal energy storage company 1414 Degrees secures 1GW data centre deal in South Australia",
-    "link": "https://www.energy-storage.news/thermal-energy-storage-company-1414-degrees-secures-1gw-data-centre-deal-in-south-australia/",
-    "date": "2026-07-31T03:32:11.000Z",
-    "source": "Energy Storage News"
   },
   {
     "title": "Hongqi meldet Fortschritte bei Ultra-Schnellladebatterie",
@@ -99,12 +105,6 @@
     "title": "ACCUREC erweitert Standort in Krefeld mit Investition von 5,5 Millionen Euro",
     "link": "https://battery-news.de/2026/07/27/accurec-erweitert-standort-in-krefeld-mit-investition-von-55-millionen-euro/",
     "date": "2026-07-27T06:00:00.000Z",
-    "source": "Battery-News.de"
-  },
-  {
-    "title": "Sila sichert 300 Millionen US-Dollar für Silizium-Anodenproduktion",
-    "link": "https://battery-news.de/2026/07/24/sila-sichert-300-millionen-us-dollar-fuer-silizium-anodenproduktion/",
-    "date": "2026-07-24T06:00:00.000Z",
     "source": "Battery-News.de"
   }
 ]
