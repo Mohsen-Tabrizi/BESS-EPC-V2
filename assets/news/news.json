@@ -1,26 +1,74 @@
 [
   {
-    "title": "IRENA opens funding call for renewable energy projects in Central America, the Caribbean",
-    "link": "https://www.pv-magazine.com/2026/08/04/irena-opens-funding-call-for-renewable-energy-projects-in-central-america-the-caribbean/",
-    "date": "2026-08-04T08:30:00.000Z",
+    "title": "Largest BESS in Czech Republic commissioned, supplied by CATL-backed CNTE",
+    "link": "https://www.energy-storage.news/largest-bess-in-czech-republic-commissioned-supplied-by-catl-backed-cnte/",
+    "date": "2026-08-04T14:04:06.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "South Africa: Plentify aggregates 2.7GWh of Deye home battery systems into virtual power plant",
+    "link": "https://www.energy-storage.news/south-africa-plentify-aggregates-2-7gwh-of-deye-home-battery-systems-into-virtual-power-plant/",
+    "date": "2026-08-04T13:50:09.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "US startup LiNova Energy hopes high-power battery tech can meet unprecedented demands of AI data centres",
+    "link": "https://www.energy-storage.news/us-startup-linova-energy-hopes-high-power-battery-tech-can-meet-unprecedented-demands-of-ai-data-centres/",
+    "date": "2026-08-04T12:40:38.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Massachusetts issues RFP seeking 1,000MW of BESS",
+    "link": "https://www.energy-storage.news/massachusetts-issues-rfp-seeking-1000mw-of-bess/",
+    "date": "2026-08-04T12:32:11.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "China draws a line under the solar price war",
+    "link": "https://www.pv-magazine.com/2026/08/04/china-draws-a-line-under-the-solar-price-war/",
+    "date": "2026-08-04T12:30:00.000Z",
     "source": "PV Magazine"
   },
   {
-    "title": "Floating PV systems may face lower humidity stress than ground-mounted counterparts",
-    "link": "https://www.pv-magazine.com/2026/08/04/floating-pv-systems-may-face-lower-humidity-stress-than-ground-mounted-counterparts/",
-    "date": "2026-08-04T08:00:00.000Z",
+    "title": "Romania&#8217;s solar capacity exceeds 8.5 GW",
+    "link": "https://www.pv-magazine.com/2026/08/04/romanias-solar-capacity-exceeds-8-5-gw/",
+    "date": "2026-08-04T11:45:00.000Z",
     "source": "PV Magazine"
   },
   {
-    "title": "Photovoltaics feed record 12 TWh into Germany&#8217;s public grid in July",
-    "link": "https://www.pv-magazine.com/2026/08/04/photovoltaics-feed-record-12-twh-into-germanys-public-grid-in-july/",
-    "date": "2026-08-04T07:30:00.000Z",
+    "title": "Distributed solar supplied 27% of Pakistan’s electricity in 2025",
+    "link": "https://www.pv-magazine.com/2026/08/04/distributed-solar-supplied-27-of-pakistans-electricity-in-2025/",
+    "date": "2026-08-04T11:00:00.000Z",
     "source": "PV Magazine"
   },
   {
-    "title": "Waste solar silicon repurposed as support for palladium nanoparticle catalysts",
-    "link": "https://www.pv-magazine.com/2026/08/04/waste-solar-silicon-repurposed-as-support-for-palladium-nanoparticle-catalysts/",
-    "date": "2026-08-04T07:00:00.000Z",
+    "title": "Prosalia and EDP hybridise solar PV/wind projects with batteries in Portugal, Spain",
+    "link": "https://www.energy-storage.news/prosalia-and-edp-hybridise-solar-pv-wind-projects-with-batteries-in-portugal-spain/",
+    "date": "2026-08-04T10:56:28.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Australia’s remote mining companies turn to renewable hybrid power systems",
+    "link": "https://www.pv-magazine.com/2026/08/04/remote-operations-emerge-as-proving-ground-for-high-renewables-future/",
+    "date": "2026-08-04T10:30:00.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "European multi-day energy storage startup Ore Energy raises US$43 million in Series A",
+    "link": "https://www.energy-storage.news/european-multi-day-energy-storage-startup-ore-energy-raises-us43-million-in-series-a/",
+    "date": "2026-08-04T10:17:03.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Researchers design PVT heat pump with single integrated evaporator",
+    "link": "https://www.pv-magazine.com/2026/08/04/researchers-design-pvt-heat-pump-with-single-integrated-evaporator/",
+    "date": "2026-08-04T10:00:00.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Clean energy offers least-cost path to meeting US electricity demand",
+    "link": "https://www.pv-magazine.com/2026/08/04/clean-energy-offers-least-cost-path-to-meeting-electricity-demand-says-report/",
+    "date": "2026-08-04T09:30:00.000Z",
     "source": "PV Magazine"
   },
   {
@@ -30,58 +78,10 @@
     "source": "Battery-News.de"
   },
   {
-    "title": "Load smoothing, cold-start backup and speed-to-power: Fluence maps the battery storage opportunity for Australian data centres",
-    "link": "https://www.energy-storage.news/load-smoothing-cold-start-backup-and-speed-to-power-fluence-maps-the-battery-storage-opportunity-for-australian-data-centres/",
-    "date": "2026-08-04T04:16:10.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "Habitat Energy appointed to optimise DC-coupled 614MWh solar-plus-storage portfolio for Octopus Australia",
-    "link": "https://www.energy-storage.news/habitat-energy-appointed-to-optimise-dc-coupled-614mwh-solar-plus-storage-portfolio-for-octopus-australia/",
-    "date": "2026-08-04T03:28:43.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "Concerns over lack of clarity, transparency as US bans foreign power inverters",
-    "link": "https://www.energy-storage.news/concerns-over-lack-of-clarity-transparency-as-us-bans-foreign-power-inverters/",
-    "date": "2026-08-03T13:06:10.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "Kazakhstan&#8217;s solar capacity surpasses 1.37 GW",
-    "link": "https://www.pv-magazine.com/2026/08/03/kazakhstans-solar-capacity-surpasses-1-37-gw/",
-    "date": "2026-08-03T12:45:00.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Engie, Legrand sign France’s first 24/7 renewable energy supply deal",
-    "link": "https://www.pv-magazine.com/2026/08/03/engie-legrand-sign-frances-first-24-7-renewable-energy-supply-deal/",
-    "date": "2026-08-03T12:30:00.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "European Commission approves scheme to support 370MWh of battery storage in Slovenia",
-    "link": "https://www.energy-storage.news/european-commission-approves-scheme-to-support-370mwh-of-battery-storage-in-slovenia/",
-    "date": "2026-08-03T11:23:32.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "Samsung SDI on track with US LFP cell production, expects demand to outstrip production",
-    "link": "https://www.energy-storage.news/samsung-sdi-on-track-with-us-lfp-cell-production-expects-demand-to-outstrip-production/",
-    "date": "2026-08-03T08:31:51.000Z",
-    "source": "Energy Storage News"
-  },
-  {
     "title": "Samsung SDI plant Serienfertigung von Feststoffbatterien ab 2027",
     "link": "https://battery-news.de/2026/08/03/samsung-sdi-plant-serienfertigung-von-feststoffbatterien-ab-2027/",
     "date": "2026-08-03T06:00:00.000Z",
     "source": "Battery-News.de"
-  },
-  {
-    "title": "&#8216;You cannot build a whole electricity system purely on solar hybrids&#8217;: Squadron Energy CEO warns",
-    "link": "https://www.energy-storage.news/you-cannot-build-a-whole-electricity-system-purely-on-solar-hybrids-squadron-energy-ceo-warns/",
-    "date": "2026-08-03T03:50:49.000Z",
-    "source": "Energy Storage News"
   },
   {
     "title": "Factorial und SK On prüfen Zusammenarbeit bei der Fertigung von Feststoffbatterien",
