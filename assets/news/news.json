@@ -1,5 +1,47 @@
 [
   {
+    "title": "India targets 5 GW of floating PV with co-located storage",
+    "link": "https://www.pv-magazine.com/2026/08/06/india-approves-inr-5070-crore-scheme-for-5-gw-of-floating-solar-with-storage/",
+    "date": "2026-08-06T08:30:00.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Fluence books first big data centre deals, but manufacturing ramp-up delays hit revenues",
+    "link": "https://www.energy-storage.news/fluence-books-first-big-data-centre-deals-but-manufacturing-ramp-up-delays-hit-revenues/",
+    "date": "2026-08-06T08:22:02.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Agrivoltaics improve grape quality in Mediterranean rainfed vineyards",
+    "link": "https://www.pv-magazine.com/2026/08/06/agrivoltaics-improve-grape-quality-in-mediterranean-rainfed-vineyards/",
+    "date": "2026-08-06T08:00:00.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "US data centers turn to on-site solar, storage, VPPs as grid delays mount",
+    "link": "https://www.pv-magazine.com/2026/08/06/transmission-logjams-and-ai-load-growth-push-data-centers-toward-on-site-solar-storage-and-vpps/",
+    "date": "2026-08-06T07:30:00.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "PV recycling challenges unlikely to be the same everywhere",
+    "link": "https://www.pv-magazine.com/2026/08/06/pv-recycling-challenges-unlikely-to-be-the-same-everywhere/",
+    "date": "2026-08-06T07:00:00.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Samsung SDI startet US-Produktion von LFP-Batteriezellen im Oktober",
+    "link": "https://battery-news.de/2026/08/06/samsung-sdi-startet-us-produktion-von-lfp-batteriezellen-im-oktober/",
+    "date": "2026-08-06T06:00:00.000Z",
+    "source": "Battery-News.de"
+  },
+  {
+    "title": "Australian Vanadium, Alcoa evaluate 50-80MW vanadium flow battery for WA alumina refineries",
+    "link": "https://www.energy-storage.news/australian-vanadium-alcoa-evaluate-50-80mw-vanadium-flow-battery-for-wa-alumina-refineries/",
+    "date": "2026-08-06T04:07:15.000Z",
+    "source": "Energy Storage News"
+  },
+  {
     "title": "Chinese authorities suspend 18.33 GW ingot expansion over 3-for-1 capacity requirement",
     "link": "https://www.pv-magazine.com/2026/08/05/chinese-authorities-suspend-18-33-gw-ingot-expansion-over-3-for-1-capacity-requirement/",
     "date": "2026-08-05T12:40:00.000Z",
@@ -12,34 +54,16 @@
     "source": "PV Magazine"
   },
   {
-    "title": "Thailand registers solar installers, equipment ahead of rooftop PV expansion",
-    "link": "https://www.pv-magazine.com/2026/08/05/thailand-registers-solar-installers-equipment-ahead-of-rooftop-pv-expansion/",
-    "date": "2026-08-05T12:00:00.000Z",
-    "source": "PV Magazine"
-  },
-  {
     "title": "Base Power raises another US$1 billion in Series D financing for US residential BESS",
     "link": "https://www.energy-storage.news/base-power-raises-another-us1-billion-in-series-d-financing-for-us-residential-bess/",
     "date": "2026-08-05T11:56:06.000Z",
     "source": "Energy Storage News"
   },
   {
-    "title": "Fraunhofer ISE, Source Energy develop silicon PV modules for space satellites",
-    "link": "https://www.pv-magazine.com/2026/08/05/fraunhofer-ise-source-energy-develop-silicon-pv-modules-for-space-satellites/",
-    "date": "2026-08-05T11:30:00.000Z",
-    "source": "PV Magazine"
-  },
-  {
     "title": "Hydrogen-iron flow batteries: How Elestor’s tech works",
     "link": "https://www.energy-storage.news/elestor-hydrogen-iron-flow-battery/",
     "date": "2026-08-05T11:04:35.000Z",
     "source": "Energy Storage News"
-  },
-  {
-    "title": "Sudan exempts solar systems from custom duties",
-    "link": "https://www.pv-magazine.com/2026/08/05/sudan-exempts-solar-pv-systems-from-custom-duties/",
-    "date": "2026-08-05T11:00:00.000Z",
-    "source": "PV Magazine"
   },
   {
     "title": "KKR’s ContourGlobal begins construction of ‘Sun at Night’ solar-plus-storage project in Chile",
@@ -54,28 +78,10 @@
     "source": "Energy Storage News"
   },
   {
-    "title": "Australia expands rooftop solar rebate scheme",
-    "link": "https://www.pv-magazine.com/2026/08/05/expansion-of-rooftop-solar-rebate-scheme-to-unlock-australias-missing-middle/",
-    "date": "2026-08-05T10:30:00.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "UK July Roundup: Engie commissions 100MW, Fidra and Masdar FIDs, Eku buys big, consents for Aura, Starlight",
-    "link": "https://www.energy-storage.news/uk-engie-commissions-100mw-fidra-masdar-fids-eku-buys-big-consents-for-aura-starlight/",
-    "date": "2026-08-05T09:32:32.000Z",
-    "source": "Energy Storage News"
-  },
-  {
     "title": "Altech stellt CERENERGY-Projekt in Sachsen ein",
     "link": "https://battery-news.de/2026/08/05/altech-stellt-cerenergy-projekt-in-sachsen-ein/",
     "date": "2026-08-05T06:00:00.000Z",
     "source": "Battery-News.de"
-  },
-  {
-    "title": "Japan: Tokyo Gas enters offtake for 200MWh Fukushima BESS, Eku Energy nears completion of first project",
-    "link": "https://www.energy-storage.news/japan-tokyo-gas-enters-offtake-for-200mwh-fukushima-bess-eku-energy-nears-completion-of-first-project/",
-    "date": "2026-08-05T05:35:14.000Z",
-    "source": "Energy Storage News"
   },
   {
     "title": "EU startet Förderaufruf für Batteriezellfabriken mit 1,5 Milliarden Euro",
@@ -99,12 +105,6 @@
     "title": "Hongqi meldet Fortschritte bei Ultra-Schnellladebatterie",
     "link": "https://battery-news.de/2026/07/30/hongqi-meldet-fortschritte-bei-ultra-schnellladebatterie/",
     "date": "2026-07-30T06:00:00.000Z",
-    "source": "Battery-News.de"
-  },
-  {
-    "title": "BMW startet Serienfertigung von iX5-Batterien in Woodruff im Dezember",
-    "link": "https://battery-news.de/2026/07/29/bmw-startet-serienfertigung-von-ix5-batterien-in-woodruff-im-dezember/",
-    "date": "2026-07-29T06:00:00.000Z",
     "source": "Battery-News.de"
   }
 ]
