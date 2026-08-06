@@ -1,8 +1,68 @@
 [
   {
-    "title": "India targets 5 GW of floating PV with co-located storage",
-    "link": "https://www.pv-magazine.com/2026/08/06/india-approves-inr-5070-crore-scheme-for-5-gw-of-floating-solar-with-storage/",
-    "date": "2026-08-06T08:30:00.000Z",
+    "title": "EU’s Chinese inverter ban could be sign of things to come for BESS, ex-Northvolt BESS exec says",
+    "link": "https://www.energy-storage.news/eus-chinese-inverter-ban-could-be-sign-of-things-to-come-for-bess-ex-northvolt-bess-exec-says/",
+    "date": "2026-08-06T13:07:46.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "DC Circuit Court of Appeals upholds FERC plan to speed up permitting for US energy projects&#8217; grid interconnection",
+    "link": "https://www.energy-storage.news/dc-circuit-court-of-appeals-upholds-ferc-plan-to-speed-up-permitting-for-us-energy-projects-grid-interconnection/",
+    "date": "2026-08-06T12:50:06.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "PJM BESS developers&#8217; struggles to get financing are often due to inaccurate financial modelling, enSights CEO says",
+    "link": "https://www.energy-storage.news/pjm-bess-developers-struggles-to-get-financing-are-often-due-to-inaccurate-financial-modelling-ensights-ceo-says/",
+    "date": "2026-08-06T12:36:59.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Latvia’s solar capacity surpasses 1.5 GW",
+    "link": "https://www.pv-magazine.com/2026/08/06/latvias-solar-capacity-surpasses-1-5-gw/",
+    "date": "2026-08-06T12:30:00.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Finnish push for data center flexibility",
+    "link": "https://www.pv-magazine.com/2026/08/06/finnish-push-for-data-center-flexibility/",
+    "date": "2026-08-06T12:00:00.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Ørsted turns on 500 MWh battery project with co-located solar in Texas",
+    "link": "https://www.pv-magazine.com/2026/08/06/orsted-turns-on-500-mwh-battery-project-with-co-located-solar-in-texas/",
+    "date": "2026-08-06T11:30:00.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Ørsted puts 500MWh Old 300 Texas BESS into operation",
+    "link": "https://www.energy-storage.news/orsted-puts-500mwh-old-300-texas-bess-into-operation/",
+    "date": "2026-08-06T11:21:34.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Zelestra and Centrica Energy agree toll for 99MW/297MWh Germany BESS",
+    "link": "https://www.energy-storage.news/zelestra-centrica-energy-agree-toll-99mw-297mwh-germany-bess/",
+    "date": "2026-08-06T11:17:29.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "South Korea proceeds with largest single-site PV project to date",
+    "link": "https://www.pv-magazine.com/2026/08/06/south-korea-proceeds-with-largest-single-site-pv-project-to-date/",
+    "date": "2026-08-06T11:00:00.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Philippines plans green energy auction for agrivoltaics, aquavoltaics",
+    "link": "https://www.pv-magazine.com/2026/08/06/philippines-plans-green-energy-auction-for-agrivoltaics-aquavoltaics/",
+    "date": "2026-08-06T10:30:00.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Researchers compare PV, wind, hybrid systems for community-scale energy",
+    "link": "https://www.pv-magazine.com/2026/08/06/researchers-compare-pv-wind-hybrid-systems-for-community-scale-energy/",
+    "date": "2026-08-06T09:30:00.000Z",
     "source": "PV Magazine"
   },
   {
@@ -12,70 +72,10 @@
     "source": "Energy Storage News"
   },
   {
-    "title": "Agrivoltaics improve grape quality in Mediterranean rainfed vineyards",
-    "link": "https://www.pv-magazine.com/2026/08/06/agrivoltaics-improve-grape-quality-in-mediterranean-rainfed-vineyards/",
-    "date": "2026-08-06T08:00:00.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "US data centers turn to on-site solar, storage, VPPs as grid delays mount",
-    "link": "https://www.pv-magazine.com/2026/08/06/transmission-logjams-and-ai-load-growth-push-data-centers-toward-on-site-solar-storage-and-vpps/",
-    "date": "2026-08-06T07:30:00.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "PV recycling challenges unlikely to be the same everywhere",
-    "link": "https://www.pv-magazine.com/2026/08/06/pv-recycling-challenges-unlikely-to-be-the-same-everywhere/",
-    "date": "2026-08-06T07:00:00.000Z",
-    "source": "PV Magazine"
-  },
-  {
     "title": "Samsung SDI startet US-Produktion von LFP-Batteriezellen im Oktober",
     "link": "https://battery-news.de/2026/08/06/samsung-sdi-startet-us-produktion-von-lfp-batteriezellen-im-oktober/",
     "date": "2026-08-06T06:00:00.000Z",
     "source": "Battery-News.de"
-  },
-  {
-    "title": "Australian Vanadium, Alcoa evaluate 50-80MW vanadium flow battery for WA alumina refineries",
-    "link": "https://www.energy-storage.news/australian-vanadium-alcoa-evaluate-50-80mw-vanadium-flow-battery-for-wa-alumina-refineries/",
-    "date": "2026-08-06T04:07:15.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "Chinese authorities suspend 18.33 GW ingot expansion over 3-for-1 capacity requirement",
-    "link": "https://www.pv-magazine.com/2026/08/05/chinese-authorities-suspend-18-33-gw-ingot-expansion-over-3-for-1-capacity-requirement/",
-    "date": "2026-08-05T12:40:00.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Bangladesh hits 1 GW rooftop solar capacity",
-    "link": "https://www.pv-magazine.com/2026/08/05/bangladesh-hits-1-gw-rooftop-solar-capacity/",
-    "date": "2026-08-05T12:20:00.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Base Power raises another US$1 billion in Series D financing for US residential BESS",
-    "link": "https://www.energy-storage.news/base-power-raises-another-us1-billion-in-series-d-financing-for-us-residential-bess/",
-    "date": "2026-08-05T11:56:06.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "Hydrogen-iron flow batteries: How Elestor’s tech works",
-    "link": "https://www.energy-storage.news/elestor-hydrogen-iron-flow-battery/",
-    "date": "2026-08-05T11:04:35.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "KKR’s ContourGlobal begins construction of ‘Sun at Night’ solar-plus-storage project in Chile",
-    "link": "https://www.energy-storage.news/kkrs-contourglobal-begins-construction-of-sun-at-night-solar-plus-storage-project-in-chile/",
-    "date": "2026-08-05T10:49:14.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "Invinity sells 43MWh long-duration flow battery system to US Midwest rural electric cooperative",
-    "link": "https://www.energy-storage.news/invinity-sells-43mwh-long-duration-flow-battery-system-to-us-midwest-rural-electric-cooperative/",
-    "date": "2026-08-05T10:31:52.000Z",
-    "source": "Energy Storage News"
   },
   {
     "title": "Altech stellt CERENERGY-Projekt in Sachsen ein",
