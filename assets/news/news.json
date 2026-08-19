@@ -1,5 +1,47 @@
 [
   {
+    "title": "Freyr Energy launches silicon carbide inverters for residential applications",
+    "link": "https://www.pv-magazine.com/2026/08/19/freyr-energy-launches-sic-solar-inverters-for-residential-rooftops/",
+    "date": "2026-08-19T06:43:45.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "I-V screening for decommissioned PV modules",
+    "link": "https://www.pv-magazine.com/2026/08/19/i-v-screening-for-decommissioned-pv-modules/",
+    "date": "2026-08-19T06:15:39.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "LG Energy Solution startet Batterieproduktion im neuen Werk in Lansing",
+    "link": "https://battery-news.de/2026/08/19/lg-energy-solution-startet-batterieproduktion-im-neuen-werk-in-lansing/",
+    "date": "2026-08-19T06:00:00.000Z",
+    "source": "Battery-News.de"
+  },
+  {
+    "title": "Translucent Energy launches 1.2 GW solar module factory in South Carolina",
+    "link": "https://www.pv-magazine.com/2026/08/19/translucent-energy-launches-1-2-gw-solar-module-factory-in-south-carolina/",
+    "date": "2026-08-19T05:51:21.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "India’s model solar villages",
+    "link": "https://www.pv-magazine.com/2026/08/19/indias-model-solar-villages/",
+    "date": "2026-08-19T04:00:00.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "CATL&#8217;s Robin Zeng says non-zero-carbon batteries will be left behind by the times",
+    "link": "https://www.energy-storage.news/catls-robin-zeng-says-non-zero-carbon-batteries-will-be-left-behind-by-the-times/",
+    "date": "2026-08-19T03:57:37.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "EtaPRO deploys digital twin and predictive analytics at MGA Thermal&#8217;s 5MWh Tomago plant in Australia",
+    "link": "https://www.energy-storage.news/etapro-deploys-digital-twin-and-predictive-analytics-at-mga-thermals-5mwh-tomago-plant-in-australia/",
+    "date": "2026-08-19T02:47:13.000Z",
+    "source": "Energy Storage News"
+  },
+  {
     "title": "Portugal works towards 3 GW battery storage target by 2030",
     "link": "https://www.pv-magazine.com/2026/08/18/portugal-works-towards-3-gw-battery-storage-target-by-2030/",
     "date": "2026-08-18T14:06:51.000Z",
@@ -16,30 +58,6 @@
     "link": "https://www.energy-storage.news/california-advances-two-bills-to-expand-virtual-power-plants-reduce-energy-rates/",
     "date": "2026-08-18T12:41:23.000Z",
     "source": "Energy Storage News"
-  },
-  {
-    "title": "Malta prepares second 2026 renewable energy auction",
-    "link": "https://www.pv-magazine.com/2026/08/18/malta-prepares-second-2026-renewable-energy-auction/",
-    "date": "2026-08-18T12:30:00.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Germany allocates 2.1 GW in latest ground-mounted PV tender, lowest bid comes in at €0.043/kWh",
-    "link": "https://www.pv-magazine.com/2026/08/18/germany-allocates-2-1-gw-in-latest-ground-mounted-pv-tender-lowest-bid-comes-in-at-e0-043-kwh/",
-    "date": "2026-08-18T11:52:04.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "India adds record 27 GW of solar capacity in H1",
-    "link": "https://www.pv-magazine.com/2026/08/18/india-adds-record-27-gw-of-solar-capacity-in-h1/",
-    "date": "2026-08-18T11:27:56.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Canadian Solar says patent dispute with Maxeon is formally terminated",
-    "link": "https://www.pv-magazine.com/2026/08/18/canadian-solar-says-patent-dispute-with-maxeon-is-formally-terminated/",
-    "date": "2026-08-18T11:19:34.000Z",
-    "source": "PV Magazine"
   },
   {
     "title": "Startup Heron Power to build 40GW power conversion manufacturing facility in California",
@@ -60,22 +78,10 @@
     "source": "Energy Storage News"
   },
   {
-    "title": "Huawei unveils DC ESS solution and 800-ampere liquid-cooled charging to overcome grid capacity constraints",
-    "link": "https://www.energy-storage.news/huawei-dc-ess-solution-800-ampere-liquid-cooled-charging-overcome-grid-capacity-constraints/",
-    "date": "2026-08-18T10:29:01.000Z",
-    "source": "Energy Storage News"
-  },
-  {
     "title": "CATL erklärt Kerngeschäft für CO₂-neutral",
     "link": "https://battery-news.de/2026/08/18/catl-erklaert-kerngeschaeft-fuer-co%e2%82%82-neutral/",
     "date": "2026-08-18T06:00:00.000Z",
     "source": "Battery-News.de"
-  },
-  {
-    "title": "China&#8217;s energy storage market doubles in size for second consecutive year as price inflection point emerges",
-    "link": "https://www.energy-storage.news/chinas-energy-storage-market-doubles-in-size-for-second-consecutive-year-as-price-inflection-point-emerges/",
-    "date": "2026-08-18T04:53:04.000Z",
-    "source": "Energy Storage News"
   },
   {
     "title": "POSCO Future M steigt mit Großauftrag in den LFP-Markt ein",
@@ -99,12 +105,6 @@
     "title": "CALB überarbeitet Qualitätsprozesse nach Batterieproblemen",
     "link": "https://battery-news.de/2026/08/07/calb-ueberarbeitet-qualitaetsprozesse-nach-batterieproblemen/",
     "date": "2026-08-07T06:00:00.000Z",
-    "source": "Battery-News.de"
-  },
-  {
-    "title": "Samsung SDI startet US-Produktion von LFP-Batteriezellen im Oktober",
-    "link": "https://battery-news.de/2026/08/06/samsung-sdi-startet-us-produktion-von-lfp-batteriezellen-im-oktober/",
-    "date": "2026-08-06T06:00:00.000Z",
     "source": "Battery-News.de"
   }
 ]
