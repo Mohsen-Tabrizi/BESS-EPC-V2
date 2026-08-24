@@ -1,5 +1,47 @@
 [
   {
+    "title": "European PPA prices rise 2.3% in July",
+    "link": "https://www.pv-magazine.com/2026/08/24/european-ppa-prices-rise-2-3-in-july/",
+    "date": "2026-08-24T06:51:10.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Korean scientists unveil 10 kW chemical adsorption heat pump prototype",
+    "link": "https://www.pv-magazine.com/2026/08/24/korean-scientists-unveil-10-kw-chemical-adsorption-heat-pump-prototype/",
+    "date": "2026-08-24T06:42:40.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "ZNL und HPB planen Separator-Lieferungen für Festkörperbatterien ab 2028",
+    "link": "https://battery-news.de/2026/08/24/znl-und-hpb-planen-separator-lieferungen-fuer-festkoerperbatterien-ab-2028/",
+    "date": "2026-08-24T06:00:00.000Z",
+    "source": "Battery-News.de"
+  },
+  {
+    "title": "India hits $0.068/kWh tariff in 4-hour peak renewable power tender",
+    "link": "https://www.pv-magazine.com/2026/08/24/seci-discovers-inr-5-99-kwh-tariff-for-4-hour-peak-renewable-power/",
+    "date": "2026-08-24T05:50:46.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Quinbrook advances plans for polysilicon factory in Australia",
+    "link": "https://www.pv-magazine.com/2026/08/24/quinbrook-advances-plans-for-polysilicon-production-plant/",
+    "date": "2026-08-24T05:36:39.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "US updates foreign inverter ban to include wired devices",
+    "link": "https://www.pv-magazine.com/2026/08/24/fcc-updates-foreign-inverter-ban-to-include-wired-devices-adds-45x-safe-harbor/",
+    "date": "2026-08-24T05:33:55.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Quinbrook taps GE Vernova and CATL for the third stage of Australia’s largest battery storage system",
+    "link": "https://www.energy-storage.news/quinbrook-taps-ge-vernova-and-catl-for-the-third-stage-of-australias-largest-battery-storage-system/",
+    "date": "2026-08-24T01:27:43.000Z",
+    "source": "Energy Storage News"
+  },
+  {
     "title": "AC-Coupled vs. DC-Coupled",
     "link": "https://www.pv-magazine.com/2026/08/22/ac-coupled-vs-dc-coupled/",
     "date": "2026-08-22T04:00:00.000Z",
@@ -12,40 +54,10 @@
     "source": "Battery-News.de"
   },
   {
-    "title": "Austria announces energy storage offensive, shifting solar subsidy focus",
-    "link": "https://www.pv-magazine.com/2026/08/21/austria-announces-energy-storage-offensive-shifting-solar-subsidy-focus/",
-    "date": "2026-08-21T13:18:34.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Utility-scale projects drive New Zealand’s solar rollout",
-    "link": "https://www.pv-magazine.com/2026/08/21/utility-scale-projects-drive-new-zealands-solar-rollout/",
-    "date": "2026-08-21T13:13:15.000Z",
-    "source": "PV Magazine"
-  },
-  {
     "title": "&#8216;Company wasn&#8217;t ready in 2021&#8217;: ESS Inc CEO on pivoting away from iron flow batteries to sodium-ion",
     "link": "https://www.energy-storage.news/company-wasnt-ready-in-2021-ess-inc-ceo-on-pivoting-away-from-iron-flow-batteries-to-sodium-ion/",
     "date": "2026-08-21T13:08:38.000Z",
     "source": "Energy Storage News"
-  },
-  {
-    "title": "China’s Jiangsu province crosses 100 GW solar milestone",
-    "link": "https://www.pv-magazine.com/2026/08/21/chinas-jiangsu-province-crosses-100-gw-solar-milestone-as-distributed-pv-drives-growth/",
-    "date": "2026-08-21T12:40:00.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Ecoflow unveils 5 kWh residential battery line",
-    "link": "https://www.pv-magazine.com/2026/08/21/ecoflow-unveils-5-kwh-residential-battery-line/",
-    "date": "2026-08-21T12:37:25.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Chinese PV Industry Brief: polysilicon market shows tentative recovery as wafer prices surge",
-    "link": "https://www.pv-magazine.com/2026/08/21/chinese-pv-industry-brief-polysilicon-market-shows-tentative-recovery-as-wafer-prices-surge/",
-    "date": "2026-08-21T12:21:49.000Z",
-    "source": "PV Magazine"
   },
   {
     "title": "New Jersey Board of Public Utilities releases 150MW BTM energy storage proposal",
@@ -78,12 +90,6 @@
     "source": "Energy Storage News"
   },
   {
-    "title": "Key Capture Energy raises US$300 million from Standard Chartered, with NY-ISO and MISO deployments in mind",
-    "link": "https://www.energy-storage.news/key-capture-energy-raises-us300-million-from-standard-chartered-with-ny-iso-and-miso-deployments-in-mind/",
-    "date": "2026-08-20T16:08:32.000Z",
-    "source": "Energy Storage News"
-  },
-  {
     "title": "Forge Nano baut Batteriefertigung in North Carolina aus",
     "link": "https://battery-news.de/2026/08/20/forge-nano-baut-batteriefertigung-in-north-carolina-aus/",
     "date": "2026-08-20T06:00:00.000Z",
@@ -99,12 +105,6 @@
     "title": "CATL erklärt Kerngeschäft für CO₂-neutral",
     "link": "https://battery-news.de/2026/08/18/catl-erklaert-kerngeschaeft-fuer-co%e2%82%82-neutral/",
     "date": "2026-08-18T06:00:00.000Z",
-    "source": "Battery-News.de"
-  },
-  {
-    "title": "POSCO Future M steigt mit Großauftrag in den LFP-Markt ein",
-    "link": "https://battery-news.de/2026/08/17/posco-future-m-steigt-mit-grossauftrag-in-den-lfp-markt-ein/",
-    "date": "2026-08-17T06:00:00.000Z",
     "source": "Battery-News.de"
   }
 ]
