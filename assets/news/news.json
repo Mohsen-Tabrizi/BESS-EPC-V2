@@ -1,63 +1,81 @@
 [
   {
-    "title": "UK regulator plans BESS fees to cut grid connection queue",
-    "link": "https://www.pv-magazine.com/2026/09/19/uk-regulator-plans-bess-fees-to-cut-grid-connection-queue/",
-    "date": "2026-09-19T09:00:00.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Tesla’s $10.1 billion Texas solar gigafactory clears key tax hurdle",
-    "link": "https://www.pv-magazine.com/2026/09/19/teslas-10-1-billion-texas-solar-gigafactory-clears-key-tax-hurdle/",
-    "date": "2026-09-19T08:00:00.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Solar module imports drop 48% in Brazil in H1",
-    "link": "https://www.pv-magazine.com/2026/09/19/solar-module-imports-drop-48-in-brazil-in-h1/",
-    "date": "2026-09-19T07:30:00.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "German grid operator dispute limits battery use at new solar-storage hybrid plant",
-    "link": "https://www.pv-magazine.com/2026/09/19/german-grid-operator-dispute-limits-battery-use-at-new-solar-storage-hybrid-plant/",
-    "date": "2026-09-19T07:00:00.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Green hydrogen’s growing share in chemical production",
-    "link": "https://www.pv-magazine.com/2026/09/19/green-hydrogens-growing-share-in-chemical-production/",
-    "date": "2026-09-19T04:00:00.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Regulatory uncertainty threatens to slow German PV deployment in 2027",
-    "link": "https://www.pv-magazine.com/2026/09/18/regulatory-uncertainty-threatens-to-slow-german-pv-deployment-in-2027/",
-    "date": "2026-09-18T13:39:22.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "US ROUNDUP: Eos draws US$87 million DOE loan, FlexGen-Lightshift expand to 16 projects, Georgia Power energises 128MW facility",
-    "link": "https://www.energy-storage.news/us-roundup-eos-draws-us87-million-doe-loan-flexgen-lightshift-expand-to-16-projects-georgia-power-energises-128mw-facility/",
-    "date": "2026-09-18T12:36:43.000Z",
+    "title": "Google-backed pilot demonstrates hourly carbon accounting for US BESS using granular certificates",
+    "link": "https://www.energy-storage.news/google-backed-pilot-demonstrates-hourly-carbon-accounting-for-us-bess-using-granular-certificates/",
+    "date": "2026-09-21T12:16:38.000Z",
     "source": "Energy Storage News"
   },
   {
-    "title": "Jupiter Power closes US$1.4 billion financing for 10 US BESS projects totalling 3.8GWh",
-    "link": "https://www.energy-storage.news/jupiter-power-closes-us1-4-billion-financing-for-10-us-bess-projects-totalling-3-8gwh/",
-    "date": "2026-09-18T12:36:40.000Z",
+    "title": "US energy storage industry targets 225GW/1TWh deployment by end of 2032, according to Energy Storage Coalition",
+    "link": "https://www.energy-storage.news/us-energy-storage-industry-targets-225gw-1twh-deployment-by-end-of-2032-according-to-energy-storage-coalition/",
+    "date": "2026-09-21T12:13:42.000Z",
     "source": "Energy Storage News"
   },
   {
-    "title": "BESS Industry Buzz: Energy Storage Summit Germany takeaways",
-    "link": "https://www.energy-storage.news/bess-industry-buzz-energy-storage-summit-germany-takeaways/",
-    "date": "2026-09-18T10:53:05.000Z",
+    "title": "Finland proposes priority system for grid connections",
+    "link": "https://www.pv-magazine.com/2026/09/21/finland-proposes-priority-system-for-grid-connections/",
+    "date": "2026-09-21T10:55:01.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Poland market shifting to &#8216;selective, capital-disciplined phase where execution quality matters&#8217;",
+    "link": "https://www.energy-storage.news/poland-market-shifting-to-selective-capital-disciplined-phase-where-execution-quality-matters/",
+    "date": "2026-09-21T10:50:12.000Z",
     "source": "Energy Storage News"
   },
   {
-    "title": "US International Development Finance Corporation supports Ukraine BESS portfolio",
-    "link": "https://www.energy-storage.news/us-international-development-finance-corporation-supports-ukraine-bess-portfolio/",
-    "date": "2026-09-18T09:59:47.000Z",
+    "title": "Fluence and Eve Energy agree 206GWh battery supply deal",
+    "link": "https://www.energy-storage.news/fluence-and-eve-energy-agree-206gwh-battery-supply-deal/",
+    "date": "2026-09-21T10:39:06.000Z",
     "source": "Energy Storage News"
+  },
+  {
+    "title": "Already-operating battery storage projects are key to making the business case for the next assets bankable",
+    "link": "https://www.energy-storage.news/already-operating-battery-storage-projects-are-key-to-making-the-business-case-for-the-next-assets-bankable/",
+    "date": "2026-09-21T09:54:30.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "India flow battery player Delectrik talks 100MWh NTPC project award, targets gigawatt-hour order book",
+    "link": "https://www.energy-storage.news/india-flow-battery-player-delectrik-talks-100mwh-ntpc-project-award-targets-gigawatt-hour-order-book/",
+    "date": "2026-09-21T09:54:10.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Slovakia slashes residential solar subsidy, shifts support toward heat pumps",
+    "link": "https://www.pv-magazine.com/2026/09/21/slovakia-slashes-residential-solar-subsidy-shifts-support-toward-heat-pumps/",
+    "date": "2026-09-21T09:45:00.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "French startup repurposes EV batteries for solar energy storage",
+    "link": "https://www.pv-magazine.com/2026/09/21/french-startup-repurposes-ev-batteries-for-solar-energy-storage/",
+    "date": "2026-09-21T09:41:35.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Predictive control cuts costs in buildings combining PV, heat pumps, EVs, thermal storage",
+    "link": "https://www.pv-magazine.com/2026/09/21/predictive-control-cuts-costs-in-buildings-combining-pv-heat-pumps-evs-thermal-storage/",
+    "date": "2026-09-21T09:28:32.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Study finds potential for 150 GW of additional PV at substations in Germany",
+    "link": "https://www.pv-magazine.com/2026/09/21/study-finds-potential-for-150-gw-of-additional-pv-at-substations-in-germany/",
+    "date": "2026-09-21T09:20:11.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "How grid-forming and AI technologies are helping overcome barriers to renewable growth",
+    "link": "https://www.pv-magazine.com/2026/09/21/how-grid-forming-and-ai-technologies-are-helping-overcome-barriers-to-renewable-growth/",
+    "date": "2026-09-21T09:00:00.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Feststoffbatterien: Factorial kooperiert mit Mitsui Kinzoku",
+    "link": "https://battery-news.de/2026/09/21/feststoffbatterien-factorial-kooperiert-mit-mitsui-kinzoku/",
+    "date": "2026-09-21T06:00:00.000Z",
+    "source": "Battery-News.de"
   },
   {
     "title": "E-Mobility Production Awards: Bewerbungen für Community Award bis 1. Oktober",
@@ -70,18 +88,6 @@
     "link": "https://battery-news.de/2026/09/18/panasonic-energy-buendelt-batterieentwicklung-am-neuen-standort-in-kadoma/",
     "date": "2026-09-18T06:00:00.000Z",
     "source": "Battery-News.de"
-  },
-  {
-    "title": "Australia’s NSW firming tender delivers 3GWh of battery storage as all Round 2 projects go operational",
-    "link": "https://www.energy-storage.news/australias-nsw-firming-tender-delivers-3gwh-of-battery-storage-as-all-round-2-projects-go-operational/",
-    "date": "2026-09-18T00:25:42.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "Hithium unveils 20,000-cycle sodium-ion cell and 4MWh BESS",
-    "link": "https://www.energy-storage.news/hithium-unveils-20000-cycle-sodium-ion-cell-and-4mwh-bess/",
-    "date": "2026-09-17T13:25:53.000Z",
-    "source": "Energy Storage News"
   },
   {
     "title": "CATL stellt TECTRANS II für elektrische Nutzfahrzeuge vor",
@@ -99,12 +105,6 @@
     "title": "BME und CATL planen Batteriewerk in Ägypten",
     "link": "https://battery-news.de/2026/09/15/bme-und-catl-planen-batteriewerk-in-aegypten/",
     "date": "2026-09-15T06:00:00.000Z",
-    "source": "Battery-News.de"
-  },
-  {
-    "title": "R3 Lithium startet Produktion von Lithiumcarbonat aus Altbatterien",
-    "link": "https://battery-news.de/2026/09/14/r3-lithium-startet-produktion-von-lithiumcarbonat-aus-altbatterien/",
-    "date": "2026-09-14T06:00:00.000Z",
     "source": "Battery-News.de"
   }
 ]
