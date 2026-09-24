@@ -1,74 +1,80 @@
 [
   {
+    "title": "Brazil power producers call for BESS framework and curtailment rules",
+    "link": "https://www.pv-magazine.com/2026/09/24/brazil-power-producers-call-for-bess-framework-and-curtailment-rules/",
+    "date": "2026-09-24T11:09:59.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Websol secures land for 4 GW solar cell and module factory in India",
+    "link": "https://www.pv-magazine.com/2026/09/24/websol-allotted-land-for-4-gw-solar-cell-and-module-facility-in-west-bengal/",
+    "date": "2026-09-24T11:01:40.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "NYSERDA picks eight projects for New York utility-scale energy storage programme",
+    "link": "https://www.energy-storage.news/nyserda-picks-eight-projects-for-new-york-utility-scale-energy-storage-programme/",
+    "date": "2026-09-24T10:56:33.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Second-life PV modules turned into solar balconies in Germany",
+    "link": "https://www.pv-magazine.com/2026/09/24/second-life-pv-modules-turned-into-solar-balconies-in-germany/",
+    "date": "2026-09-24T10:50:42.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Zambia commissions 100 MW solar project",
+    "link": "https://www.pv-magazine.com/2026/09/24/zambia-commissions-100-mw-solar-project/",
+    "date": "2026-09-24T10:44:14.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Daikin unveils air-to-air heat pumps for highly insulated homes",
+    "link": "https://www.pv-magazine.com/2026/09/24/daikin-unveils-air-to-air-heat-pumps-for-highly-insulated-homes/",
+    "date": "2026-09-24T10:43:31.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Greenvolt starts building 2.4GWh, BYD-supplied Poland BESS; 900MWh progressed elsewhere in CEE/Baltics",
+    "link": "https://www.energy-storage.news/greenvolt-starts-building-2-4gwh-byd-supplied-poland-bess-900mwh-progressed-elsewhere-in-cee-baltics/",
+    "date": "2026-09-24T10:07:43.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "EU Battery Passport will be an evolving tool rather than a one-off",
+    "link": "https://www.energy-storage.news/eu-battery-passport-will-be-an-evolving-tool-rather-than-a-one-off/",
+    "date": "2026-09-24T10:00:41.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Spain plans to allocate 11 GW of grid capacity for renewables, storage",
+    "link": "https://www.pv-magazine.com/2026/09/24/spain-plans-to-allocated-11-gw-of-grid-capacity-for-renewables-storage/",
+    "date": "2026-09-24T09:46:04.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Nvidia selects three BESS solutions for new AI facilities qualification programme",
+    "link": "https://www.energy-storage.news/nvidia-selects-three-bess-solutions-new-ai-facilities-qualification-programme/",
+    "date": "2026-09-24T08:49:35.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "GM erprobt Kreislauf für EV-Batteriematerial",
+    "link": "https://battery-news.de/2026/09/24/gm-erprobt-kreislauf-fuer-ev-batteriematerial/",
+    "date": "2026-09-24T06:00:00.000Z",
+    "source": "Battery-News.de"
+  },
+  {
+    "title": "AGL submits 1.45GWh BESS to Australia’s EPBC Act, investigates 4GWh Bathurst Battery in New South Wales",
+    "link": "https://www.energy-storage.news/agl-submits-1-45gwh-bess-to-australias-epbc-act-investigates-4gwh-bathurst-battery-in-new-south-wales/",
+    "date": "2026-09-24T03:48:26.000Z",
+    "source": "Energy Storage News"
+  },
+  {
     "title": "Developers Valent, Akaysha advance 550MW of NEM-connected BESS in Victoria, Australia",
     "link": "https://www.energy-storage.news/developers-valent-akaysha-advance-550mw-of-nem-connected-bess-in-victoria-australia/",
     "date": "2026-09-24T03:20:07.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "Poland offers 76 TWh in November renewables auctions",
-    "link": "https://www.pv-magazine.com/2026/09/23/poland-offers-76-twh-in-november-renewables-auctions/",
-    "date": "2026-09-23T14:45:00.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Amazon, Nadara switch on 277 MW agrivoltaic facility in Italy",
-    "link": "https://www.pv-magazine.com/2026/09/23/amazon-nadara-switch-on-277-mw-agricoltaic-facility-in-italy/",
-    "date": "2026-09-23T12:45:52.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Blue wafers are fundamentally undermining U.S. solar manufacturing",
-    "link": "https://www.pv-magazine.com/2026/09/23/blue-wafers-are-fundamentally-undermining-u-s-solar-manufacturing/",
-    "date": "2026-09-23T12:35:08.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "How transferability and US-China tensions are transforming US BESS and renewables financing",
-    "link": "https://www.energy-storage.news/how-transferability-and-us-china-tensions-are-transforming-us-bess-and-renewables-financing/",
-    "date": "2026-09-23T11:39:26.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "Ukraine adds 1.1 GW of solar in H1",
-    "link": "https://www.pv-magazine.com/2026/09/23/ukraine-adds-1-1-gw-of-solar-in-h1/",
-    "date": "2026-09-23T11:39:11.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "GridStor closes US$220 million financing for 400MWh Arizona BESS",
-    "link": "https://www.energy-storage.news/gridstor-closes-us220-million-financing-for-400mwh-arizona-bess/",
-    "date": "2026-09-23T11:38:18.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "UK regulator looks to cut down BESS interconnection backlog with extra financial commitment",
-    "link": "https://www.energy-storage.news/uk-regulator-looks-to-cut-down-bess-interconnection-backlog-with-extra-financial-commitment/",
-    "date": "2026-09-23T11:08:06.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "South Korea tenders 6.6 GWh of six-hour storage under 15-year contracts",
-    "link": "https://www.pv-magazine.com/2026/09/23/south-korea-tenders-6-6-gwh-of-six-hour-storage-under-15-year-contracts/",
-    "date": "2026-09-23T10:34:27.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Modified consumer camera can measure solar cell open-circuit voltage",
-    "link": "https://www.pv-magazine.com/2026/09/23/modified-consumer-camera-can-measure-solar-cell-open-circuit-voltage/",
-    "date": "2026-09-23T10:30:17.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Compressed air energy storage (CAES): yet to deliver on promises, can A-CAES go one step further?",
-    "link": "https://www.energy-storage.news/compressed-air-energy-storage-caes-yet-to-deliver-on-promises-can-a-caes-go-one-step-further/",
-    "date": "2026-09-23T10:23:09.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "CATL to supply 918MWh Romania BESS, another 500MWh of projects progress elsewhere in CEE",
-    "link": "https://www.energy-storage.news/catl-supply-918mwh-romania-bess-another-500mwh-projects-progress-elsewhere-in-cee/",
-    "date": "2026-09-23T10:21:46.000Z",
     "source": "Energy Storage News"
   },
   {
@@ -99,12 +105,6 @@
     "title": "Panasonic Energy bündelt Batterieentwicklung am neuen Standort in Kadoma",
     "link": "https://battery-news.de/2026/09/18/panasonic-energy-buendelt-batterieentwicklung-am-neuen-standort-in-kadoma/",
     "date": "2026-09-18T06:00:00.000Z",
-    "source": "Battery-News.de"
-  },
-  {
-    "title": "CATL stellt TECTRANS II für elektrische Nutzfahrzeuge vor",
-    "link": "https://battery-news.de/2026/09/17/catl-stellt-tectrans-ii-fuer-elektrische-nutzfahrzeuge-vor/",
-    "date": "2026-09-17T06:00:00.000Z",
     "source": "Battery-News.de"
   }
 ]
