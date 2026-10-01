@@ -1,5 +1,71 @@
 [
   {
+    "title": "South Korea grid overhaul to connect more than 100 GW of renewables",
+    "link": "https://www.pv-magazine.com/2026/10/01/south-korea-grid-overhaul-to-connect-more-than-100-gw-of-renewables/",
+    "date": "2026-10-01T12:30:00.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Two-stage pyrolysis process turns waste solar panels into silicon carbide",
+    "link": "https://www.pv-magazine.com/2026/10/01/two-stage-pyrolysis-process-turns-waste-solar-panels-into-silicon-carbide/",
+    "date": "2026-10-01T12:18:39.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Spanish researchers validate 10,000 cycles for iron-lead flow battery",
+    "link": "https://www.pv-magazine.com/2026/10/01/spanish-researchers-validate-10000-cycles-for-iron-lead-flow-battery/",
+    "date": "2026-10-01T11:24:56.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Ireland energizes first SRESS solar farm, opening new revenue opportunities for farmers and landowners",
+    "link": "https://www.pv-magazine.com/2026/10/01/ireland-energizes-first-sress-solar-farm-opening-new-revenue-opportunities-for-farmers-and-landowners/",
+    "date": "2026-10-01T11:15:00.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Wärtsilä’s energy storage division rebrands through RCT Solar joint venture",
+    "link": "https://www.energy-storage.news/wartsilas-energy-storage-division-rebrands-through-rct-solar-joint-venture/",
+    "date": "2026-10-01T11:12:19.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Indian PV manufacturer Vishakha Renewables files for IPO",
+    "link": "https://www.pv-magazine.com/2026/10/01/adani-group-backed-vishakha-renewables-files-for-ipo/",
+    "date": "2026-10-01T10:30:48.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "A closer look at Marstek&#8217;s 5 kWh plug-in battery",
+    "link": "https://www.pv-magazine.com/2026/10/01/a-closer-look-at-marsteks-5-kwh-plug-in-battery/",
+    "date": "2026-10-01T10:08:53.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "California Energy Commission’s Noemí Gallardo on the state&#8217;s BESS expansion",
+    "link": "https://www.energy-storage.news/california-energy-commissions-noemi-gallardo-on-the-states-bess-expansion/",
+    "date": "2026-10-01T09:57:48.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "‘It will work, and it&#8217;ll be in Australia’: EORA Energy on the future of vanadium flow batteries",
+    "link": "https://www.energy-storage.news/it-will-work-and-itll-be-in-australia-eora-energy-on-the-future-of-vanadium-flow-batteries/",
+    "date": "2026-10-01T08:39:24.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Sungrow completes 108MW grid-forming battery storage system with black start capability in Cambodia",
+    "link": "https://www.energy-storage.news/sungrow-completes-108mw-grid-forming-battery-storage-system-with-black-start-capability-in-cambodia/",
+    "date": "2026-10-01T08:31:04.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "“Refinyx” übernimmt Batterierecycling-Technologie von Northvolt",
+    "link": "https://battery-news.de/2026/10/01/refinyx-uebernimmt-batterierecycling-technologie-von-northvolt/",
+    "date": "2026-10-01T06:00:00.000Z",
+    "source": "Battery-News.de"
+  },
+  {
     "title": "Financial services group Orix builds 589MWh of BESS in Japan after securing first external investment",
     "link": "https://www.energy-storage.news/financial-services-group-orix-builds-589mwh-of-bess-in-japan-after-securing-first-external-investment/",
     "date": "2026-10-01T02:58:48.000Z",
@@ -18,70 +84,10 @@
     "source": "Battery-News.de"
   },
   {
-    "title": "The rationale behind the UK&#8217;s largest compressed air energy storage plan",
-    "link": "https://www.pv-magazine.com/2026/09/30/the-rationale-behind-the-uks-largest-compressed-air-energy-storage-plan/",
-    "date": "2026-09-30T12:30:00.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Over Easy Solar launches 256 W vertical rooftop PV unit",
-    "link": "https://www.pv-magazine.com/2026/09/30/over-easy-solar-launches-256-w-vertical-rooftop-pv-unit/",
-    "date": "2026-09-30T12:08:47.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Chinese scientists develop hydrogen-powered CO₂ heat pump with PCM storage",
-    "link": "https://www.pv-magazine.com/2026/09/30/chinese-scientists-develop-hydrogen-powered-co%e2%82%82-heat-pump-with-pcm-storage/",
-    "date": "2026-09-30T11:37:01.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "US utilities Ameren Missouri, DTE Energy in Michigan, and Black Hills Energy in Colorado submit IRPs with highlighted BESS additions",
-    "link": "https://www.energy-storage.news/us-utilities-ameren-missouri-dte-energy-in-michigan-and-black-hills-energy-in-colorado-submit-irps-with-highlighted-bess-additions/",
-    "date": "2026-09-30T11:13:13.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "Northland Power puts Canadian province of Alberta’s largest BESS into operation",
-    "link": "https://www.energy-storage.news/northland-power-puts-canadian-province-of-albertas-largest-bess-into-operation/",
-    "date": "2026-09-30T11:08:35.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "Fox ESS launches modular C&#038;I battery system scalable to 96 MWh",
-    "link": "https://www.pv-magazine.com/2026/09/30/fox-ess-launches-modular-ci-battery-system-scalable-to-96-mwh/",
-    "date": "2026-09-30T10:50:27.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "EU’s largest solar project reaches financial close",
-    "link": "https://www.pv-magazine.com/2026/09/30/eus-largest-solar-project-reaches-financial-close/",
-    "date": "2026-09-30T10:47:25.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Belgium reveals results of PV cable assessment",
-    "link": "https://www.pv-magazine.com/2026/09/30/belgium-reveals-results-of-pv-cable-assessment/",
-    "date": "2026-09-30T10:43:40.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Volkswagen’s new LFP battery JVs with Gotion will adjust EV and BESS cell production split based on demand",
-    "link": "https://www.energy-storage.news/volkswagens-new-lfp-battery-jvs-with-gotion-will-adjust-ev-and-bess-cell-production-split-based-on-demand/",
-    "date": "2026-09-30T09:07:34.000Z",
-    "source": "Energy Storage News"
-  },
-  {
     "title": "GM und LG rüsten Werk in Tennessee für günstigere LMR-Batteriezellen um",
     "link": "https://battery-news.de/2026/09/30/gm-und-lg-ruesten-werk-in-tennessee-fuer-guenstigere-lmr-batteriezellen-um/",
     "date": "2026-09-30T08:40:00.000Z",
     "source": "Battery-News.de"
-  },
-  {
-    "title": "Availability: Why this BESS performance metric matters so much, and how to calculate it",
-    "link": "https://www.energy-storage.news/availability-why-this-bess-performance-metric-matters-so-much-and-how-to-calculate-it/",
-    "date": "2026-09-30T07:56:44.000Z",
-    "source": "Energy Storage News"
   },
   {
     "title": "Volkswagen und Gotion planen drei Batterie-Joint-Ventures",
@@ -99,12 +105,6 @@
     "title": "Batterietestzentren in Europa",
     "link": "https://battery-news.de/2026/09/25/batterietestzentren-in-europa/",
     "date": "2026-09-25T07:30:00.000Z",
-    "source": "Battery-News.de"
-  },
-  {
-    "title": "Volkswagen verzögert Batterieproduktion in Ontario um zwei Jahre",
-    "link": "https://battery-news.de/2026/09/25/volkswagen-verzoegert-batterieproduktion-in-ontario-um-zwei-jahre/",
-    "date": "2026-09-25T06:00:00.000Z",
     "source": "Battery-News.de"
   }
 ]
