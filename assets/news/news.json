@@ -1,5 +1,23 @@
 [
   {
+    "title": "Everything’s bigger in Texas",
+    "link": "https://www.pv-magazine.com/2026/10/08/everythings-bigger-in-texas/",
+    "date": "2026-10-08T16:00:00.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "EU expert group urges curbs on high-risk solar suppliers",
+    "link": "https://www.pv-magazine.com/2026/10/08/eu-expert-group-urges-curbs-on-high-risk-solar-suppliers/",
+    "date": "2026-10-08T14:30:00.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "South Africa to procure 4.6 GW of battery storage",
+    "link": "https://www.pv-magazine.com/2026/10/08/south-africa-to-procure-4-6-gw-of-battery-storage/",
+    "date": "2026-10-08T14:14:39.000Z",
+    "source": "PV Magazine"
+  },
+  {
     "title": "Sungrow patches iSolarCloud vulnerability after security researchers gain access",
     "link": "https://www.pv-magazine.com/2026/10/08/sungrow-patches-isolarcloud-vulnerability-after-security-researchers-gain-access/",
     "date": "2026-10-08T12:00:00.000Z",
@@ -24,22 +42,10 @@
     "source": "PV Magazine"
   },
   {
-    "title": "Tata Power to pilot membrane-based floating solar with Norway’s Ocean Sun",
-    "link": "https://www.pv-magazine.com/2026/10/08/tata-power-to-pilot-membrane-based-floating-solar-with-norways-ocean-sun/",
-    "date": "2026-10-08T09:49:16.000Z",
-    "source": "PV Magazine"
-  },
-  {
     "title": "B2U CEO: US second-life BESS can compete with &#8216;China price&#8217;",
     "link": "https://www.energy-storage.news/b2u-ceo-us-second-life-bess-can-compete-with-china-price/",
     "date": "2026-10-08T09:46:50.000Z",
     "source": "Energy Storage News"
-  },
-  {
-    "title": "Global PV oversupply accelerates consolidation, regional price divergence",
-    "link": "https://www.pv-magazine.com/2026/10/08/global-pv-oversupply-accelerates-consolidation-regional-price-divergence/",
-    "date": "2026-10-08T09:24:17.000Z",
-    "source": "PV Magazine"
   },
   {
     "title": "Return puts Netherlands&#8217; largest BESS online",
@@ -48,14 +54,14 @@
     "source": "Energy Storage News"
   },
   {
-    "title": "Hungary extends deadline for troubled EU-funded residential solar scheme",
-    "link": "https://www.pv-magazine.com/2026/10/08/hungary-extends-deadline-for-troubled-eu-funded-residential-solar-scheme/",
+    "title": "Kathodentrocknung effizient steuern: Wie präzise Taupunktmessung Energiekosten senkt",
+    "link": "https://battery-news.de/2026/10/08/kathodentrocknung-effizient-steuern-wie-praezise-taupunktmessung-energiekosten-senkt/",
     "date": "2026-10-08T09:00:00.000Z",
-    "source": "PV Magazine"
+    "source": "Battery-News.de"
   },
   {
-    "title": "Global BESS failure rates declined 99% between 2018 and 2025",
-    "link": "https://www.energy-storage.news/global-bess-failure-rates-declined-99-between-2018-and-2025/",
+    "title": "Global BESS failure rates declined 98% between 2018 and 2025",
+    "link": "https://www.energy-storage.news/global-bess-failure-rates-declined-98-between-2018-and-2025/",
     "date": "2026-10-08T08:48:16.000Z",
     "source": "Energy Storage News"
   },
@@ -99,12 +105,6 @@
     "title": "Batteriezellen „Made in Grünheide“: Wie Tesla Europas Zellfertigung skalieren will",
     "link": "https://battery-news.de/2026/10/02/batteriezellen-made-in-gruenheide-wie-tesla-europas-zellfertigung-skalieren-will/",
     "date": "2026-10-02T07:30:00.000Z",
-    "source": "Battery-News.de"
-  },
-  {
-    "title": "SK On bestellt LFP-Material bei POSCO Future M",
-    "link": "https://battery-news.de/2026/10/02/sk-on-bestellt-lfp-material-bei-posco-future-m/",
-    "date": "2026-10-02T06:00:00.000Z",
     "source": "Battery-News.de"
   }
 ]
