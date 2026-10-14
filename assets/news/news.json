@@ -1,9 +1,57 @@
 [
   {
-    "title": "Smart connections",
-    "link": "https://www.pv-magazine.com/2026/10/14/smart-connections/",
-    "date": "2026-10-14T04:00:00.000Z",
+    "title": "Mercedes-Benz launches bidirectional charging in Germany",
+    "link": "https://www.pv-magazine.com/2026/10/14/mercedes-benz-launches-bidirectional-charging-in-germany/",
+    "date": "2026-10-14T10:32:29.000Z",
     "source": "PV Magazine"
+  },
+  {
+    "title": "Oswal Pumps to set up 1.2 GW TOPCon solar cell factory in India",
+    "link": "https://www.pv-magazine.com/2026/10/14/oswal-pumps-to-set-up-1-2-gw-topcon-solar-cell-manufacturing-facility/",
+    "date": "2026-10-14T09:12:04.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Heliup offers lightweight rooftop PV modules with waterproofing membrane",
+    "link": "https://www.pv-magazine.com/2026/10/14/heliup-offers-lightweight-rooftop-pv-modules-with-waterproofing-membrane/",
+    "date": "2026-10-14T09:05:41.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "South Africa’s state utility Eskom opens selection process for 1.5GW/21GWh pumped hydro plant",
+    "link": "https://www.energy-storage.news/south-africas-state-utility-eskom-opens-selection-process-for-1-5gw-21gwh-pumped-hydro-plant/",
+    "date": "2026-10-14T08:48:46.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Trina Solar researchers propose new classification of ultraviolet-induced degradation in TOPCon solar cells",
+    "link": "https://www.pv-magazine.com/2026/10/14/trina-solar-researchers-propose-new-classification-of-ultraviolet-induced-degradation-in-topcon-solar-cells/",
+    "date": "2026-10-14T08:26:26.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Early backsheet removal cuts dust from thermal PV recycling",
+    "link": "https://www.pv-magazine.com/2026/10/14/early-backsheet-removal-cuts-dust-from-thermal-pv-recycling/",
+    "date": "2026-10-14T08:15:00.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "EcoFlow launches 5-30 kWh residential storage system",
+    "link": "https://www.pv-magazine.com/2026/10/14/ecoflow-launches-5-30-kwh-residential-storage-system/",
+    "date": "2026-10-14T07:11:21.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "POSCO Future M und Samsung SDI schließen milliardenschweren LFP-Vertrag",
+    "link": "https://battery-news.de/2026/10/14/posco-future-m-und-samsung-sdi-schliessen-milliardenschweren-lfp-vertrag/",
+    "date": "2026-10-14T06:00:00.000Z",
+    "source": "Battery-News.de"
+  },
+  {
+    "title": "Europe&#8217;s battery market isn&#8217;t ready for second-life BESS business models yet",
+    "link": "https://www.energy-storage.news/europes-battery-market-isnt-ready-for-second-life-bess-business-models-yet/",
+    "date": "2026-10-14T05:37:28.000Z",
+    "source": "Energy Storage News"
   },
   {
     "title": "&#8216;Mexico&#8217;s mixed investment scheme provides clean energy investors with certainty&#8217;",
@@ -18,36 +66,6 @@
     "source": "Energy Storage News"
   },
   {
-    "title": "US power prices fall with utility-scale solar, rise with rooftop",
-    "link": "https://www.pv-magazine.com/2026/10/13/us-power-prices-fall-with-utility-scale-solar-rise-with-rooftop/",
-    "date": "2026-10-13T12:50:00.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Leapting launches autonomous forklift for solar module transport",
-    "link": "https://www.pv-magazine.com/2026/10/13/leapting-launches-autonomous-forklift-for-solar-module-transport/",
-    "date": "2026-10-13T12:35:27.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Exide launches modular 125 kW/261 kWh battery for C&#038;I applications",
-    "link": "https://www.pv-magazine.com/2026/10/13/exide-launches-modular-125-kw-261-kwh-battery-for-ci-applications/",
-    "date": "2026-10-13T12:01:23.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Three-molecule blend boosts inverted perovskite solar cell efficiency to 27.5%",
-    "link": "https://www.pv-magazine.com/2026/10/13/three-molecule-blend-boosts-inverted-perovskite-solar-cell-efficiency-to-27-5/",
-    "date": "2026-10-13T11:52:54.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Stationary, moving, flexible: Batteries are the low-cost backbone of the future energy system",
-    "link": "https://www.pv-magazine.com/2026/10/13/stationary-moving-flexible-batteries-are-the-low-cost-backbone-of-the-future-energy-system/",
-    "date": "2026-10-13T11:05:45.000Z",
-    "source": "PV Magazine"
-  },
-  {
     "title": "‘You need to get comfortable with regulatory reform as a known risk’: Battery Asset Management Summit UK &#038; Ireland kicks off",
     "link": "https://www.energy-storage.news/you-need-to-get-comfortable-with-regulatory-reform-as-a-known-risk-battery-asset-management-summit-uk-ireland-kicks-off/",
     "date": "2026-10-13T10:43:38.000Z",
@@ -57,18 +75,6 @@
     "title": "Foss &#038; Company closes US$58 million tax equity deal for GridStor&#8217;s Texas BESS project",
     "link": "https://www.energy-storage.news/foss-company-closes-us58-million-tax-equity-deal-for-gridstors-texas-bess-project/",
     "date": "2026-10-13T10:18:18.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "Clearway Energy increases Utah ‘Energy Centre’ capacity to 2,120MWh",
-    "link": "https://www.energy-storage.news/clearway-energy-increases-utah-energy-centre-capacity-to-2120mwh/",
-    "date": "2026-10-13T10:14:01.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "Neoen, BW ESS and MN8 back efforts to standardise BESS procurement through new Energy Storage Contract Alliance",
-    "link": "https://www.energy-storage.news/neoen-bw-ess-and-mn8-back-efforts-to-standardise-bess-procurement-through-new-energy-storage-contract-alliance/",
-    "date": "2026-10-13T09:29:47.000Z",
     "source": "Energy Storage News"
   },
   {
@@ -99,12 +105,6 @@
     "title": "Kathodentrocknung effizient steuern: Wie präzise Taupunktmessung Energiekosten senkt",
     "link": "https://battery-news.de/2026/10/08/kathodentrocknung-effizient-steuern-wie-praezise-taupunktmessung-energiekosten-senkt/",
     "date": "2026-10-08T09:00:00.000Z",
-    "source": "Battery-News.de"
-  },
-  {
-    "title": "Toyota eröffnet Batterieentwicklungszentrum in Michigan",
-    "link": "https://battery-news.de/2026/10/08/toyota-eroeffnet-batterieentwicklungszentrum-in-michigan/",
-    "date": "2026-10-08T06:00:00.000Z",
     "source": "Battery-News.de"
   }
 ]
