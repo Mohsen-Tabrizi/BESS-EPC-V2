@@ -1,45 +1,57 @@
 [
   {
-    "title": "Keeping pace with PV growth",
-    "link": "https://www.pv-magazine.com/2026/11/06/keeping-pace-with-pv-growth/",
-    "date": "2026-11-06T05:00:00.000Z",
+    "title": "Sodium-ion batteries approach cost parity with LFP, with 70 GWh covered by supply agreements",
+    "link": "https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/",
+    "date": "2026-11-06T12:34:37.000Z",
     "source": "PV Magazine"
   },
   {
-    "title": "Enforcement, pricing, and the tax credit window",
-    "link": "https://www.pv-magazine.com/2026/11/05/enforcement-pricing-and-the-tax-credit-window/",
-    "date": "2026-11-05T17:00:00.000Z",
+    "title": "The Hydrogen Stream: H2 turbines can push LCOHS to around $0.62/kg",
+    "link": "https://www.pv-magazine.com/2026/11/06/the-hydrogen-stream-h2-turbines-can-push-lcohs-to-around-0-62-kg/",
+    "date": "2026-11-06T12:29:09.000Z",
     "source": "PV Magazine"
   },
   {
-    "title": "Congo launches energy supply study into economic zones, industries",
-    "link": "https://www.pv-magazine.com/2026/11/05/congo-launches-energy-supply-study-into-economic-zones-industries/",
-    "date": "2026-11-05T15:23:37.000Z",
+    "title": "Chinese PV Industry Brief: JA, Longi, Tongwei report widening losses",
+    "link": "https://www.pv-magazine.com/2026/11/06/chinese-pv-industry-brief-ja-longi-tongwei-report-widening-losses/",
+    "date": "2026-11-06T12:16:25.000Z",
     "source": "PV Magazine"
+  },
+  {
+    "title": "Soluxtec resumes TOPCon solar module production in Germany",
+    "link": "https://www.pv-magazine.com/2026/11/06/soluxtec-resumes-topcon-solar-module-production-in-germany/",
+    "date": "2026-11-06T12:06:13.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "World&#8217;s largest liquid-air storage facility comes online in China",
+    "link": "https://www.pv-magazine.com/2026/11/06/worlds-largest-liquid-air-storage-facility-comes-online-in-china/",
+    "date": "2026-11-06T11:03:49.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "S-5! presents height-adjustable mounting system for PV modules on metal roofs",
+    "link": "https://www.pv-magazine.com/2026/11/06/s-5-presents-height-adjustable-mounting-system-for-pv-modules-on-metal-roofs/",
+    "date": "2026-11-06T10:59:18.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "EnergyAustralia takes delivery of final units for 250MWh Hallett battery storage system",
+    "link": "https://www.energy-storage.news/energyaustralia-takes-delivery-of-final-units-for-250mwh-hallett-battery-storage-system/",
+    "date": "2026-11-06T08:44:46.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Batterierecycling in Europa",
+    "link": "https://battery-news.de/2026/11/06/batterierecycling-in-europa-2/",
+    "date": "2026-11-06T08:30:00.000Z",
+    "source": "Battery-News.de"
   },
   {
     "title": "‘It’s a no-brainer’: Alfen CEO on sodium-ion BESS plans with CATL",
     "link": "https://www.energy-storage.news/alfen-ceo-sodium-ion-bess-plans-catl/",
     "date": "2026-11-05T14:42:06.000Z",
     "source": "Energy Storage News"
-  },
-  {
-    "title": "China’s energy storage fleet grows to 167 GW as utilization improves",
-    "link": "https://www.pv-magazine.com/2026/11/05/chinas-energy-storage-fleet-grows-to-167-gw-as-utilization-improves/",
-    "date": "2026-11-05T14:17:21.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Malawi launches net metering scheme",
-    "link": "https://www.pv-magazine.com/2026/11/05/malawi-launches-net-metering-scheme/",
-    "date": "2026-11-05T14:05:23.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Hoymiles plans to establish inverter factory in Oman",
-    "link": "https://www.pv-magazine.com/2026/11/05/hoymiles-plans-to-establish-inverter-factory-in-oman/",
-    "date": "2026-11-05T13:00:47.000Z",
-    "source": "PV Magazine"
   },
   {
     "title": "US distributed energy storage updates from Base Power and Sunrun",
@@ -63,12 +75,6 @@
     "title": "&#8216;Ready to provide energy security&#8217;: Eku Energy&#8217;s 500MWh BESS enters commercial operation in Australia’s ACT",
     "link": "https://www.energy-storage.news/ready-to-provide-energy-security-eku-energys-500mwh-bess-enters-commercial-operation-in-australias-act/",
     "date": "2026-11-05T09:18:35.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "Neoen, Frontier Energy and Lightyears secure financing for solar-plus-storage in Australia and New Zealand",
-    "link": "https://www.energy-storage.news/neoen-frontier-energy-and-lightyears-secure-financing-for-solar-plus-storage-in-australia-and-new-zealand/",
-    "date": "2026-11-05T09:15:44.000Z",
     "source": "Energy Storage News"
   },
   {
@@ -99,12 +105,6 @@
     "title": "GAC-Batterietochter Inpow startet Packfertigung in Thailand",
     "link": "https://battery-news.de/2026/11/02/gac-batterietochter-inpow-startet-packfertigung-in-thailand/",
     "date": "2026-11-02T07:00:00.000Z",
-    "source": "Battery-News.de"
-  },
-  {
-    "title": "Skellium entwickelt Lithium-Metall-Anoden aus der Schmelze",
-    "link": "https://battery-news.de/2026/10/30/skellium-entwickelt-lithium-metall-anoden-aus-der-schmelze/",
-    "date": "2026-10-30T08:30:00.000Z",
     "source": "Battery-News.de"
   }
 ]
