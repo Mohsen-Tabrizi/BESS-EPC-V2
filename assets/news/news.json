@@ -1,74 +1,80 @@
 [
   {
-    "title": "Outcome pending on polysilicon action",
-    "link": "https://www.pv-magazine.com/2026/11/11/outcome-pending-on-polysilicon-action/",
-    "date": "2026-11-11T05:00:00.000Z",
+    "title": "CASC completes maiden flight of solar-powered UAV in China",
+    "link": "https://www.pv-magazine.com/2026/11/11/casc-completes-maiden-flight-of-solar-powered-uav-in-china/",
+    "date": "2026-11-11T13:29:41.000Z",
     "source": "PV Magazine"
+  },
+  {
+    "title": "The PPA market has a flexibility problem, hybrid PPAs are part of the answer",
+    "link": "https://www.pv-magazine.com/2026/11/11/the-ppa-market-has-a-flexibility-problem-hybrid-ppas-are-part-of-the-answer/",
+    "date": "2026-11-11T13:19:18.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Semi-solid state batteries for BESS: potential and challenges",
+    "link": "https://www.energy-storage.news/semi-solid-state-batteries-for-bess-potential-and-challenges/",
+    "date": "2026-11-11T12:22:59.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Agrivoltaics can increase profitability of indoor farming agrotunnels",
+    "link": "https://www.pv-magazine.com/2026/11/11/agrivoltaics-can-increase-profitability-of-indoor-farming-agrotunnels/",
+    "date": "2026-11-11T12:06:19.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Paris leads EU capitals for rooftop solar generation potential",
+    "link": "https://www.pv-magazine.com/2026/11/11/paris-leads-eu-capitals-for-rooftop-solar-generation-potential/",
+    "date": "2026-11-11T12:04:08.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "RelyEZ debuts on HKEX Main Board, becoming latest Chinese energy storage player to list in Hong Kong",
+    "link": "https://www.energy-storage.news/relyez-debuts-on-hkex-main-board-becoming-latest-chinese-energy-storage-player-to-list-in-hong-kong/",
+    "date": "2026-11-11T11:33:07.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Singulus signs SpaceX deal for heterojunction solar cell line",
+    "link": "https://www.pv-magazine.com/2026/11/11/singulus-signs-spacex-deal-for-heterojunction-solar-cell-line/",
+    "date": "2026-11-11T10:05:00.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Over 90% of China’s solar supply chain is reporting losses, says IEA",
+    "link": "https://www.pv-magazine.com/2026/11/11/over-90-of-chinas-solar-supply-chain-is-reporting-losses-says-iea/",
+    "date": "2026-11-11T09:36:03.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "ju:niz Energy enlists Envision for 442MWh grid-forming BESS in Germany",
+    "link": "https://www.energy-storage.news/juniz-energy-enlists-envision-for-442mwh-grid-forming-bess-in-germany/",
+    "date": "2026-11-11T08:57:08.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "800MWh BESS enters NSW assessment as Recurrent&#8217;s 600MWh Sundown project clears Australia&#8217;s EPBC Act",
+    "link": "https://www.energy-storage.news/800mwh-bess-enters-nsw-assessment-as-recurrents-600mwh-sundown-project-clears-australias-epbc-act/",
+    "date": "2026-11-11T08:53:04.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Western Australia backs Australian Vanadium’s relocatable flow battery electrolyte facility",
+    "link": "https://www.energy-storage.news/western-australia-backs-australian-vanadiums-relocatable-flow-battery-electrolyte-facility/",
+    "date": "2026-11-11T08:51:29.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "LG Energy Solution stellt 10-Minuten-Diagnose für gebrauchte Batterien vor",
+    "link": "https://battery-news.de/2026/11/11/lg-energy-solution-stellt-10-minuten-diagnose-fuer-gebrauchte-batterien-vor/",
+    "date": "2026-11-11T07:00:00.000Z",
+    "source": "Battery-News.de"
   },
   {
     "title": "BAAJA: US legislation to speed up permitting carries hidden political risk, &#8216;won&#8217;t solve interconnection queue wait&#8217;",
     "link": "https://www.energy-storage.news/baaja-us-legislation-to-speed-up-permitting-carries-hidden-political-risk-wont-solve-interconnection-queue-wait/",
     "date": "2026-11-10T14:13:31.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "Huaneng commissions dual-flywheel frequency regulation system, claims China single-unit power record",
-    "link": "https://www.pv-magazine.com/2026/11/10/huaneng-commissions-dual-flywheel-frequency-regulation-system-claims-china-single-unit-power-record/",
-    "date": "2026-11-10T13:30:53.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Dual-oxide diffusion barrier boosts efficiency of mass-produced TOPCon solar cells by 0.07 percentage points",
-    "link": "https://www.pv-magazine.com/2026/11/10/dual-oxide-diffusion-barrier-boosts-efficiency-of-mass-produced-topcon-solar-cells-by-0-07-percentage-points/",
-    "date": "2026-11-10T13:25:38.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Canada: Alectra-Convergent complete 320MWh portfolio in Ontario, Rodan advances country&#8217;s largest BTM BESS",
-    "link": "https://www.energy-storage.news/canada-alectra-convergent-complete-320mwh-portfolio-in-ontario-rodan-advances-countrys-largest-btm-bess/",
-    "date": "2026-11-10T13:02:06.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "Romania’s renewable project pipeline surpasses 114 GW",
-    "link": "https://www.pv-magazine.com/2026/11/10/romanias-renewable-project-pipeline-surpasses-114-gw/",
-    "date": "2026-11-10T12:49:48.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Japan to assess renewable, storage technologies beyond PV and wind",
-    "link": "https://www.pv-magazine.com/2026/11/10/japan-to-assess-renewable-storage-technologies-beyond-pv-and-wind/",
-    "date": "2026-11-10T12:35:00.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Sumitomo Corporation, Greenvolt deploy BESS at both ends of scale in Japan’s layered market",
-    "link": "https://www.energy-storage.news/sumitomo-corporation-greenvolt-deploy-bess-japan/",
-    "date": "2026-11-10T12:20:17.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "Swelect HHV secures ingot growers for 1 GW factory in India",
-    "link": "https://www.pv-magazine.com/2026/11/10/raana-semiconductors-to-supply-cz12-ingot-growers-to-swelect-hhv-solar/",
-    "date": "2026-11-10T12:15:08.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Italy: RWE and BNZ launch construction on large-scale battery projects",
-    "link": "https://www.energy-storage.news/italy-rwe-and-bnz-launch-construction-on-large-scale-battery-projects/",
-    "date": "2026-11-10T12:11:44.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "NGEN puts Croatia&#8217;s first standalone, transmission-connected BESS online, with 60MW/120MWh capacity",
-    "link": "https://www.energy-storage.news/ngen-croatia-first-standalone-transmission-connected-bess-online-60mw-120mwh-capacity/",
-    "date": "2026-11-10T10:43:06.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "VIDEO: Improving BESS thermal and dielectric performance with PSA tape",
-    "link": "https://www.energy-storage.news/video-improving-bess-thermal-and-dielectric-performance-with-psa-tape/",
-    "date": "2026-11-10T10:08:50.000Z",
     "source": "Energy Storage News"
   },
   {
@@ -98,12 +104,6 @@
   {
     "title": "AMG Lithium eröffnet Testlabor für Festelektrolyte in Frankfurt",
     "link": "https://battery-news.de/2026/11/04/amg-lithium-eroeffnet-testlabor-fuer-festelektrolyte-in-frankfurt/",
-    "date": "2026-11-04T07:00:00.000Z",
-    "source": "Battery-News.de"
-  },
-  {
-    "title": "CATL entwickelt Batterie für Blue Vectors eVTOL Skyla V30",
-    "link": "https://battery-news.de/2026/11/04/catl-entwickelt-batterie-fuer-blue-vectors-evtol-skyla-v30/",
     "date": "2026-11-04T07:00:00.000Z",
     "source": "Battery-News.de"
   }
