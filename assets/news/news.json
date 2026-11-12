@@ -1,75 +1,81 @@
 [
   {
-    "title": "Sustained demand",
-    "link": "https://www.pv-magazine.com/2026/11/11/sustained-demand/",
-    "date": "2026-11-11T17:00:00.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Austria’s solar and storage rebates exhausted in 29 seconds",
-    "link": "https://www.pv-magazine.com/2026/11/11/austrias-solar-and-storage-rebates-exhausted-in-29-seconds/",
-    "date": "2026-11-11T15:10:05.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "German utility plans 30 MWh zinc-bromine BESS",
-    "link": "https://www.pv-magazine.com/2026/11/11/german-utility-plans-30-mwh-zinc-bromine-bess/",
-    "date": "2026-11-11T15:08:22.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Saudi Arabia launches 1.9 GW PV tender",
-    "link": "https://www.pv-magazine.com/2026/11/11/saudi-arabia-launches-1-9-gw-pv-tender/",
-    "date": "2026-11-11T14:57:42.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Advansor installs 1.2 MW of CO₂ heat pumps at Swedish retailer",
-    "link": "https://www.pv-magazine.com/2026/11/11/advansor-installs-1-2-mw-of-co%e2%82%82-heat-pumps-at-swedish-retailer/",
-    "date": "2026-11-11T14:36:57.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Lydian&#8217;s 600MWh Utah BESS reaches commercial operation, supporting Meta data centre",
-    "link": "https://www.energy-storage.news/lydians-600mwh-utah-bess-reaches-commercial-operation-supporting-meta-data-centre/",
-    "date": "2026-11-11T14:25:09.000Z",
+    "title": "DC bidirectional charging and data centre demand are reshaping the case for US DERs",
+    "link": "https://www.energy-storage.news/dc-bidirectional-charging-and-data-centre-demand-are-reshaping-the-case-for-us-ders/",
+    "date": "2026-11-12T14:33:57.000Z",
     "source": "Energy Storage News"
   },
   {
-    "title": "Calibrant Energy secures US$145 million for solar and BESS across US power markets including PJM hyperscaler project",
-    "link": "https://www.energy-storage.news/calibrant-energy-secures-us145-million-for-solar-and-bess-across-us-power-markets-including-pjm-hyperscaler-project/",
-    "date": "2026-11-11T14:21:46.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "CASC completes maiden flight of solar-powered UAV in China",
-    "link": "https://www.pv-magazine.com/2026/11/11/casc-completes-maiden-flight-of-solar-powered-uav-in-china/",
-    "date": "2026-11-11T13:29:41.000Z",
+    "title": "Spanish IPP deploys automated solar installation platform at 457 MW Texas project",
+    "link": "https://www.pv-magazine.com/2026/11/12/spanish-ipp-deploys-automated-solar-installation-platform-at-457-mw-texas-project/",
+    "date": "2026-11-12T14:30:44.000Z",
     "source": "PV Magazine"
   },
   {
-    "title": "Semi-solid state batteries for BESS: potential and challenges",
-    "link": "https://www.energy-storage.news/semi-solid-state-batteries-for-bess-potential-and-challenges/",
-    "date": "2026-11-11T12:22:59.000Z",
+    "title": "Octopus aims to mobilize $600 million for Asian renewables",
+    "link": "https://www.pv-magazine.com/2026/11/12/octopus-aims-to-mobilize-600-million-for-asian-renewables/",
+    "date": "2026-11-12T14:15:00.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Predicting power output from artistic BIPV pixel by pixel",
+    "link": "https://www.pv-magazine.com/2026/11/12/predicting-power-output-and-hot-spot-risk-in-artistic-bipv/",
+    "date": "2026-11-12T13:30:00.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Sweden plans new inverter and battery database",
+    "link": "https://www.pv-magazine.com/2026/11/12/sweden-plans-new-inverter-and-battery-database/",
+    "date": "2026-11-12T12:47:52.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Chasing the sun: Feasible CO₂ supply as a gateway to low-cost e-fuel production",
+    "link": "https://www.pv-magazine.com/2026/11/12/chasing-the-sun-feasible-co2-supply-as-a-gateway-to-low-cost-e-fuel-production/",
+    "date": "2026-11-12T12:18:46.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "German utility to build 7.5MW/30MWh project using Eos’ zinc-bromide battery tech",
+    "link": "https://www.energy-storage.news/german-utility-to-build-7-5mw-30mwh-project-using-eos-zinc-bromide-battery-tech/",
+    "date": "2026-11-12T11:59:58.000Z",
     "source": "Energy Storage News"
   },
   {
-    "title": "RelyEZ debuts on HKEX Main Board, becoming latest Chinese energy storage player to list in Hong Kong",
-    "link": "https://www.energy-storage.news/relyez-debuts-on-hkex-main-board-becoming-latest-chinese-energy-storage-player-to-list-in-hong-kong/",
-    "date": "2026-11-11T11:33:07.000Z",
+    "title": "Viessmann launches propane ground-source heat pump compatible with PVT systems",
+    "link": "https://www.pv-magazine.com/2026/11/12/viessmann-launches-propane-ground-source-heat-pump-compatible-with-pvt-systems/",
+    "date": "2026-11-12T11:57:17.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "FlexGen chosen as system integrator for Google-backed US solar-plus-storage project with MN8, Eos",
+    "link": "https://www.energy-storage.news/flexgen-chosen-as-system-integrator-for-google-backed-us-solar-plus-storage-project-with-mn8-eos/",
+    "date": "2026-11-12T10:58:28.000Z",
     "source": "Energy Storage News"
   },
   {
-    "title": "ju:niz Energy enlists Envision for 442MWh grid-forming BESS in Germany",
-    "link": "https://www.energy-storage.news/juniz-energy-enlists-envision-for-442mwh-grid-forming-bess-in-germany/",
-    "date": "2026-11-11T08:57:08.000Z",
+    "title": "What six months of Dutch market data tell us about the true worth of renewables &#038; BESS dispatch optimisation",
+    "link": "https://www.energy-storage.news/what-six-months-of-dutch-market-data-tell-us-about-the-true-worth-of-renewables-bess-dispatch-optimisation/",
+    "date": "2026-11-12T09:54:46.000Z",
     "source": "Energy Storage News"
   },
   {
-    "title": "800MWh BESS enters NSW assessment as Recurrent&#8217;s 600MWh Sundown project clears Australia&#8217;s EPBC Act",
-    "link": "https://www.energy-storage.news/800mwh-bess-enters-nsw-assessment-as-recurrents-600mwh-sundown-project-clears-australias-epbc-act/",
-    "date": "2026-11-11T08:53:04.000Z",
+    "title": "Alinta Energy&#8217;s 200MWh Wagerup BESS online in Western Australia after &#8216;significant redesign&#8217;",
+    "link": "https://www.energy-storage.news/alinta-energys-200mwh-wagerup-bess-online-in-western-australia-after-significant-redesign/",
+    "date": "2026-11-12T08:53:07.000Z",
     "source": "Energy Storage News"
+  },
+  {
+    "title": "&#8216;Must be ready and able to deliver&#8217;: EnergyAustralia pays AU$750,000 over alleged FCAS failures at four BESS",
+    "link": "https://www.energy-storage.news/must-be-ready-and-able-to-deliver-energyaustralia-pays-au750000-over-alleged-fcas-failures-at-four-bess/",
+    "date": "2026-11-12T08:51:14.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Factorial erreicht 450 Wh/kg mit Feststoffzellen für die Luftfahrt",
+    "link": "https://battery-news.de/2026/11/12/factorial-erreicht-450-wh-kg-mit-feststoffzellen-fuer-die-luftfahrt/",
+    "date": "2026-11-12T07:00:00.000Z",
+    "source": "Battery-News.de"
   },
   {
     "title": "LG Energy Solution stellt 10-Minuten-Diagnose für gebrauchte Batterien vor",
@@ -99,12 +105,6 @@
     "title": "EDENenergy baut Gewerbespeicher aus gebrauchten E-Scooter-Akkus",
     "link": "https://battery-news.de/2026/11/05/edenenergy-baut-gewerbespeicher-aus-gebrauchten-e-scooter-akkus/",
     "date": "2026-11-05T07:00:00.000Z",
-    "source": "Battery-News.de"
-  },
-  {
-    "title": "AMG Lithium eröffnet Testlabor für Festelektrolyte in Frankfurt",
-    "link": "https://battery-news.de/2026/11/04/amg-lithium-eroeffnet-testlabor-fuer-festelektrolyte-in-frankfurt/",
-    "date": "2026-11-04T07:00:00.000Z",
     "source": "Battery-News.de"
   }
 ]
