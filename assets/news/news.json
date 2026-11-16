@@ -1,39 +1,69 @@
 [
   {
-    "title": "First attempt to address screen printing-induced degradation in copper-plated heterojunction solar cells",
-    "link": "https://www.pv-magazine.com/2026/11/14/first-attempt-to-address-screen-printing-induced-degradation-in-copper-plated-heterojunction-solar-cells/",
-    "date": "2026-11-14T10:55:00.000Z",
+    "title": "AI model detects small fires, smoke in PV plants",
+    "link": "https://www.pv-magazine.com/2026/11/16/ai-model-detects-small-fires-smoke-in-pv-plants/",
+    "date": "2026-11-16T14:59:44.000Z",
     "source": "PV Magazine"
   },
   {
-    "title": "Great Lakes irradiance surges as wet weather weighs on Southwest solar resource",
-    "link": "https://www.pv-magazine.com/2026/11/14/great-lakes-irradiance-surges-as-wet-weather-weighs-on-southwest-solar-resource/",
-    "date": "2026-11-14T10:50:00.000Z",
+    "title": "PVcase launches early-stage feasibility and design software",
+    "link": "https://www.pv-magazine.com/2026/11/16/pvcase-launches-early-stage-feasibility-and-design-software-at-re-2026/",
+    "date": "2026-11-16T14:54:31.000Z",
     "source": "PV Magazine"
   },
   {
-    "title": "UNSW develops three-minute lithium-ion battery health test",
-    "link": "https://www.pv-magazine.com/2026/11/14/unsw-develops-three-minute-lithium-ion-battery-health-test/",
-    "date": "2026-11-14T10:47:00.000Z",
+    "title": "Flatiron Energy breaks ground on 1.2GWh Massachusetts BESS",
+    "link": "https://www.energy-storage.news/flatiron-energy-breaks-ground-on-1-2gwh-massachusetts-bess/",
+    "date": "2026-11-16T14:50:50.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "NeoVolta anchors US manufacturing ramp-up with US$116 million BESS agreement as quarterly loss narrows",
+    "link": "https://www.energy-storage.news/neovolta-anchors-us-manufacturing-ramp-up-with-us116-million-bess-agreement-as-quarterly-loss-narrows/",
+    "date": "2026-11-16T14:46:53.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "New York launches second annual 1GW ‘bulk’ energy storage solicitation",
+    "link": "https://www.energy-storage.news/new-york-launches-second-annual-1gw-bulk-energy-storage-solicitation/",
+    "date": "2026-11-16T14:40:53.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Octopus Energy launches plug-in solar kit for small businesses",
+    "link": "https://www.pv-magazine.com/2026/11/16/octopus-energy-launches-plug-in-solar-kit-for-small-businesses/",
+    "date": "2026-11-16T14:12:59.000Z",
     "source": "PV Magazine"
   },
   {
-    "title": "&#8216;The times I regret are the ones when I didn’t value myself enough to speak up&#8217;",
-    "link": "https://www.pv-magazine.com/2026/11/14/the-times-i-regret-are-the-ones-when-i-didnt-value-myself-enough-to-speak-up/",
-    "date": "2026-11-14T10:30:00.000Z",
+    "title": "PV and batteries could help cut global power costs by 40% in 2030s",
+    "link": "https://www.pv-magazine.com/2026/11/16/pv-and-batteries-could-help-cut-global-power-costs-by-40-in-2030s/",
+    "date": "2026-11-16T12:54:32.000Z",
     "source": "PV Magazine"
   },
   {
-    "title": "Masdar completes $950 million solar and battery storage project in California",
-    "link": "https://www.pv-magazine.com/2026/11/14/masdar-completes-950-million-solar-and-battery-storage-project-in-california/",
-    "date": "2026-11-14T09:30:00.000Z",
+    "title": "Philippines approves solar cell factory from undisclosed investor",
+    "link": "https://www.pv-magazine.com/2026/11/16/philippines-approves-solar-cell-factory-from-undisclosed-investor/",
+    "date": "2026-11-16T12:45:00.000Z",
     "source": "PV Magazine"
   },
   {
-    "title": "Clarifying the CATL Tener Sodium, with new specifications and availability",
-    "link": "https://www.pv-magazine.com/2026/11/14/clarifying-the-catl-tener-sodium-with-new-specifications-and-availability/",
-    "date": "2026-11-14T08:30:00.000Z",
+    "title": "Denmark allocates $41.5 million to heat pump subsidies for 2027",
+    "link": "https://www.pv-magazine.com/2026/11/16/denmark-allocates-41-5-million-to-heat-pump-subsidies-for-2027/",
+    "date": "2026-11-16T12:39:56.000Z",
     "source": "PV Magazine"
+  },
+  {
+    "title": "&#8216;The market&#8217;s getting tough&#8217;: Australia values BESS bankability above all, says director at Wärtsilä JV Valo",
+    "link": "https://www.energy-storage.news/the-markets-getting-tough-australia-values-bess-bankability-above-all-says-director-at-wartsila-jv-valo/",
+    "date": "2026-11-16T08:38:06.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "UNSW entwickelt Drei-Minuten-Gesundheitstest für gebrauchte Batteriezellen",
+    "link": "https://battery-news.de/2026/11/16/unsw-entwickelt-drei-minuten-gesundheitstest-fuer-gebrauchte-batteriezellen/",
+    "date": "2026-11-16T07:00:00.000Z",
+    "source": "Battery-News.de"
   },
   {
     "title": "The next phase of ESS: LG Energy Solution&#8217;s strategy for an evolving energy market",
@@ -48,24 +78,6 @@
     "source": "Energy Storage News"
   },
   {
-    "title": "Sunrun closes preferred equity investment for US distributed energy resources, totalling 110MWh of batteries",
-    "link": "https://www.energy-storage.news/sunrun-closes-preferred-equity-investment-for-us-distributed-energy-resources-totalling-110mwh-of-batteries/",
-    "date": "2026-11-13T11:38:00.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "BESS Industry Buzz: CATL sodium-ion specs, BESS availability and the price of speed-to-power",
-    "link": "https://www.energy-storage.news/bess-industry-buzz-catl-sodium-ion-specs-bess-availability-and-the-price-of-speed-to-power/",
-    "date": "2026-11-13T10:01:42.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "Lacour Energy refers 4,000MWh wind-plus-storage site to Australia&#8217;s EPBC Act",
-    "link": "https://www.energy-storage.news/lacour-energy-refers-4000mwh-wind-plus-storage-site-to-australias-epbc-act/",
-    "date": "2026-11-13T09:10:33.000Z",
-    "source": "Energy Storage News"
-  },
-  {
     "title": "Elektrodenfertigung: Sensorik erkennt kleinste Schäden an Schneidwerkzeugen",
     "link": "https://battery-news.de/2026/11/13/elektrodenfertigung-sensorik-erkennt-kleinste-schaeden-an-schneidwerkzeugen/",
     "date": "2026-11-13T08:30:00.000Z",
@@ -76,12 +88,6 @@
     "link": "https://battery-news.de/2026/11/13/dicp-verbessert-kostenguenstige-eisen-mangan-kathode-fuer-natrium-ionen-batterien/",
     "date": "2026-11-13T07:00:00.000Z",
     "source": "Battery-News.de"
-  },
-  {
-    "title": "AirTrunk secures exclusivity on 800MWh+ battery storage as part of 1GW Hunter renewables deal in Australia",
-    "link": "https://www.energy-storage.news/airtrunk-secures-exclusivity-on-800mwh-battery-storage-as-part-of-1gw-hunter-renewables-deal-in-australia/",
-    "date": "2026-11-12T21:12:52.000Z",
-    "source": "Energy Storage News"
   },
   {
     "title": "Factorial erreicht 450 Wh/kg mit Feststoffzellen für die Luftfahrt",
@@ -99,12 +105,6 @@
     "title": "BMW holt Samsung SDI und LG Energy Solution als Zelllieferanten für Gen6",
     "link": "https://battery-news.de/2026/11/10/bmw-holt-samsung-sdi-und-lg-energy-solution-als-zelllieferanten-fuer-gen6/",
     "date": "2026-11-10T07:00:00.000Z",
-    "source": "Battery-News.de"
-  },
-  {
-    "title": "Lyten liefert Batteriespeicher in abgelegenes Dorf auf Fidschi",
-    "link": "https://battery-news.de/2026/11/09/lyten-liefert-batteriespeicher-in-abgelegenes-dorf-auf-fidschi/",
-    "date": "2026-11-09T07:00:00.000Z",
     "source": "Battery-News.de"
   }
 ]
