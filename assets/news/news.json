@@ -1,81 +1,93 @@
 [
   {
-    "title": "Solar recycling 2.0",
-    "link": "https://www.pv-magazine.com/2026/11/16/solar-recycling-2-0/",
-    "date": "2026-11-16T17:00:00.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Global solar installations face first annual decline in eight years",
-    "link": "https://www.pv-magazine.com/2026/11/16/global-solar-additions-set-to-fall-for-first-time-since-2018/",
-    "date": "2026-11-16T16:05:00.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "HoloSolis raises €15 million, welcomes four new shareholders",
-    "link": "https://www.pv-magazine.com/2026/11/16/holosolis-raises-e15-million-welcomes-four-new-shareholders/",
-    "date": "2026-11-16T15:53:10.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "AI model detects small fires, smoke in PV plants",
-    "link": "https://www.pv-magazine.com/2026/11/16/ai-model-detects-small-fires-smoke-in-pv-plants/",
-    "date": "2026-11-16T14:59:44.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "PVcase launches early-stage feasibility and design software",
-    "link": "https://www.pv-magazine.com/2026/11/16/pvcase-launches-early-stage-feasibility-and-design-software-at-re-2026/",
-    "date": "2026-11-16T14:54:31.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Flatiron Energy breaks ground on 1.2GWh Massachusetts BESS",
-    "link": "https://www.energy-storage.news/flatiron-energy-breaks-ground-on-1-2gwh-massachusetts-bess/",
-    "date": "2026-11-16T14:50:50.000Z",
+    "title": "US solar&#8217;s new makers, batteries for data centres and electrostates vs petrostates: PV Tech Power 46 out now!",
+    "link": "https://www.energy-storage.news/us-solars-new-makers-batteries-for-data-centres-and-electrostates-vs-petrostates-pv-tech-power-46-out-now/",
+    "date": "2026-11-17T15:20:37.000Z",
     "source": "Energy Storage News"
   },
   {
-    "title": "NeoVolta anchors US manufacturing ramp-up with US$116 million BESS agreement as quarterly loss narrows",
-    "link": "https://www.energy-storage.news/neovolta-anchors-us-manufacturing-ramp-up-with-us116-million-bess-agreement-as-quarterly-loss-narrows/",
-    "date": "2026-11-16T14:46:53.000Z",
-    "source": "Energy Storage News"
+    "title": "Prof. Heiner Heimes Kommentar (Oktober): Produktionskompetenz entsteht nur dort, wo produziert wird",
+    "link": "https://battery-news.de/2026/11/17/prof-heiner-heimes-kommentar-oktober-produktionskompetenz-entsteht-nur-dort-wo-produziert-wird/",
+    "date": "2026-11-17T15:04:43.000Z",
+    "source": "Battery-News.de"
   },
   {
-    "title": "New York launches second annual 1GW ‘bulk’ energy storage solicitation",
-    "link": "https://www.energy-storage.news/new-york-launches-second-annual-1gw-bulk-energy-storage-solicitation/",
-    "date": "2026-11-16T14:40:53.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "Octopus Energy launches plug-in solar kit for small businesses",
-    "link": "https://www.pv-magazine.com/2026/11/16/octopus-energy-launches-plug-in-solar-kit-for-small-businesses/",
-    "date": "2026-11-16T14:12:59.000Z",
+    "title": "Poland awards 1.81 GW of solar in latest renewables auctions",
+    "link": "https://www.pv-magazine.com/2026/11/17/poland-awards-1-81-gw-of-solar-in-latest-renewables-auctions/",
+    "date": "2026-11-17T14:58:46.000Z",
     "source": "PV Magazine"
   },
   {
-    "title": "&#8216;The market&#8217;s getting tough&#8217;: Australia values BESS bankability above all, says director at Wärtsilä JV Valo",
-    "link": "https://www.energy-storage.news/the-markets-getting-tough-australia-values-bess-bankability-above-all-says-director-at-wartsila-jv-valo/",
-    "date": "2026-11-16T08:38:06.000Z",
+    "title": "&#8216;Be hands-on, but don&#8217;t micromanage your optimiser,&#8217; BESS owner-operators say",
+    "link": "https://www.energy-storage.news/be-hands-on-dont-micromanage-optimiser-owner-operators/",
+    "date": "2026-11-17T14:40:19.000Z",
     "source": "Energy Storage News"
+  },
+  {
+    "title": "Italy surpasses 1 million renewable-linked battery storage systems",
+    "link": "https://www.pv-magazine.com/2026/11/17/italy-surpasses-1-million-renewable-linked-battery-storage-systems/",
+    "date": "2026-11-17T13:48:57.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "US energy storage deployments for first nine months of 2026 up 20% from last year",
+    "link": "https://www.energy-storage.news/us-energy-storage-deployments-for-first-nine-months-of-2026-up-20-from-last-year/",
+    "date": "2026-11-17T12:44:03.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Amazon to invest $7 billion in renewable energy in India by 2030",
+    "link": "https://www.pv-magazine.com/2026/11/17/amazon-to-invest-7-billion-in-renewable-energy-in-india-by-2030/",
+    "date": "2026-11-17T12:37:38.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Waaree Energy Storage says new 5.15GWh Gujarat battery pack manufacturing line is &#8216;milestone&#8217; for &#8216;Make-in-India&#8217; strategy",
+    "link": "https://www.energy-storage.news/waaree-energy-storage-says-new-5-15gwh-gujarat-battery-pack-manufacturing-line-is-milestone-for-make-in-india-strategy/",
+    "date": "2026-11-17T12:37:33.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "‘Protectionism has never created prosperity’: EnerVenue CEO on US manufacturing plans at RE+",
+    "link": "https://www.energy-storage.news/protectionism-has-never-created-prosperity-enervenue-ceo-on-us-manufacturing-plans-at-re/",
+    "date": "2026-11-17T12:28:25.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "German companies develop safety concept for inverter-free plug-in battery storage",
+    "link": "https://www.pv-magazine.com/2026/11/17/german-companies-develop-safety-concept-for-inverter-free-plug-in-battery-storage/",
+    "date": "2026-11-17T12:04:02.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Italy reaches 6GWh of operational grid-scale BESS; 10GWh under construction",
+    "link": "https://www.energy-storage.news/italy-6gwh-operational-grid-scale-bess-10gwh-under-construction/",
+    "date": "2026-11-17T12:01:14.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Sunkean unveils ETL-certified 2000 VDC TRUNK-T system at RE+",
+    "link": "https://www.pv-magazine.com/2026/11/17/sunkean-unveils-ul-certified-2000-vdc-trunk-ttm-system-at-re/",
+    "date": "2026-11-17T10:00:00.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Chilean PV plant hit by cyberattack remains disconnected",
+    "link": "https://www.pv-magazine.com/2026/11/17/chilean-pv-plant-hit-by-cyberattack-remains-disconnected/",
+    "date": "2026-11-17T09:58:45.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Samsung SDI liefert 16 GWh LFP-Batterien an Jupiter Power",
+    "link": "https://battery-news.de/2026/11/17/samsung-sdi-liefert-16-gwh-lfp-batterien-an-jupiter-power/",
+    "date": "2026-11-17T07:00:00.000Z",
+    "source": "Battery-News.de"
   },
   {
     "title": "UNSW entwickelt Drei-Minuten-Gesundheitstest für gebrauchte Batteriezellen",
     "link": "https://battery-news.de/2026/11/16/unsw-entwickelt-drei-minuten-gesundheitstest-fuer-gebrauchte-batteriezellen/",
     "date": "2026-11-16T07:00:00.000Z",
     "source": "Battery-News.de"
-  },
-  {
-    "title": "The next phase of ESS: LG Energy Solution&#8217;s strategy for an evolving energy market",
-    "link": "https://www.energy-storage.news/the-next-phase-of-ess-lg-energy-solutions-strategy-for-an-evolving-energy-market/",
-    "date": "2026-11-13T14:14:09.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "Toll makes way for floor, offtake contracting beginning to standardise in UK BESS market",
-    "link": "https://www.energy-storage.news/toll-makes-way-for-floor-offtake-contracting-beginning-to-standardise-in-uk-bess-market/",
-    "date": "2026-11-13T12:24:56.000Z",
-    "source": "Energy Storage News"
   },
   {
     "title": "Elektrodenfertigung: Sensorik erkennt kleinste Schäden an Schneidwerkzeugen",
@@ -93,18 +105,6 @@
     "title": "Factorial erreicht 450 Wh/kg mit Feststoffzellen für die Luftfahrt",
     "link": "https://battery-news.de/2026/11/12/factorial-erreicht-450-wh-kg-mit-feststoffzellen-fuer-die-luftfahrt/",
     "date": "2026-11-12T07:00:00.000Z",
-    "source": "Battery-News.de"
-  },
-  {
-    "title": "LG Energy Solution stellt 10-Minuten-Diagnose für gebrauchte Batterien vor",
-    "link": "https://battery-news.de/2026/11/11/lg-energy-solution-stellt-10-minuten-diagnose-fuer-gebrauchte-batterien-vor/",
-    "date": "2026-11-11T07:00:00.000Z",
-    "source": "Battery-News.de"
-  },
-  {
-    "title": "BMW holt Samsung SDI und LG Energy Solution als Zelllieferanten für Gen6",
-    "link": "https://battery-news.de/2026/11/10/bmw-holt-samsung-sdi-und-lg-energy-solution-als-zelllieferanten-fuer-gen6/",
-    "date": "2026-11-10T07:00:00.000Z",
     "source": "Battery-News.de"
   }
 ]
