@@ -1,39 +1,69 @@
 [
   {
-    "title": "Daikin launches R32 retrofit solution for existing residential heat pump series",
-    "link": "https://www.pv-magazine.com/2026/11/23/daikin-launches-r32-retrofit-solution-for-existing-residential-heat-pump-series/",
-    "date": "2026-11-23T06:09:09.000Z",
+    "title": "Honduras starts paying solar prosumers for excess power",
+    "link": "https://www.pv-magazine.com/2026/11/23/honduras-starts-paying-solar-prosumers-for-excess-power/",
+    "date": "2026-11-23T16:01:00.000Z",
     "source": "PV Magazine"
   },
   {
-    "title": "Ten innovative renewable energy startups give their pitch at RE+",
-    "link": "https://www.pv-magazine.com/2026/11/23/ten-innovative-renewable-energy-startups-give-their-pitch-at-re/",
-    "date": "2026-11-23T05:40:55.000Z",
+    "title": "Italy’s recent electricity market decree could reduce BESS revenues in 2027/28",
+    "link": "https://www.energy-storage.news/italys-recent-electricity-market-decree-could-reduce-bess-revenues-in-2027-28/",
+    "date": "2026-11-23T14:00:55.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "BASF verkauft Batterierecycling-Geschäft an cylib",
+    "link": "https://battery-news.de/2026/11/23/basf-verkauft-batterierecycling-geschaeft-an-cylib/",
+    "date": "2026-11-23T13:08:54.000Z",
+    "source": "Battery-News.de"
+  },
+  {
+    "title": "Lebanon looks to ramp up solar, storage deployments",
+    "link": "https://www.pv-magazine.com/2026/11/23/lebanon-looks-to-ramp-up-solar-storage-deployments/",
+    "date": "2026-11-23T12:09:36.000Z",
     "source": "PV Magazine"
   },
   {
-    "title": "Briggs &#038; Stratton launches 16 kWh battery scalable to 512 kWh",
-    "link": "https://www.pv-magazine.com/2026/11/23/briggs-stratton-launches-16-kwh-battery-scalable-to-512-kwh/",
-    "date": "2026-11-23T05:40:33.000Z",
+    "title": "Wind-driven spray system cools, cleans solar panels",
+    "link": "https://www.pv-magazine.com/2026/11/23/wind-driven-spray-system-cools-cleans-solar-panels/",
+    "date": "2026-11-23T12:00:00.000Z",
     "source": "PV Magazine"
   },
   {
-    "title": "Burden of proof",
-    "link": "https://www.pv-magazine.com/2026/11/23/burden-of-proof/",
-    "date": "2026-11-23T05:00:00.000Z",
+    "title": "BESS overbuild or augmentation: which strategy wins?",
+    "link": "https://www.energy-storage.news/bess-overbuild-or-augmentation-which-strategy-wins/",
+    "date": "2026-11-23T11:39:45.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Europe turns negative electricity prices into a flexibility signal",
+    "link": "https://www.pv-magazine.com/2026/11/23/europe-turns-negative-electricity-prices-into-a-flexibility-signal/",
+    "date": "2026-11-23T10:45:00.000Z",
     "source": "PV Magazine"
   },
   {
-    "title": "CATL, BYD, ACWA among co-initiators of storage alliance unveiled at COP31",
-    "link": "https://www.pv-magazine.com/2026/11/21/catl-byd-acwa-among-co-initiators-of-storage-alliance-unveiled-at-cop31/",
-    "date": "2026-11-21T09:30:00.000Z",
+    "title": "Jordan plans 200 MW solar, 100 MW/400 MWh storage projects",
+    "link": "https://www.pv-magazine.com/2026/11/23/jordan-plans-200-mw-solar-100-mw-400-mwh-storage-projects/",
+    "date": "2026-11-23T10:36:16.000Z",
     "source": "PV Magazine"
   },
   {
-    "title": "Celebrating men, challenging stereotypes, building a stronger energy future together",
-    "link": "https://www.pv-magazine.com/2026/11/21/celebrating-men-challenging-stereotypes-building-a-stronger-energy-future-together/",
-    "date": "2026-11-21T09:00:00.000Z",
+    "title": "Hydrogen shifts summer solar to winter in Japanese apartment building",
+    "link": "https://www.pv-magazine.com/2026/11/23/hydrogen-shifts-summer-solar-to-winter-in-japanese-apartment-building/",
+    "date": "2026-11-23T09:15:00.000Z",
     "source": "PV Magazine"
+  },
+  {
+    "title": "&#8216;Greater operational flexibility&#8217;: Australia&#8217;s AEMO leans on 5.3GW of new battery storage for summer",
+    "link": "https://www.energy-storage.news/greater-operational-flexibility-australias-aemo-leans-on-5-3gw-of-new-battery-storage-for-summer/",
+    "date": "2026-11-23T09:07:38.000Z",
+    "source": "Energy Storage News"
+  },
+  {
+    "title": "Proper Voltage bringt Natrium-Ionen-USV-Schrank für KI-Rechenzentren",
+    "link": "https://battery-news.de/2026/11/23/proper-voltage-bringt-natrium-ionen-usv-schrank-fuer-ki-rechenzentren/",
+    "date": "2026-11-23T07:00:00.000Z",
+    "source": "Battery-News.de"
   },
   {
     "title": "&#8216;Sodium is a chance for us to lean forward and win&#8217;: Alsym Energy at RE+ on why US battery policy needs to shift upstream",
@@ -51,24 +81,6 @@
     "title": "Germany: operators progress over 4GWh of BESS towards construction ahead of year-end FID deadline",
     "link": "https://www.energy-storage.news/germany-operators-4gwh-large-scale-bess-construction-fid-deadline/",
     "date": "2026-11-20T11:55:25.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "BESS Industry Buzz: RE+, EU-made premiums, European revenue variability",
-    "link": "https://www.energy-storage.news/bess-industry-buzz-re-eu-made-premiums-european-revenue-variability/",
-    "date": "2026-11-20T11:34:56.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "&#8216;Close proximity to key grid infrastructure&#8217;: EDF buys 1GWh battery storage system in Australia",
-    "link": "https://www.energy-storage.news/edf-acquires-250mw-holloway-battery-storage-project-new-south-wales-australia/",
-    "date": "2026-11-20T10:00:04.000Z",
-    "source": "Energy Storage News"
-  },
-  {
-    "title": "Australia&#8217;s remaining BESS gap to 2030 could be in construction within 18 months, IEEFA scorecard finds",
-    "link": "https://www.energy-storage.news/australia-bess-storage-gap-2030-construction-18-months-ieefa-scorecard/",
-    "date": "2026-11-20T09:48:09.000Z",
     "source": "Energy Storage News"
   },
   {
@@ -93,18 +105,6 @@
     "title": "Moment Energy stellt UL-9540-zertifizierten Speicher aus gebrauchten E-Auto-Batterien vor",
     "link": "https://battery-news.de/2026/11/18/moment-energy-stellt-ul-9540-zertifizierten-speicher-aus-gebrauchten-e-auto-batterien-vor/",
     "date": "2026-11-18T07:00:00.000Z",
-    "source": "Battery-News.de"
-  },
-  {
-    "title": "Prof. Heiner Heimes Kommentar (Oktober): Produktionskompetenz entsteht nur dort, wo produziert wird",
-    "link": "https://battery-news.de/2026/11/17/prof-heiner-heimes-kommentar-oktober-produktionskompetenz-entsteht-nur-dort-wo-produziert-wird/",
-    "date": "2026-11-17T15:04:43.000Z",
-    "source": "Battery-News.de"
-  },
-  {
-    "title": "Samsung SDI liefert 16 GWh LFP-Batterien an Jupiter Power",
-    "link": "https://battery-news.de/2026/11/17/samsung-sdi-liefert-16-gwh-lfp-batterien-an-jupiter-power/",
-    "date": "2026-11-17T07:00:00.000Z",
     "source": "Battery-News.de"
   }
 ]
