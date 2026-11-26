@@ -1,5 +1,41 @@
 [
   {
+    "title": "Microchannel heat pipe cuts solar panel temperature by 15.5 C",
+    "link": "https://www.pv-magazine.com/2026/11/26/microchannel-heat-pipe-cuts-solar-panel-temperature-by-15-5-c/",
+    "date": "2026-11-26T07:21:02.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "More than 4.1 GW of large-scale solar projects advance across Mexico since September",
+    "link": "https://www.pv-magazine.com/2026/11/26/more-than-4-1-gw-of-large-scale-solar-projects-advance-across-mexico-since-september/",
+    "date": "2026-11-26T07:12:56.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "BASF startet Lieferung von Kathodenmaterial an CATL aus Schwarzheide",
+    "link": "https://battery-news.de/2026/11/26/basf-startet-lieferung-von-kathodenmaterial-an-catl-aus-schwarzheide/",
+    "date": "2026-11-26T07:00:00.000Z",
+    "source": "Battery-News.de"
+  },
+  {
+    "title": "Australia sees 1 GW of solar capacity reach FID in Q3",
+    "link": "https://www.pv-magazine.com/2026/11/26/1-gw-solar-capacity-reaches-fid-in-q3-2026-a-confident-cer-boosts-2027-projection/",
+    "date": "2026-11-26T06:52:16.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Indian utility’s 300 MW round-the-clock renewables tender yields tariffs from $0.048/kWh",
+    "link": "https://www.pv-magazine.com/2026/11/26/indian-utilitys-300-mw-round-the-clock-renewables-tender-yields-tariffs-from-0-048-kwh/",
+    "date": "2026-11-26T06:47:30.000Z",
+    "source": "PV Magazine"
+  },
+  {
+    "title": "Beyond silicon’s ceiling: The acceleration of perovskite solar",
+    "link": "https://www.pv-magazine.com/2026/11/26/beyond-silicons-ceiling-the-acceleration-of-perovskite-solar/",
+    "date": "2026-11-26T06:35:29.000Z",
+    "source": "PV Magazine"
+  },
+  {
     "title": "Trion Battery: Zwei Li-Ionen-Zellfertigungslinien und über 370 Lose in Ottendorf-Okrilla zu verkaufen",
     "link": "https://battery-news.de/2026/11/25/trion-battery-zwei-li-ionen-zellfertigungslinien-und-ueber-370-lose-in-ottendorf-okrilla-zu-verkaufen/",
     "date": "2026-11-25T21:00:00.000Z",
@@ -9,12 +45,6 @@
     "title": "Ireland approves 1,367 MW of solar in sixth renewables auction",
     "link": "https://www.pv-magazine.com/2026/11/25/ress-6-provisional-results-solar-pv-ireland/",
     "date": "2026-11-25T15:37:20.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Italy awards 16 GWh of battery storage in second auction",
-    "link": "https://www.pv-magazine.com/2026/11/25/italy-awards-16-gwh-of-battery-storage-in-second-auction/",
-    "date": "2026-11-25T15:32:57.000Z",
     "source": "PV Magazine"
   },
   {
@@ -30,34 +60,10 @@
     "source": "Energy Storage News"
   },
   {
-    "title": "UtmoLight, UNSW achieve 19.6% efficiency for 2.81 m² perovskite solar module",
-    "link": "https://www.pv-magazine.com/2026/11/25/utmolight-unsw-achieve-19-6-efficiency-for-2-81-m%c2%b2-perovskite-solar-module/",
-    "date": "2026-11-25T13:29:00.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "Poweroad unveils modular LFP battery system with up to 245.76 kWh of storage",
-    "link": "https://www.pv-magazine.com/2026/11/25/poweroad-unveils-modular-lfp-battery-system-with-up-to-245-76-kwh-of-storage/",
-    "date": "2026-11-25T13:22:48.000Z",
-    "source": "PV Magazine"
-  },
-  {
-    "title": "UK small-scale battery deployment set to double annual record in 2026",
-    "link": "https://www.pv-magazine.com/2026/11/25/uk-small-scale-battery-deployment-set-to-double-annual-record-in-2026/",
-    "date": "2026-11-25T13:15:00.000Z",
-    "source": "PV Magazine"
-  },
-  {
     "title": "Trina Storage launches genset-battery hybrid solution targeting AI data centre power demand",
     "link": "https://www.energy-storage.news/trina-storage-launches-genset-battery-hybrid-solution-targeting-ai-data-centre-power-demand/",
     "date": "2026-11-25T13:12:33.000Z",
     "source": "Energy Storage News"
-  },
-  {
-    "title": "Afore unveils all-in-one propane heat pump for residential applications",
-    "link": "https://www.pv-magazine.com/2026/11/25/afore-unveils-all-in-one-propane-heat-pump-for-residential-applications/",
-    "date": "2026-11-25T13:09:16.000Z",
-    "source": "PV Magazine"
   },
   {
     "title": "Italy’s second MACSE auction clears 12% lower than first; Enel, BW ESS/A2A and Field among winners",
@@ -99,12 +105,6 @@
     "title": "BASF verkauft Batterierecycling-Geschäft an cylib",
     "link": "https://battery-news.de/2026/11/23/basf-verkauft-batterierecycling-geschaeft-an-cylib/",
     "date": "2026-11-23T13:08:54.000Z",
-    "source": "Battery-News.de"
-  },
-  {
-    "title": "Proper Voltage bringt Natrium-Ionen-USV-Schrank für KI-Rechenzentren",
-    "link": "https://battery-news.de/2026/11/23/proper-voltage-bringt-natrium-ionen-usv-schrank-fuer-ki-rechenzentren/",
-    "date": "2026-11-23T07:00:00.000Z",
     "source": "Battery-News.de"
   }
 ]
